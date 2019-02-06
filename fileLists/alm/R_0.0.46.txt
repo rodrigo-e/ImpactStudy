@@ -1,0 +1,16 @@
+0466066bf8d52f68815eba1bbaea3a32e6da22b8
+tests/cycles/bar.js
+tests/cycles/foo.js
+tests/error/fullOfErrors/bar.js
+tests/error/fullOfErrors/foo.js
+tests/success/allowJs/js/bar.js
+tests/success/allowJs/js/foo.js
+tests/success/allowJs/js/tests/success/allowJs/src/bar.js
+tests/success/allowJs/js/tests/success/allowJs/src/foo.js
+tests/success/allowJs/src/bar.js
+tests/success/baseUrlAndPaths/deep/folder/bar.js
+tests/success/baseUrlAndPaths/foo.js
+tests/success/rootDirs/anotherFolder/anotherFolder/bar.js
+tests/success/rootDirs/someFolder/someFolder/foo.js
+tests/success/simple/bas.js
+tests/success/simple/foo.js

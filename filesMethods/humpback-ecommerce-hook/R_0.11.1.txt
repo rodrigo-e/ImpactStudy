@@ -1,0 +1,117 @@
+------------------------------------------
+Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/controllers/CartController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/controllers/InventoryController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/controllers/ManufacturerController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/controllers/ProductController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/controllers/ReviewController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/controllers/SubcategoryController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/models/Cart.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/models/Inventory.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/models/Manufacturer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/models/Product.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/models/Review.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/models/Subcategory.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+assets/js/dependencies/sails.io.js
+------------------------------------------
+Library: request
+Methods Called:
+   - get
+
+------------------------------------------
+config/env/testing.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/bootstrap.spec.js
+------------------------------------------
+Library: sails
+Methods Called:
+   - lift
+   - hooks
+   - lower
+
+Library: supertest
+Methods Called:
+   - main_method*
+
+Library: ../assets/js/dependencies/sails.io.js
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "request": {
+    "get": true
+  },
+  "sails": {
+    "lift": true,
+    "hooks": true,
+    "lower": true
+  },
+  "supertest": {
+    "main_method*": true
+  },
+  "../assets/js/dependencies/sails.io.js": {
+    "main_method*": true
+  }
+}

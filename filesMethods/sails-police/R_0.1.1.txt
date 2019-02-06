@@ -1,0 +1,644 @@
+------------------------------------------
+api/app.js
+------------------------------------------
+Library: sails
+Methods Called:
+   - lift
+
+------------------------------------------
+api/controllers/AuthController.js
+------------------------------------------
+Library: sails-police
+Methods Called:
+   - controller
+
+------------------------------------------
+api/controllers/HomeController.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - isEmpty
+   - extend
+
+------------------------------------------
+api/controllers/UserController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/models/User.js
+------------------------------------------
+Library: sails-police
+Methods Called:
+   - model
+   - EMAIL_REGISTRATION_CONFIRMATON
+   - EMAIL_PASSWORD_RECOVERY
+   - EMAIL_UNLOCK
+
+------------------------------------------
+api/policies/Auth.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/blueprints.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/bootstrap.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/connections.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/cors.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/csrf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/env/development.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/env/production.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/globals.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/http.js
+------------------------------------------
+Library: sails-police
+Methods Called:
+   - middlewares
+
+------------------------------------------
+config/i18n.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/log.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/models.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/paths.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+config/police.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/policies.js
+------------------------------------------
+Library: sails-police
+Methods Called:
+   - policies
+
+------------------------------------------
+config/routes.js
+------------------------------------------
+Library: sails-police
+Methods Called:
+   - routes
+
+------------------------------------------
+config/session.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/sockets.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/views.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/http/change.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - extend
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+lib/http/confirm.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+lib/http/delete.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+lib/http/forgot.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - extend
+   - isUndefined
+   - isNull
+
+Library: path
+Methods Called:
+   - join
+
+Library: async
+Methods Called:
+   - waterfall
+
+------------------------------------------
+lib/http/helpers.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - isEmpty
+
+------------------------------------------
+lib/http/passport.js
+------------------------------------------
+Library: passport-local
+Methods Called:
+   - Strategy
+
+Library: passport
+Methods Called:
+   - serializeUser
+   - deserializeUser
+   - use
+
+Library: sails-police
+Methods Called:
+   - getUser
+
+------------------------------------------
+lib/http/recover.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - extend
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+lib/http/signin.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - extend
+
+Library: path
+Methods Called:
+   - join
+
+Library: passport
+Methods Called:
+   - authenticate
+
+Library: async
+Methods Called:
+   - waterfall
+
+------------------------------------------
+lib/http/signout.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/http/signup.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - extend
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+lib/http/unlock.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/morphs/authenticable.js
+------------------------------------------
+Library: async
+Methods Called:
+   - waterfall
+
+Library: path
+Methods Called:
+   - join
+
+Library: validator
+Methods Called:
+   - isEmail
+
+Library: bcryptjs
+Methods Called:
+   - compare
+
+------------------------------------------
+lib/morphs/confirmable.js
+------------------------------------------
+Library: async
+Methods Called:
+   - waterfall
+
+Library: path
+Methods Called:
+   - join
+
+Library: moment
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/morphs/helpers.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/morphs/lockable.js
+------------------------------------------
+Library: async
+Methods Called:
+   - waterfall
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+lib/morphs/recoverable.js
+------------------------------------------
+Library: async
+Methods Called:
+   - waterfall
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+lib/morphs/registerable.js
+------------------------------------------
+Library: async
+Methods Called:
+   - waterfall
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+lib/morphs/trackable.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+lib/police.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - extend
+
+Library: passport
+Methods Called:
+   - initialize
+   - session
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+lib/utils.js
+------------------------------------------
+Library: crypto
+Methods Called:
+   - createCipher
+   - createDecipher
+
+Library: bcryptjs
+Methods Called:
+   - genSalt
+   - hash
+   - compare
+
+Library: moment
+Methods Called:
+   - main_method*
+
+------------------------------------------
+public/js/app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+public/js/bootstrap.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+public/js/jquery.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+public/js/toastr.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/bootstrap.spec.js
+------------------------------------------
+Library: sails
+Methods Called:
+   - lift
+   - lower
+
+------------------------------------------
+test/http/forgot.http.spec.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: supertest
+Methods Called:
+   - main_method*
+
+Library: async
+Methods Called:
+   - waterfall
+
+Library: cheerio
+Methods Called:
+   - load
+
+------------------------------------------
+test/http/signin.http.spec.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: supertest
+Methods Called:
+   - main_method*
+
+Library: async
+Methods Called:
+   - waterfall
+
+Library: cheerio
+Methods Called:
+   - load
+
+------------------------------------------
+test/http/signup.http.spec.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: supertest
+Methods Called:
+   - main_method*
+
+Library: async
+Methods Called:
+   - waterfall
+
+Library: cheerio
+Methods Called:
+   - load
+
+------------------------------------------
+test/morphs/authenticable.spec.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: faker
+Methods Called:
+   - internet
+
+Library: async
+Methods Called:
+   - waterfall
+
+------------------------------------------
+test/morphs/confirmable.spec.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: faker
+Methods Called:
+   - internet
+
+Library: async
+Methods Called:
+   - waterfall
+
+------------------------------------------
+test/morphs/lockable.spec.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: faker
+Methods Called:
+   - internet
+
+Library: async
+Methods Called:
+   - waterfall
+
+------------------------------------------
+test/morphs/recoverable.spec.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: faker
+Methods Called:
+   - internet
+
+------------------------------------------
+test/morphs/registerable.spec.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: async
+Methods Called:
+   - waterfall
+
+Library: faker
+Methods Called:
+   - internet
+
+------------------------------------------
+test/morphs/trackable.spec.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: faker
+Methods Called:
+   - internet
+
+Library: async
+Methods Called:
+   - waterfall
+
+------------------------------------------
+test/police.spec.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: faker
+Methods Called:
+   - internet
+
+Library: sails-police
+Methods Called:
+   - EMAIL_REGISTRATION_CONFIRMATON
+   - EMAIL_UNLOCK
+   - EMAIL_PASSWORD_RECOVERY
+   - model
+   - getUser
+
+Library: lodash
+Methods Called:
+   - keys
+
+
+All of the Methods:
+{
+  "sails": {
+    "lift": true,
+    "lower": true
+  },
+  "sails-police": {
+    "controller": true,
+    "model": true,
+    "EMAIL_REGISTRATION_CONFIRMATON": true,
+    "EMAIL_PASSWORD_RECOVERY": true,
+    "EMAIL_UNLOCK": true,
+    "middlewares": true,
+    "policies": true,
+    "routes": true,
+    "getUser": true
+  },
+  "lodash": {
+    "isEmpty": true,
+    "extend": true,
+    "isUndefined": true,
+    "isNull": true,
+    "keys": true
+  },
+  "path": {
+    "join": true
+  },
+  "async": {
+    "waterfall": true
+  },
+  "passport-local": {
+    "Strategy": true
+  },
+  "passport": {
+    "serializeUser": true,
+    "deserializeUser": true,
+    "use": true,
+    "authenticate": true,
+    "initialize": true,
+    "session": true
+  },
+  "validator": {
+    "isEmail": true
+  },
+  "bcryptjs": {
+    "compare": true,
+    "genSalt": true,
+    "hash": true
+  },
+  "moment": {
+    "main_method*": true
+  },
+  "crypto": {
+    "createCipher": true,
+    "createDecipher": true
+  },
+  "chai": {
+    "expect": true
+  },
+  "supertest": {
+    "main_method*": true
+  },
+  "cheerio": {
+    "load": true
+  },
+  "faker": {
+    "internet": true
+  }
+}

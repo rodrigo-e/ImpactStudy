@@ -1,0 +1,52 @@
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: joi
+Methods Called:
+   - string
+   - bool
+   - attempt
+
+------------------------------------------
+test/index.js
+------------------------------------------
+Library: code
+Methods Called:
+   - expect
+
+Library: glue
+Methods Called:
+   - compose
+
+Library: lab
+Methods Called:
+   - script
+
+------------------------------------------
+test/plugins/blah.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/plugins/main.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "joi": {
+    "string": true,
+    "bool": true,
+    "attempt": true
+  },
+  "code": {
+    "expect": true
+  },
+  "glue": {
+    "compose": true
+  },
+  "lab": {
+    "script": true
+  }
+}

@@ -1,0 +1,117 @@
+------------------------------------------
+generators/app/index.js
+------------------------------------------
+Library: yeoman-generator
+Methods Called:
+   - generators
+
+Library: chalk
+Methods Called:
+   - red
+   - yellow
+   - bold
+
+Library: yosay
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+   - writeFileSync
+
+------------------------------------------
+generators/app/templates/src/main/webapp/app/blocks/config/_bootstrap-material.config.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: path
+Methods Called:
+   - resolve
+
+Library: gulp
+Methods Called:
+   - task
+   - src
+
+Library: gulp-exclude-gitignore
+Methods Called:
+   - main_method*
+
+Library: gulp-mocha
+Methods Called:
+   - main_method*
+
+Library: gulp-istanbul
+Methods Called:
+   - main_method*
+   - hookRequire
+   - writeReports
+
+Library: gulp-nsp
+Methods Called:
+   - main_method*
+
+Library: gulp-plumber
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/app.js
+------------------------------------------
+Library: yeoman-generator
+Methods Called:
+   - test
+
+Library: path
+Methods Called:
+   - join
+
+
+All of the Methods:
+{
+  "yeoman-generator": {
+    "generators": true,
+    "test": true
+  },
+  "chalk": {
+    "red": true,
+    "yellow": true,
+    "bold": true
+  },
+  "yosay": {
+    "main_method*": true
+  },
+  "fs": {
+    "readFileSync": true,
+    "writeFileSync": true
+  },
+  "path": {
+    "resolve": true,
+    "join": true
+  },
+  "gulp": {
+    "task": true,
+    "src": true
+  },
+  "gulp-exclude-gitignore": {
+    "main_method*": true
+  },
+  "gulp-mocha": {
+    "main_method*": true
+  },
+  "gulp-istanbul": {
+    "main_method*": true,
+    "hookRequire": true,
+    "writeReports": true
+  },
+  "gulp-nsp": {
+    "main_method*": true
+  },
+  "gulp-plumber": {
+    "main_method*": true
+  }
+}

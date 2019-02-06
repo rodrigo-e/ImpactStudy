@@ -1,0 +1,8 @@
+87b45bc2a3828cd37648b5dfab28d6ed35e05cbc
+index.js
+karma.conf.js
+mini-form.js
+mini-form.min.js
+scripts/pack.js
+test/specs.js
+test/test.js

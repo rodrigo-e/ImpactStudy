@@ -1,0 +1,14 @@
+------------------------------------------
+index.js
+------------------------------------------
+Library: bittorrent-dht
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "bittorrent-dht": {
+    "main_method*": true
+  }
+}

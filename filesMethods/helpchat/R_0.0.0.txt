@@ -1,0 +1,69 @@
+------------------------------------------
+client/chat.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: ws
+Methods Called:
+   - Server
+
+Library: url
+Methods Called:
+   - parse
+
+Library: fs
+Methods Called:
+   - createReadStream
+
+Library: express
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/names.js
+------------------------------------------
+Library: crypto
+Methods Called:
+   - createHash
+
+Library: animal-id
+Methods Called:
+   - getId
+
+------------------------------------------
+test/simple.js
+------------------------------------------
+Library: express
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "ws": {
+    "Server": true
+  },
+  "url": {
+    "parse": true
+  },
+  "fs": {
+    "createReadStream": true
+  },
+  "express": {
+    "main_method*": true
+  },
+  "crypto": {
+    "createHash": true
+  },
+  "animal-id": {
+    "getId": true
+  }
+}

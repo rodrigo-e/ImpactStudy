@@ -1,0 +1,20 @@
+------------------------------------------
+index.js
+------------------------------------------
+Library: sequelize
+Methods Called:
+   - ValidationError
+   - UniqueConstraintError
+   - ExclusionConstraintError
+   - ForeignKeyConstraintError
+
+
+All of the Methods:
+{
+  "sequelize": {
+    "ValidationError": true,
+    "UniqueConstraintError": true,
+    "ExclusionConstraintError": true,
+    "ForeignKeyConstraintError": true
+  }
+}

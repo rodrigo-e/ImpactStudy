@@ -1,0 +1,719 @@
+------------------------------------------
+app.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+bin/update-1.0.0.js
+------------------------------------------
+Library: level
+Methods Called:
+   - main_method*
+
+------------------------------------------
+bin/update-accounts-to-uuid.js
+------------------------------------------
+Library: uuid
+Methods Called:
+   - v1
+
+Library: through2
+Methods Called:
+   - obj
+
+Library: crypto
+Methods Called:
+   - randomBytes
+
+Library: each-async
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - join
+
+Library: dotenv
+Methods Called:
+   - parse
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+browser/sheet-list.js
+------------------------------------------
+Library: component-delegate
+Methods Called:
+   - bind
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: domify
+Methods Called:
+   - main_method*
+
+Library: dom-tree
+Methods Called:
+   - add
+   - remove
+
+Library: handlebars
+Methods Called:
+   - compile
+
+------------------------------------------
+browser/sheet-view.js
+------------------------------------------
+Library: component-delegate
+Methods Called:
+   - bind
+
+Library: sticky-header
+Methods Called:
+   - main_method*
+
+------------------------------------------
+browser/sheet.js
+------------------------------------------
+Library: component-delegate
+Methods Called:
+   - bind
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: table-editor
+Methods Called:
+   - main_method*
+
+Library: element-class
+Methods Called:
+   - main_method*
+
+Library: component-closest
+Methods Called:
+   - main_method*
+
+Library: comma-separated-values
+Methods Called:
+   - main_method*
+
+Library: handlebars
+Methods Called:
+   - compile
+
+Library: domify
+Methods Called:
+   - main_method*
+
+Library: dom-tree
+Methods Called:
+   - add
+   - remove
+
+Library: domquery
+Methods Called:
+   - main_method*
+
+Library: siblings
+Methods Called:
+   - main_method*
+
+Library: socket.io-client
+Methods Called:
+   - on
+   - emit
+
+Library: ractive
+Methods Called:
+   - main_method*
+
+Library: autocomplete-element
+Methods Called:
+   - main_method*
+
+Library: flatsheet-api-client
+Methods Called:
+   - sheets
+   - accounts
+
+------------------------------------------
+config.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token :
+------------------------------------------
+handlers/accounts-api.js
+------------------------------------------
+Library: extend
+Methods Called:
+   - main_method*
+
+Library: response
+Methods Called:
+   - main_method*
+
+Library: JSONStream
+Methods Called:
+   - stringify
+
+Library: body/json
+Methods Called:
+   - main_method*
+
+Library: through2
+Methods Called:
+   - obj
+
+Library: filter-object
+Methods Called:
+   - main_method*
+
+------------------------------------------
+handlers/accounts.js
+------------------------------------------
+Library: uuid
+Methods Called:
+   - v1
+
+Library: response
+Methods Called:
+   - main_method*
+
+Library: body/form
+Methods Called:
+   - main_method*
+
+Library: querystring
+Methods Called:
+   - parse
+
+Library: url
+Methods Called:
+   - parse
+
+Library: is-my-json-valid
+Methods Called:
+   - main_method*
+
+------------------------------------------
+handlers/sessions.js
+------------------------------------------
+Library: body/form
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/accounts-indexes.js
+------------------------------------------
+Library: subleveldown
+Methods Called:
+   - main_method*
+
+Library: level-indexer
+Methods Called:
+   - main_method*
+
+Library: each-async
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/db.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: level
+Methods Called:
+   - main_method*
+
+Library: accountdown
+Methods Called:
+   - main_method*
+
+Library: cookie-auth
+Methods Called:
+   - main_method*
+
+Library: subleveldown
+Methods Called:
+   - main_method*
+
+Library: body/form
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/handlebars-helpers.js
+------------------------------------------
+Library: uuid
+Methods Called:
+   - v1
+
+Library: random-color
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+   - readFileSync
+   - readdir
+
+Library: path
+Methods Called:
+   - join
+
+Library: http
+Methods Called:
+   - createServer
+
+Library: st
+Methods Called:
+   - main_method*
+
+Library: mkdirp
+Methods Called:
+   - main_method*
+
+Library: match-routes
+Methods Called:
+   - main_method*
+
+Library: response
+Methods Called:
+   - main_method*
+
+Library: socket.io
+Methods Called:
+   - main_method*
+
+Library: nodemailer
+Methods Called:
+   - createTransport
+
+Library: nodemailer-sendgrid-transport
+Methods Called:
+   - main_method*
+
+Library: filter-object
+Methods Called:
+   - main_method*
+
+Library: extend
+Methods Called:
+   - main_method*
+
+Library: dotenv
+Methods Called:
+   - parse
+
+Library: corsify
+Methods Called:
+   - main_method*
+
+Library: handlebars
+Methods Called:
+   - registerPartial
+   - compile
+
+------------------------------------------
+lib/permissions.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/realtime-editing.js
+------------------------------------------
+Library: extend
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/redirect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+models/sheets.js
+------------------------------------------
+Library: uuid
+Methods Called:
+   - v1
+
+Library: extend
+Methods Called:
+   - main_method*
+
+Library: level-indexer
+Methods Called:
+   - main_method*
+
+Library: subleveldown
+Methods Called:
+   - main_method*
+
+Library: stream-collector
+Methods Called:
+   - main_method*
+
+Library: moment
+Methods Called:
+   - main_method*
+
+Library: each-async
+Methods Called:
+   - main_method*
+
+Library: isarray
+Methods Called:
+   - main_method*
+
+Library: merge2
+Methods Called:
+   - main_method*
+
+Library: clone
+Methods Called:
+   - main_method*
+
+------------------------------------------
+pretest.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - mkdir
+
+------------------------------------------
+public/sheet-list.js
+------------------------------------------
+Library: component-delegate
+Methods Called:
+   - bind
+
+------------------------------------------
+public/sheet-view.js
+------------------------------------------
+Library: sticky-header
+Methods Called:
+   - main_method*
+
+------------------------------------------
+public/sheet.js
+------------------------------------------
+Library: url
+Methods Called:
+   - main_method*
+   - indexOf
+   - split
+
+------------------------------------------
+routes/accounts-api-v2-0.js
+------------------------------------------
+Library: match-routes
+Methods Called:
+   - main_method*
+
+------------------------------------------
+routes/accounts.js
+------------------------------------------
+Library: match-routes
+Methods Called:
+   - main_method*
+
+------------------------------------------
+routes/landing.js
+------------------------------------------
+Library: response
+Methods Called:
+   - main_method*
+
+Library: match-routes
+Methods Called:
+   - main_method*
+
+------------------------------------------
+routes/sessions.js
+------------------------------------------
+Library: match-routes
+Methods Called:
+   - main_method*
+
+------------------------------------------
+routes/sheets-api-v2-0.js
+------------------------------------------
+Library: querystring
+Methods Called:
+   - parse
+
+Library: response
+Methods Called:
+   - main_method*
+   - json
+
+Library: JSONStream
+Methods Called:
+   - stringify
+
+Library: body/json
+Methods Called:
+   - main_method*
+
+Library: match-routes
+Methods Called:
+   - main_method*
+
+Library: comma-separated-values
+Methods Called:
+   - main_method*
+
+------------------------------------------
+routes/sheets.js
+------------------------------------------
+Library: response
+Methods Called:
+   - main_method*
+
+Library: body/form
+Methods Called:
+   - main_method*
+
+Library: busboy
+Methods Called:
+   - main_method*
+
+Library: csv-parser
+Methods Called:
+   - main_method*
+
+Library: match-routes
+Methods Called:
+   - main_method*
+
+Library: each-async
+Methods Called:
+   - main_method*
+
+------------------------------------------
+tests/account-list.js
+------------------------------------------
+Library: request
+Methods Called:
+   - main_method*
+
+------------------------------------------
+tests/api-v1.js
+------------------------------------------
+Library: request
+Methods Called:
+   - main_method*
+
+------------------------------------------
+tests/data/sample.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tests/sheets.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: level
+Methods Called:
+   - main_method*
+
+Library: each-async
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "fs": {
+    "readFileSync": true,
+    "existsSync": true,
+    "readdir": true,
+    "mkdir": true
+  },
+  "level": {
+    "main_method*": true
+  },
+  "uuid": {
+    "v1": true
+  },
+  "through2": {
+    "obj": true
+  },
+  "crypto": {
+    "randomBytes": true
+  },
+  "each-async": {
+    "main_method*": true
+  },
+  "path": {
+    "join": true
+  },
+  "dotenv": {
+    "parse": true
+  },
+  "component-delegate": {
+    "bind": true
+  },
+  "domify": {
+    "main_method*": true
+  },
+  "dom-tree": {
+    "add": true,
+    "remove": true
+  },
+  "handlebars": {
+    "compile": true,
+    "registerPartial": true
+  },
+  "sticky-header": {
+    "main_method*": true
+  },
+  "table-editor": {
+    "main_method*": true
+  },
+  "element-class": {
+    "main_method*": true
+  },
+  "component-closest": {
+    "main_method*": true
+  },
+  "comma-separated-values": {
+    "main_method*": true
+  },
+  "domquery": {
+    "main_method*": true
+  },
+  "siblings": {
+    "main_method*": true
+  },
+  "socket.io-client": {
+    "on": true,
+    "emit": true
+  },
+  "ractive": {
+    "main_method*": true
+  },
+  "autocomplete-element": {
+    "main_method*": true
+  },
+  "flatsheet-api-client": {
+    "sheets": true,
+    "accounts": true
+  },
+  "extend": {
+    "main_method*": true
+  },
+  "response": {
+    "main_method*": true,
+    "json": true
+  },
+  "JSONStream": {
+    "stringify": true
+  },
+  "body/json": {
+    "main_method*": true
+  },
+  "filter-object": {
+    "main_method*": true
+  },
+  "body/form": {
+    "main_method*": true
+  },
+  "querystring": {
+    "parse": true
+  },
+  "url": {
+    "parse": true,
+    "main_method*": true,
+    "indexOf": true,
+    "split": true
+  },
+  "is-my-json-valid": {
+    "main_method*": true
+  },
+  "subleveldown": {
+    "main_method*": true
+  },
+  "level-indexer": {
+    "main_method*": true
+  },
+  "accountdown": {
+    "main_method*": true
+  },
+  "cookie-auth": {
+    "main_method*": true
+  },
+  "random-color": {
+    "main_method*": true
+  },
+  "http": {
+    "createServer": true
+  },
+  "st": {
+    "main_method*": true
+  },
+  "mkdirp": {
+    "main_method*": true
+  },
+  "match-routes": {
+    "main_method*": true
+  },
+  "socket.io": {
+    "main_method*": true
+  },
+  "nodemailer": {
+    "createTransport": true
+  },
+  "nodemailer-sendgrid-transport": {
+    "main_method*": true
+  },
+  "corsify": {
+    "main_method*": true
+  },
+  "stream-collector": {
+    "main_method*": true
+  },
+  "moment": {
+    "main_method*": true
+  },
+  "isarray": {
+    "main_method*": true
+  },
+  "merge2": {
+    "main_method*": true
+  },
+  "clone": {
+    "main_method*": true
+  },
+  "busboy": {
+    "main_method*": true
+  },
+  "csv-parser": {
+    "main_method*": true
+  },
+  "request": {
+    "main_method*": true
+  },
+  "tape": {
+    "main_method*": true
+  }
+}

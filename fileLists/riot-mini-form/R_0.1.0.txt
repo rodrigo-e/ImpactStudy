@@ -1,0 +1,6 @@
+67d9f792686f27cfce8b1c76d0a5c5f0c51d2acc
+index.js
+mini-form.js
+mini-form.min.js
+scripts/pack.js
+test/test.js

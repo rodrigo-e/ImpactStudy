@@ -1,0 +1,34 @@
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: gulp-metal
+Methods Called:
+   - registerTasks
+
+------------------------------------------
+src/Dropdown.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+test/Dropdown.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+webpack.config.js
+------------------------------------------
+Library: webpack
+Methods Called:
+   - optimize
+
+
+All of the Methods:
+{
+  "gulp-metal": {
+    "registerTasks": true
+  },
+  "webpack": {
+    "optimize": true
+  }
+}

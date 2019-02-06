@@ -1,0 +1,11 @@
+0d6e958dee675a7ba1c8fb38bbf1e0de06a3347b
+index.js
+lib/defaults.js
+lib/index.js
+lib/schema.js
+test/chrome.js
+test/firefox.js
+test/generic.js
+test/ie.js
+test/index.js
+test/safari.js

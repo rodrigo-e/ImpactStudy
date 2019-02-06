@@ -1,0 +1,41 @@
+------------------------------------------
+index.js
+------------------------------------------
+Library: q
+Methods Called:
+   - defer
+
+------------------------------------------
+test/index.js
+------------------------------------------
+Library: ../index
+Methods Called:
+   - should
+
+------------------------------------------
+test/jshint.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/setup.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - Should
+   - use
+
+
+All of the Methods:
+{
+  "q": {
+    "defer": true
+  },
+  "../index": {
+    "should": true
+  },
+  "chai": {
+    "Should": true,
+    "use": true
+  }
+}

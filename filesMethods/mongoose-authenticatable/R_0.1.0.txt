@@ -1,0 +1,42 @@
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: bcrypt
+Methods Called:
+   - genSalt
+   - hash
+   - compare
+
+------------------------------------------
+test/authentication.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+test/required.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+test/schema.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+
+All of the Methods:
+{
+  "bcrypt": {
+    "genSalt": true,
+    "hash": true,
+    "compare": true
+  },
+  "path": {
+    "join": true
+  }
+}

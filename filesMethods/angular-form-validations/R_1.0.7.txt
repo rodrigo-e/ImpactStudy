@@ -1,0 +1,38 @@
+------------------------------------------
+dist/angular-form-validations.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/exampleApp.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/ElementValidationDirective.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+src/FormValidationDirective.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/FormValidationProvider.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+webpack.config.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{}

@@ -1,0 +1,89 @@
+------------------------------------------
+examples/Examples.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+examples/main.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: browserify
+Methods Called:
+   - main_method*
+
+Library: watchify
+Methods Called:
+   - main_method*
+
+Library: gulp
+Methods Called:
+   - dest
+   - task
+   - src
+
+Library: gulp-util
+Methods Called:
+   - log
+
+Library: gulp-buffer
+Methods Called:
+   - main_method*
+
+Library: gulp-babel
+Methods Called:
+   - main_method*
+
+Library: vinyl-source-stream
+Methods Called:
+   - main_method*
+
+Library: gulp-sourcemaps
+Methods Called:
+   - init
+   - write
+
+------------------------------------------
+src/components/GoogleChart.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/lib/GoogleChartsLoader.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 63: Unexpected token
+
+All of the Methods:
+{
+  "browserify": {
+    "main_method*": true
+  },
+  "watchify": {
+    "main_method*": true
+  },
+  "gulp": {
+    "dest": true,
+    "task": true,
+    "src": true
+  },
+  "gulp-util": {
+    "log": true
+  },
+  "gulp-buffer": {
+    "main_method*": true
+  },
+  "gulp-babel": {
+    "main_method*": true
+  },
+  "vinyl-source-stream": {
+    "main_method*": true
+  },
+  "gulp-sourcemaps": {
+    "init": true,
+    "write": true
+  }
+}

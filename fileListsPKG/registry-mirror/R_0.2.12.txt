@@ -1,0 +1,14 @@
+64dde14f611fb8427c91f42400b9b40308867817
+src/cli/bin.js
+src/cli/commands/daemon.js
+src/cli/commands/ls.js
+src/cli/commands/npm/publish.js
+src/cli/commands/npm/update.js
+src/clone-npm.js
+src/fetch-ipns.js
+src/ibs.js
+src/index.js
+src/logger.js
+src/serve-npm.js
+src/update-ipns.js
+test/mirror.js

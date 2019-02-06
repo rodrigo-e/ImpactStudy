@@ -1,0 +1,70 @@
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - watch
+
+Library: gulp-mocha
+Methods Called:
+   - main_method*
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/validation-test.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - assert
+
+------------------------------------------
+test/validator-test.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+------------------------------------------
+validation.js
+------------------------------------------
+Library: ./validator
+Methods Called:
+   - method
+   - trim
+
+------------------------------------------
+validator.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - extend
+
+
+All of the Methods:
+{
+  "gulp": {
+    "task": true,
+    "src": true,
+    "watch": true
+  },
+  "gulp-mocha": {
+    "main_method*": true
+  },
+  "chai": {
+    "assert": true,
+    "expect": true
+  },
+  "./validator": {
+    "method": true,
+    "trim": true
+  },
+  "validator": {
+    "extend": true
+  }
+}

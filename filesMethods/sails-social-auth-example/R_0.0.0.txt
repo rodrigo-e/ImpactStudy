@@ -1,0 +1,95 @@
+------------------------------------------
+.app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/controllers/AuthController.js
+------------------------------------------
+Library: passport
+Methods Called:
+   - authenticate
+
+------------------------------------------
+api/controllers/HomeController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/models/User.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/policies/authenticated.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+assets/mixins/sails.io.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/adapters.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/application.js
+------------------------------------------
+Library: passport
+Methods Called:
+   - serializeUser
+   - deserializeUser
+   - use
+   - initialize
+   - session
+
+------------------------------------------
+config/assets.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/bootstrap.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/local.ex.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/locales/english.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/policies.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/routes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/views.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "passport": {
+    "authenticate": true,
+    "serializeUser": true,
+    "deserializeUser": true,
+    "use": true,
+    "initialize": true,
+    "session": true
+  }
+}

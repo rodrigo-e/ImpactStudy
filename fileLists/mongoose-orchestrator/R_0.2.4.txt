@@ -1,0 +1,10 @@
+067a0dbba5ef72504d2b802289a820279c9a3944
+example/index.js
+example/models.js
+lib/index.js
+lib/utils.js
+src/index.js
+src/utils.js
+test/models.js
+test/post-save.js
+test/pre-save.js

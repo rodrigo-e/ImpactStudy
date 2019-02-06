@@ -1,0 +1,123 @@
+------------------------------------------
+examples/nsq-emitter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+examples/socket-emitter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+examples/tcp-emitter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+examples/udp-emitter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+examples/ws-emitter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - isObject
+   - defaults
+
+------------------------------------------
+lib/json-stringify-stream.js
+------------------------------------------
+Library: readable-stream
+Methods Called:
+   - Transform
+
+------------------------------------------
+lib/nsq-stream.js
+------------------------------------------
+Library: request
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/udp-stream.js
+------------------------------------------
+Library: dgram
+Methods Called:
+   - createSocket
+
+------------------------------------------
+lib/ws-stream.js
+------------------------------------------
+Library: ws
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/01-parse-uri.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/02-constructor.js
+------------------------------------------
+Library: must
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/03-connections.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/04-emitting-metrics.js
+------------------------------------------
+Library: must
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/05-backpressure.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/06-udp.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/07-nsq.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "lodash": {
+    "isObject": true,
+    "defaults": true
+  },
+  "readable-stream": {
+    "Transform": true
+  },
+  "request": {
+    "main_method*": true
+  },
+  "dgram": {
+    "createSocket": true
+  },
+  "ws": {
+    "main_method*": true
+  },
+  "must": {
+    "main_method*": true
+  }
+}

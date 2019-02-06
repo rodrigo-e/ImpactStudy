@@ -1,0 +1,12 @@
+b143fbc16a1178f134cfb8ca3d034884c4e8468f
+dist/index.js
+dist/ioc/Bindable.js
+dist/ioc/Binding.js
+dist/ioc/BindingType.js
+dist/ioc/Inject.js
+dist/ioc/Kernel.js
+dist/spec/Inject.spec.js
+dist/spec/IocModule.spec.js
+tasks/create-typings-folder.js
+tasks/dts-bundle.js
+wallaby.js

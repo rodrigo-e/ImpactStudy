@@ -1,0 +1,7 @@
+b3910290a7101dd7de4dcd1367060bb981af5b64
+animation-context.js
+animation-context.min.js
+index.js
+karma.conf.js
+scripts/pack.js
+test/specs.js

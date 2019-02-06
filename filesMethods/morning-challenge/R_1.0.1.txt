@@ -1,0 +1,33 @@
+------------------------------------------
+20150922-parse-xml.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFile
+   - writeFile
+
+Library: xml2js
+Methods Called:
+   - Parser
+
+------------------------------------------
+static-server.js
+------------------------------------------
+Library: hapi
+Methods Called:
+   - Server
+
+
+All of the Methods:
+{
+  "fs": {
+    "readFile": true,
+    "writeFile": true
+  },
+  "xml2js": {
+    "Parser": true
+  },
+  "hapi": {
+    "Server": true
+  }
+}

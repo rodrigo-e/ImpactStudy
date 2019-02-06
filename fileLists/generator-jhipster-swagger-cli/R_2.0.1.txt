@@ -1,0 +1,4 @@
+276b4887fc9f70dc5bd77468e90bbd07453ef8bf
+generators/app/index.js
+gulpfile.js
+test/test-app.js

@@ -1,0 +1,395 @@
+------------------------------------------
+src/cli/bin.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+src/cli/commands/daemon.js
+------------------------------------------
+Library: ronin
+Methods Called:
+   - Command
+
+Library: async
+Methods Called:
+   - series
+
+------------------------------------------
+src/cli/commands/ls.js
+------------------------------------------
+Library: ronin
+Methods Called:
+   - Command
+
+Library: async
+Methods Called:
+   - series
+
+Library: debug
+Methods Called:
+   - main_method*
+
+------------------------------------------
+src/cli/commands/npm/publish.js
+------------------------------------------
+Library: ronin
+Methods Called:
+   - Command
+
+Library: debug
+Methods Called:
+   - main_method*
+
+------------------------------------------
+src/cli/commands/npm/update.js
+------------------------------------------
+Library: ronin
+Methods Called:
+   - Command
+
+Library: async
+Methods Called:
+   - series
+
+Library: debug
+Methods Called:
+   - main_method*
+
+------------------------------------------
+src/config.js
+------------------------------------------
+Library: ipfs-api
+Methods Called:
+   - main_method*
+
+Library: debug
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - join
+
+Library: os
+Methods Called:
+   - tmpdir
+
+------------------------------------------
+src/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/ls.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/mirror.js
+------------------------------------------
+Library: express
+Methods Called:
+   - main_method*
+
+Library: lru-cache
+Methods Called:
+   - main_method*
+
+Library: url
+Methods Called:
+   - parse
+
+Library: debug
+Methods Called:
+   - main_method*
+
+Library: ipfs-blob-store
+Methods Called:
+   - main_method*
+
+------------------------------------------
+src/npm-pipe-ipfs/clone.js
+------------------------------------------
+Library: timethat
+Methods Called:
+   - calc
+
+Library: follow-registry
+Methods Called:
+   - main_method*
+
+Library: patch-package-json
+Methods Called:
+   - json
+
+Library: graceful-fs
+Methods Called:
+   - createReadStream
+   - unlink
+
+Library: http-https
+Methods Called:
+   - get
+
+Library: url
+Methods Called:
+   - parse
+
+------------------------------------------
+src/npm-pipe-ipfs/files.js
+------------------------------------------
+Library: async
+Methods Called:
+   - eachLimit
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+src/npm-pipe-ipfs/hooks.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/npm-pipe-ipfs/ibs.js
+------------------------------------------
+Library: ipfs-blob-store
+Methods Called:
+   - main_method*
+
+------------------------------------------
+src/npm-pipe-ipfs/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/npm-pipe-ipfs/util.js
+------------------------------------------
+Library: url
+Methods Called:
+   - parse
+
+Library: path
+Methods Called:
+   - join
+
+Library: async
+Methods Called:
+   - eachLimit
+
+------------------------------------------
+src/npm-pipe-ipfs/verify.js
+------------------------------------------
+Library: timethat
+Methods Called:
+   - calc
+
+Library: http-https
+Methods Called:
+   - get
+
+Library: url
+Methods Called:
+   - parse
+
+Library: prettysize
+Methods Called:
+   - main_method*
+
+------------------------------------------
+src/registry-cache.js
+------------------------------------------
+Library: debug
+Methods Called:
+   - main_method*
+
+Library: async
+Methods Called:
+   - waterfall
+
+------------------------------------------
+tests/test-core/index.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: ipfsd-ctl
+Methods Called:
+   - disposable
+
+Library: ncp
+Methods Called:
+   - main_method*
+
+Library: rimraf
+Methods Called:
+   - main_method*
+
+------------------------------------------
+tests/test-core/test-files.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - main_method*
+   - deepEqual
+
+Library: mockery
+Methods Called:
+   - registerMock
+   - enable
+   - disable
+   - deregisterAll
+
+Library: abstract-blob-store
+Methods Called:
+   - data
+
+------------------------------------------
+tests/test-core/test-mirror.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: wreck
+Methods Called:
+   - get
+
+------------------------------------------
+tests/test-core/test-util.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - ifError
+   - main_method*
+
+Library: mockery
+Methods Called:
+   - registerMock
+   - enable
+   - deregisterAll
+   - disable
+
+------------------------------------------
+tests/test-core/test-verify.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - ifError
+   - main_method*
+
+Library: mockery
+Methods Called:
+   - registerMock
+   - enable
+   - deregisterAll
+   - disable
+
+Library: crypto
+Methods Called:
+   - createHash
+
+Library: fs
+Methods Called:
+   - createReadStream
+
+Library: abstract-blob-store
+Methods Called:
+   - data
+
+
+All of the Methods:
+{
+  "ronin": {
+    "Command": true
+  },
+  "async": {
+    "series": true,
+    "eachLimit": true,
+    "waterfall": true
+  },
+  "debug": {
+    "main_method*": true
+  },
+  "ipfs-api": {
+    "main_method*": true
+  },
+  "path": {
+    "join": true
+  },
+  "os": {
+    "tmpdir": true
+  },
+  "express": {
+    "main_method*": true
+  },
+  "lru-cache": {
+    "main_method*": true
+  },
+  "url": {
+    "parse": true
+  },
+  "ipfs-blob-store": {
+    "main_method*": true
+  },
+  "timethat": {
+    "calc": true
+  },
+  "follow-registry": {
+    "main_method*": true
+  },
+  "patch-package-json": {
+    "json": true
+  },
+  "graceful-fs": {
+    "createReadStream": true,
+    "unlink": true
+  },
+  "http-https": {
+    "get": true
+  },
+  "prettysize": {
+    "main_method*": true
+  },
+  "chai": {
+    "expect": true
+  },
+  "ipfsd-ctl": {
+    "disposable": true
+  },
+  "ncp": {
+    "main_method*": true
+  },
+  "rimraf": {
+    "main_method*": true
+  },
+  "assert": {
+    "equal": true,
+    "main_method*": true,
+    "deepEqual": true,
+    "ifError": true
+  },
+  "mockery": {
+    "registerMock": true,
+    "enable": true,
+    "disable": true,
+    "deregisterAll": true
+  },
+  "abstract-blob-store": {
+    "data": true
+  },
+  "wreck": {
+    "get": true
+  },
+  "crypto": {
+    "createHash": true
+  },
+  "fs": {
+    "createReadStream": true
+  }
+}

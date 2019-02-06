@@ -1,0 +1,96 @@
+------------------------------------------
+example/containers/App.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+example/index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+example/server.js
+------------------------------------------
+Library: webpack
+Methods Called:
+   - main_method*
+
+Library: webpack-dev-middleware
+Methods Called:
+   - main_method*
+
+Library: webpack-hot-middleware
+Methods Called:
+   - main_method*
+
+Library: express
+Methods Called:
+   - use
+   - get
+   - listen
+
+------------------------------------------
+example/webpack.config.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: webpack
+Methods Called:
+   - optimize
+   - HotModuleReplacementPlugin
+
+------------------------------------------
+src/components/ShowMore.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/components/Tab.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/components/TabPanel.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/components/Tabs.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+src/index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/styles/style.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "webpack": {
+    "main_method*": true,
+    "optimize": true,
+    "HotModuleReplacementPlugin": true
+  },
+  "webpack-dev-middleware": {
+    "main_method*": true
+  },
+  "webpack-hot-middleware": {
+    "main_method*": true
+  },
+  "express": {
+    "use": true,
+    "get": true,
+    "listen": true
+  },
+  "path": {
+    "join": true
+  }
+}

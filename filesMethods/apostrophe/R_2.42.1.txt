@@ -1,0 +1,3628 @@
+------------------------------------------
+defaults.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+index.js
+------------------------------------------
+Library: yargs
+Methods Called:
+   - argv
+
+Library: path
+Methods Called:
+   - dirname
+   - resolve
+
+Library: lodash
+Methods Called:
+   - filter
+   - keys
+   - cloneDeep
+   - merge
+   - each
+   - has
+   - defaults
+
+Library: fs
+Methods Called:
+   - existsSync
+   - mkdirSync
+   - symlinkSync
+
+Library: async
+Methods Called:
+   - series
+   - eachSeries
+
+Library: resolve
+Methods Called:
+   - sync
+
+------------------------------------------
+lib/modules/apostrophe-admin-bar/index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - findIndex
+   - filter
+   - each
+   - find
+
+------------------------------------------
+lib/modules/apostrophe-admin-bar/public/js/user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-any-page-manager/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-any-page-manager/public/js/chooser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/lib/api.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - contains
+   - isEqual
+   - find
+   - map
+   - pluck
+   - each
+   - keys
+   - cloneDeep
+   - filter
+   - some
+
+Library: async
+Methods Called:
+   - eachSeries
+   - series
+
+Library: deep-get-set
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/modules/apostrophe-areas/lib/browser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/lib/cursor.js
+------------------------------------------
+Library: async
+Methods Called:
+   - eachSeries
+
+Library: lodash
+Methods Called:
+   - each
+   - has
+   - contains
+   - keys
+
+------------------------------------------
+lib/modules/apostrophe-areas/lib/helpers.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - has
+   - each
+
+------------------------------------------
+lib/modules/apostrophe-areas/lib/protectedApi.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - each
+
+------------------------------------------
+lib/modules/apostrophe-areas/lib/routes.js
+------------------------------------------
+Library: async
+Methods Called:
+   - series
+   - eachSeries
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/always.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/beforeCkeditor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/ckeditorPlugins/split/plugin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/editor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/splitHtml.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/adapters/jquery.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/build-config.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/ckeditor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/config.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/af.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/ar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/az.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/bg.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/bn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/bs.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/ca.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/cs.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/cy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/da.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/de-ch.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/de.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/el.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/en-au.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/en-ca.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/en-gb.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/en.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/eo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/es.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/et.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/eu.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/fa.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/fi.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/fo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/fr-ca.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/fr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/gl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/gu.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/he.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/hi.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/hr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/hu.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/id.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/is.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/it.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/ja.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/ka.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/km.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/ko.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/ku.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/lt.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/lv.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/mk.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/mn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/ms.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/nb.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/nl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/no.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/oc.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/pl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/pt-br.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/pt.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/ro.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/ru.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/si.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/sk.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/sl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/sq.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/sr-latn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/sr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/sv.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/th.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/tr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/tt.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/ug.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/uk.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/vi.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/zh-cn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/lang/zh.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/af.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/az.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/da.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/de-ch.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/de.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/el.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/en-gb.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/en.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/es.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/et.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/eu.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/fo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/he.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/id.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/it.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/km.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/ko.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/no.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/oc.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/si.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/th.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/tt.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/zh.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/about/dialogs/about.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/clipboard/dialogs/paste.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/dialog/dialogDefinition.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/image/dialogs/image.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/link/dialogs/anchor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/link/dialogs/link.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/pastefromword/filter/default.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/scayt/dialogs/options.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/af.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/ar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/az.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/bg.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/ca.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/cs.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/cy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/da.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/de-ch.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/de.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/el.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/en-gb.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/en.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/eo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/es.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/et.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/eu.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/fa.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/fi.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/fr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/gl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/he.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/hr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/hu.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/id.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/it.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/ja.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/km.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/ko.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/ku.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/lt.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/lv.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/nb.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/nl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/no.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/oc.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/pl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/pt.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/ru.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/si.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/sk.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/sl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/sq.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/sv.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/th.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/tr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/tt.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/ug.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/uk.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/vi.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/lang/zh.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/specialchar/dialogs/specialchar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/table/dialogs/table.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/tabletools/dialogs/tableCell.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/wsc/dialogs/wsc.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/plugins/wsc/dialogs/wsc_ie.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/samples/js/sample.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/samples/js/sf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/samples/old/assets/uilanguages/languages.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/samples/old/dialog/assets/my_dialog.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/samples/old/htmlwriter/assets/outputforflash/swfobject.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/samples/old/sample.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/samples/toolbarconfigurator/js/abstracttoolbarmodifier.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/samples/toolbarconfigurator/js/fulltoolbareditor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/samples/toolbarconfigurator/js/toolbarmodifier.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/samples/toolbarconfigurator/js/toolbartextmodifier.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/samples/toolbarconfigurator/lib/codemirror/javascript.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/skins/apostrophe/skin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-areas/public/js/vendor/ckeditor/styles.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/index.js
+------------------------------------------
+Library: path
+Methods Called:
+   - relative
+   - dirname
+   - basename
+
+Library: fs
+Methods Called:
+   - existsSync
+   - mkdirSync
+   - writeFileSync
+   - readFileSync
+   - unlinkSync
+   - lstatSync
+   - symlinkSync
+   - readdirSync
+   - statSync
+   - openSync
+   - readSync
+   - writeSync
+   - closeSync
+
+Library: lodash
+Methods Called:
+   - each
+   - find
+   - map
+   - merge
+   - filter
+   - assign
+   - pick
+
+Library: async
+Methods Called:
+   - series
+   - eachSeries
+   - eachLimit
+   - map
+   - mapSeries
+
+Library: uglify-js
+Methods Called:
+   - minify
+
+Library: less
+Methods Called:
+   - render
+
+Library: glob
+Methods Called:
+   - sync
+
+Library: bless
+Methods Called:
+   - Parser
+
+Library: less-middleware
+Methods Called:
+   - main_method*
+
+Library: rimraf
+Methods Called:
+   - sync
+
+Library: clean-css
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/blueimp/js/cors/jquery.postmessage-transport.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/blueimp/js/cors/jquery.xdr-transport.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/blueimp/js/jquery.fileupload-fp.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/blueimp/js/jquery.fileupload-ui.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/blueimp/js/main.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/always.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/async.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/cropper.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/fileIframe.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/jquery-hotkeys.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/jquery-textchange.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/jquery-textinputs.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/jquery-ui.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/jquery-url-parser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/jquery.alter-class.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/jquery.bottomless.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/jquery.cookie.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/jquery.fileupload.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/jquery.find-by-name.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/jquery.findSafe.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/jquery.get-outer-html.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/jquery.iframe-transport.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/jquery.images-ready.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/jquery.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/jquery.json-call.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/jquery.onSafe.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/jquery.projector.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/jquery.radio.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/jquery.scrollintoview.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/jquery.selective.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/lodash.compat.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/lodash.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/moment.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/moog.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/pikaday.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/setImmediate.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-assets/public/js/vendor/sluggo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-attachments/index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - merge
+   - pick
+
+Library: uploadfs
+Methods Called:
+   - main_method*
+
+Library: mkdirp
+Methods Called:
+   - sync
+
+Library: async
+Methods Called:
+   - series
+
+------------------------------------------
+lib/modules/apostrophe-attachments/lib/api.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - union
+   - pluck
+   - find
+   - contains
+   - pick
+   - keys
+   - clone
+   - each
+
+Library: async
+Methods Called:
+   - series
+   - whilst
+   - eachLimit
+
+Library: path
+Methods Called:
+   - extname
+   - basename
+
+Library: fs
+Methods Called:
+   - unlink
+
+------------------------------------------
+lib/modules/apostrophe-attachments/lib/browser.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - defaults
+   - extend
+
+------------------------------------------
+lib/modules/apostrophe-attachments/lib/routes.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - values
+
+------------------------------------------
+lib/modules/apostrophe-attachments/lib/schemaField.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - pick
+   - assign
+   - omit
+   - contains
+   - find
+
+Library: async
+Methods Called:
+   - series
+
+------------------------------------------
+lib/modules/apostrophe-attachments/lib/tasks/rescale.js
+------------------------------------------
+Library: async
+Methods Called:
+   - series
+   - forEachSeries
+
+Library: lodash
+Methods Called:
+   - contains
+
+Library: request
+Methods Called:
+   - head
+
+Library: fs
+Methods Called:
+   - unlink
+
+------------------------------------------
+lib/modules/apostrophe-attachments/public/js/always.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-attachments/public/js/cropEditor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-attachments/public/js/focal-point-editor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-attachments/public/js/user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-browser-utils/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-browser-utils/public/js/always.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-caches/index.js
+------------------------------------------
+Library: async
+Methods Called:
+   - series
+   - eachSeries
+
+------------------------------------------
+lib/modules/apostrophe-custom-pages/index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - map
+
+------------------------------------------
+lib/modules/apostrophe-custom-pages/lib/api.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - each
+   - contains
+
+------------------------------------------
+lib/modules/apostrophe-custom-pages/lib/cursor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-custom-pages/lib/dispatch.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - isEmpty
+   - each
+
+Library: async
+Methods Called:
+   - eachSeries
+
+Library: path-to-regexp
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/modules/apostrophe-db/index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - assign
+
+Library: mongodb
+Methods Called:
+   - MongoClient
+
+Library: async
+Methods Called:
+   - series
+   - eachSeries
+
+------------------------------------------
+lib/modules/apostrophe-doc-type-manager/index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - find
+   - findLast
+   - contains
+   - findIndex
+
+------------------------------------------
+lib/modules/apostrophe-doc-type-manager/lib/api.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - filter
+   - findIndex
+   - cloneDeep
+   - contains
+   - each
+   - find
+   - map
+   - defaults
+   - omit
+
+------------------------------------------
+lib/modules/apostrophe-doc-type-manager/lib/browser.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - each
+   - defaults
+   - pick
+
+------------------------------------------
+lib/modules/apostrophe-doc-type-manager/lib/cursor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-doc-type-manager/lib/routes.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - map
+   - each
+   - omit
+   - pluck
+   - has
+   - defaults
+
+Library: async
+Methods Called:
+   - series
+
+------------------------------------------
+lib/modules/apostrophe-doc-type-manager/public/js/chooser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-doc-type-manager/public/js/relationship-editor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-doc-type-manager/public/js/user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-docs/index.js
+------------------------------------------
+Library: async
+Methods Called:
+   - series
+
+------------------------------------------
+lib/modules/apostrophe-docs/lib/api.js
+------------------------------------------
+Library: async
+Methods Called:
+   - series
+   - whilst
+
+Library: lodash
+Methods Called:
+   - each
+   - map
+   - keys
+
+Library: bluebird
+Methods Called:
+   - promisify
+
+------------------------------------------
+lib/modules/apostrophe-docs/lib/autocomplete.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - map
+   - filter
+   - some
+
+------------------------------------------
+lib/modules/apostrophe-docs/lib/browser.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - defaults
+   - extend
+
+------------------------------------------
+lib/modules/apostrophe-docs/lib/cursor.js
+------------------------------------------
+Library: bluebird
+Methods Called:
+   - promisify
+
+Library: lodash
+Methods Called:
+   - partial
+   - clone
+   - assign
+   - each
+   - find
+   - map
+   - groupBy
+   - keys
+   - filter
+   - isNumber
+   - cloneDeep
+   - has
+   - values
+
+Library: async
+Methods Called:
+   - eachSeries
+   - series
+   - waterfall
+
+------------------------------------------
+lib/modules/apostrophe-docs/lib/routes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-docs/public/js/user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-express/index.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: lodash
+Methods Called:
+   - defaults
+   - extend
+   - each
+   - map
+   - find
+   - pick
+   - clone
+   - findIndex
+
+Library: minimatch
+Methods Called:
+   - makeRe
+
+Library: async
+Methods Called:
+   - eachSeries
+
+Library: server-destroy
+Methods Called:
+   - main_method*
+
+Library: express
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/modules/apostrophe-files-widgets/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-files/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-files/public/js/editor-modal.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-files/public/js/user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-global/index.js
+------------------------------------------
+Library: async
+Methods Called:
+   - series
+
+------------------------------------------
+lib/modules/apostrophe-global/public/js/user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-groups/index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - find
+
+------------------------------------------
+lib/modules/apostrophe-groups/lib/cursor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-html-widgets/index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - each
+   - has
+
+------------------------------------------
+lib/modules/apostrophe-i18n/index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - defaults
+
+Library: i18n
+Methods Called:
+   - configure
+
+------------------------------------------
+lib/modules/apostrophe-images-widgets/index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - find
+
+------------------------------------------
+lib/modules/apostrophe-images-widgets/public/js/always.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-images-widgets/public/js/editor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-images/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-images/lib/api.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - clone
+   - pick
+
+------------------------------------------
+lib/modules/apostrophe-images/lib/cursor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-images/public/js/chooser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-images/public/js/editor-modal.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-images/public/js/focal-point-editor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-images/public/js/manager-modal.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-images/public/js/relationship-editor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-images/public/js/user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-jobs/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-jobs/lib/api.js
+------------------------------------------
+Library: async
+Methods Called:
+   - series
+   - eachSeries
+
+Library: lodash
+Methods Called:
+   - assign
+
+------------------------------------------
+lib/modules/apostrophe-jobs/lib/browser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-jobs/lib/implementation.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-jobs/lib/routes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-jobs/public/js/modal.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-jobs/public/js/user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-launder/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-locks/index.js
+------------------------------------------
+Library: async
+Methods Called:
+   - series
+
+Library: lodash
+Methods Called:
+   - partial
+
+------------------------------------------
+lib/modules/apostrophe-login/index.js
+------------------------------------------
+Library: passport
+Methods Called:
+   - Passport
+
+Library: passport-local
+Methods Called:
+   - main_method*
+
+Library: lodash
+Methods Called:
+   - each
+   - some
+
+------------------------------------------
+lib/modules/apostrophe-migrations/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-migrations/lib/api.js
+------------------------------------------
+Library: broadband
+Methods Called:
+   - main_method*
+
+Library: async
+Methods Called:
+   - eachSeries
+
+------------------------------------------
+lib/modules/apostrophe-migrations/lib/implementation.js
+------------------------------------------
+Library: async
+Methods Called:
+   - eachSeries
+
+------------------------------------------
+lib/modules/apostrophe-modal/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-modal/public/js/modal.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-module/index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - has
+   - each
+   - defaults
+   - get
+
+Library: async
+Methods Called:
+   - eachSeries
+   - series
+
+Library: fs
+Methods Called:
+   - existsSync
+   - readFileSync
+
+Library: syntax-error
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/modules/apostrophe-notifications/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-notifications/public/js/user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-oembed/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-oembed/lib/api.js
+------------------------------------------
+Library: async
+Methods Called:
+   - series
+
+Library: request
+Methods Called:
+   - main_method*
+
+Library: cheerio
+Methods Called:
+   - load
+
+------------------------------------------
+lib/modules/apostrophe-oembed/lib/browser.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - defaults
+   - extend
+
+------------------------------------------
+lib/modules/apostrophe-oembed/lib/infogram.js
+------------------------------------------
+Library: url
+Methods Called:
+   - parse
+
+------------------------------------------
+lib/modules/apostrophe-oembed/lib/vimeo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-oembed/lib/wufoo.js
+------------------------------------------
+Library: async
+Methods Called:
+   - series
+
+Library: request
+Methods Called:
+   - main_method*
+
+Library: cheerio
+Methods Called:
+   - load
+
+------------------------------------------
+lib/modules/apostrophe-oembed/lib/youtube.js
+------------------------------------------
+Library: request
+Methods Called:
+   - head
+   - main_method*
+
+Library: cheerio
+Methods Called:
+   - load
+
+------------------------------------------
+lib/modules/apostrophe-oembed/public/js/always.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-pager/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-pages/index.js
+------------------------------------------
+Library: async
+Methods Called:
+   - series
+
+------------------------------------------
+lib/modules/apostrophe-pages/lib/anyCursor.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - each
+
+------------------------------------------
+lib/modules/apostrophe-pages/lib/api.js
+------------------------------------------
+Library: async
+Methods Called:
+   - series
+   - eachSeries
+   - whilst
+
+Library: path
+Methods Called:
+   - basename
+
+Library: lodash
+Methods Called:
+   - each
+   - map
+   - isEmpty
+   - has
+   - extend
+   - assign
+   - pick
+   - pluck
+   - clone
+   - filter
+   - difference
+   - contains
+   - defaults
+   - findIndex
+   - uniq
+   - reject
+   - cloneDeep
+
+Library: bluebird
+Methods Called:
+   - promisify
+
+------------------------------------------
+lib/modules/apostrophe-pages/lib/browser.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - pick
+   - assign
+
+------------------------------------------
+lib/modules/apostrophe-pages/lib/helpers.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - map
+
+------------------------------------------
+lib/modules/apostrophe-pages/lib/pagesCursor.js
+------------------------------------------
+Library: async
+Methods Called:
+   - eachSeries
+
+Library: lodash
+Methods Called:
+   - each
+   - has
+   - pick
+   - omit
+
+------------------------------------------
+lib/modules/apostrophe-pages/lib/routes.js
+------------------------------------------
+Library: async
+Methods Called:
+   - series
+
+Library: lodash
+Methods Called:
+   - each
+
+------------------------------------------
+lib/modules/apostrophe-pages/public/js/always.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-pages/public/js/editor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-pages/public/js/reorganize.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-pages/public/js/user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-pages/public/js/vendor/tree.jquery.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-permissions/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-permissions/lib/api.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - each
+   - extend
+   - has
+   - union
+
+------------------------------------------
+lib/modules/apostrophe-permissions/lib/strategiesApi.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - find
+   - intersection
+   - each
+   - extend
+
+------------------------------------------
+lib/modules/apostrophe-pieces-pages/index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - pluck
+   - filter
+   - map
+   - clone
+   - each
+   - intersection
+   - difference
+   - pick
+
+Library: async
+Methods Called:
+   - series
+   - eachSeries
+
+------------------------------------------
+lib/modules/apostrophe-pieces-widgets/index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - find
+   - map
+   - filter
+   - has
+   - contains
+   - defaults
+   - difference
+   - partial
+   - reduce
+   - each
+
+Library: async
+Methods Called:
+   - series
+   - eachSeries
+
+------------------------------------------
+lib/modules/apostrophe-pieces-widgets/public/js/editor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-pieces/index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - filter
+   - contains
+   - startCase
+
+------------------------------------------
+lib/modules/apostrophe-pieces/lib/api.js
+------------------------------------------
+Library: async
+Methods Called:
+   - series
+   - eachSeries
+
+Library: lodash
+Methods Called:
+   - filter
+   - clone
+   - assign
+   - pluck
+   - each
+   - isEmpty
+   - contains
+   - find
+   - cloneDeep
+
+Library: bluebird
+Methods Called:
+   - promisify
+
+------------------------------------------
+lib/modules/apostrophe-pieces/lib/browser.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - each
+
+------------------------------------------
+lib/modules/apostrophe-pieces/lib/cursor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-pieces/lib/helpers.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - map
+
+------------------------------------------
+lib/modules/apostrophe-pieces/lib/routes.js
+------------------------------------------
+Library: async
+Methods Called:
+   - series
+   - eachSeries
+
+Library: lodash
+Methods Called:
+   - each
+   - isEqual
+   - contains
+   - uniq
+   - filter
+   - find
+   - values
+
+------------------------------------------
+lib/modules/apostrophe-pieces/public/js/editor-modal.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-pieces/public/js/manager-modal.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-pieces/public/js/user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-push/index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - each
+   - map
+
+------------------------------------------
+lib/modules/apostrophe-rich-text-widgets/index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - isUndefined
+   - omit
+   - map
+   - filter
+
+Library: sanitize-html
+Methods Called:
+   - main_method*
+
+Library: diff
+Methods Called:
+   - diffSentences
+
+------------------------------------------
+lib/modules/apostrophe-rich-text-widgets/public/js/always.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-rich-text-widgets/public/js/editor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-rich-text-widgets/public/js/user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-schemas/index.js
+------------------------------------------
+Library: joinr
+Methods Called:
+   - byOne
+   - byOneReverse
+   - byArray
+   - byArrayReverse
+
+Library: lodash
+Methods Called:
+   - each
+   - filter
+   - contains
+   - find
+   - pluck
+   - isString
+   - isPlainObject
+   - findIndex
+   - clone
+   - has
+   - isArray
+   - cloneDeep
+   - extend
+   - merge
+   - keys
+   - map
+   - omit
+   - startCase
+
+Library: async
+Methods Called:
+   - eachSeries
+   - series
+
+Library: moment
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/modules/apostrophe-schemas/lib/routes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-schemas/public/js/array-modal.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-schemas/public/js/user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-search/index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - pluck
+   - find
+   - filter
+   - has
+   - difference
+   - cloneDeep
+   - each
+   - groupBy
+   - keys
+   - map
+   - uniq
+   - assign
+   - partial
+   - reduce
+
+Library: async
+Methods Called:
+   - series
+   - eachSeries
+
+------------------------------------------
+lib/modules/apostrophe-search/lib/browser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-search/public/js/always.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-service-bridge/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-tags/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-tags/lib/api.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - filter
+   - intersection
+
+Library: async
+Methods Called:
+   - series
+
+------------------------------------------
+lib/modules/apostrophe-tags/lib/browser.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - each
+
+------------------------------------------
+lib/modules/apostrophe-tags/lib/implementation.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-tags/lib/routes.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - map
+
+Library: async
+Methods Called:
+   - series
+
+------------------------------------------
+lib/modules/apostrophe-tags/public/js/manager-modal.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-tags/public/js/user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-tasks/index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - has
+   - each
+   - extend
+
+------------------------------------------
+lib/modules/apostrophe-templates/index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - merge
+   - each
+   - has
+   - extend
+   - defaults
+   - map
+   - assign
+   - pick
+
+Library: moment
+Methods Called:
+   - main_method*
+
+Library: qs
+Methods Called:
+   - stringify
+
+Library: ./lib/nunjucksLoader.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/modules/apostrophe-templates/lib/nunjucksLoader.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+   - watch
+   - readFileSync
+
+Library: path
+Methods Called:
+   - normalize
+
+Library: lodash
+Methods Called:
+   - map
+   - each
+   - contains
+
+------------------------------------------
+lib/modules/apostrophe-ui/index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - pick
+
+------------------------------------------
+lib/modules/apostrophe-ui/public/js/context.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-ui/public/js/ui.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-urls/index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - difference
+   - union
+   - size
+
+Library: qs
+Methods Called:
+   - parse
+   - stringify
+
+------------------------------------------
+lib/modules/apostrophe-users/index.js
+------------------------------------------
+Library: async
+Methods Called:
+   - series
+   - eachSeries
+
+Library: lodash
+Methods Called:
+   - find
+   - each
+
+Library: credential
+Methods Called:
+   - main_method*
+
+Library: prompt
+Methods Called:
+   - start
+   - get
+
+------------------------------------------
+lib/modules/apostrophe-users/lib/cursor.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - each
+
+------------------------------------------
+lib/modules/apostrophe-users/public/js/editor-modal.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-users/public/js/user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-utils/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-utils/lib/api.js
+------------------------------------------
+Library: xregexp
+Methods Called:
+   - XRegExp
+
+Library: lodash
+Methods Called:
+   - str
+   - each
+   - forOwn
+   - has
+
+Library: he
+Methods Called:
+   - decode
+
+Library: crypto
+Methods Called:
+   - createHash
+
+Library: cuid
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - ReadStream
+   - stat
+
+------------------------------------------
+lib/modules/apostrophe-utils/lib/helpers.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - startCase
+   - isArray
+   - contains
+   - some
+   - has
+   - merge
+   - find
+   - indexBy
+   - filter
+   - reject
+   - isEmpty
+   - pluck
+   - omit
+   - isEqual
+   - groupBy
+   - each
+
+Library: util
+Methods Called:
+   - inspect
+
+------------------------------------------
+lib/modules/apostrophe-versions/index.js
+------------------------------------------
+Library: async
+Methods Called:
+   - series
+
+------------------------------------------
+lib/modules/apostrophe-versions/lib/api.js
+------------------------------------------
+Library: async
+Methods Called:
+   - series
+   - eachSeries
+
+Library: lodash
+Methods Called:
+   - omit
+   - pick
+   - assign
+   - each
+   - filter
+   - uniq
+   - pluck
+   - map
+   - has
+   - isEqual
+   - find
+
+Library: diff
+Methods Called:
+   - diffSentences
+
+------------------------------------------
+lib/modules/apostrophe-versions/lib/browser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-versions/lib/routes.js
+------------------------------------------
+Library: async
+Methods Called:
+   - series
+
+------------------------------------------
+lib/modules/apostrophe-versions/public/js/editor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-versions/public/js/user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-video-fields/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-video-fields/lib/browser.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - defaults
+   - extend
+
+------------------------------------------
+lib/modules/apostrophe-video-fields/lib/schemaField.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-video-fields/public/js/user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-video-widgets/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-video-widgets/public/js/always.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-widgets/index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - each
+   - contains
+   - defaults
+
+Library: async
+Methods Called:
+   - series
+
+------------------------------------------
+lib/modules/apostrophe-widgets/public/js/always.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-widgets/public/js/editor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/apostrophe-widgets/public/js/user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test-lib/test.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+   - mkdirSync
+   - symlinkSync
+
+Library: async
+Methods Called:
+   - series
+   - eachSeries
+
+------------------------------------------
+test/admin-bar.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/areas.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+   - strictEqual
+
+------------------------------------------
+test/attachments.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/base-module.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+   - equal
+
+------------------------------------------
+test/bootstrapping.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/caches.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/custom-pages.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+   - equal
+
+Library: request
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/data/local.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/data/local_fn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/data/local_fn_b.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/db.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/docs.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: lodash
+Methods Called:
+   - each
+   - contains
+
+Library: async
+Methods Called:
+   - series
+
+------------------------------------------
+test/express.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: lodash
+Methods Called:
+   - find
+
+Library: request
+Methods Called:
+   - jar
+   - main_method*
+
+------------------------------------------
+test/images.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: async
+Methods Called:
+   - each
+
+------------------------------------------
+test/launder.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/lib/modules/apostrophe-module/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/lib/modules/apostrophe-test-module-push/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/lib/modules/apostrophe-test-module/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/lib/modules/express-test/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/lib/modules/templates-options-test/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/lib/modules/templates-subclass-test/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/lib/modules/templates-test/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/lib/modules/test-get-option/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/locks.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: async
+Methods Called:
+   - series
+
+------------------------------------------
+test/login.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+   - equal
+
+Library: request
+Methods Called:
+   - jar
+   - main_method*
+   - post
+
+------------------------------------------
+test/oembed.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: request
+Methods Called:
+   - main_method*
+
+Library: qs
+Methods Called:
+   - stringify
+
+------------------------------------------
+test/pages.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+   - equal
+
+Library: lodash
+Methods Called:
+   - each
+   - contains
+
+Library: request
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/permissions.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: lodash
+Methods Called:
+   - extend
+
+------------------------------------------
+test/pieces-pages.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+   - equal
+
+Library: request
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/pieces-widgets.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+   - equal
+
+Library: lodash
+Methods Called:
+   - find
+
+Library: async
+Methods Called:
+   - eachSeries
+
+Library: request
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/pieces.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+   - fail
+
+Library: lodash
+Methods Called:
+   - merge
+
+Library: async
+Methods Called:
+   - each
+
+------------------------------------------
+test/push.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/schemaFilters.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: lodash
+Methods Called:
+   - pluck
+   - contains
+   - find
+
+Library: async
+Methods Called:
+   - series
+   - eachSeries
+
+------------------------------------------
+test/schemas.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: lodash
+Methods Called:
+   - find
+   - keys
+
+------------------------------------------
+test/search.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: lodash
+Methods Called:
+   - contains
+
+------------------------------------------
+test/tags.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: lodash
+Methods Called:
+   - contains
+   - each
+
+Library: request
+Methods Called:
+   - main_method*
+
+Library: async
+Methods Called:
+   - eachSeries
+
+------------------------------------------
+test/templates.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/urls.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: lodash
+Methods Called:
+   - contains
+
+------------------------------------------
+test/users.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: lodash
+Methods Called:
+   - each
+
+------------------------------------------
+test/utils.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: lodash
+Methods Called:
+   - isEqual
+
+------------------------------------------
+test/versions.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "yargs": {
+    "argv": true
+  },
+  "path": {
+    "dirname": true,
+    "resolve": true,
+    "relative": true,
+    "basename": true,
+    "extname": true,
+    "normalize": true
+  },
+  "lodash": {
+    "filter": true,
+    "keys": true,
+    "cloneDeep": true,
+    "merge": true,
+    "each": true,
+    "has": true,
+    "defaults": true,
+    "findIndex": true,
+    "find": true,
+    "contains": true,
+    "isEqual": true,
+    "map": true,
+    "pluck": true,
+    "some": true,
+    "assign": true,
+    "pick": true,
+    "union": true,
+    "clone": true,
+    "extend": true,
+    "values": true,
+    "omit": true,
+    "isEmpty": true,
+    "findLast": true,
+    "partial": true,
+    "groupBy": true,
+    "isNumber": true,
+    "get": true,
+    "difference": true,
+    "uniq": true,
+    "reject": true,
+    "intersection": true,
+    "reduce": true,
+    "startCase": true,
+    "isUndefined": true,
+    "isString": true,
+    "isPlainObject": true,
+    "isArray": true,
+    "size": true,
+    "str": true,
+    "forOwn": true,
+    "indexBy": true
+  },
+  "fs": {
+    "existsSync": true,
+    "mkdirSync": true,
+    "symlinkSync": true,
+    "writeFileSync": true,
+    "readFileSync": true,
+    "unlinkSync": true,
+    "lstatSync": true,
+    "readdirSync": true,
+    "statSync": true,
+    "openSync": true,
+    "readSync": true,
+    "writeSync": true,
+    "closeSync": true,
+    "unlink": true,
+    "watch": true,
+    "ReadStream": true,
+    "stat": true
+  },
+  "async": {
+    "series": true,
+    "eachSeries": true,
+    "eachLimit": true,
+    "map": true,
+    "mapSeries": true,
+    "whilst": true,
+    "forEachSeries": true,
+    "waterfall": true,
+    "each": true
+  },
+  "resolve": {
+    "sync": true
+  },
+  "deep-get-set": {
+    "main_method*": true
+  },
+  "uglify-js": {
+    "minify": true
+  },
+  "less": {
+    "render": true
+  },
+  "glob": {
+    "sync": true
+  },
+  "bless": {
+    "Parser": true
+  },
+  "less-middleware": {
+    "main_method*": true
+  },
+  "rimraf": {
+    "sync": true
+  },
+  "clean-css": {
+    "main_method*": true
+  },
+  "uploadfs": {
+    "main_method*": true
+  },
+  "mkdirp": {
+    "sync": true
+  },
+  "request": {
+    "head": true,
+    "main_method*": true,
+    "jar": true,
+    "post": true
+  },
+  "path-to-regexp": {
+    "main_method*": true
+  },
+  "mongodb": {
+    "MongoClient": true
+  },
+  "bluebird": {
+    "promisify": true
+  },
+  "minimatch": {
+    "makeRe": true
+  },
+  "server-destroy": {
+    "main_method*": true
+  },
+  "express": {
+    "main_method*": true
+  },
+  "i18n": {
+    "configure": true
+  },
+  "passport": {
+    "Passport": true
+  },
+  "passport-local": {
+    "main_method*": true
+  },
+  "broadband": {
+    "main_method*": true
+  },
+  "syntax-error": {
+    "main_method*": true
+  },
+  "cheerio": {
+    "load": true
+  },
+  "url": {
+    "parse": true
+  },
+  "sanitize-html": {
+    "main_method*": true
+  },
+  "diff": {
+    "diffSentences": true
+  },
+  "joinr": {
+    "byOne": true,
+    "byOneReverse": true,
+    "byArray": true,
+    "byArrayReverse": true
+  },
+  "moment": {
+    "main_method*": true
+  },
+  "qs": {
+    "stringify": true,
+    "parse": true
+  },
+  "./lib/nunjucksLoader.js": {
+    "main_method*": true
+  },
+  "credential": {
+    "main_method*": true
+  },
+  "prompt": {
+    "start": true,
+    "get": true
+  },
+  "xregexp": {
+    "XRegExp": true
+  },
+  "he": {
+    "decode": true
+  },
+  "crypto": {
+    "createHash": true
+  },
+  "cuid": {
+    "main_method*": true
+  },
+  "util": {
+    "inspect": true
+  },
+  "assert": {
+    "main_method*": true,
+    "strictEqual": true,
+    "equal": true,
+    "fail": true
+  }
+}

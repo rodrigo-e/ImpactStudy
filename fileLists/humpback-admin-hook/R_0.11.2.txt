@@ -1,0 +1,6 @@
+55ed40c51cb9c62efb410c277e066a960e3d32e2
+Gruntfile.js
+assets/js/dependencies/sails.io.js
+config/env/testing.js
+index.js
+test/bootstrap.spec.js

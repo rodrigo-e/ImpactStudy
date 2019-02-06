@@ -1,0 +1,30 @@
+------------------------------------------
+examples/employees.js
+------------------------------------------
+Library: mongoose
+Methods Called:
+   - createConnection
+   - Schema
+
+Library: express
+Methods Called:
+   - main_method*
+   - bodyParser
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "mongoose": {
+    "createConnection": true,
+    "Schema": true
+  },
+  "express": {
+    "main_method*": true,
+    "bodyParser": true
+  }
+}

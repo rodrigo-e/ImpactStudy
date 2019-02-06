@@ -1,0 +1,15 @@
+e969a60690228469462f2d18c792edd58575f154
+index.js
+lib/crypto/aspnet.js
+lib/crypto/iron.js
+lib/crypto/pbkdf2.js
+lib/crypto/sha.js
+lib/general/RegExes.js
+lib/general/log.js
+lib/stockpile.js
+test/RegExes.js
+test/aspnet.js
+test/iron.js
+test/log.js
+test/pbkdf2.js
+test/sha.js

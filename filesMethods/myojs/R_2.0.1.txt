@@ -1,0 +1,253 @@
+------------------------------------------
+build/myojs.min.js
+------------------------------------------
+Library: util
+Methods Called:
+   - r
+   - main_method*
+   - length
+   - undefined
+   - hasOwnProperty
+   - deviceInfo
+   - i
+   - e
+   - merge
+   - shift
+   - forEach
+   - map
+   - applyExtensions
+   - error
+   - maxPayload
+   - currentMessageLength
+   - currentMessage
+   - ontext
+   - onbinary
+   - unmask
+   - onclose
+   - reset
+   - onping
+   - onpong
+   - value
+   - isDefinedAndNonNull
+   - removeListener
+   - setTimeout
+   - setNoDelay
+   - fin
+   - emit
+   - _closeReceived
+   - _isServer
+   - terminate
+   - _closeTimer
+   - binary
+   - _listener
+   - connection
+   - history
+   - myo
+   - prototype
+   - on
+   - writeUInt32LE
+   - state
+   - messageEnd
+   - spanLength
+   - buffers
+   - parse
+   - _server
+   - handleUpgrade
+   - toString
+   - slice
+   - copy
+
+------------------------------------------
+examples/lib/Detector.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/lib/ImprovedNoise.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/lib/MyoControls.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/lib/TweenMax.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/lib/controls/FirstPersonControls.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/lib/three.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/models/animated/flamingo.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token :
+------------------------------------------
+examples/node_es5.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/node_es6.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/CircularBuffer.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Frame.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Hub.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Myo.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Pose.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Quaternion.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/Vector3.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/connection/BaseConnection.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/BaseConnection.spec.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/CircularBuffer.spec.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/Frame.spec.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/Hub.spec.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/Myo.spec.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/Pose.spec.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/Quaternion.spec.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/Vector3.spec.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+webpack.config.babel.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+
+All of the Methods:
+{
+  "util": {
+    "r": true,
+    "main_method*": true,
+    "length": true,
+    "undefined": true,
+    "hasOwnProperty": true,
+    "deviceInfo": true,
+    "i": true,
+    "e": true,
+    "merge": true,
+    "shift": true,
+    "forEach": true,
+    "map": true,
+    "applyExtensions": true,
+    "error": true,
+    "maxPayload": true,
+    "currentMessageLength": true,
+    "currentMessage": true,
+    "ontext": true,
+    "onbinary": true,
+    "unmask": true,
+    "onclose": true,
+    "reset": true,
+    "onping": true,
+    "onpong": true,
+    "value": true,
+    "isDefinedAndNonNull": true,
+    "removeListener": true,
+    "setTimeout": true,
+    "setNoDelay": true,
+    "fin": true,
+    "emit": true,
+    "_closeReceived": true,
+    "_isServer": true,
+    "terminate": true,
+    "_closeTimer": true,
+    "binary": true,
+    "_listener": true,
+    "connection": true,
+    "history": true,
+    "myo": true,
+    "prototype": true,
+    "on": true,
+    "writeUInt32LE": true,
+    "state": true,
+    "messageEnd": true,
+    "spanLength": true,
+    "buffers": true,
+    "parse": true,
+    "_server": true,
+    "handleUpgrade": true,
+    "toString": true,
+    "slice": true,
+    "copy": true
+  }
+}

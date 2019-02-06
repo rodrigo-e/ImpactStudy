@@ -1,0 +1,4 @@
+aef340d285692858ffee19dfc42f8e690ef15a7e
+index.js
+riot-i18n.min.js
+test/test.js

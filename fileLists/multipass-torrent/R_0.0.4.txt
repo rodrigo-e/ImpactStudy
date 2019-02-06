@@ -1,0 +1,11 @@
+eb6a314cd0406f798c56358b6285a273d4dd7219
+cli/multipass.js
+importers/dump.js
+importers/generic.js
+importers/json.js
+importers/xml-rss.js
+lib/db.js
+lib/importer.js
+lib/indexer.js
+lib/log.js
+lib/retriever.js

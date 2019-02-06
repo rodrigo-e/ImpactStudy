@@ -1,0 +1,119 @@
+------------------------------------------
+tests/cycles/bar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tests/cycles/foo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tests/error/fullOfErrors/bar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tests/error/fullOfErrors/foo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tests/success/allowJs/js/bar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tests/success/allowJs/js/foo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tests/success/allowJs/js/tests/success/allowJs/src/bar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tests/success/allowJs/js/tests/success/allowJs/src/foo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tests/success/allowJs/src/bar.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+tests/success/baseUrlAndPaths/deep/folder/bar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tests/success/baseUrlAndPaths/foo.js
+------------------------------------------
+Library: bar
+Methods Called:
+   - bar
+
+------------------------------------------
+tests/success/removeUnusedImports/bar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tests/success/removeUnusedImports/foo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tests/success/rootDirs/anotherFolder/anotherFolder/bar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tests/success/rootDirs/someFolder/someFolder/foo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tests/success/simple/bar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tests/success/simple/bas.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tests/success/simple/foo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tests/success/simple/nested/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tests/success/simple/nested/nested.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tests/success/virtualTest/virtualA.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tests/success/virtualTest/virtualB.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "bar": {
+    "bar": true
+  }
+}

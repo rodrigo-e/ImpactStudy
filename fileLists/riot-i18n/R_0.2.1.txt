@@ -1,0 +1,6 @@
+2254b8ab333810fd90ebba7032c0fc496634e2d4
+index.js
+riot-i18n.js
+riot-i18n.min.js
+scripts/pack.js
+test/test.js

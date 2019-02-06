@@ -1,0 +1,10 @@
+7a3b043d4ae2306a11e24817984d7269a97ba2fe
+examples/auth.js
+examples/basic.js
+lib/backend.js
+lib/browser.js
+lib/index.js
+middleware/cookieParser.js
+middleware/memoryStore.js
+middleware/mongooseStore.js
+middleware/session.js

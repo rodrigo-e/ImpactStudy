@@ -1,0 +1,248 @@
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+
+Library: gulp-jshint
+Methods Called:
+   - main_method*
+   - reporter
+
+Library: gulp-mocha
+Methods Called:
+   - main_method*
+
+------------------------------------------
+index.js
+------------------------------------------
+Library: os
+Methods Called:
+   - EOL
+
+Library: stream
+Methods Called:
+   - Readable
+
+Library: path
+Methods Called:
+   - join
+   - relative
+   - resolve
+   - sep
+   - basename
+   - dirname
+
+Library: fs
+Methods Called:
+   - readFile
+
+Library: through2
+Methods Called:
+   - obj
+
+Library: gulp-util
+Methods Called:
+   - File
+   - PluginError
+
+Library: glob
+Methods Called:
+   - sync
+
+Library: minimatch
+Methods Called:
+   - match
+
+Library: when
+Methods Called:
+   - defer
+   - all
+   - resolve
+
+Library: event-stream
+Methods Called:
+   - merge
+
+Library: gulp-concat
+Methods Called:
+   - main_method*
+
+Library: lodash
+Methods Called:
+   - difference
+   - union
+   - each
+   - isUndefined
+
+------------------------------------------
+test/expected/app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/expected/data/js/app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/expected/data/js/app_min_concat.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/expected/data/js/min-app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/expected/min-app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/alternative/js/util.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/js/lib.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/js/main.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/main.js
+------------------------------------------
+Library: stream
+Methods Called:
+   - PassThrough
+   - Readable
+
+Library: assert
+Methods Called:
+   - equal
+   - fail
+   - ok
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: gulp-util
+Methods Called:
+   - File
+
+Library: path
+Methods Called:
+   - dirname
+   - join
+   - basename
+
+Library: through2
+Methods Called:
+   - obj
+
+Library: gulp-uglify
+Methods Called:
+   - main_method*
+
+Library: gulp-minify-html
+Methods Called:
+   - main_method*
+
+Library: gulp-minify-css
+Methods Called:
+   - main_method*
+
+Library: gulp-rev
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "gulp": {
+    "task": true,
+    "src": true
+  },
+  "gulp-jshint": {
+    "main_method*": true,
+    "reporter": true
+  },
+  "gulp-mocha": {
+    "main_method*": true
+  },
+  "os": {
+    "EOL": true
+  },
+  "stream": {
+    "Readable": true,
+    "PassThrough": true
+  },
+  "path": {
+    "join": true,
+    "relative": true,
+    "resolve": true,
+    "sep": true,
+    "basename": true,
+    "dirname": true
+  },
+  "fs": {
+    "readFile": true,
+    "readFileSync": true
+  },
+  "through2": {
+    "obj": true
+  },
+  "gulp-util": {
+    "File": true,
+    "PluginError": true
+  },
+  "glob": {
+    "sync": true
+  },
+  "minimatch": {
+    "match": true
+  },
+  "when": {
+    "defer": true,
+    "all": true,
+    "resolve": true
+  },
+  "event-stream": {
+    "merge": true
+  },
+  "gulp-concat": {
+    "main_method*": true
+  },
+  "lodash": {
+    "difference": true,
+    "union": true,
+    "each": true,
+    "isUndefined": true
+  },
+  "assert": {
+    "equal": true,
+    "fail": true,
+    "ok": true
+  },
+  "gulp-uglify": {
+    "main_method*": true
+  },
+  "gulp-minify-html": {
+    "main_method*": true
+  },
+  "gulp-minify-css": {
+    "main_method*": true
+  },
+  "gulp-rev": {
+    "main_method*": true
+  }
+}

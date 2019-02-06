@@ -1,0 +1,36 @@
+------------------------------------------
+example/router/auth.js
+------------------------------------------
+Library: joi
+Methods Called:
+   - string
+
+Library: boom
+Methods Called:
+   - unauthorized
+
+------------------------------------------
+example/router/base.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/server.js
+------------------------------------------
+Library: hapi
+Methods Called:
+   - Server
+
+
+All of the Methods:
+{
+  "joi": {
+    "string": true
+  },
+  "boom": {
+    "unauthorized": true
+  },
+  "hapi": {
+    "Server": true
+  }
+}

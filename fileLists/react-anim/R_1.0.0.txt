@@ -1,0 +1,6 @@
+64683c03cf350b44b813375f236e8a85d99ac4ac
+src/AnimatedValue.js
+src/Animation.js
+src/Animator.js
+src/TimedAnimation.js
+src/index.js

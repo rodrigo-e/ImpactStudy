@@ -1,0 +1,35 @@
+------------------------------------------
+index.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: path
+Methods Called:
+   - join
+
+Library: socket.io
+Methods Called:
+   - main_method*
+
+Library: bytes
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "fs": {
+    "readFileSync": true
+  },
+  "path": {
+    "join": true
+  },
+  "socket.io": {
+    "main_method*": true
+  },
+  "bytes": {
+    "main_method*": true
+  }
+}

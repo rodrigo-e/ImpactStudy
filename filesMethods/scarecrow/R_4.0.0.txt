@@ -1,0 +1,58 @@
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: hoek
+Methods Called:
+   - assert
+   - applyToDefaults
+
+Library: oz
+Methods Called:
+   - endpoints
+   - server
+
+------------------------------------------
+test/index.js
+------------------------------------------
+Library: code
+Methods Called:
+   - expect
+
+Library: hapi
+Methods Called:
+   - server
+
+Library: lab
+Methods Called:
+   - script
+
+Library: oz
+Methods Called:
+   - hawk
+   - client
+   - ticket
+
+
+All of the Methods:
+{
+  "hoek": {
+    "assert": true,
+    "applyToDefaults": true
+  },
+  "oz": {
+    "endpoints": true,
+    "server": true,
+    "hawk": true,
+    "client": true,
+    "ticket": true
+  },
+  "code": {
+    "expect": true
+  },
+  "hapi": {
+    "server": true
+  },
+  "lab": {
+    "script": true
+  }
+}

@@ -1,0 +1,62 @@
+------------------------------------------
+Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/policies/AdminPolicy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+assets/js/dependencies/sails.io.js
+------------------------------------------
+Library: request
+Methods Called:
+   - get
+
+------------------------------------------
+config/env/testing.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/bootstrap.spec.js
+------------------------------------------
+Library: sails
+Methods Called:
+   - lift
+   - hooks
+   - lower
+
+Library: supertest
+Methods Called:
+   - main_method*
+
+Library: ../assets/js/dependencies/sails.io.js
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "request": {
+    "get": true
+  },
+  "sails": {
+    "lift": true,
+    "hooks": true,
+    "lower": true
+  },
+  "supertest": {
+    "main_method*": true
+  },
+  "../assets/js/dependencies/sails.io.js": {
+    "main_method*": true
+  }
+}

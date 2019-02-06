@@ -1,0 +1,5 @@
+40f077056fe5d3743c3f58b4778f89c6db34b01f
+Gruntfile.js
+dist/angular-selector.js
+dist/angular-selector.min.js
+src/angular-selector.js

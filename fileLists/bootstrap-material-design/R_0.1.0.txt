@@ -1,0 +1,6 @@
+86a7dde9fb99e5a8051f3d353fd0bafa605113e0
+gruntfile.js
+scripts/material.js
+scripts/ripples.js
+template/material/scripts/material.js
+template/material/scripts/ripples.js

@@ -1,0 +1,165 @@
+------------------------------------------
+Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/controllers/AuthController.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - merge
+
+Library: humpback-hook/api/controllers/AuthController
+Methods Called:
+   - callback
+
+------------------------------------------
+api/controllers/RouteController.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - merge
+
+------------------------------------------
+api/controllers/UserController.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - merge
+
+------------------------------------------
+api/models/Alert.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - merge
+
+------------------------------------------
+api/models/Criteria.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - merge
+
+------------------------------------------
+api/models/Model.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - merge
+
+------------------------------------------
+api/models/Passport.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - merge
+
+------------------------------------------
+api/models/Permission.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - merge
+
+------------------------------------------
+api/models/RequestLog.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - merge
+
+------------------------------------------
+api/models/Role.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - merge
+
+------------------------------------------
+api/models/Route.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - merge
+
+------------------------------------------
+api/models/SecurityLog.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - merge
+
+------------------------------------------
+api/models/Setting.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - merge
+
+------------------------------------------
+api/models/User.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - merge
+
+------------------------------------------
+assets/js/dependencies/sails.io.js
+------------------------------------------
+Library: request
+Methods Called:
+   - get
+
+------------------------------------------
+config/env/testing.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/bootstrap.spec.js
+------------------------------------------
+Library: sails
+Methods Called:
+   - lift
+   - hooks
+   - lower
+
+Library: supertest
+Methods Called:
+   - main_method*
+
+Library: ../assets/js/dependencies/sails.io.js
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "lodash": {
+    "merge": true
+  },
+  "humpback-hook/api/controllers/AuthController": {
+    "callback": true
+  },
+  "request": {
+    "get": true
+  },
+  "sails": {
+    "lift": true,
+    "hooks": true,
+    "lower": true
+  },
+  "supertest": {
+    "main_method*": true
+  },
+  "../assets/js/dependencies/sails.io.js": {
+    "main_method*": true
+  }
+}

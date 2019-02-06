@@ -1,0 +1,19 @@
+------------------------------------------
+Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/version-check-grunt.js
+------------------------------------------
+Library: bower
+Methods Called:
+   - commands
+
+
+All of the Methods:
+{
+  "bower": {
+    "commands": true
+  }
+}

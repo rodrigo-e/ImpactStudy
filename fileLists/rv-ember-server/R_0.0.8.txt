@@ -1,0 +1,8 @@
+aafafc0d03b321e556c8ea21cd43ec77e314460e
+dist/js/app.js
+dist/js/backbone.js
+dist/js/jquery-1.11.2.js
+dist/js/underscore.js
+index.js
+lib/auth.js
+lib/conf.js

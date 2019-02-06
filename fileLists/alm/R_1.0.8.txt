@@ -1,0 +1,3 @@
+afc496165d69ac6e99222fffc26321b975c5fa68
+tests/success/simple/bas.js
+tests/success/simple/foo.js

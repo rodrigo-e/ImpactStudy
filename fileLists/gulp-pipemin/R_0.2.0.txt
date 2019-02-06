@@ -1,0 +1,10 @@
+a2ec5c3328e1832bef0498ed3c5841fbac753328
+gulpfile.js
+index.js
+test/expected/app.js
+test/expected/data/js/app.js
+test/expected/data/js/min-app.js
+test/expected/min-app.js
+test/fixtures/js/lib.js
+test/fixtures/js/main.js
+test/main.js

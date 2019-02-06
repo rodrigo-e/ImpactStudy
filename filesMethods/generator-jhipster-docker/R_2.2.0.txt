@@ -1,0 +1,92 @@
+------------------------------------------
+generators/app/index.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - exec
+
+Library: yeoman-generator
+Methods Called:
+   - Base
+
+Library: chalk
+Methods Called:
+   - cyan
+   - white
+   - bold
+   - yellow
+   - red
+
+Library: remote-origin-url
+Methods Called:
+   - sync
+
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+
+------------------------------------------
+test/test-dockercompose.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: fs-extra
+Methods Called:
+   - copySync
+
+Library: yeoman-assert
+Methods Called:
+   - file
+   - fileContent
+
+Library: yeoman-test
+Methods Called:
+   - createDummyGenerator
+   - run
+
+
+All of the Methods:
+{
+  "child_process": {
+    "exec": true
+  },
+  "yeoman-generator": {
+    "Base": true
+  },
+  "chalk": {
+    "cyan": true,
+    "white": true,
+    "bold": true,
+    "yellow": true,
+    "red": true
+  },
+  "remote-origin-url": {
+    "sync": true
+  },
+  "gulp": {
+    "task": true,
+    "src": true,
+    "dest": true
+  },
+  "path": {
+    "join": true
+  },
+  "fs-extra": {
+    "copySync": true
+  },
+  "yeoman-assert": {
+    "file": true,
+    "fileContent": true
+  },
+  "yeoman-test": {
+    "createDummyGenerator": true,
+    "run": true
+  }
+}

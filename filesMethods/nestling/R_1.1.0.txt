@@ -1,0 +1,69 @@
+------------------------------------------
+examples/change-temperature.js
+------------------------------------------
+Library: insync
+Methods Called:
+   - waterfall
+
+------------------------------------------
+examples/streaming-api.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: boom
+Methods Called:
+   - create
+
+Library: hoek
+Methods Called:
+   - clone
+
+Library: wreck
+Methods Called:
+   - get
+   - put
+
+------------------------------------------
+lib/neststreaming.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: util
+Methods Called:
+   - inherits
+
+Library: firebase
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "insync": {
+    "waterfall": true
+  },
+  "boom": {
+    "create": true
+  },
+  "hoek": {
+    "clone": true
+  },
+  "wreck": {
+    "get": true,
+    "put": true
+  },
+  "events": {
+    "EventEmitter": true
+  },
+  "util": {
+    "inherits": true
+  },
+  "firebase": {
+    "main_method*": true
+  }
+}

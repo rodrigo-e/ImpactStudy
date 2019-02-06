@@ -1,0 +1,108 @@
+------------------------------------------
+bin/whathappened.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+index.js
+------------------------------------------
+Library: npm
+Methods Called:
+   - load
+   - commands
+
+Library: util
+Methods Called:
+   - inherits
+
+Library: semver
+Methods Called:
+   - validRange
+   - valid
+   - satisfies
+   - gt
+
+Library: async
+Methods Called:
+   - parallel
+
+Library: lodash
+Methods Called:
+   - defaults
+   - extend
+
+Library: debug
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/test01/test01.js
+------------------------------------------
+Library: sinon
+Methods Called:
+   - sandbox
+
+Library: assert
+Methods Called:
+   - strictEqual
+   - main_method*
+   - equal
+   - ifError
+
+Library: npm
+Methods Called:
+   - commands
+
+------------------------------------------
+test/test02/test02.js
+------------------------------------------
+Library: sinon
+Methods Called:
+   - sandbox
+
+Library: assert
+Methods Called:
+   - main_method*
+   - equal
+   - ifError
+
+Library: npm
+Methods Called:
+   - commands
+
+
+All of the Methods:
+{
+  "npm": {
+    "load": true,
+    "commands": true
+  },
+  "util": {
+    "inherits": true
+  },
+  "semver": {
+    "validRange": true,
+    "valid": true,
+    "satisfies": true,
+    "gt": true
+  },
+  "async": {
+    "parallel": true
+  },
+  "lodash": {
+    "defaults": true,
+    "extend": true
+  },
+  "debug": {
+    "main_method*": true
+  },
+  "sinon": {
+    "sandbox": true
+  },
+  "assert": {
+    "strictEqual": true,
+    "main_method*": true,
+    "equal": true,
+    "ifError": true
+  }
+}

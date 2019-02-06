@@ -1,0 +1,55 @@
+------------------------------------------
+index.js
+------------------------------------------
+Library: hapi
+Methods Called:
+   - Server
+
+Library: jsonwebtoken
+Methods Called:
+   - sign
+   - decode
+
+Library: aguid
+Methods Called:
+   - main_method*
+
+Library: redis-connection
+Methods Called:
+   - set
+   - get
+   - end
+
+------------------------------------------
+test/test.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: jsonwebtoken
+Methods Called:
+   - sign
+
+
+All of the Methods:
+{
+  "hapi": {
+    "Server": true
+  },
+  "jsonwebtoken": {
+    "sign": true,
+    "decode": true
+  },
+  "aguid": {
+    "main_method*": true
+  },
+  "redis-connection": {
+    "set": true,
+    "get": true,
+    "end": true
+  },
+  "tape": {
+    "main_method*": true
+  }
+}

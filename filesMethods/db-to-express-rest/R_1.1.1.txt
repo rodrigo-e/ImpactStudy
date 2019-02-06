@@ -1,0 +1,109 @@
+------------------------------------------
+examples/by-monk-collection.js
+------------------------------------------
+Library: express
+Methods Called:
+   - main_method*
+
+Library: monk
+Methods Called:
+   - get
+
+------------------------------------------
+examples/by-nedb-object.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: express
+Methods Called:
+   - main_method*
+
+Library: nedb
+Methods Called:
+   - main_method*
+
+------------------------------------------
+examples/simple-monk-with-uri.js
+------------------------------------------
+Library: express
+Methods Called:
+   - main_method*
+
+------------------------------------------
+examples/simple-monk.js
+------------------------------------------
+Library: express
+Methods Called:
+   - main_method*
+
+------------------------------------------
+examples/simple-validation.js
+------------------------------------------
+Library: express
+Methods Called:
+   - main_method*
+
+------------------------------------------
+examples/simple.js
+------------------------------------------
+Library: express
+Methods Called:
+   - main_method*
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: debug
+Methods Called:
+   - main_method*
+
+Library: nedb
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/rest.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/exposedcollection.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/index.js
+------------------------------------------
+Library: supertest
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "express": {
+    "main_method*": true
+  },
+  "monk": {
+    "get": true
+  },
+  "path": {
+    "join": true
+  },
+  "nedb": {
+    "main_method*": true
+  },
+  "debug": {
+    "main_method*": true
+  },
+  "supertest": {
+    "main_method*": true
+  }
+}

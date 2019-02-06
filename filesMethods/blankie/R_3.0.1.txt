@@ -1,0 +1,170 @@
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: crypto
+Methods Called:
+   - randomBytes
+   - pseudoRandomBytes
+
+Library: hoek
+Methods Called:
+   - clone
+   - applyToDefaults
+
+------------------------------------------
+lib/schema.js
+------------------------------------------
+Library: joi
+Methods Called:
+   - object
+   - array
+   - string
+   - boolean
+   - alternatives
+
+------------------------------------------
+test/chrome.js
+------------------------------------------
+Library: browser-agents
+Methods Called:
+   - Chrome
+
+Library: hapi
+Methods Called:
+   - Server
+
+Library: code
+Methods Called:
+   - expect
+
+Library: lab
+Methods Called:
+   - script
+
+------------------------------------------
+test/firefox.js
+------------------------------------------
+Library: browser-agents
+Methods Called:
+   - Firefox
+
+Library: hapi
+Methods Called:
+   - Server
+
+Library: code
+Methods Called:
+   - expect
+
+Library: lab
+Methods Called:
+   - script
+
+------------------------------------------
+test/generic.js
+------------------------------------------
+Library: crypto
+Methods Called:
+   - _randomBytes
+   - randomBytes
+
+Library: hapi
+Methods Called:
+   - Server
+
+Library: code
+Methods Called:
+   - expect
+
+Library: lab
+Methods Called:
+   - script
+
+------------------------------------------
+test/ie.js
+------------------------------------------
+Library: browser-agents
+Methods Called:
+   - IE
+
+Library: hapi
+Methods Called:
+   - Server
+
+Library: code
+Methods Called:
+   - expect
+
+Library: lab
+Methods Called:
+   - script
+
+------------------------------------------
+test/index.js
+------------------------------------------
+Library: hapi
+Methods Called:
+   - Server
+
+Library: code
+Methods Called:
+   - expect
+
+Library: lab
+Methods Called:
+   - script
+
+------------------------------------------
+test/safari.js
+------------------------------------------
+Library: browser-agents
+Methods Called:
+   - Safari
+
+Library: hapi
+Methods Called:
+   - Server
+
+Library: code
+Methods Called:
+   - expect
+
+Library: lab
+Methods Called:
+   - script
+
+
+All of the Methods:
+{
+  "crypto": {
+    "randomBytes": true,
+    "pseudoRandomBytes": true,
+    "_randomBytes": true
+  },
+  "hoek": {
+    "clone": true,
+    "applyToDefaults": true
+  },
+  "joi": {
+    "object": true,
+    "array": true,
+    "string": true,
+    "boolean": true,
+    "alternatives": true
+  },
+  "browser-agents": {
+    "Chrome": true,
+    "Firefox": true,
+    "IE": true,
+    "Safari": true
+  },
+  "hapi": {
+    "Server": true
+  },
+  "code": {
+    "expect": true
+  },
+  "lab": {
+    "script": true
+  }
+}

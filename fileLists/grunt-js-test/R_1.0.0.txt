@@ -1,0 +1,16 @@
+e6f4ce1c09e594d18536b960ac68625e30453e8c
+tasks/js-test-env.js
+tasks/lib/deps.js
+tasks/lib/findTests.js
+tasks/lib/phantom-bridge.js
+tasks/lib/server.js
+tasks/lib/utils.js
+views/deps/bootstrap.min.js
+views/deps/chai.js
+views/deps/iframes.js
+views/deps/jquery.js
+views/deps/jscoverage.head.js
+views/deps/jscoverage.js
+views/deps/mocha.js
+views/deps/shared.js
+views/deps/sinon.js

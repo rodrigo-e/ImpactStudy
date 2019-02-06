@@ -1,0 +1,10 @@
+aa945295dd08e5036f9bc3ec1278a7fb9dbfec53
+example/index.js
+example/models.js
+lib/index.js
+lib/utils.js
+src/index.js
+src/utils.js
+test/models.js
+test/post-save.js
+test/pre-save.js

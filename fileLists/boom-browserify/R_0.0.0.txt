@@ -1,0 +1,5 @@
+2b057ae847f89de2c97a2de51ba915439e12f952
+lib/index.js
+shim/hoek.js
+shim/http.js
+test/index.js

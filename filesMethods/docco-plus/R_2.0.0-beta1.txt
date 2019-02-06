@@ -1,0 +1,191 @@
+------------------------------------------
+Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/document.js
+------------------------------------------
+Library: fs-extra
+Methods Called:
+   - readFile
+   - outputFile
+   - readFileSync
+
+Library: bluebird
+Methods Called:
+   - promisify
+   - all
+
+Library: underscore
+Methods Called:
+   - template
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+lib/file-resolver.js
+------------------------------------------
+Library: path
+Methods Called:
+   - resolve
+   - extname
+
+Library: fs-extra
+Methods Called:
+   - ensureDir
+   - stat
+   - copy
+   - readFile
+
+Library: bluebird
+Methods Called:
+   - promisify
+   - all
+
+------------------------------------------
+lib/formatter.js
+------------------------------------------
+Library: marked
+Methods Called:
+   - setOptions
+   - main_method*
+
+Library: path
+Methods Called:
+   - extname
+
+Library: highlight.js
+Methods Called:
+   - getLanguage
+   - highlight
+
+Library: escape-html
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/markdown-renderer.js
+------------------------------------------
+Library: marked
+Methods Called:
+   - Renderer
+
+Library: path
+Methods Called:
+   - resolve
+   - dirname
+   - relative
+   - join
+
+------------------------------------------
+lib/normalizer.js
+------------------------------------------
+Library: bluebird
+Methods Called:
+   - promisify
+   - all
+
+Library: fs-extra
+Methods Called:
+   - readFile
+   - stat
+   - readFileSync
+   - readJsonSync
+
+Library: path
+Methods Called:
+   - extname
+
+Library: underscore
+Methods Called:
+   - template
+
+------------------------------------------
+lib/parser.js
+------------------------------------------
+Library: path
+Methods Called:
+   - extname
+
+------------------------------------------
+lib/resources/bootstrap.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/run.js
+------------------------------------------
+Library: commander
+Methods Called:
+   - version
+   - args
+   - helpInformation
+
+------------------------------------------
+lib/writer.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+   - relative
+   - dirname
+   - normalize
+   - basename
+
+Library: fs-extra
+Methods Called:
+   - outputFile
+
+Library: bluebird
+Methods Called:
+   - promisify
+
+
+All of the Methods:
+{
+  "fs-extra": {
+    "readFile": true,
+    "outputFile": true,
+    "readFileSync": true,
+    "ensureDir": true,
+    "stat": true,
+    "copy": true,
+    "readJsonSync": true
+  },
+  "bluebird": {
+    "promisify": true,
+    "all": true
+  },
+  "underscore": {
+    "template": true
+  },
+  "path": {
+    "join": true,
+    "resolve": true,
+    "extname": true,
+    "dirname": true,
+    "relative": true,
+    "normalize": true,
+    "basename": true
+  },
+  "marked": {
+    "setOptions": true,
+    "main_method*": true,
+    "Renderer": true
+  },
+  "highlight.js": {
+    "getLanguage": true,
+    "highlight": true
+  },
+  "escape-html": {
+    "main_method*": true
+  },
+  "commander": {
+    "version": true,
+    "args": true,
+    "helpInformation": true
+  }
+}

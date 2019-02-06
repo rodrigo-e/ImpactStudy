@@ -1,0 +1,7 @@
+d32cbfb1a3724bd2cc187e4da540f74946febd6e
+index.js
+src/main.js
+test/support/index.js
+test/unit/app.js
+test/unit/node-fetch.test.js
+test/unit/whatwg-fetch.test.js

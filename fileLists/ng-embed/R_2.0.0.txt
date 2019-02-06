@@ -1,0 +1,5 @@
+352fd919e009fbb2ec2c4c9710855e2395b1b2f4
+GruntFile.js
+demo/js/app.js
+dist/ng-emoticons.min.js
+src/ng-emoticons.js

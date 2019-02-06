@@ -1,0 +1,14 @@
+78820f075881bf46623cf23c03303ef4a21ac34b
+dist/officebot-sdk-min.js
+dist/officebot-sdk.js
+gulpfile.js
+index.js
+sdk-core/api-endpoint-config.js
+sdk-core/api-endpoint.js
+sdk-core/api-provider.js
+sdk-core/api.js
+sdk-core/cache.js
+sdk-core/index.js
+sdk-core/model.js
+sdk-core/transport.js
+sdk-core/utils.js

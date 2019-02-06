@@ -1,0 +1,151 @@
+------------------------------------------
+bin/router.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+bin/server.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+Library: url
+Methods Called:
+   - parse
+
+------------------------------------------
+bin/start.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - exec
+
+Library: path
+Methods Called:
+   - resolve
+
+Library: fs
+Methods Called:
+   - existsSync
+
+------------------------------------------
+bin/websocket.js
+------------------------------------------
+Library: websocket
+Methods Called:
+   - server
+
+------------------------------------------
+config.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/configfile.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+lib/encoding.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/handler.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - stat
+   - readFile
+
+Library: zlib
+Methods Called:
+   - contentEncoding
+
+------------------------------------------
+lib/mime.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/static.js
+------------------------------------------
+Library: path
+Methods Called:
+   - extname
+   - resolve
+   - sep
+
+Library: fs
+Methods Called:
+   - exists
+   - stat
+   - readFile
+
+Library: zlib
+Methods Called:
+   - contentEncoding
+
+Library: querystring
+Methods Called:
+   - parse
+
+------------------------------------------
+website/singlepage/backend/requesthandler.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+website/singlepage/script/app.combo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+website/singlepage/script/vendors.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "http": {
+    "createServer": true
+  },
+  "url": {
+    "parse": true
+  },
+  "child_process": {
+    "exec": true
+  },
+  "path": {
+    "resolve": true,
+    "extname": true,
+    "sep": true
+  },
+  "fs": {
+    "existsSync": true,
+    "readFileSync": true,
+    "stat": true,
+    "readFile": true,
+    "exists": true
+  },
+  "websocket": {
+    "server": true
+  },
+  "zlib": {
+    "contentEncoding": true
+  },
+  "querystring": {
+    "parse": true
+  }
+}

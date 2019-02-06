@@ -1,0 +1,13 @@
+68f611b1502024ea07d4ce74e71f1df7e135ffa4
+Gruntfile.js
+dest/angular-draw-chem.js
+dest/angular-draw-chem.min.js
+src/angular-draw-chem-app.js
+src/components/editor/editor-directive-test.js
+src/components/editor/editor-directive.js
+src/components/editor/editor-service-test.js
+src/components/editor/editor-service.js
+tests/assets/angular-mocks.js
+tests/assets/angular-sanitize.js
+tests/assets/angular.js
+tests/karma.conf.js

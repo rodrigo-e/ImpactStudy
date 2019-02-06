@@ -1,0 +1,493 @@
+------------------------------------------
+client/assets/scripts/app.js
+------------------------------------------
+Library: angular
+Methods Called:
+   - module
+
+------------------------------------------
+client/assets/scripts/config.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+client/assets/scripts/controllers/console.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/assets/scripts/controllers/home.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/assets/scripts/controllers/navigation.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/assets/scripts/controllers/pagination.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/assets/scripts/controllers/search-results.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - find
+
+------------------------------------------
+client/assets/scripts/controllers/search.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/assets/scripts/controllers/settings.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - isEqual
+
+------------------------------------------
+client/assets/scripts/directives/console.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+client/assets/scripts/directives/focus.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/assets/scripts/directives/navigation.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+client/assets/scripts/directives/new-tab.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/assets/scripts/directives/pagination.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+client/assets/scripts/directives/popover.js
+------------------------------------------
+Library: jquery
+Methods Called:
+   - main_method*
+
+------------------------------------------
+client/assets/scripts/directives/scroll.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/assets/scripts/directives/tooltip.js
+------------------------------------------
+Library: jquery
+Methods Called:
+   - main_method*
+
+------------------------------------------
+client/assets/scripts/filters/from-now.js
+------------------------------------------
+Library: moment
+Methods Called:
+   - main_method*
+
+------------------------------------------
+client/assets/scripts/services/bower.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - has
+
+------------------------------------------
+client/assets/scripts/services/process.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - isArray
+   - some
+   - without
+
+------------------------------------------
+client/assets/scripts/services/search.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - filter
+   - find
+   - groupBy
+   - forEach
+   - isArray
+   - sortBy
+   - findIndex
+
+------------------------------------------
+client/assets/scripts/services/settings.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - mixin
+   - cloneDeep
+   - deepMapValues
+   - deepGet
+   - merge
+
+------------------------------------------
+client/assets/scripts/services/socket.js
+------------------------------------------
+Library: socket.io-client
+Methods Called:
+   - main_method*
+
+------------------------------------------
+client/assets/scripts/values/ignore.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/assets/scripts/values/whitelist.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+   - watch
+
+Library: gulp-load-plugins
+Methods Called:
+   - jscs
+   - jshint
+   - mocha
+   - util
+   - sourcemaps
+   - if
+   - uglify
+   - rubySass
+   - autoprefixer
+   - minifyCss
+   - useref
+   - nodemon
+   - livereload
+
+Library: vinyl-source-stream
+Methods Called:
+   - main_method*
+
+Library: vinyl-buffer
+Methods Called:
+   - main_method*
+
+Library: multipipe
+Methods Called:
+   - main_method*
+
+Library: run-sequence
+Methods Called:
+   - main_method*
+
+Library: browserify
+Methods Called:
+   - main_method*
+
+Library: watchify
+Methods Called:
+   - args
+   - main_method*
+
+Library: del
+Methods Called:
+   - main_method*
+
+Library: minimist
+Methods Called:
+   - main_method*
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/cli.js
+------------------------------------------
+Library: update-notifier
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: gaze
+Methods Called:
+   - Gaze
+
+Library: util
+Methods Called:
+   - inherits
+
+Library: path
+Methods Called:
+   - join
+   - resolve
+   - basename
+
+Library: fs
+Methods Called:
+   - statSync
+   - createWriteStream
+   - readFileSync
+   - writeFileSync
+
+Library: os
+Methods Called:
+   - tmpdir
+
+Library: win-spawn
+Methods Called:
+   - main_method*
+
+Library: lodash
+Methods Called:
+   - merge
+
+Library: async
+Methods Called:
+   - queue
+
+Library: opn
+Methods Called:
+   - main_method*
+
+Library: request
+Methods Called:
+   - main_method*
+
+Library: mkdirp
+Methods Called:
+   - sync
+
+Library: chalk
+Methods Called:
+   - magenta
+   - red
+   - green
+
+Library: connect
+Methods Called:
+   - use
+
+------------------------------------------
+lib/utils/is-json-file.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+lib/utils/is-new-file.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - statSync
+
+------------------------------------------
+lib/utils/verify-env.js
+------------------------------------------
+Library: which
+Methods Called:
+   - sync
+
+Library: is-root
+Methods Called:
+   - main_method*
+
+Library: chalk
+Methods Called:
+   - red
+
+------------------------------------------
+test/server-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - main_method*
+
+Library: request
+Methods Called:
+   - main_method*
+
+Library: lodash
+Methods Called:
+   - merge
+
+------------------------------------------
+test/server.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "angular": {
+    "module": true
+  },
+  "fs": {
+    "readFileSync": true,
+    "statSync": true,
+    "createWriteStream": true,
+    "writeFileSync": true
+  },
+  "lodash": {
+    "find": true,
+    "isEqual": true,
+    "has": true,
+    "isArray": true,
+    "some": true,
+    "without": true,
+    "filter": true,
+    "groupBy": true,
+    "forEach": true,
+    "sortBy": true,
+    "findIndex": true,
+    "mixin": true,
+    "cloneDeep": true,
+    "deepMapValues": true,
+    "deepGet": true,
+    "merge": true
+  },
+  "jquery": {
+    "main_method*": true
+  },
+  "moment": {
+    "main_method*": true
+  },
+  "socket.io-client": {
+    "main_method*": true
+  },
+  "gulp": {
+    "task": true,
+    "src": true,
+    "dest": true,
+    "watch": true
+  },
+  "gulp-load-plugins": {
+    "jscs": true,
+    "jshint": true,
+    "mocha": true,
+    "util": true,
+    "sourcemaps": true,
+    "if": true,
+    "uglify": true,
+    "rubySass": true,
+    "autoprefixer": true,
+    "minifyCss": true,
+    "useref": true,
+    "nodemon": true,
+    "livereload": true
+  },
+  "vinyl-source-stream": {
+    "main_method*": true
+  },
+  "vinyl-buffer": {
+    "main_method*": true
+  },
+  "multipipe": {
+    "main_method*": true
+  },
+  "run-sequence": {
+    "main_method*": true
+  },
+  "browserify": {
+    "main_method*": true
+  },
+  "watchify": {
+    "args": true,
+    "main_method*": true
+  },
+  "del": {
+    "main_method*": true
+  },
+  "minimist": {
+    "main_method*": true
+  },
+  "update-notifier": {
+    "main_method*": true
+  },
+  "events": {
+    "EventEmitter": true
+  },
+  "gaze": {
+    "Gaze": true
+  },
+  "util": {
+    "inherits": true
+  },
+  "path": {
+    "join": true,
+    "resolve": true,
+    "basename": true
+  },
+  "os": {
+    "tmpdir": true
+  },
+  "win-spawn": {
+    "main_method*": true
+  },
+  "async": {
+    "queue": true
+  },
+  "opn": {
+    "main_method*": true
+  },
+  "request": {
+    "main_method*": true
+  },
+  "mkdirp": {
+    "sync": true
+  },
+  "chalk": {
+    "magenta": true,
+    "red": true,
+    "green": true
+  },
+  "connect": {
+    "use": true
+  },
+  "which": {
+    "sync": true
+  },
+  "is-root": {
+    "main_method*": true
+  },
+  "assert": {
+    "equal": true,
+    "main_method*": true
+  }
+}

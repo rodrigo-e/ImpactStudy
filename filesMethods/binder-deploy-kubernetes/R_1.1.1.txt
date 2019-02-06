@@ -1,0 +1,510 @@
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/cli.js
+------------------------------------------
+Library: binder-utils
+Methods Called:
+   - startWithPM2
+
+Library: lodash
+Methods Called:
+   - merge
+   - forEach
+   - map
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: shelljs
+Methods Called:
+   - exec
+
+Library: path
+Methods Called:
+   - resolve
+   - join
+
+Library: commander
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/client.js
+------------------------------------------
+Library: kube-stream
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/cluster.js
+------------------------------------------
+Library: binder-logging
+Methods Called:
+   - getLogger
+
+Library: async
+Methods Called:
+   - each
+   - series
+
+Library: string-format
+Methods Called:
+   - extend
+
+------------------------------------------
+lib/models.js
+------------------------------------------
+Library: binder-logging
+Methods Called:
+   - getLogger
+
+Library: lodash
+Methods Called:
+   - map
+
+Library: async
+Methods Called:
+   - each
+
+Library: hat
+Methods Called:
+   - main_method*
+
+Library: string-format
+Methods Called:
+   - extend
+
+------------------------------------------
+lib/pool.js
+------------------------------------------
+Library: binder-logging
+Methods Called:
+   - getLogger
+
+------------------------------------------
+lib/proxy.js
+------------------------------------------
+Library: binder-logging
+Methods Called:
+   - getLogger
+
+Library: lodash
+Methods Called:
+   - filter
+   - get
+   - find
+   - partial
+
+Library: async
+Methods Called:
+   - series
+   - parallel
+   - retry
+
+Library: hat
+Methods Called:
+   - main_method*
+
+Library: url-join
+Methods Called:
+   - main_method*
+
+Library: request
+Methods Called:
+   - post
+   - main_method*
+
+Library: string-format
+Methods Called:
+   - extend
+
+------------------------------------------
+lib/registry.js
+------------------------------------------
+Library: binder-logging
+Methods Called:
+   - getLogger
+
+Library: fs
+Methods Called:
+   - readFile
+
+Library: path
+Methods Called:
+   - join
+
+Library: lodash
+Methods Called:
+   - startsWith
+
+Library: url-join
+Methods Called:
+   - main_method*
+
+Library: request
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/server.js
+------------------------------------------
+Library: binder-utils
+Methods Called:
+   - startWithPM2
+
+Library: binder-db
+Methods Called:
+   - getDatabase
+
+Library: path
+Methods Called:
+   - join
+
+Library: lodash
+Methods Called:
+   - merge
+   - forEach
+
+Library: async
+Methods Called:
+   - each
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+Library: shelljs
+Methods Called:
+   - which
+   - exec
+
+------------------------------------------
+lib/settings.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: jsonfile
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+lib/state/app.js
+------------------------------------------
+Library: util
+Methods Called:
+   - inherits
+
+Library: lodash
+Methods Called:
+   - assignIn
+   - filter
+   - get
+   - some
+
+Library: async
+Methods Called:
+   - each
+   - series
+
+Library: mongoose
+Methods Called:
+   - Schema
+
+Library: string-format
+Methods Called:
+   - extend
+
+------------------------------------------
+lib/state/db/mongo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/state/pool.js
+------------------------------------------
+Library: binder-logging
+Methods Called:
+   - getLogger
+
+Library: lodash
+Methods Called:
+   - range
+   - where
+   - without
+   - find
+
+Library: async
+Methods Called:
+   - each
+
+------------------------------------------
+scripts/daemon.js
+------------------------------------------
+Library: binder-logging
+Methods Called:
+   - getLogger
+
+Library: binder-db
+Methods Called:
+   - getDatabase
+
+Library: lodash
+Methods Called:
+   - map
+
+Library: async
+Methods Called:
+   - eachLimit
+
+Library: string-format
+Methods Called:
+   - extend
+
+------------------------------------------
+scripts/postinstall.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+   - mkdirSync
+   - createReadStream
+   - createWriteStream
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+start.js
+------------------------------------------
+Library: commander
+Methods Called:
+   - version
+   - help
+   - parse
+
+------------------------------------------
+test/1-main.js
+------------------------------------------
+Library: binder-utils
+Methods Called:
+   - startWithPM2
+
+Library: wait.for
+Methods Called:
+   - launchFiber
+
+Library: shelljs
+Methods Called:
+   - which
+
+Library: string-format
+Methods Called:
+   - extend
+
+------------------------------------------
+test/2-app.js
+------------------------------------------
+Library: binder-db
+Methods Called:
+   - getDatabase
+
+Library: lodash
+Methods Called:
+   - map
+   - keys
+   - filter
+   - get
+   - forEach
+
+Library: async
+Methods Called:
+   - each
+   - retry
+
+Library: assert
+Methods Called:
+   - notEqual
+   - equal
+   - deepEqual
+   - main_method*
+
+Library: request
+Methods Called:
+   - main_method*
+
+Library: url-join
+Methods Called:
+   - main_method*
+
+Library: kube-test-utils
+Methods Called:
+   - makeNamespace
+
+------------------------------------------
+test/3-collection.js
+------------------------------------------
+Library: binder-db
+Methods Called:
+   - getDatabase
+
+Library: util
+Methods Called:
+   - inherits
+
+Library: lodash
+Methods Called:
+   - assignIn
+   - partial
+   - range
+
+Library: async
+Methods Called:
+   - parallel
+   - each
+   - series
+
+Library: assert
+Methods Called:
+   - equal
+   - main_method*
+
+------------------------------------------
+test/4-registry.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/pools.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/proxy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/state.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/util.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - isEqual
+   - omit
+   - functions
+
+
+All of the Methods:
+{
+  "binder-utils": {
+    "startWithPM2": true
+  },
+  "lodash": {
+    "merge": true,
+    "forEach": true,
+    "map": true,
+    "filter": true,
+    "get": true,
+    "find": true,
+    "partial": true,
+    "startsWith": true,
+    "assignIn": true,
+    "some": true,
+    "range": true,
+    "where": true,
+    "without": true,
+    "keys": true,
+    "isEqual": true,
+    "omit": true,
+    "functions": true
+  },
+  "fs": {
+    "readFileSync": true,
+    "readFile": true,
+    "existsSync": true,
+    "mkdirSync": true,
+    "createReadStream": true,
+    "createWriteStream": true
+  },
+  "shelljs": {
+    "exec": true,
+    "which": true
+  },
+  "path": {
+    "resolve": true,
+    "join": true
+  },
+  "commander": {
+    "main_method*": true,
+    "version": true,
+    "help": true,
+    "parse": true
+  },
+  "kube-stream": {
+    "main_method*": true
+  },
+  "binder-logging": {
+    "getLogger": true
+  },
+  "async": {
+    "each": true,
+    "series": true,
+    "parallel": true,
+    "retry": true,
+    "eachLimit": true
+  },
+  "string-format": {
+    "extend": true
+  },
+  "hat": {
+    "main_method*": true
+  },
+  "url-join": {
+    "main_method*": true
+  },
+  "request": {
+    "post": true,
+    "main_method*": true
+  },
+  "binder-db": {
+    "getDatabase": true
+  },
+  "inherits": {
+    "main_method*": true
+  },
+  "jsonfile": {
+    "readFileSync": true
+  },
+  "util": {
+    "inherits": true
+  },
+  "mongoose": {
+    "Schema": true
+  },
+  "wait.for": {
+    "launchFiber": true
+  },
+  "assert": {
+    "notEqual": true,
+    "equal": true,
+    "deepEqual": true,
+    "main_method*": true
+  },
+  "kube-test-utils": {
+    "makeNamespace": true
+  }
+}

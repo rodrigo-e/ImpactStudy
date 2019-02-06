@@ -1,0 +1,49 @@
+------------------------------------------
+index.js
+------------------------------------------
+Library: oauth2orize
+Methods Called:
+   - createServer
+   - TokenError
+   - AuthorizationError
+   - grant
+   - exchange
+
+Library: boom
+Methods Called:
+   - create
+
+Library: hoek
+Methods Called:
+   - applyToDefaults
+   - merge
+   - reach
+
+Library: url
+Methods Called:
+   - parse
+   - format
+
+
+All of the Methods:
+{
+  "oauth2orize": {
+    "createServer": true,
+    "TokenError": true,
+    "AuthorizationError": true,
+    "grant": true,
+    "exchange": true
+  },
+  "boom": {
+    "create": true
+  },
+  "hoek": {
+    "applyToDefaults": true,
+    "merge": true,
+    "reach": true
+  },
+  "url": {
+    "parse": true,
+    "format": true
+  }
+}

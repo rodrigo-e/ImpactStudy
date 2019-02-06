@@ -1,0 +1,11 @@
+87db865b04bcb55cafddeb834df4731ec6423fcc
+gruntfile.js
+lib/deps.js
+lib/projects.js
+server.js
+site/deps/bootstrap.min.js
+site/deps/chai.js
+site/deps/jquery.js
+site/deps/mocha.js
+site/deps/shared.js
+site/deps/sinon.js

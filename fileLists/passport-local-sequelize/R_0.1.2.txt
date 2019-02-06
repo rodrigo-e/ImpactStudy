@@ -1,0 +1,2 @@
+be81a153cad833bfa86573b93cb87c804929bbd5
+lib/passport-local-sequelize.js

@@ -1,0 +1,40 @@
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/bar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/index.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: fly
+Methods Called:
+   - main_method*
+
+Library: ../
+Methods Called:
+   - plugins
+   - start
+
+
+All of the Methods:
+{
+  "tape": {
+    "main_method*": true
+  },
+  "fly": {
+    "main_method*": true
+  },
+  "../": {
+    "plugins": true,
+    "start": true
+  }
+}

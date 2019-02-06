@@ -1,0 +1,9 @@
+403cd96b03ec1c0d22faa54aba6a89dfb07b7dac
+tests/cycles/bar.js
+tests/cycles/foo.js
+tests/error/fullOfErrors/bar.js
+tests/error/fullOfErrors/foo.js
+tests/success/baseUrlAndPaths/deep/folder/bar.js
+tests/success/baseUrlAndPaths/foo.js
+tests/success/simple/bas.js
+tests/success/simple/foo.js

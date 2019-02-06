@@ -1,0 +1,82 @@
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+
+Library: gulp-typescript
+Methods Called:
+   - createProject
+   - main_method*
+
+Library: merge2
+Methods Called:
+   - main_method*
+
+Library: node-notifier
+Methods Called:
+   - notify
+
+Library: gulp-sourcemaps
+Methods Called:
+   - init
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test.js
+------------------------------------------
+Library: code
+Methods Called:
+   - expect
+
+Library: hapi
+Methods Called:
+   - Server
+
+Library: lab
+Methods Called:
+   - script
+
+------------------------------------------
+test/utils/auth.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "gulp": {
+    "task": true,
+    "src": true,
+    "dest": true
+  },
+  "gulp-typescript": {
+    "createProject": true,
+    "main_method*": true
+  },
+  "merge2": {
+    "main_method*": true
+  },
+  "node-notifier": {
+    "notify": true
+  },
+  "gulp-sourcemaps": {
+    "init": true
+  },
+  "code": {
+    "expect": true
+  },
+  "hapi": {
+    "Server": true
+  },
+  "lab": {
+    "script": true
+  }
+}

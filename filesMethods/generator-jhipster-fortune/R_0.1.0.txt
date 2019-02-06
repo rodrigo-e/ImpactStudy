@@ -1,0 +1,169 @@
+------------------------------------------
+generators/app/index.js
+------------------------------------------
+Library: chalk
+Methods Called:
+   - bold
+   - yellow
+   - red
+
+Library: yeoman-generator
+Methods Called:
+   - extend
+
+------------------------------------------
+generators/app/templates/src/main/webapp/scripts/app/fortune/_fortune.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+generators/app/templates/src/main/webapp/scripts/app/fortune/_fortune.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+generators/app/templates/src/main/webapp/scripts/app/fortune/_fortune.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+
+Library: gulp-bump
+Methods Called:
+   - main_method*
+
+Library: gulp-eslint
+Methods Called:
+   - main_method*
+   - format
+   - failOnError
+
+Library: gulp-git
+Methods Called:
+   - add
+   - commit
+   - push
+   - tag
+
+Library: gulp-shell
+Methods Called:
+   - task
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: gulp-sequence
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - resolve
+
+Library: gulp-mocha
+Methods Called:
+   - main_method*
+
+Library: gulp-istanbul
+Methods Called:
+   - main_method*
+   - hookRequire
+   - writeReports
+
+Library: gulp-nsp
+Methods Called:
+   - main_method*
+
+Library: gulp-plumber
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/app.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: fs-extra
+Methods Called:
+   - copySync
+
+Library: yeoman-test
+Methods Called:
+   - createDummyGenerator
+   - run
+
+
+All of the Methods:
+{
+  "chalk": {
+    "bold": true,
+    "yellow": true,
+    "red": true
+  },
+  "yeoman-generator": {
+    "extend": true
+  },
+  "gulp": {
+    "task": true,
+    "src": true,
+    "dest": true
+  },
+  "gulp-bump": {
+    "main_method*": true
+  },
+  "gulp-eslint": {
+    "main_method*": true,
+    "format": true,
+    "failOnError": true
+  },
+  "gulp-git": {
+    "add": true,
+    "commit": true,
+    "push": true,
+    "tag": true
+  },
+  "gulp-shell": {
+    "task": true
+  },
+  "fs": {
+    "readFileSync": true
+  },
+  "gulp-sequence": {
+    "main_method*": true
+  },
+  "path": {
+    "resolve": true,
+    "join": true
+  },
+  "gulp-mocha": {
+    "main_method*": true
+  },
+  "gulp-istanbul": {
+    "main_method*": true,
+    "hookRequire": true,
+    "writeReports": true
+  },
+  "gulp-nsp": {
+    "main_method*": true
+  },
+  "gulp-plumber": {
+    "main_method*": true
+  },
+  "fs-extra": {
+    "copySync": true
+  },
+  "yeoman-test": {
+    "createDummyGenerator": true,
+    "run": true
+  }
+}

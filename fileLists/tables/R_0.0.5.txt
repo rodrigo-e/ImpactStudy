@@ -1,0 +1,14 @@
+f1f6569ba146c37c3818d70af6abdad199d7d576
+examples/ny-campaign-finance.conf.js
+examples/usa-spending-contracts.conf.js
+index.js
+lib/auto-parser.js
+lib/columns-to-model.js
+lib/db.js
+lib/output.js
+lib/tables.js
+lib/utils.js
+tests/command-line.js
+tests/db.js
+tests/output.js
+tests/utils.js

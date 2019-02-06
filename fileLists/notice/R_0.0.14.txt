@@ -1,0 +1,4 @@
+12b28ea97bdf9aecf4d8117a597a58a5aa31ac46
+index.js
+karma.conf.js
+test/spec.js

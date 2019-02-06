@@ -1,0 +1,93 @@
+------------------------------------------
+lib/cli-parser.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isEmail
+   - isInt
+
+------------------------------------------
+lib/cli.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+lib/config.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/spots.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+lib/subscribe.js
+------------------------------------------
+Library: msw-api
+Methods Called:
+   - forecast
+   - set
+
+Library: q
+Methods Called:
+   - defer
+   - join
+
+Library: sendgrid
+Methods Called:
+   - send
+
+------------------------------------------
+test/cli-parser.spec.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+------------------------------------------
+test/subscribe.spec.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: sinon
+Methods Called:
+   - spy
+
+Library: msw-api
+Methods Called:
+   - mockCallsUsing
+
+
+All of the Methods:
+{
+  "validator": {
+    "isEmail": true,
+    "isInt": true
+  },
+  "fs": {
+    "readFileSync": true
+  },
+  "msw-api": {
+    "forecast": true,
+    "set": true,
+    "mockCallsUsing": true
+  },
+  "q": {
+    "defer": true,
+    "join": true
+  },
+  "sendgrid": {
+    "send": true
+  },
+  "chai": {
+    "expect": true
+  },
+  "sinon": {
+    "spy": true
+  }
+}

@@ -1,0 +1,8 @@
+9afef60beda8ebb5847c8f0839ab8b6556bcd41a
+dist/angular-form-validations.js
+example/exampleApp.js
+src/ElementValidationDirective.js
+src/FormValidationDirective.js
+src/FormValidationProvider.js
+src/index.js
+webpack.config.js

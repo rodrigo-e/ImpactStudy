@@ -1,0 +1,2 @@
+654ea631a3096d9e600cef472ea3b46a6334aaa0
+lib/winston-sequelize.js

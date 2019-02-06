@@ -1,0 +1,4 @@
+9eeab5f209a20ab7a38843c87fde69aedf657d1e
+generators/app/index.js
+gulpfile.js
+test/test-dockercompose.js

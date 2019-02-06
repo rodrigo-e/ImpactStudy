@@ -1,0 +1,12 @@
+3d79168247466e072b9e43c7c8ca8579df108b43
+dist/classes/ElasticOptions.js
+dist/classes/Element.js
+dist/classes/ElementDecorators.js
+dist/index.js
+dist/interfaces/IDatabaseAdapter.js
+dist/interfaces/IDatabaseLayerType.js
+dist/interfaces/IDocuments.js
+dist/interfaces/IElement.js
+dist/interfaces/IIndexSettings.js
+dist/interfaces/index.js
+test/index.js

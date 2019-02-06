@@ -1,0 +1,70 @@
+------------------------------------------
+index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - defaultsDeep
+   - cloneDeep
+   - endsWith
+   - each
+   - extend
+   - defaults
+
+Library: util
+Methods Called:
+   - format
+
+Library: path
+Methods Called:
+   - join
+   - dirname
+
+Library: fs
+Methods Called:
+   - readdirSync
+
+Library: require-directory
+Methods Called:
+   - main_method*
+
+Library: continuation-local-storage
+Methods Called:
+   - createNamespace
+
+Library: boom
+Methods Called:
+   - badRequest
+   - notFound
+
+
+All of the Methods:
+{
+  "lodash": {
+    "defaultsDeep": true,
+    "cloneDeep": true,
+    "endsWith": true,
+    "each": true,
+    "extend": true,
+    "defaults": true
+  },
+  "util": {
+    "format": true
+  },
+  "path": {
+    "join": true,
+    "dirname": true
+  },
+  "fs": {
+    "readdirSync": true
+  },
+  "require-directory": {
+    "main_method*": true
+  },
+  "continuation-local-storage": {
+    "createNamespace": true
+  },
+  "boom": {
+    "badRequest": true,
+    "notFound": true
+  }
+}

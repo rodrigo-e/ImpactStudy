@@ -1,0 +1,139 @@
+------------------------------------------
+Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+apps/db/index.js
+------------------------------------------
+Library: mongoose
+Methods Called:
+   - connect
+   - connection
+
+Library: lodash
+Methods Called:
+   - forIn
+
+------------------------------------------
+apps/db/models/redirects.js
+------------------------------------------
+Library: mongoose
+Methods Called:
+   - Schema
+   - model
+
+------------------------------------------
+apps/www/handlers/site.js
+------------------------------------------
+Library: joi
+Methods Called:
+   - string
+
+Library: boom
+Methods Called:
+   - internal
+
+------------------------------------------
+apps/www/index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - values
+
+------------------------------------------
+index.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+
+Library: path
+Methods Called:
+   - join
+
+Library: hapi
+Methods Called:
+   - Server
+
+Library: confi
+Methods Called:
+   - mongo
+
+Library: lodash
+Methods Called:
+   - forIn
+
+------------------------------------------
+methods/addRedirect.js
+------------------------------------------
+Library: boom
+Methods Called:
+   - badImplementation
+   - conflict
+
+------------------------------------------
+methods/getRedirect.js
+------------------------------------------
+Library: boom
+Methods Called:
+   - badImplementation
+   - notFound
+
+------------------------------------------
+methods/getRedirects.js
+------------------------------------------
+Library: boom
+Methods Called:
+   - badImplementation
+
+------------------------------------------
+methods/incVisitCount.js
+------------------------------------------
+Library: boom
+Methods Called:
+   - badImplementation
+   - notFound
+
+------------------------------------------
+methods/removeRedirect.js
+------------------------------------------
+Library: boom
+Methods Called:
+   - badImplementation
+
+
+All of the Methods:
+{
+  "mongoose": {
+    "connect": true,
+    "connection": true,
+    "Schema": true,
+    "model": true
+  },
+  "lodash": {
+    "forIn": true,
+    "values": true
+  },
+  "joi": {
+    "string": true
+  },
+  "boom": {
+    "internal": true,
+    "badImplementation": true,
+    "conflict": true,
+    "notFound": true
+  },
+  "fs": {
+    "existsSync": true
+  },
+  "path": {
+    "join": true
+  },
+  "hapi": {
+    "Server": true
+  },
+  "confi": {
+    "mongo": true
+  }
+}

@@ -1,0 +1,107 @@
+------------------------------------------
+Brocfile.js
+------------------------------------------
+Library: broccoli-merge-trees
+Methods Called:
+   - main_method*
+
+------------------------------------------
+index.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+   - writeFileSync
+
+Library: path
+Methods Called:
+   - extname
+   - resolve
+   - relative
+   - basename
+   - dirname
+
+Library: mkpath
+Methods Called:
+   - sync
+
+Library: broccoli-writer
+Methods Called:
+   - prototype
+
+Library: riot/compiler
+Methods Called:
+   - main_method*
+
+Library: walk-sync
+Methods Called:
+   - main_method*
+
+Library: xtend
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/expected/todo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/expected/todoapp/todo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - strictEqual
+
+Library: path
+Methods Called:
+   - resolve
+
+Library: read-files-promise
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "broccoli-merge-trees": {
+    "main_method*": true
+  },
+  "fs": {
+    "readFileSync": true,
+    "writeFileSync": true
+  },
+  "path": {
+    "extname": true,
+    "resolve": true,
+    "relative": true,
+    "basename": true,
+    "dirname": true
+  },
+  "mkpath": {
+    "sync": true
+  },
+  "broccoli-writer": {
+    "prototype": true
+  },
+  "riot/compiler": {
+    "main_method*": true
+  },
+  "walk-sync": {
+    "main_method*": true
+  },
+  "xtend": {
+    "main_method*": true
+  },
+  "assert": {
+    "strictEqual": true
+  },
+  "read-files-promise": {
+    "main_method*": true
+  }
+}

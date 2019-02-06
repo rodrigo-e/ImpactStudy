@@ -1,0 +1,2 @@
+f3efd710093f704e4770a267872d6679efe788a1
+angular-bs-confirm.js

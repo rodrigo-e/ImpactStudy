@@ -1,0 +1,10 @@
+3bc57e409cd82cf49d64094f860082a6c59da6ef
+demo/bower_components/angular-sanitize/angular-sanitize.js
+demo/bower_components/angular-sanitize/angular-sanitize.min.js
+demo/bower_components/angular/angular.js
+demo/bower_components/angular/angular.min.js
+demo/js/app.js
+demo/js/ng-emoticon.js
+demo/js/ng-emoticon.min.js
+dist/ng-emoticon.min.js
+gruntFile.js

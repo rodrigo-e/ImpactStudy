@@ -1,0 +1,334 @@
+------------------------------------------
+Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+__tests__/test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/controllers/GreatestHitController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/models/GreatestHit.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/policies/sessionAuth.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/responses/badRequest.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/responses/forbidden.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/responses/notFound.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/responses/ok.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/responses/serverError.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+assets/js/bundle.js
+------------------------------------------
+Library: ./invariant
+Methods Called:
+   - main_method*
+
+------------------------------------------
+assets/js/dependencies/sails.io.js
+------------------------------------------
+Library: request
+Methods Called:
+   - get
+
+------------------------------------------
+config/blueprints.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/bootstrap.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/connections.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/cors.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/csrf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/env/development.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/env/production.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/globals.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/http.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/i18n.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/log.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/models.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/policies.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/routes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/session.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/sockets.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/views.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/config/browserify.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/config/clean.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/config/coffee.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/config/concat.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/config/copy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/config/cssmin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/config/jst.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/config/less.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/config/sails-linker.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/config/sync.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/config/uglify.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/config/watch.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/pipeline.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/register/build.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/register/buildProd.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/register/compileAssets.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/register/default.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/register/linkAssets.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/register/linkAssetsBuild.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/register/linkAssetsBuildProd.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/register/prod.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/register/syncAssets.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+views/components/GreatestHitsTable.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 40: Unexpected token <
+------------------------------------------
+views/components/Table.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 39: Unexpected token <
+------------------------------------------
+views/components/TableHeader.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 27: Unexpected token <
+------------------------------------------
+views/components/TableItem.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 31: Unexpected token <
+------------------------------------------
+views/components/main.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 13: Unexpected token <
+------------------------------------------
+views/constants/AppConstants.js
+------------------------------------------
+Library: react/lib/keyMirror
+Methods Called:
+   - main_method*
+
+------------------------------------------
+views/dispatcher/AppDispatcher.js
+------------------------------------------
+Library: flux
+Methods Called:
+   - Dispatcher
+
+------------------------------------------
+views/mixins/TableMixin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+views/stores/RecordStore.js
+------------------------------------------
+Library: ../dispatcher/AppDispatcher
+Methods Called:
+   - register
+
+
+All of the Methods:
+{
+  "./invariant": {
+    "main_method*": true
+  },
+  "request": {
+    "get": true
+  },
+  "react/lib/keyMirror": {
+    "main_method*": true
+  },
+  "flux": {
+    "Dispatcher": true
+  },
+  "../dispatcher/AppDispatcher": {
+    "register": true
+  }
+}

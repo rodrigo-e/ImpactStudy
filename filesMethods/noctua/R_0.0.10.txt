@@ -1,0 +1,350 @@
+------------------------------------------
+barista.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: url
+Methods Called:
+   - parse
+   - format
+
+Library: querystring
+Methods Called:
+   - parse
+   - encode
+
+Library: crypto
+Methods Called:
+   - createHash
+
+Library: cors
+Methods Called:
+   - main_method*
+
+Library: bbop
+Methods Called:
+   - core
+
+Library: bbopx
+Methods Called:
+   - barista
+
+Library: pup-tent
+Methods Called:
+   - main_method*
+
+------------------------------------------
+external_js/dom.jsPlumb-1.7.5.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+external_js/jquery-ui-1.10.3.custom.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+external_js/jquery.jsPlumb-1.5.5.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+external_js/jquery.tablesorter.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+   - watch
+
+Library: gulp-jsdoc
+Methods Called:
+   - main_method*
+
+Library: gulp-mocha
+Methods Called:
+   - main_method*
+
+Library: browserify
+Methods Called:
+   - main_method*
+
+Library: vinyl-source-stream
+Methods Called:
+   - main_method*
+
+Library: underscore
+Methods Called:
+   - each
+
+Library: del
+Methods Called:
+   - main_method*
+
+Library: gulp-bump
+Methods Called:
+   - main_method*
+
+Library: npm
+Methods Called:
+   - load
+   - commands
+
+------------------------------------------
+js/BaristaLogin.js
+------------------------------------------
+Library: bbop
+Methods Called:
+   - bbop
+
+Library: jquery
+Methods Called:
+   - main_method*
+
+------------------------------------------
+js/BaristaLogout.js
+------------------------------------------
+Library: bbop
+Methods Called:
+   - bbop
+
+Library: jquery
+Methods Called:
+   - main_method*
+
+------------------------------------------
+js/BaristaSession.js
+------------------------------------------
+Library: bbop
+Methods Called:
+   - bbop
+
+Library: jquery
+Methods Called:
+   - main_method*
+
+------------------------------------------
+js/NoctuaBasic.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+js/NoctuaCapella.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+js/NoctuaEditor.js
+------------------------------------------
+Library: bbop
+Methods Called:
+   - bbop
+
+Library: jquery
+Methods Called:
+   - main_method*
+
+Library: jsplumb
+Methods Called:
+   - getInstance
+   - getSelector
+   - repaintEverything
+   - ready
+
+Library: bbopx
+Methods Called:
+   - noctua
+   - minerva
+   - barista
+
+Library: amigo2
+Methods Called:
+   - data
+
+------------------------------------------
+js/NoctuaLanding.js
+------------------------------------------
+Library: bbop
+Methods Called:
+   - bbop
+
+Library: jquery
+Methods Called:
+   - main_method*
+
+Library: bbopx
+Methods Called:
+   - minerva
+   - noctua
+
+Library: amigo2
+Methods Called:
+   - data
+
+------------------------------------------
+js/connectors-sugiyama.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+noctua.js
+------------------------------------------
+Library: bbop
+Methods Called:
+   - core
+   - golr
+   - rest
+
+Library: bbopx
+Methods Called:
+   - barista
+   - minerva
+
+Library: amigo2
+Methods Called:
+   - linker
+   - data
+
+Library: pup-tent
+Methods Called:
+   - main_method*
+
+------------------------------------------
+scripts/lego-listing.js
+------------------------------------------
+Library: aws-sdk
+Methods Called:
+   - config
+   - S3
+
+Library: bbop
+Methods Called:
+   - core
+
+Library: minimist
+Methods Called:
+   - main_method*
+
+------------------------------------------
+scripts/merge-perms.js
+------------------------------------------
+Library: bbop
+Methods Called:
+   - bbop
+
+Library: minimist
+Methods Called:
+   - main_method*
+
+Library: crypto
+Methods Called:
+   - createHash
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+tests/trivial.test.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - assert
+
+
+All of the Methods:
+{
+  "fs": {
+    "readFileSync": true
+  },
+  "url": {
+    "parse": true,
+    "format": true
+  },
+  "querystring": {
+    "parse": true,
+    "encode": true
+  },
+  "crypto": {
+    "createHash": true
+  },
+  "cors": {
+    "main_method*": true
+  },
+  "bbop": {
+    "core": true,
+    "bbop": true,
+    "golr": true,
+    "rest": true
+  },
+  "bbopx": {
+    "barista": true,
+    "noctua": true,
+    "minerva": true
+  },
+  "pup-tent": {
+    "main_method*": true
+  },
+  "gulp": {
+    "task": true,
+    "src": true,
+    "dest": true,
+    "watch": true
+  },
+  "gulp-jsdoc": {
+    "main_method*": true
+  },
+  "gulp-mocha": {
+    "main_method*": true
+  },
+  "browserify": {
+    "main_method*": true
+  },
+  "vinyl-source-stream": {
+    "main_method*": true
+  },
+  "underscore": {
+    "each": true
+  },
+  "del": {
+    "main_method*": true
+  },
+  "gulp-bump": {
+    "main_method*": true
+  },
+  "npm": {
+    "load": true,
+    "commands": true
+  },
+  "jquery": {
+    "main_method*": true
+  },
+  "jsplumb": {
+    "getInstance": true,
+    "getSelector": true,
+    "repaintEverything": true,
+    "ready": true
+  },
+  "amigo2": {
+    "data": true,
+    "linker": true
+  },
+  "aws-sdk": {
+    "config": true,
+    "S3": true
+  },
+  "minimist": {
+    "main_method*": true
+  },
+  "chai": {
+    "assert": true
+  }
+}

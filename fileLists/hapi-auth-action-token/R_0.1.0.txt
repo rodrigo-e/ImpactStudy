@@ -1,0 +1,3 @@
+adfbbcdc62f07bf65afe2cd92ad8e6c994c7f48c
+hapi-auth-action-token.js
+test/integration.js

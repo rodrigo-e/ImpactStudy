@@ -1,0 +1,6 @@
+73658ab326ea55c19179590eb1915a4983c8aad9
+client/chat.js
+index.js
+lib/index.js
+lib/names.js
+test/simple.js

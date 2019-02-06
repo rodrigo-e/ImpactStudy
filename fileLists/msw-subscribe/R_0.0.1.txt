@@ -1,0 +1,4 @@
+58e9452636babeda22ffb1d7afd0eab2f8228ec1
+index.js
+lib/main.js
+test/main.spec.js

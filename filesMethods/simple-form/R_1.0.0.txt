@@ -1,0 +1,100 @@
+------------------------------------------
+examples/example.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+
+Library: gulp-eslint
+Methods Called:
+   - main_method*
+   - format
+   - failAfterError
+
+Library: gulp-mocha
+Methods Called:
+   - main_method*
+
+Library: gulp-istanbul
+Methods Called:
+   - main_method*
+   - hookRequire
+   - writeReports
+   - enforceThresholds
+
+Library: gulp-coveralls
+Methods Called:
+   - main_method*
+
+Library: del
+Methods Called:
+   - main_method*
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/form.js
+------------------------------------------
+Library: async
+Methods Called:
+   - series
+
+Library: validator
+Methods Called:
+   - extend
+
+------------------------------------------
+test/filter.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - deepEqual
+
+
+All of the Methods:
+{
+  "gulp": {
+    "task": true,
+    "src": true
+  },
+  "gulp-eslint": {
+    "main_method*": true,
+    "format": true,
+    "failAfterError": true
+  },
+  "gulp-mocha": {
+    "main_method*": true
+  },
+  "gulp-istanbul": {
+    "main_method*": true,
+    "hookRequire": true,
+    "writeReports": true,
+    "enforceThresholds": true
+  },
+  "gulp-coveralls": {
+    "main_method*": true
+  },
+  "del": {
+    "main_method*": true
+  },
+  "async": {
+    "series": true
+  },
+  "validator": {
+    "extend": true
+  },
+  "assert": {
+    "equal": true,
+    "deepEqual": true
+  }
+}

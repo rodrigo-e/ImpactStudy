@@ -1,0 +1,3 @@
+848875ca728d666e01e834d8096e45d618687974
+tests/success/simple/bas.js
+tests/success/simple/foo.js

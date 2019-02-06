@@ -1,0 +1,159 @@
+------------------------------------------
+examples/auth.js
+------------------------------------------
+Library: express
+Methods Called:
+   - main_method*
+   - session
+   - cookieParser
+   - static
+
+------------------------------------------
+examples/basic.js
+------------------------------------------
+Library: express
+Methods Called:
+   - main_method*
+   - static
+
+------------------------------------------
+examples/vendor/backbone.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/vendor/jquery.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/vendor/underscore.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/backend.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+lib/browser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readdirSync
+
+Library: path
+Methods Called:
+   - dirname
+   - basename
+
+Library: socket.io
+Methods Called:
+   - listen
+
+------------------------------------------
+lib/sync.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+middleware/cookieParser.js
+------------------------------------------
+Library: cookie
+Methods Called:
+   - parse
+
+------------------------------------------
+middleware/memoryStore.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+middleware/mongooseStore.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+middleware/session.js
+------------------------------------------
+Library: cookie-signature
+Methods Called:
+   - unsign
+
+------------------------------------------
+test/backend_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - ok
+   - equal
+
+Library: sinon
+Methods Called:
+   - spy
+
+------------------------------------------
+test/sync_test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - ok
+   - equal
+
+Library: sinon
+Methods Called:
+   - spy
+
+
+All of the Methods:
+{
+  "express": {
+    "main_method*": true,
+    "session": true,
+    "cookieParser": true,
+    "static": true
+  },
+  "events": {
+    "EventEmitter": true
+  },
+  "util": {
+    "inherits": true
+  },
+  "fs": {
+    "readdirSync": true
+  },
+  "path": {
+    "dirname": true,
+    "basename": true
+  },
+  "socket.io": {
+    "listen": true
+  },
+  "cookie": {
+    "parse": true
+  },
+  "cookie-signature": {
+    "unsign": true
+  },
+  "assert": {
+    "ok": true,
+    "equal": true
+  },
+  "sinon": {
+    "spy": true
+  }
+}

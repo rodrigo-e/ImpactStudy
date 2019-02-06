@@ -1,0 +1,121 @@
+------------------------------------------
+dist/js/app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/js/backbone.js
+------------------------------------------
+Library: underscore
+Methods Called:
+   - once
+   - keys
+   - isEmpty
+   - each
+   - uniqueId
+   - extend
+   - defaults
+   - result
+   - clone
+   - escape
+   - isEqual
+   - has
+   - isObject
+   - method
+   - isArray
+   - isString
+   - bind
+   - invoke
+   - isFunction
+   - pick
+   - isRegExp
+   - map
+   - bindAll
+   - any
+
+------------------------------------------
+dist/js/jquery-1.11.2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/js/underscore.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+index.js
+------------------------------------------
+Library: hapi
+Methods Called:
+   - Server
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+lib/auth.js
+------------------------------------------
+Library: node-sha1
+Methods Called:
+   - main_method*
+
+Library: moment
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/conf.js
+------------------------------------------
+Library: nconf
+Methods Called:
+   - argv
+   - defaults
+
+
+All of the Methods:
+{
+  "underscore": {
+    "once": true,
+    "keys": true,
+    "isEmpty": true,
+    "each": true,
+    "uniqueId": true,
+    "extend": true,
+    "defaults": true,
+    "result": true,
+    "clone": true,
+    "escape": true,
+    "isEqual": true,
+    "has": true,
+    "isObject": true,
+    "method": true,
+    "isArray": true,
+    "isString": true,
+    "bind": true,
+    "invoke": true,
+    "isFunction": true,
+    "pick": true,
+    "isRegExp": true,
+    "map": true,
+    "bindAll": true,
+    "any": true
+  },
+  "hapi": {
+    "Server": true
+  },
+  "path": {
+    "join": true
+  },
+  "node-sha1": {
+    "main_method*": true
+  },
+  "moment": {
+    "main_method*": true
+  },
+  "nconf": {
+    "argv": true,
+    "defaults": true
+  }
+}

@@ -1,0 +1,94 @@
+------------------------------------------
+index.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+   - existsSync
+
+Library: path
+Methods Called:
+   - basename
+   - extname
+   - join
+
+Library: detective
+Methods Called:
+   - main_method*
+
+Library: q
+Methods Called:
+   - defer
+   - allSettled
+
+Library: walkdir
+Methods Called:
+   - main_method*
+
+Library: lodash
+Methods Called:
+   - contains
+   - isEmpty
+   - difference
+   - each
+   - merge
+   - intersection
+   - main_method*
+   - any
+   - has
+
+Library: minimatch
+Methods Called:
+   - main_method*
+
+Library: util
+Methods Called:
+   - isError
+
+Library: merge
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "fs": {
+    "readFileSync": true,
+    "existsSync": true
+  },
+  "path": {
+    "basename": true,
+    "extname": true,
+    "join": true
+  },
+  "detective": {
+    "main_method*": true
+  },
+  "q": {
+    "defer": true,
+    "allSettled": true
+  },
+  "walkdir": {
+    "main_method*": true
+  },
+  "lodash": {
+    "contains": true,
+    "isEmpty": true,
+    "difference": true,
+    "each": true,
+    "merge": true,
+    "intersection": true,
+    "main_method*": true,
+    "any": true,
+    "has": true
+  },
+  "minimatch": {
+    "main_method*": true
+  },
+  "util": {
+    "isError": true
+  },
+  "merge": {
+    "main_method*": true
+  }
+}

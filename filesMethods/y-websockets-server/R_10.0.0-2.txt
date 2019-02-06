@@ -1,0 +1,13 @@
+------------------------------------------
+src/server.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+src/y-websockets-server.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{}

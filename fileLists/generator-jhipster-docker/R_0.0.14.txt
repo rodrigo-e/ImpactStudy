@@ -1,0 +1,3 @@
+2621a692d82cddf8f9e924da2dd6c205cf06c6b2
+generators/app/index.js
+test/test-dockercompose.js

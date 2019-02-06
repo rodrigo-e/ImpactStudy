@@ -1,0 +1,131 @@
+------------------------------------------
+bin/jenny.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/cli.js
+------------------------------------------
+Library: bossy
+Methods Called:
+   - parse
+   - usage
+
+Library: hoek
+Methods Called:
+   - ignore
+
+Library: serialport
+Methods Called:
+   - SerialPort
+   - parsers
+   - list
+
+Library: cowboymouth
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: hoek
+Methods Called:
+   - assert
+   - inherits
+
+Library: nes
+Methods Called:
+   - Client
+
+------------------------------------------
+test/cli.js
+------------------------------------------
+Library: stream
+Methods Called:
+   - Duplex
+   - PassThrough
+
+Library: code
+Methods Called:
+   - expect
+
+Library: hoek
+Methods Called:
+   - inherits
+
+Library: hapi
+Methods Called:
+   - Server
+
+Library: lab
+Methods Called:
+   - script
+
+Library: serialport
+Methods Called:
+   - SerialPort
+
+------------------------------------------
+test/index.js
+------------------------------------------
+Library: code
+Methods Called:
+   - expect
+
+Library: hapi
+Methods Called:
+   - Server
+
+Library: lab
+Methods Called:
+   - script
+
+
+All of the Methods:
+{
+  "bossy": {
+    "parse": true,
+    "usage": true
+  },
+  "hoek": {
+    "ignore": true,
+    "assert": true,
+    "inherits": true
+  },
+  "serialport": {
+    "SerialPort": true,
+    "parsers": true,
+    "list": true
+  },
+  "cowboymouth": {
+    "main_method*": true
+  },
+  "events": {
+    "EventEmitter": true
+  },
+  "nes": {
+    "Client": true
+  },
+  "stream": {
+    "Duplex": true,
+    "PassThrough": true
+  },
+  "code": {
+    "expect": true
+  },
+  "hapi": {
+    "Server": true
+  },
+  "lab": {
+    "script": true
+  }
+}

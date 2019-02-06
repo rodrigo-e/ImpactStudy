@@ -1,0 +1,4 @@
+19699804bebf4a9e2312f745e585eecde3a5471c
+index.js
+test/fixtures/bar.js
+test/index.js

@@ -1,0 +1,5 @@
+85f666407345b5be37356589649233647ca11ee8
+lib/mockSocket.js
+lib/sails.io.js
+spec/sailsResource.spec.js
+src/sailsResource.js

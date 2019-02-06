@@ -1,0 +1,18 @@
+------------------------------------------
+GruntFile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+angular-locale_tr-tr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/angular-locale_tr-tr.min.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{}

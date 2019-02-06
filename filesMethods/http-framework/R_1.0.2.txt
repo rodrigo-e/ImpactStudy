@@ -1,0 +1,88 @@
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+
+Library: gulp-eslint
+Methods Called:
+   - main_method*
+   - format
+
+Library: gulp-mocha
+Methods Called:
+   - main_method*
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/baby-express.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+Library: fs
+Methods Called:
+   - readFile
+
+------------------------------------------
+lib/fileTypes.js
+------------------------------------------
+Library: path
+Methods Called:
+   - extname
+
+------------------------------------------
+lib/router.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/server-test.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - use
+   - expect
+   - request
+
+------------------------------------------
+test/temp-server.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "gulp": {
+    "task": true,
+    "src": true
+  },
+  "gulp-eslint": {
+    "main_method*": true,
+    "format": true
+  },
+  "gulp-mocha": {
+    "main_method*": true
+  },
+  "http": {
+    "createServer": true
+  },
+  "fs": {
+    "readFile": true
+  },
+  "path": {
+    "extname": true
+  },
+  "chai": {
+    "use": true,
+    "expect": true,
+    "request": true
+  }
+}

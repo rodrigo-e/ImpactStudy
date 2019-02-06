@@ -1,0 +1,5 @@
+002580c83e719313d1d8c1ce4e00bbe432653eb6
+index.js
+test/announce.js
+test/basic.js
+test/reuse-dht.js

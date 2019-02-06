@@ -1,0 +1,49 @@
+------------------------------------------
+cli.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+persist.js
+------------------------------------------
+Library: dbc
+Methods Called:
+   - isObject
+   - assert
+
+------------------------------------------
+resourceserver.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/data_tests.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - throws
+   - equal
+   - main_method*
+
+------------------------------------------
+test/server_tests.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - fail
+   - equal
+
+
+All of the Methods:
+{
+  "dbc": {
+    "isObject": true,
+    "assert": true
+  },
+  "assert": {
+    "throws": true,
+    "equal": true,
+    "main_method*": true,
+    "fail": true
+  }
+}

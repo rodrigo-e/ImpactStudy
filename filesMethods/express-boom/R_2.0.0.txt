@@ -1,0 +1,14 @@
+------------------------------------------
+index.js
+------------------------------------------
+Library: boom
+Methods Called:
+   - key
+
+
+All of the Methods:
+{
+  "boom": {
+    "key": true
+  }
+}

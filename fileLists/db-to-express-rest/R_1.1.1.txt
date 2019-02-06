@@ -1,0 +1,12 @@
+b9208afbdb17c73bf441a201cee0bc91be85cc55
+examples/by-monk-collection.js
+examples/by-nedb-object.js
+examples/simple-monk-with-uri.js
+examples/simple-monk.js
+examples/simple-validation.js
+examples/simple.js
+index.js
+lib/index.js
+lib/rest.js
+test/exposedcollection.js
+test/index.js

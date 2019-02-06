@@ -1,0 +1,5 @@
+1c7177a7169b80f60fdb097b09e0c6d5c1fa0d8c
+examples/change-temperature.js
+examples/streaming-api.js
+lib/index.js
+lib/neststreaming.js

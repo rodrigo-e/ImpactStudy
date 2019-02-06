@@ -1,0 +1,1066 @@
+------------------------------------------
+bin/test.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+index.js
+------------------------------------------
+Library: safe-buffer
+Methods Called:
+   - Buffer
+
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: simple-concat
+Methods Called:
+   - main_method*
+
+Library: create-torrent
+Methods Called:
+   - parseInput
+   - main_method*
+
+Library: debug
+Methods Called:
+   - apply
+
+Library: bittorrent-dht/client
+Methods Called:
+   - main_method*
+
+Library: xtend
+Methods Called:
+   - main_method*
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+Library: load-ip-set
+Methods Called:
+   - main_method*
+
+Library: run-parallel
+Methods Called:
+   - main_method*
+
+Library: parse-torrent
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - dirname
+
+Library: simple-peer
+Methods Called:
+   - WEBRTC_SUPPORT
+
+Library: randombytes
+Methods Called:
+   - main_method*
+
+Library: speedometer
+Methods Called:
+   - main_method*
+
+Library: zero-fill
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/file-stream.js
+------------------------------------------
+Library: debug
+Methods Called:
+   - main_method*
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+Library: readable-stream
+Methods Called:
+   - Readable
+
+------------------------------------------
+lib/file.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: end-of-stream
+Methods Called:
+   - main_method*
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - extname
+
+Library: render-media
+Methods Called:
+   - append
+   - render
+   - mime
+
+Library: readable-stream
+Methods Called:
+   - PassThrough
+
+Library: stream-to-blob
+Methods Called:
+   - main_method*
+
+Library: stream-to-blob-url
+Methods Called:
+   - main_method*
+
+Library: stream-with-known-length-to-buffer
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/peer.js
+------------------------------------------
+Library: unordered-array-remove
+Methods Called:
+   - main_method*
+
+Library: debug
+Methods Called:
+   - main_method*
+
+Library: bittorrent-protocol
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/rarity-map.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/server.js
+------------------------------------------
+Library: unordered-array-remove
+Methods Called:
+   - main_method*
+
+Library: http
+Methods Called:
+   - createServer
+
+Library: mime
+Methods Called:
+   - lookup
+
+Library: pump
+Methods Called:
+   - main_method*
+
+Library: range-parser
+Methods Called:
+   - main_method*
+
+Library: url
+Methods Called:
+   - parse
+
+------------------------------------------
+lib/tcp-pool.js
+------------------------------------------
+Library: unordered-array-remove
+Methods Called:
+   - main_method*
+
+Library: debug
+Methods Called:
+   - main_method*
+
+Library: net
+Methods Called:
+   - createServer
+
+------------------------------------------
+lib/torrent.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: addr-to-ip-port
+Methods Called:
+   - main_method*
+
+Library: bitfield
+Methods Called:
+   - main_method*
+
+Library: chunk-store-stream/write
+Methods Called:
+   - main_method*
+
+Library: debug
+Methods Called:
+   - apply
+
+Library: torrent-discovery
+Methods Called:
+   - main_method*
+
+Library: xtend
+Methods Called:
+   - main_method*
+
+Library: xtend/mutable
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - statSync
+   - stat
+
+Library: simple-get
+Methods Called:
+   - concat
+
+Library: immediate-chunk-store
+Methods Called:
+   - main_method*
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+Library: multistream
+Methods Called:
+   - main_method*
+
+Library: net
+Methods Called:
+   - connect
+
+Library: os
+Methods Called:
+   - tmpdir
+
+Library: run-parallel
+Methods Called:
+   - main_method*
+
+Library: run-parallel-limit
+Methods Called:
+   - main_method*
+
+Library: parse-torrent
+Methods Called:
+   - main_method*
+   - remote
+   - toMagnetURI
+   - toTorrentFile
+
+Library: path
+Methods Called:
+   - join
+
+Library: torrent-piece
+Methods Called:
+   - BLOCK_LENGTH
+   - main_method*
+
+Library: pump
+Methods Called:
+   - main_method*
+
+Library: random-iterate
+Methods Called:
+   - main_method*
+
+Library: simple-sha1
+Methods Called:
+   - main_method*
+
+Library: speedometer
+Methods Called:
+   - main_method*
+
+Library: uniq
+Methods Called:
+   - main_method*
+
+Library: ut_metadata
+Methods Called:
+   - main_method*
+
+Library: ut_pex
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/webconn.js
+------------------------------------------
+Library: safe-buffer
+Methods Called:
+   - Buffer
+
+Library: bitfield
+Methods Called:
+   - main_method*
+
+Library: debug
+Methods Called:
+   - main_method*
+
+Library: simple-get
+Methods Called:
+   - concat
+   - head
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+Library: simple-sha1
+Methods Called:
+   - sync
+
+Library: bittorrent-protocol
+Methods Called:
+   - call
+   - prototype
+
+------------------------------------------
+test/browser/basic.js
+------------------------------------------
+Library: safe-buffer
+Methods Called:
+   - Buffer
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/client-add-duplicate-trackers.js
+------------------------------------------
+Library: xtend
+Methods Called:
+   - main_method*
+
+Library: webtorrent-fixtures
+Methods Called:
+   - leaves
+   - alice
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/client-add.js
+------------------------------------------
+Library: safe-buffer
+Methods Called:
+   - Buffer
+
+Library: xtend
+Methods Called:
+   - main_method*
+
+Library: webtorrent-fixtures
+Methods Called:
+   - leaves
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/client-destroy.js
+------------------------------------------
+Library: safe-buffer
+Methods Called:
+   - Buffer
+
+Library: webtorrent-fixtures
+Methods Called:
+   - leaves
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/client-remove.js
+------------------------------------------
+Library: webtorrent-fixtures
+Methods Called:
+   - leaves
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/client-seed.js
+------------------------------------------
+Library: safe-buffer
+Methods Called:
+   - Buffer
+
+Library: webtorrent-fixtures
+Methods Called:
+   - leaves
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/duplicate.js
+------------------------------------------
+Library: webtorrent-fixtures
+Methods Called:
+   - leaves
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/node/basic.js
+------------------------------------------
+Library: webtorrent-fixtures
+Methods Called:
+   - leaves
+   - folder
+   - numbers
+
+Library: http
+Methods Called:
+   - createServer
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/node/blocklist-dht.js
+------------------------------------------
+Library: bittorrent-dht/server
+Methods Called:
+   - main_method*
+
+Library: webtorrent-fixtures
+Methods Called:
+   - leaves
+
+Library: run-series
+Methods Called:
+   - main_method*
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/node/blocklist-tracker.js
+------------------------------------------
+Library: xtend
+Methods Called:
+   - main_method*
+
+Library: webtorrent-fixtures
+Methods Called:
+   - leaves
+
+Library: run-series
+Methods Called:
+   - main_method*
+
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: bittorrent-tracker/server
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/node/blocklist.js
+------------------------------------------
+Library: webtorrent-fixtures
+Methods Called:
+   - leaves
+   - blocklist
+
+Library: fs
+Methods Called:
+   - createReadStream
+
+Library: http
+Methods Called:
+   - createServer
+
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: zlib
+Methods Called:
+   - createGzip
+   - createDeflate
+
+------------------------------------------
+test/node/download-dht-magnet.js
+------------------------------------------
+Library: bittorrent-dht/server
+Methods Called:
+   - main_method*
+
+Library: webtorrent-fixtures
+Methods Called:
+   - leaves
+
+Library: fs
+Methods Called:
+   - createReadStream
+
+Library: network-address
+Methods Called:
+   - ipv4
+
+Library: run-series
+Methods Called:
+   - main_method*
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/node/download-dht-torrent.js
+------------------------------------------
+Library: bittorrent-dht/server
+Methods Called:
+   - main_method*
+
+Library: webtorrent-fixtures
+Methods Called:
+   - leaves
+
+Library: fs
+Methods Called:
+   - createReadStream
+
+Library: run-series
+Methods Called:
+   - main_method*
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/node/download-metadata.js
+------------------------------------------
+Library: webtorrent-fixtures
+Methods Called:
+   - leaves
+
+Library: http
+Methods Called:
+   - createServer
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/node/download-private-dht.js
+------------------------------------------
+Library: bittorrent-dht/server
+Methods Called:
+   - main_method*
+
+Library: webtorrent-fixtures
+Methods Called:
+   - bunny
+   - leaves
+
+Library: run-series
+Methods Called:
+   - main_method*
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/node/download-tracker-magnet.js
+------------------------------------------
+Library: xtend
+Methods Called:
+   - main_method*
+
+Library: webtorrent-fixtures
+Methods Called:
+   - leaves
+
+Library: fs
+Methods Called:
+   - createReadStream
+
+Library: run-series
+Methods Called:
+   - main_method*
+
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: bittorrent-tracker/server
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/node/download-tracker-torrent.js
+------------------------------------------
+Library: xtend
+Methods Called:
+   - main_method*
+
+Library: webtorrent-fixtures
+Methods Called:
+   - leaves
+
+Library: fs
+Methods Called:
+   - createReadStream
+
+Library: run-series
+Methods Called:
+   - main_method*
+
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: bittorrent-tracker/server
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/node/download-webseed-magnet.js
+------------------------------------------
+Library: finalhandler
+Methods Called:
+   - main_method*
+
+Library: webtorrent-fixtures
+Methods Called:
+   - leaves
+
+Library: http
+Methods Called:
+   - createServer
+
+Library: path
+Methods Called:
+   - dirname
+
+Library: run-series
+Methods Called:
+   - main_method*
+
+Library: serve-static
+Methods Called:
+   - main_method*
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/node/download-webseed-torrent.js
+------------------------------------------
+Library: xtend
+Methods Called:
+   - main_method*
+
+Library: finalhandler
+Methods Called:
+   - main_method*
+
+Library: webtorrent-fixtures
+Methods Called:
+   - leaves
+
+Library: http
+Methods Called:
+   - createServer
+
+Library: path
+Methods Called:
+   - dirname
+
+Library: run-series
+Methods Called:
+   - main_method*
+
+Library: serve-static
+Methods Called:
+   - main_method*
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/node/extensions.js
+------------------------------------------
+Library: webtorrent-fixtures
+Methods Called:
+   - leaves
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/node/metadata.js
+------------------------------------------
+Library: webtorrent-fixtures
+Methods Called:
+   - leaves
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/node/seed-stream.js
+------------------------------------------
+Library: readable-stream
+Methods Called:
+   - Readable
+
+Library: run-series
+Methods Called:
+   - main_method*
+
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: bittorrent-tracker/server
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/node/seed-while-download.js
+------------------------------------------
+Library: bittorrent-dht/server
+Methods Called:
+   - main_method*
+
+Library: webtorrent-fixtures
+Methods Called:
+   - leaves
+   - alice
+
+Library: fs
+Methods Called:
+   - createReadStream
+
+Library: run-series
+Methods Called:
+   - main_method*
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/node/server.js
+------------------------------------------
+Library: webtorrent-fixtures
+Methods Called:
+   - leaves
+
+Library: fs
+Methods Called:
+   - createReadStream
+
+Library: simple-get
+Methods Called:
+   - concat
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/node/swarm-basic.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/node/swarm-reconnect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/node/swarm-timeout.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/rarity-map.js
+------------------------------------------
+Library: xtend
+Methods Called:
+   - main_method*
+
+Library: webtorrent-fixtures
+Methods Called:
+   - numbers
+
+Library: randombytes
+Methods Called:
+   - main_method*
+
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: bittorrent-protocol
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/swarm.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/torrent-destroy.js
+------------------------------------------
+Library: webtorrent-fixtures
+Methods Called:
+   - leaves
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+webtorrent.min.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "safe-buffer": {
+    "Buffer": true
+  },
+  "events": {
+    "EventEmitter": true
+  },
+  "simple-concat": {
+    "main_method*": true
+  },
+  "create-torrent": {
+    "parseInput": true,
+    "main_method*": true
+  },
+  "debug": {
+    "apply": true,
+    "main_method*": true
+  },
+  "bittorrent-dht/client": {
+    "main_method*": true
+  },
+  "xtend": {
+    "main_method*": true
+  },
+  "inherits": {
+    "main_method*": true
+  },
+  "load-ip-set": {
+    "main_method*": true
+  },
+  "run-parallel": {
+    "main_method*": true
+  },
+  "parse-torrent": {
+    "main_method*": true,
+    "remote": true,
+    "toMagnetURI": true,
+    "toTorrentFile": true
+  },
+  "path": {
+    "dirname": true,
+    "extname": true,
+    "join": true
+  },
+  "simple-peer": {
+    "WEBRTC_SUPPORT": true
+  },
+  "randombytes": {
+    "main_method*": true
+  },
+  "speedometer": {
+    "main_method*": true
+  },
+  "zero-fill": {
+    "main_method*": true
+  },
+  "readable-stream": {
+    "Readable": true,
+    "PassThrough": true
+  },
+  "end-of-stream": {
+    "main_method*": true
+  },
+  "render-media": {
+    "append": true,
+    "render": true,
+    "mime": true
+  },
+  "stream-to-blob": {
+    "main_method*": true
+  },
+  "stream-to-blob-url": {
+    "main_method*": true
+  },
+  "stream-with-known-length-to-buffer": {
+    "main_method*": true
+  },
+  "unordered-array-remove": {
+    "main_method*": true
+  },
+  "bittorrent-protocol": {
+    "main_method*": true,
+    "call": true,
+    "prototype": true
+  },
+  "http": {
+    "createServer": true
+  },
+  "mime": {
+    "lookup": true
+  },
+  "pump": {
+    "main_method*": true
+  },
+  "range-parser": {
+    "main_method*": true
+  },
+  "url": {
+    "parse": true
+  },
+  "net": {
+    "createServer": true,
+    "connect": true
+  },
+  "addr-to-ip-port": {
+    "main_method*": true
+  },
+  "bitfield": {
+    "main_method*": true
+  },
+  "chunk-store-stream/write": {
+    "main_method*": true
+  },
+  "torrent-discovery": {
+    "main_method*": true
+  },
+  "xtend/mutable": {
+    "main_method*": true
+  },
+  "fs": {
+    "statSync": true,
+    "stat": true,
+    "createReadStream": true
+  },
+  "simple-get": {
+    "concat": true,
+    "head": true
+  },
+  "immediate-chunk-store": {
+    "main_method*": true
+  },
+  "multistream": {
+    "main_method*": true
+  },
+  "os": {
+    "tmpdir": true
+  },
+  "run-parallel-limit": {
+    "main_method*": true
+  },
+  "torrent-piece": {
+    "BLOCK_LENGTH": true,
+    "main_method*": true
+  },
+  "random-iterate": {
+    "main_method*": true
+  },
+  "simple-sha1": {
+    "main_method*": true,
+    "sync": true
+  },
+  "uniq": {
+    "main_method*": true
+  },
+  "ut_metadata": {
+    "main_method*": true
+  },
+  "ut_pex": {
+    "main_method*": true
+  },
+  "tape": {
+    "main_method*": true
+  },
+  "webtorrent-fixtures": {
+    "leaves": true,
+    "alice": true,
+    "folder": true,
+    "numbers": true,
+    "blocklist": true,
+    "bunny": true
+  },
+  "bittorrent-dht/server": {
+    "main_method*": true
+  },
+  "run-series": {
+    "main_method*": true
+  },
+  "bittorrent-tracker/server": {
+    "main_method*": true
+  },
+  "zlib": {
+    "createGzip": true,
+    "createDeflate": true
+  },
+  "network-address": {
+    "ipv4": true
+  },
+  "finalhandler": {
+    "main_method*": true
+  },
+  "serve-static": {
+    "main_method*": true
+  }
+}

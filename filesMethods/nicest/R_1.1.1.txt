@@ -1,0 +1,776 @@
+------------------------------------------
+bin/cli.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+commitlint.config.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/database.js
+------------------------------------------
+Library: mongoose
+Methods Called:
+   - Promise
+   - connect
+
+------------------------------------------
+lib/server.js
+------------------------------------------
+Library: hapi
+Methods Called:
+   - Server
+
+Library: path
+Methods Called:
+   - join
+
+Library: boom
+Methods Called:
+   - unauthorized
+
+Library: mongoose
+Methods Called:
+   - models
+
+------------------------------------------
+modules/code-project/handler/cassess-login-action.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/handler/cassess-login-view.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/handler/choose-assessment-system.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/handler/choose-course.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/handler/choose-issue-tracker.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/handler/choose-messaging-platform.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/handler/choose-repository.js
+------------------------------------------
+Library: octokat
+Methods Called:
+   - main_method*
+
+------------------------------------------
+modules/code-project/handler/choose-students.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/handler/confirm-view.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/handler/confirm.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/handler/error-view.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/handler/login-action.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/handler/login-view.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/handler/redirect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/handler/select-assessment-system.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/handler/select-course.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/handler/select-issue-tracker.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/handler/select-messaging-platform.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/handler/select-repository.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/handler/select-students.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/handler/success-view.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/model/project.js
+------------------------------------------
+Library: mongoose
+Methods Called:
+   - Schema
+   - model
+
+------------------------------------------
+modules/code-project/plugin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/route.js
+------------------------------------------
+Library: joi
+Methods Called:
+   - string
+   - array
+   - boolean
+
+------------------------------------------
+modules/code-project/static/accordion.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/static/checkbox.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/static/custom-check.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/static/dropdown.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/task/configure-ca-dashboard.js
+------------------------------------------
+Library: http
+Methods Called:
+   - request
+
+Library: request
+Methods Called:
+   - defaults
+   - log
+
+Library: querystring
+Methods Called:
+   - stringify
+
+------------------------------------------
+modules/code-project/task/create-github-repositories.js
+------------------------------------------
+Library: octokat
+Methods Called:
+   - main_method*
+
+------------------------------------------
+modules/code-project/task/create-slack-channels.js
+------------------------------------------
+Library: request
+Methods Called:
+   - main_method*
+
+Library: querystring
+Methods Called:
+   - stringify
+
+------------------------------------------
+modules/code-project/task/create-taiga-boards.js
+------------------------------------------
+Library: request
+Methods Called:
+   - main_method*
+
+------------------------------------------
+modules/code-project/task/gather-ca-users.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/task/gather-github-users.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/task/gather-project-metadata.js
+------------------------------------------
+Library: request
+Methods Called:
+   - main_method*
+
+------------------------------------------
+modules/code-project/task/gather-slack-metadata.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/code-project/task/seed-git-repositories.js
+------------------------------------------
+Library: nodegit
+Methods Called:
+   - enableThreadSafety
+   - Clone
+   - Cred
+   - Repository
+   - Remote
+
+Library: rimraf
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+modules/course/api/route.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/course/handler/create.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/course/handler/list.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/course/handler/redirect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/course/handler/remove.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/course/handler/save.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/course/handler/view-empty.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/course/handler/view.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/course/model/course.js
+------------------------------------------
+Library: mongoose
+Methods Called:
+   - Schema
+   - model
+
+------------------------------------------
+modules/course/plugin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/course/route.js
+------------------------------------------
+Library: joi
+Methods Called:
+   - array
+   - string
+   - object
+
+------------------------------------------
+modules/course/static/dropdown.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/documentation/plugin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/documentation/route.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/error-page/plugin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/error-page/route.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/github/handler/list.js
+------------------------------------------
+Library: octokat
+Methods Called:
+   - main_method*
+
+------------------------------------------
+modules/github/handler/redirect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/github/plugin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/github/route.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/import-export/handler/download-xml.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/import-export/handler/import-xml.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/import-export/handler/redirect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/import-export/plugin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/import-export/route.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+modules/import-export/task/example.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+modules/import-export/task/import-courses.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/import-export/task/import-teams.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/import-export/task/import-users.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/import-export/task/validate.js
+------------------------------------------
+Library: libxmljs
+Methods Called:
+   - parseXmlString
+
+Library: fs
+Methods Called:
+   - readFileSync
+   - readFile
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+modules/recipe/api/handler.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/recipe/api/route.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/recipe/handler/list.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/recipe/model/recipe.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/recipe/plugin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/recipe/route.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/team/api/handler.js
+------------------------------------------
+Library: boom
+Methods Called:
+   - badRequest
+   - notFound
+
+------------------------------------------
+modules/team/api/route.js
+------------------------------------------
+Library: joi
+Methods Called:
+   - array
+   - string
+   - object
+
+------------------------------------------
+modules/team/handler/create.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/team/handler/list.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/team/handler/redirect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/team/handler/remove.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/team/handler/save.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/team/handler/view-empty.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/team/handler/view.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/team/model/team.js
+------------------------------------------
+Library: mongoose
+Methods Called:
+   - Schema
+   - model
+
+------------------------------------------
+modules/team/plugin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/team/route.js
+------------------------------------------
+Library: joi
+Methods Called:
+   - array
+   - string
+   - object
+
+------------------------------------------
+modules/team/static/dropdown.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/user/api/handler.js
+------------------------------------------
+Library: boom
+Methods Called:
+   - badRequest
+   - notFound
+
+------------------------------------------
+modules/user/api/route.js
+------------------------------------------
+Library: joi
+Methods Called:
+   - object
+   - string
+
+------------------------------------------
+modules/user/handler/create.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/user/handler/list.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/user/handler/redirect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/user/handler/remove.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/user/handler/save.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/user/handler/view-empty.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/user/handler/view.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/user/model/user.js
+------------------------------------------
+Library: mongoose
+Methods Called:
+   - Schema
+   - model
+
+------------------------------------------
+modules/user/plugin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/user/route.js
+------------------------------------------
+Library: joi
+Methods Called:
+   - object
+   - string
+
+------------------------------------------
+modules/user/static/dropdown.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/welcome/plugin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/welcome/route.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/welcome/static/flipboard-text.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/dev.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/helpers/read-promise.js
+------------------------------------------
+Library: read
+Methods Called:
+   - main_method*
+
+------------------------------------------
+tasks/helpers/start-server.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/helpers/write-file-promise.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - writeFile
+
+------------------------------------------
+tasks/init.js
+------------------------------------------
+Library: path
+Methods Called:
+   - resolve
+
+------------------------------------------
+tasks/start.js
+------------------------------------------
+Library: pm2
+Methods Called:
+   - connect
+   - start
+   - disconnect
+
+------------------------------------------
+tasks/stop.js
+------------------------------------------
+Library: pm2
+Methods Called:
+   - connect
+   - delete
+   - disconnect
+
+------------------------------------------
+tasks/user.js
+------------------------------------------
+Library: chalk
+Methods Called:
+   - bold
+
+
+All of the Methods:
+{
+  "mongoose": {
+    "Promise": true,
+    "connect": true,
+    "models": true,
+    "Schema": true,
+    "model": true
+  },
+  "hapi": {
+    "Server": true
+  },
+  "path": {
+    "join": true,
+    "resolve": true
+  },
+  "boom": {
+    "unauthorized": true,
+    "badRequest": true,
+    "notFound": true
+  },
+  "octokat": {
+    "main_method*": true
+  },
+  "joi": {
+    "string": true,
+    "array": true,
+    "boolean": true,
+    "object": true
+  },
+  "http": {
+    "request": true
+  },
+  "request": {
+    "defaults": true,
+    "log": true,
+    "main_method*": true
+  },
+  "querystring": {
+    "stringify": true
+  },
+  "nodegit": {
+    "enableThreadSafety": true,
+    "Clone": true,
+    "Cred": true,
+    "Repository": true,
+    "Remote": true
+  },
+  "rimraf": {
+    "main_method*": true
+  },
+  "fs": {
+    "readFileSync": true,
+    "readFile": true,
+    "writeFile": true
+  },
+  "libxmljs": {
+    "parseXmlString": true
+  },
+  "read": {
+    "main_method*": true
+  },
+  "pm2": {
+    "connect": true,
+    "start": true,
+    "disconnect": true,
+    "delete": true
+  },
+  "chalk": {
+    "bold": true
+  }
+}

@@ -1,0 +1,7 @@
+528629d67244c15dfdee9a44abab285c9cd061b7
+Gruntfile.js
+index.js
+test/validation-test.js
+test/validator-test.js
+validation.js
+validator.js

@@ -1,0 +1,7 @@
+acbb58c25c22db7ecaf5802a8b7f404fa9617f10
+dev/app/app.js
+dist/ngjs-color-picker.js
+source/ngjs-color-picker.js
+test/directive.spec.js
+test/karma.conf.js
+webpack.config.js

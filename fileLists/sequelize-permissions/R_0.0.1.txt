@@ -1,0 +1,12 @@
+ca5eecee150c35980a7e664baa65e519320111c5
+index.js
+lib/has-permissions-for.js
+lib/perm-fields.js
+lib/permitted.js
+test/ancestors.js
+test/find-permitted.js
+test/heirs.js
+test/hooks.js
+test/index.js
+test/permit.js
+test/permitted-to.js

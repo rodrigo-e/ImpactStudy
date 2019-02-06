@@ -1,0 +1,5 @@
+1735d900dbb523034860dce03e0390ed2a1334f1
+spec/mockSocket.js
+spec/sailsResource.spec.js
+spec/sailsResourceMultiple.spec.js
+src/sailsResource.js

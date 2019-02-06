@@ -1,0 +1,3 @@
+50a6663739c4d1be00aa9f4fecafa1d35a630d77
+lib/hapi-elapsed.js
+test/hapi-elapsed.mocha.js

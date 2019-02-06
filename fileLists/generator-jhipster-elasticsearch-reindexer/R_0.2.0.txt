@@ -1,0 +1,7 @@
+97640b6eeda1c51a19a138bae3d295f04a0dd937
+.gulpfile.js
+generators/app/index.js
+generators/app/templates/src/main/webapp/js/elasticsearch-reindex-dialog.controller.js
+generators/app/templates/src/main/webapp/js/elasticsearch-reindex.controller.js
+generators/app/templates/src/main/webapp/js/elasticsearch-reindex.service.js
+generators/app/templates/src/main/webapp/js/elasticsearch-reindex.state.js

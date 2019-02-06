@@ -1,0 +1,13 @@
+73381054897e364e7cea21f4e068d0144ee7974e
+index.js
+lib/httpHelper.js
+lib/sails.io.js
+lib/socketHelper.js
+lib/urlHelper.js
+scripts/build.js
+scripts/buildAndLift.js
+scripts/clean.js
+scripts/lift.js
+template/base/Gruntfile.js
+template/base/tasks/config/watch.js
+template/base/tasks/register/default.js

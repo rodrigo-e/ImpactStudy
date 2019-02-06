@@ -1,0 +1,6788 @@
+------------------------------------------
+app/config/config.js
+------------------------------------------
+Library: path
+Methods Called:
+   - dirname
+   - join
+
+------------------------------------------
+app/controller/about.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/controller/app.js
+------------------------------------------
+Library: rrestjs
+Methods Called:
+   - config
+
+------------------------------------------
+app/controller/author.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/controller/dropfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/controller/feature.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/controller/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/controller/message.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/controller/piccaptcha.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/controller/study.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/controller/test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/modules/captcha.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/modules/gravatar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/modules/stools.js
+------------------------------------------
+Library: crypto
+Methods Called:
+   - createHash
+
+------------------------------------------
+app/restApp.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+app/tmp/static/11465eb1aeefae253e32fa9d959b8243.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/tmp/static/41cad1c07420c8871640ec86c7d8739e.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/tmp/static/7e329b5f1c28c0d5b93c6692ddff3ce2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/view/static/dropExample/canvasclip.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/view/static/dropExample/demo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/view/static/dropExample/demo2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/view/static/dropExample/dropfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/view/static/dropExample/jquery.1.6.2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/view/static/js/base.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/view/static/js/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/view/static/js/jquery.1.6.2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/view/static/js/msg.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/view/static/js/plugin/jquery.drag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/view/static/js/plugin/thickbox.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/config.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/default_config.js
+------------------------------------------
+Library: path
+Methods Called:
+   - dirname
+
+------------------------------------------
+config/develop_config.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/example_config.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/manualRouter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/product_config.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/AutoReload.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/MultiProcess.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/ReqPost.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/ReqSimple.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/ReqUpload.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/ResDeflate.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/ResDownload.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/ResSimple.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/ResStatic.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/RestLog.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/RestLog2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/Session.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/SyncSession.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/apiExample.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/autoRequire.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/autoRouter.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/autoStatic.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/checkConfig.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/config/autoReuqire.conf.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+example/config/autoreload.conf.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+example/config/autorouter.conf.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+example/config/checkconfig.conf.js
+------------------------------------------
+Library: path
+Methods Called:
+   - dirname
+
+------------------------------------------
+example/config/dbsession.conf.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+example/config/ejs.cache.conf.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+example/config/jade.conf.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+example/config/jade.nocache.conf.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+example/config/log.conf.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+example/config/log.conf2.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+example/config/manual.conf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/config/multi.conf.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+example/config/onesession.conf.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+example/config/poolMongodb2.js
+------------------------------------------
+Library: path
+Methods Called:
+   - dirname
+   - join
+
+------------------------------------------
+example/config/post.conf.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+example/config/post.conf_dev.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+example/config/replicset.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/config/res404exist.conf.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+example/config/syncsession.conf.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+example/configrequire.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/dbsession.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/ejs.cache.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/ejs.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/errorstack.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/excontroller/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/headrequest.js
+------------------------------------------
+Library: http
+Methods Called:
+   - request
+
+------------------------------------------
+example/headserver.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/jade.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/jade.nocache.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/jsonp.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/manual.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/poolMongodb.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/poolMongodb2.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/replicsetMongodb.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/res404.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/res404exist.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/resfile.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/rrestpipe.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+example/socketio.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+example/static/base.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/static/demo1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/static/demo2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/static/demo3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/static/js/js1/a.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/version.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/AutoRequire.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readdirSync
+
+------------------------------------------
+lib/JadeRender.js
+------------------------------------------
+Library: jade
+Methods Called:
+   - compile
+
+------------------------------------------
+lib/MongdbConnect.js
+------------------------------------------
+Library: generic-pool
+Methods Called:
+   - Pool
+
+------------------------------------------
+lib/Multipart.js
+------------------------------------------
+Library: formidable
+Methods Called:
+   - IncomingForm
+
+------------------------------------------
+lib/Outerror.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/RestAdmin.js
+------------------------------------------
+Library: ./Outerror
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/RestBridge.js
+------------------------------------------
+Library: url
+Methods Called:
+   - parse
+
+------------------------------------------
+lib/RestClusterPlus.js
+------------------------------------------
+Library: ./modules/ClusterPlus
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/RestFavicon.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFile
+
+------------------------------------------
+lib/RestLogger.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+   - mkdirSync
+
+Library: log4js
+Methods Called:
+   - configure
+   - getLogger
+
+------------------------------------------
+lib/RestPipe.js
+------------------------------------------
+Library: now
+Methods Called:
+   - initialize
+
+------------------------------------------
+lib/RestPostLimit.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/RestReq.js
+------------------------------------------
+Library: http
+Methods Called:
+   - IncomingMessage
+
+------------------------------------------
+lib/RestReqParam.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/RestRes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/RestRes404.js
+------------------------------------------
+Library: ./RestUtils
+Methods Called:
+   - errorRes404
+   - forbidden
+   - errorRes
+
+------------------------------------------
+lib/RestSession.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/RestSpout.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/RestStatic.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFile
+   - stat
+
+------------------------------------------
+lib/RestUtils.js
+------------------------------------------
+Library: http
+Methods Called:
+   - STATUS_CODES
+
+------------------------------------------
+lib/RestZlib.js
+------------------------------------------
+Library: zlib
+Methods Called:
+   - undefined
+
+------------------------------------------
+lib/SessionMongodb.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/apiJson.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/apiReq.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/apiXml.js
+------------------------------------------
+Library: ./apiReq
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/autoRouter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/autoStatic.js
+------------------------------------------
+Library: ./modules/AsyncProxy
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/checkConfig.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/client/clientpipe.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/configRequire.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/createFolders.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+   - mkdirSync
+
+------------------------------------------
+lib/defCSRF.js
+------------------------------------------
+Library: crypto
+Methods Called:
+   - createHash
+
+------------------------------------------
+lib/ejsRender.js
+------------------------------------------
+Library: ejs
+Methods Called:
+   - render
+
+------------------------------------------
+lib/httpInject.js
+------------------------------------------
+Library: http
+Methods Called:
+   - Server
+   - createServer
+
+------------------------------------------
+lib/manualRouter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/AsyncProxy.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+lib/modules/ClusterPlus/examples/develop.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+lib/modules/ClusterPlus/examples/listen_multi_port.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+lib/modules/ClusterPlus/examples/multi_jobs.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/ClusterPlus/examples/multi_jobs/jobs1.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+lib/modules/ClusterPlus/examples/multi_jobs/jobs2.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+lib/modules/ClusterPlus/examples/multi_jobs/jobs3.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+lib/modules/ClusterPlus/examples/multi_jobs/jobs4.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+lib/modules/ClusterPlus/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/modules/ClusterPlus/lib/ClusterPlus.js
+------------------------------------------
+Library: cluster
+Methods Called:
+   - isWorker
+   - fork
+   - on
+
+------------------------------------------
+lib/modules/ClusterPlus/lib/KillZombie.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - exec
+
+------------------------------------------
+lib/modules/ClusterPlus/lib/reload.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - stat
+   - watch
+   - readdirSync
+   - statSync
+
+------------------------------------------
+lib/modules/compressCss.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/msg/msg.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/pipe/pipe.js
+------------------------------------------
+Library: http
+Methods Called:
+   - get
+   - request
+
+Library: crypto
+Methods Called:
+   - createHash
+
+Library: fs
+Methods Called:
+   - readFile
+
+Library: url
+Methods Called:
+   - parse
+
+------------------------------------------
+lib/rrestjs.js
+------------------------------------------
+Library: commander
+Methods Called:
+   - option
+   - dev
+
+Library: mime
+Methods Called:
+   - define
+
+------------------------------------------
+lib/templateRender.js
+------------------------------------------
+Library: ./RestUtils
+Methods Called:
+   - md5
+
+------------------------------------------
+modules/captcha.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+modules/stools.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/commander/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/commander/lib/commander.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+node_modules/commander/node_modules/keypress/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/commander/node_modules/keypress/test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/ejs/benchmark.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/ejs/ejs.js
+------------------------------------------
+Library: ./utils
+Methods Called:
+   - escape
+
+------------------------------------------
+node_modules/ejs/ejs.min.js
+------------------------------------------
+Library: ./utils
+Methods Called:
+   - escape
+
+------------------------------------------
+node_modules/ejs/examples/list.js
+------------------------------------------
+Library: ../
+Methods Called:
+   - render
+
+------------------------------------------
+node_modules/ejs/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/ejs/lib/ejs.js
+------------------------------------------
+Library: ./utils
+Methods Called:
+   - escape
+
+------------------------------------------
+node_modules/ejs/lib/filters.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/ejs/lib/utils.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/ejs/support/compile.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFile
+   - writeFile
+
+------------------------------------------
+node_modules/ejs/test/ejs.js
+------------------------------------------
+Library: ..
+Methods Called:
+   - compile
+   - open
+   - close
+   - render
+   - renderFile
+
+------------------------------------------
+node_modules/formidable/benchmark/bench-multipart-parser.js
+------------------------------------------
+Library: ../lib/multipart_parser
+Methods Called:
+   - MultipartParser
+
+------------------------------------------
+node_modules/formidable/example/post.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+node_modules/formidable/example/upload.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+node_modules/formidable/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/formidable/lib/file.js
+------------------------------------------
+Library: ./util
+Methods Called:
+   - inherits
+
+------------------------------------------
+node_modules/formidable/lib/incoming_form.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - statSync
+
+Library: ./util
+Methods Called:
+   - inherits
+
+------------------------------------------
+node_modules/formidable/lib/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/formidable/lib/multipart_parser.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+------------------------------------------
+node_modules/formidable/lib/querystring_parser.js
+------------------------------------------
+Library: querystring
+Methods Called:
+   - parse
+
+------------------------------------------
+node_modules/formidable/lib/util.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/formidable/node-gently/example/dog.js
+------------------------------------------
+Library: gently
+Methods Called:
+   - expect
+
+------------------------------------------
+node_modules/formidable/node-gently/example/event_emitter.js
+------------------------------------------
+Library: gently
+Methods Called:
+   - expect
+
+------------------------------------------
+node_modules/formidable/node-gently/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/formidable/node-gently/lib/gently/gently.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/formidable/node-gently/lib/gently/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/formidable/node-gently/test/common.js
+------------------------------------------
+Library: path
+Methods Called:
+   - dirname
+
+------------------------------------------
+node_modules/formidable/node-gently/test/simple/test-gently.js
+------------------------------------------
+Library: gently
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/formidable/test/common.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+node_modules/formidable/test/fixture/js/no-filename.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/formidable/test/fixture/js/special-chars-in-filename.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/formidable/test/fixture/multipart.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/formidable/test/integration/test-fixtures.js
+------------------------------------------
+Library: hashish
+Methods Called:
+   - forEach
+
+Library: fs
+Methods Called:
+   - createReadStream
+
+Library: findit
+Methods Called:
+   - sync
+
+Library: path
+Methods Called:
+   - basename
+
+Library: http
+Methods Called:
+   - createServer
+
+Library: net
+Methods Called:
+   - createConnection
+
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/formidable/test/legacy/common.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+node_modules/formidable/test/legacy/integration/test-multipart-parser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/formidable/test/legacy/simple/test-file.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/formidable/test/legacy/simple/test-incoming-form.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/formidable/test/legacy/simple/test-multipart-parser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/formidable/test/legacy/simple/test-querystring-parser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/formidable/test/legacy/system/test-multi-video-upload.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - statSync
+   - ReadStream
+
+------------------------------------------
+node_modules/formidable/test/run.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/formidable/test/unit/test-incoming-form.js
+------------------------------------------
+Library: utest
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - extname
+
+------------------------------------------
+node_modules/formidable/tool/record.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+Library: fs
+Methods Called:
+   - createWriteStream
+
+------------------------------------------
+node_modules/generic-pool/lib/generic-pool.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/generic-pool/test/generic-pool.test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - notEqual
+   - throws
+   - ok
+
+------------------------------------------
+node_modules/http-proxy/examples/balancer/simple-balancer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/http-proxy/examples/helpers/store.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/http-proxy/examples/http/basic-proxy.js
+------------------------------------------
+Library: util
+Methods Called:
+   - puts
+
+------------------------------------------
+node_modules/http-proxy/examples/http/concurrent-proxy.js
+------------------------------------------
+Library: util
+Methods Called:
+   - puts
+
+------------------------------------------
+node_modules/http-proxy/examples/http/custom-proxy-error.js
+------------------------------------------
+Library: util
+Methods Called:
+   - puts
+
+------------------------------------------
+node_modules/http-proxy/examples/http/forward-proxy.js
+------------------------------------------
+Library: util
+Methods Called:
+   - puts
+
+------------------------------------------
+node_modules/http-proxy/examples/http/latent-proxy.js
+------------------------------------------
+Library: util
+Methods Called:
+   - puts
+
+------------------------------------------
+node_modules/http-proxy/examples/http/proxy-https-to-http.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/http-proxy/examples/http/proxy-https-to-https.js
+------------------------------------------
+Library: https
+Methods Called:
+   - createServer
+
+------------------------------------------
+node_modules/http-proxy/examples/http/proxy-table.js
+------------------------------------------
+Library: util
+Methods Called:
+   - puts
+
+------------------------------------------
+node_modules/http-proxy/examples/http/standalone-proxy.js
+------------------------------------------
+Library: util
+Methods Called:
+   - puts
+
+------------------------------------------
+node_modules/http-proxy/examples/middleware/bodyDecoder-middleware.js
+------------------------------------------
+Library: ../helpers/store
+Methods Called:
+   - main_method*
+
+Library: connect/lib/middleware/bodyParser
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/http-proxy/examples/middleware/gzip-middleware-proxytable.js
+------------------------------------------
+Library: util
+Methods Called:
+   - puts
+
+------------------------------------------
+node_modules/http-proxy/examples/middleware/gzip-middleware.js
+------------------------------------------
+Library: util
+Methods Called:
+   - puts
+
+------------------------------------------
+node_modules/http-proxy/examples/middleware/jsonp-middleware.js
+------------------------------------------
+Library: ../helpers/store
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/http-proxy/examples/middleware/modifyResponse-middleware.js
+------------------------------------------
+Library: util
+Methods Called:
+   - puts
+
+------------------------------------------
+node_modules/http-proxy/examples/middleware/url-middleware.js
+------------------------------------------
+Library: util
+Methods Called:
+   - puts
+
+------------------------------------------
+node_modules/http-proxy/examples/middleware/url-middleware2.js
+------------------------------------------
+Library: util
+Methods Called:
+   - puts
+
+------------------------------------------
+node_modules/http-proxy/examples/websocket/latent-websocket-proxy.js
+------------------------------------------
+Library: util
+Methods Called:
+   - debug
+
+Library: socket.io
+Methods Called:
+   - listen
+
+------------------------------------------
+node_modules/http-proxy/examples/websocket/standalone-websocket-proxy.js
+------------------------------------------
+Library: util
+Methods Called:
+   - debug
+
+Library: socket.io
+Methods Called:
+   - listen
+
+------------------------------------------
+node_modules/http-proxy/examples/websocket/websocket-proxy.js
+------------------------------------------
+Library: util
+Methods Called:
+   - debug
+
+Library: socket.io
+Methods Called:
+   - listen
+
+------------------------------------------
+node_modules/http-proxy/lib/node-http-proxy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/http-proxy/lib/node-http-proxy/http-proxy.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+node_modules/http-proxy/lib/node-http-proxy/proxy-table.js
+------------------------------------------
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+node_modules/http-proxy/lib/node-http-proxy/routing-proxy.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+node_modules/http-proxy/node_modules/colors/colors.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/http-proxy/node_modules/colors/example.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/http-proxy/node_modules/colors/test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - ok
+
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/example/bool.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/example/boolean_double.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/example/boolean_single.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/example/default_hash.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/example/default_singles.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/example/divide.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/example/line_count.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/example/line_count_options.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/example/line_count_wrap.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/example/nonopt.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/example/reflect.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/example/short.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/example/string.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/example/usage-options.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/example/xup.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/index.js
+------------------------------------------
+Library: path
+Methods Called:
+   - dirname
+   - normalize
+
+Library: wordwrap
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/node_modules/wordwrap/example/center.js
+------------------------------------------
+Library: wordwrap
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/node_modules/wordwrap/example/meat.js
+------------------------------------------
+Library: wordwrap
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/node_modules/wordwrap/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/node_modules/wordwrap/test/break.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - ok
+
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/node_modules/wordwrap/test/wrap.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - ok
+   - deepEqual
+
+Library: wordwrap
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/test/_.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - spawn
+
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/test/_/argv.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/test/_/bin.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/test/parse.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+Library: path
+Methods Called:
+   - relative
+
+------------------------------------------
+node_modules/http-proxy/node_modules/optimist/test/usage.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+Library: hashish
+Methods Called:
+   - merge
+
+------------------------------------------
+node_modules/http-proxy/node_modules/pkginfo/examples/all-properties.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/http-proxy/node_modules/pkginfo/examples/array-argument.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/http-proxy/node_modules/pkginfo/examples/multiple-properties.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/http-proxy/node_modules/pkginfo/examples/object-argument.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/http-proxy/node_modules/pkginfo/examples/single-property.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/http-proxy/node_modules/pkginfo/lib/pkginfo.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readdirSync
+   - readFileSync
+
+------------------------------------------
+node_modules/http-proxy/node_modules/pkginfo/test/pkginfo-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - lengthOf
+   - isTrue
+   - isNull
+
+------------------------------------------
+node_modules/http-proxy/test/core/common.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - spawn
+
+Library: path
+Methods Called:
+   - dirname
+   - join
+   - resolve
+
+Library: assert
+Methods Called:
+   - ok
+
+Library: util
+Methods Called:
+   - i
+
+------------------------------------------
+node_modules/http-proxy/test/core/pummel/test-http-upload-timeout.js
+------------------------------------------
+Library: ../common
+Methods Called:
+   - PORT
+   - PROXY_PORT
+
+------------------------------------------
+node_modules/http-proxy/test/core/simple/test-http-chunked.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+Library: http
+Methods Called:
+   - createServer
+   - get
+
+------------------------------------------
+node_modules/http-proxy/test/core/simple/test-http-client-abort.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+Library: http
+Methods Called:
+   - Server
+   - Agent
+   - get
+
+------------------------------------------
+node_modules/http-proxy/test/core/simple/test-http-client-abort2.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+   - get
+
+------------------------------------------
+node_modules/http-proxy/test/core/simple/test-http-client-upload-buf.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+Library: http
+Methods Called:
+   - createServer
+   - request
+
+------------------------------------------
+node_modules/http-proxy/test/core/simple/test-http-client-upload.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+Library: http
+Methods Called:
+   - createServer
+   - request
+
+------------------------------------------
+node_modules/http-proxy/test/core/simple/test-http-contentLength0.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+   - request
+
+------------------------------------------
+node_modules/http-proxy/test/core/simple/test-http-eof-on-connect.js
+------------------------------------------
+Library: net
+Methods Called:
+   - createConnection
+
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+node_modules/http-proxy/test/core/simple/test-http-extra-response.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - ok
+
+Library: http
+Methods Called:
+   - get
+
+Library: net
+Methods Called:
+   - createServer
+
+------------------------------------------
+node_modules/http-proxy/test/core/simple/test-http-head-request.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - ok
+
+Library: http
+Methods Called:
+   - createServer
+   - request
+
+------------------------------------------
+node_modules/http-proxy/test/core/simple/test-http-head-response-has-no-body-end.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - ok
+
+Library: http
+Methods Called:
+   - createServer
+   - request
+
+------------------------------------------
+node_modules/http-proxy/test/core/simple/test-http-head-response-has-no-body.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - ok
+
+Library: http
+Methods Called:
+   - createServer
+   - request
+
+------------------------------------------
+node_modules/http-proxy/test/core/simple/test-http-host-headers.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+   - get
+   - request
+
+------------------------------------------
+node_modules/http-proxy/test/core/simple/test-http-many-keep-alive-connections.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+Library: http
+Methods Called:
+   - Server
+   - get
+
+------------------------------------------
+node_modules/http-proxy/test/core/simple/test-http-multi-line-headers.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - ok
+
+Library: http
+Methods Called:
+   - get
+
+Library: net
+Methods Called:
+   - createServer
+
+------------------------------------------
+node_modules/http-proxy/test/core/simple/test-http-proxy.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - deepEqual
+
+Library: http
+Methods Called:
+   - createServer
+   - get
+
+Library: url
+Methods Called:
+   - parse
+
+------------------------------------------
+node_modules/http-proxy/test/core/simple/test-http-response-close.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - ok
+
+Library: http
+Methods Called:
+   - createServer
+   - get
+
+------------------------------------------
+node_modules/http-proxy/test/core/simple/test-http-server-multiheaders.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+Library: http
+Methods Called:
+   - createServer
+   - get
+
+------------------------------------------
+node_modules/http-proxy/test/core/simple/test-http-set-cookies.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - deepEqual
+   - equal
+
+Library: http
+Methods Called:
+   - createServer
+   - get
+
+------------------------------------------
+node_modules/http-proxy/test/core/simple/test-http-status-code.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+Library: http
+Methods Called:
+   - createServer
+   - get
+
+------------------------------------------
+node_modules/http-proxy/test/core/simple/test-http-upgrade-server2.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - ok
+
+Library: http
+Methods Called:
+   - createServer
+
+Library: net
+Methods Called:
+   - createConnection
+
+------------------------------------------
+node_modules/http-proxy/test/core/simple/test-http.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+Library: http
+Methods Called:
+   - Server
+   - Agent
+   - get
+   - request
+
+Library: url
+Methods Called:
+   - parse
+
+------------------------------------------
+node_modules/http-proxy/test/examples-test.js
+------------------------------------------
+Library: vows
+Methods Called:
+   - describe
+
+------------------------------------------
+node_modules/http-proxy/test/helpers/http.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/http-proxy/test/helpers/index.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+node_modules/http-proxy/test/helpers/ws.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/http-proxy/test/http/http-test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/http-proxy/test/http/routing-table-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/http-proxy/test/macros/examples.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - notEqual
+   - isObject
+   - isNull
+
+------------------------------------------
+node_modules/http-proxy/test/macros/http.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - isNull
+   - equal
+
+------------------------------------------
+node_modules/http-proxy/test/macros/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/http-proxy/test/macros/ws.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/http-proxy/test/ws/routing-table-test.js
+------------------------------------------
+Library: vows
+Methods Called:
+   - describe
+
+------------------------------------------
+node_modules/http-proxy/test/ws/socket.io-test.js
+------------------------------------------
+Library: vows
+Methods Called:
+   - describe
+
+------------------------------------------
+node_modules/http-proxy/test/ws/ws-test.js
+------------------------------------------
+Library: vows
+Methods Called:
+   - describe
+
+------------------------------------------
+node_modules/jade/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/jade/jade.js
+------------------------------------------
+Library: ./nodes
+Methods Called:
+   - Block
+   - Text
+   - Case
+   - Code
+   - BlockComment
+   - Comment
+   - Doctype
+   - Filter
+   - Each
+   - Literal
+   - Mixin
+   - Tag
+
+------------------------------------------
+node_modules/jade/jade.min.js
+------------------------------------------
+Library: ./nodes
+Methods Called:
+   - Block
+   - Text
+   - Case
+   - Code
+   - BlockComment
+   - Comment
+   - Doctype
+   - Filter
+   - Each
+   - Literal
+   - Mixin
+   - Tag
+
+------------------------------------------
+node_modules/jade/lib/compiler.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/jade/lib/doctypes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/jade/lib/filters.js
+------------------------------------------
+Library: sass
+Methods Called:
+   - render
+
+------------------------------------------
+node_modules/jade/lib/inline-tags.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/jade/lib/jade.js
+------------------------------------------
+Library: ./parser
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/jade/lib/lexer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/jade/lib/nodes/block-comment.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/jade/lib/nodes/block.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/jade/lib/nodes/case.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/jade/lib/nodes/code.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/jade/lib/nodes/comment.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/jade/lib/nodes/doctype.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/jade/lib/nodes/each.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/jade/lib/nodes/filter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/jade/lib/nodes/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/jade/lib/nodes/literal.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/jade/lib/nodes/mixin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/jade/lib/nodes/node.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/jade/lib/nodes/tag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/jade/lib/nodes/text.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/jade/lib/parser.js
+------------------------------------------
+Library: path
+Methods Called:
+   - dirname
+   - basename
+   - join
+   - substr
+
+------------------------------------------
+node_modules/jade/lib/runtime.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+node_modules/jade/lib/self-closing.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/jade/lib/utils.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/jade/node_modules/commander/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/jade/node_modules/commander/lib/commander.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+node_modules/jade/runtime.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+node_modules/jade/runtime.min.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+node_modules/jade/testing/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/benchmark/less-benchmark.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+   - basename
+
+------------------------------------------
+node_modules/less/dist/less-1.1.0.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/dist/less-1.1.0.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/dist/less-1.1.1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/dist/less-1.1.1.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/dist/less-1.1.2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/dist/less-1.1.2.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/dist/less-1.1.3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/dist/less-1.1.3.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/dist/less-1.1.4.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/dist/less-1.1.4.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/dist/less-1.1.5.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/dist/less-1.1.5.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/dist/less-1.1.6.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/dist/less-1.1.6.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/dist/less-1.2.0.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/dist/less-1.2.0.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/dist/less-1.2.1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/dist/less-1.2.1.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/dist/less-1.2.2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/dist/less-1.2.2.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/dist/less-1.3.0.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/dist/less-1.3.0.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/dist/less-rhino-1.1.3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/dist/less-rhino-1.1.5.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/browser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/colors.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/cssmin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/functions.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/index.js
+------------------------------------------
+Library: ./parser
+Methods Called:
+   - Parser
+
+Library: path
+Methods Called:
+   - join
+   - dirname
+
+------------------------------------------
+node_modules/less/lib/less/parser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/rhino.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree/alpha.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree/anonymous.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree/assignment.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree/call.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree/color.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree/comment.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree/condition.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree/dimension.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree/directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree/element.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree/expression.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree/import.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree/javascript.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree/keyword.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree/media.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree/mixin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree/operation.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree/paren.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree/quoted.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree/rule.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree/ruleset.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree/selector.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree/url.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree/value.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/lib/less/tree/variable.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/less/test/less-test.js
+------------------------------------------
+Library: path
+Methods Called:
+   - basename
+   - join
+
+------------------------------------------
+node_modules/log4js/examples/example-connect-logger.js
+------------------------------------------
+Library: express
+Methods Called:
+   - createServer
+
+------------------------------------------
+node_modules/log4js/examples/example-socket.js
+------------------------------------------
+Library: ./lib/log4js
+Methods Called:
+   - configure
+   - getLogger
+
+------------------------------------------
+node_modules/log4js/examples/example.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/log4js/examples/fromreadme.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/log4js/examples/log-rolling.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/log4js/examples/memory-test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/log4js/examples/patternLayout-tokens.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/log4js/lib/appenders/console.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/log4js/lib/appenders/dateFile.js
+------------------------------------------
+Library: ../streams
+Methods Called:
+   - DateRollingFileStream
+
+------------------------------------------
+node_modules/log4js/lib/appenders/file.js
+------------------------------------------
+Library: ../layouts
+Methods Called:
+   - basicLayout
+   - layout
+
+------------------------------------------
+node_modules/log4js/lib/appenders/gelf.js
+------------------------------------------
+Library: zlib
+Methods Called:
+   - gzip
+
+Library: dgram
+Methods Called:
+   - createSocket
+
+Library: util
+Methods Called:
+   - debug
+
+------------------------------------------
+node_modules/log4js/lib/appenders/hookio.js
+------------------------------------------
+Library: hook.io
+Methods Called:
+   - Hook
+
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+node_modules/log4js/lib/appenders/logLevelFilter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/log4js/lib/appenders/multiprocess.js
+------------------------------------------
+Library: ../log4js
+Methods Called:
+   - levels
+   - loadAppender
+   - appenderMakers
+
+------------------------------------------
+node_modules/log4js/lib/appenders/smtp.js
+------------------------------------------
+Library: ../layouts
+Methods Called:
+   - basicLayout
+   - messagePassThroughLayout
+   - layout
+
+------------------------------------------
+node_modules/log4js/lib/connect-logger.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/log4js/lib/date_format.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/log4js/lib/layouts.js
+------------------------------------------
+Library: ./date_format
+Methods Called:
+   - asString
+   - ISO8601_FORMAT
+   - ABSOLUTETIME_FORMAT
+   - DATETIME_FORMAT
+
+------------------------------------------
+node_modules/log4js/lib/levels.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/log4js/lib/log4js.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/log4js/lib/logger.js
+------------------------------------------
+Library: ./levels
+Methods Called:
+   - TRACE
+   - toLevel
+
+------------------------------------------
+node_modules/log4js/lib/streams/BaseRollingFileStream.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - statSync
+   - createWriteStream
+
+------------------------------------------
+node_modules/log4js/lib/streams/DateRollingFileStream.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/log4js/lib/streams/RollingFileStream.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/log4js/lib/streams/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/log4js/node_modules/async/deps/nodeunit.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/log4js/node_modules/async/dist/async.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/log4js/node_modules/async/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/log4js/node_modules/async/lib/async.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/log4js/node_modules/async/test/test-async.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFile
+
+------------------------------------------
+node_modules/log4js/node_modules/dequeue/lib/dequeue.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/log4js/node_modules/dequeue/lib/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/log4js/test/configuration-test.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readdirSync
+
+Library: assert
+Methods Called:
+   - ok
+   - equal
+   - isFunction
+   - isString
+
+------------------------------------------
+node_modules/log4js/test/configureNoLevels-test.js
+------------------------------------------
+Library: vows
+Methods Called:
+   - describe
+
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/log4js/test/connect-logger-test.js
+------------------------------------------
+Library: vows
+Methods Called:
+   - describe
+
+------------------------------------------
+node_modules/log4js/test/dateFileAppender-test.js
+------------------------------------------
+Library: vows
+Methods Called:
+   - describe
+
+------------------------------------------
+node_modules/log4js/test/date_format-test.js
+------------------------------------------
+Library: vows
+Methods Called:
+   - describe
+
+------------------------------------------
+node_modules/log4js/test/fileAppender-test.js
+------------------------------------------
+Library: vows
+Methods Called:
+   - describe
+
+------------------------------------------
+node_modules/log4js/test/gelfAppender-test.js
+------------------------------------------
+Library: vows
+Methods Called:
+   - describe
+
+------------------------------------------
+node_modules/log4js/test/global-log-level-test.js
+------------------------------------------
+Library: vows
+Methods Called:
+   - describe
+
+------------------------------------------
+node_modules/log4js/test/hookioAppender-test.js
+------------------------------------------
+Library: vows
+Methods Called:
+   - describe
+
+Library: assert
+Methods Called:
+   - isTrue
+   - equal
+   - isUndefined
+
+Library: sandboxed-module
+Methods Called:
+   - require
+
+------------------------------------------
+node_modules/log4js/test/layouts-test.js
+------------------------------------------
+Library: vows
+Methods Called:
+   - describe
+
+------------------------------------------
+node_modules/log4js/test/levels-test.js
+------------------------------------------
+Library: vows
+Methods Called:
+   - describe
+
+------------------------------------------
+node_modules/log4js/test/log-abspath-test.js
+------------------------------------------
+Library: vows
+Methods Called:
+   - describe
+
+------------------------------------------
+node_modules/log4js/test/logLevelFilter-test.js
+------------------------------------------
+Library: vows
+Methods Called:
+   - describe
+
+------------------------------------------
+node_modules/log4js/test/logging-test.js
+------------------------------------------
+Library: vows
+Methods Called:
+   - describe
+
+Library: ../lib/log4js
+Methods Called:
+   - clearAppenders
+   - addAppender
+   - getLogger
+   - configure
+
+------------------------------------------
+node_modules/log4js/test/multiprocess-test.js
+------------------------------------------
+Library: vows
+Methods Called:
+   - describe
+
+------------------------------------------
+node_modules/log4js/test/nolog-test.js
+------------------------------------------
+Library: vows
+Methods Called:
+   - describe
+
+------------------------------------------
+node_modules/log4js/test/setLevel-asymmetry-test.js
+------------------------------------------
+Library: vows
+Methods Called:
+   - describe
+
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/log4js/test/smtpAppender-test.js
+------------------------------------------
+Library: vows
+Methods Called:
+   - describe
+
+------------------------------------------
+node_modules/log4js/test/streams/DateRollingFileStream-test.js
+------------------------------------------
+Library: vows
+Methods Called:
+   - describe
+
+------------------------------------------
+node_modules/log4js/test/streams/rollingFileStream-test.js
+------------------------------------------
+Library: vows
+Methods Called:
+   - describe
+
+------------------------------------------
+node_modules/mime/mime.js
+------------------------------------------
+Library: path
+Methods Called:
+   - replace
+   - join
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+node_modules/mime/test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - strictEqual
+
+------------------------------------------
+node_modules/mkdirp/examples/pow.js
+------------------------------------------
+Library: mkdirp
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/mkdirp/index.js
+------------------------------------------
+Library: path
+Methods Called:
+   - resolve
+   - dirname
+
+Library: fs
+Methods Called:
+   - mkdir
+   - stat
+   - mkdirSync
+   - statSync
+
+------------------------------------------
+node_modules/mkdirp/test/chmod.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+Library: fs
+Methods Called:
+   - stat
+
+------------------------------------------
+node_modules/mkdirp/test/clobber.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+Library: fs
+Methods Called:
+   - writeFileSync
+   - stat
+
+------------------------------------------
+node_modules/mkdirp/test/mkdirp.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+Library: path
+Methods Called:
+   - exists
+
+Library: fs
+Methods Called:
+   - stat
+
+------------------------------------------
+node_modules/mkdirp/test/perm.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+Library: path
+Methods Called:
+   - exists
+
+Library: fs
+Methods Called:
+   - stat
+
+------------------------------------------
+node_modules/mkdirp/test/perm_sync.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+Library: path
+Methods Called:
+   - exists
+
+Library: fs
+Methods Called:
+   - stat
+
+------------------------------------------
+node_modules/mkdirp/test/race.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+Library: path
+Methods Called:
+   - exists
+
+Library: fs
+Methods Called:
+   - stat
+
+------------------------------------------
+node_modules/mkdirp/test/rel.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+Library: path
+Methods Called:
+   - exists
+
+Library: fs
+Methods Called:
+   - stat
+
+------------------------------------------
+node_modules/mkdirp/test/return.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+node_modules/mkdirp/test/return_sync.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+node_modules/mkdirp/test/root.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+Library: path
+Methods Called:
+   - resolve
+
+Library: fs
+Methods Called:
+   - stat
+
+------------------------------------------
+node_modules/mkdirp/test/sync.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+Library: path
+Methods Called:
+   - exists
+
+Library: fs
+Methods Called:
+   - stat
+
+------------------------------------------
+node_modules/mkdirp/test/umask.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+Library: path
+Methods Called:
+   - exists
+
+Library: fs
+Methods Called:
+   - stat
+
+------------------------------------------
+node_modules/mkdirp/test/umask_sync.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+Library: path
+Methods Called:
+   - exists
+
+Library: fs
+Methods Called:
+   - stat
+
+------------------------------------------
+node_modules/mongodb/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/install.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - spawn
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/admin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/collection.js
+------------------------------------------
+Library: ./commands/insert_command
+Methods Called:
+   - InsertCommand
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/commands/base_command.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/commands/db_command.js
+------------------------------------------
+Library: ./query_command
+Methods Called:
+   - QueryCommand
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/commands/delete_command.js
+------------------------------------------
+Library: ./base_command
+Methods Called:
+   - BaseCommand
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/commands/get_more_command.js
+------------------------------------------
+Library: ./base_command
+Methods Called:
+   - BaseCommand
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/commands/insert_command.js
+------------------------------------------
+Library: ./base_command
+Methods Called:
+   - BaseCommand
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/commands/kill_cursor_command.js
+------------------------------------------
+Library: ./base_command
+Methods Called:
+   - BaseCommand
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/commands/query_command.js
+------------------------------------------
+Library: ./base_command
+Methods Called:
+   - BaseCommand
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/commands/update_command.js
+------------------------------------------
+Library: ./base_command
+Methods Called:
+   - BaseCommand
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/connection/connection.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/connection/connection_pool.js
+------------------------------------------
+Library: ./connection_utils
+Methods Called:
+   - setIntegerParameter
+   - setBooleanParameter
+   - setStringParameter
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/connection/connection_utils.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/connection/mongos.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/connection/read_preference.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/connection/repl_set.js
+------------------------------------------
+Library: ./connection
+Methods Called:
+   - Connection
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/connection/server.js
+------------------------------------------
+Library: ./connection
+Methods Called:
+   - Connection
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/connection/strategies/ping_strategy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/connection/strategies/statistics_strategy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/cursor.js
+------------------------------------------
+Library: ./commands/query_command
+Methods Called:
+   - QueryCommand
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/cursorstream.js
+------------------------------------------
+Library: stream
+Methods Called:
+   - Stream
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/db.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 869: Invalid left-hand side in assignment
+------------------------------------------
+node_modules/mongodb/lib/mongodb/gridfs/chunk.js
+------------------------------------------
+Library: bson
+Methods Called:
+   - Binary
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/gridfs/grid.js
+------------------------------------------
+Library: ./gridstore
+Methods Called:
+   - GridStore
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/gridfs/gridstore.js
+------------------------------------------
+Library: ./chunk
+Methods Called:
+   - Chunk
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/gridfs/readstream.js
+------------------------------------------
+Library: stream
+Methods Called:
+   - Stream
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/responses/mongo_reply.js
+------------------------------------------
+Library: bson
+Methods Called:
+   - Long
+
+------------------------------------------
+node_modules/mongodb/lib/mongodb/utils.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/benchmarks/benchmarks.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/ext/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/install.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - spawn
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/lib/bson/binary.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/lib/bson/binary_parser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/lib/bson/bson.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/lib/bson/code.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/lib/bson/db_ref.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/lib/bson/double.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/lib/bson/float_parser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/lib/bson/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/lib/bson/long.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/lib/bson/max_key.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/lib/bson/min_key.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/lib/bson/objectid.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/lib/bson/symbol.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/lib/bson/timestamp.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/test/browser/bson_test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/test/browser/nodeunit.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/test/browser/suite2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/test/browser/suite3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/test/node/bson_array_test.js
+------------------------------------------
+Library: nodeunit
+Methods Called:
+   - testCase
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/test/node/bson_parser_comparision_test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/test/node/bson_test.js
+------------------------------------------
+Library: nodeunit
+Methods Called:
+   - testCase
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/test/node/bson_typed_array_test.js
+------------------------------------------
+Library: nodeunit
+Methods Called:
+   - testCase
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/test/node/test_full_bson.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/test/node/to_bson_test.js
+------------------------------------------
+Library: nodeunit
+Methods Called:
+   - testCase
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/test/node/tools/utils.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/tools/gleak.js
+------------------------------------------
+Library: gleak
+Methods Called:
+   - ignore
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/tools/jasmine-1.1.0/jasmine-html.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/mongodb/node_modules/bson/tools/jasmine-1.1.0/jasmine.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/now/bin/build.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+   - readFile
+   - write
+   - openSync
+
+------------------------------------------
+node_modules/now/dist/now.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/now/examples/express_example/app.js
+------------------------------------------
+Library: express
+Methods Called:
+   - createServer
+
+Library: now
+Methods Called:
+   - initialize
+   - on
+
+------------------------------------------
+node_modules/now/examples/helloworld_example/helloworld_server.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+Library: fs
+Methods Called:
+   - readFile
+
+Library: now
+Methods Called:
+   - initialize
+   - on
+
+------------------------------------------
+node_modules/now/examples/multiroomchat_example/multiroomchat_server.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+Library: fs
+Methods Called:
+   - readFile
+
+Library: now
+Methods Called:
+   - initialize
+   - on
+   - getGroup
+
+------------------------------------------
+node_modules/now/examples/nodeclient_example/chat.js
+------------------------------------------
+Library: readline
+Methods Called:
+   - createInterface
+
+------------------------------------------
+node_modules/now/examples/nodeclient_example/server.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+Library: now
+Methods Called:
+   - initialize
+
+Library: fs
+Methods Called:
+   - readFile
+
+------------------------------------------
+node_modules/now/lib/client/now.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/now/lib/fileServer.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFile
+
+------------------------------------------
+node_modules/now/lib/function.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/now/lib/group.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+node_modules/now/lib/handlers.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/now/lib/nodeclient/now.js
+------------------------------------------
+Library: socket.io-client
+Methods Called:
+   - connect
+
+------------------------------------------
+node_modules/now/lib/now.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: socket.io
+Methods Called:
+   - listen
+
+------------------------------------------
+node_modules/now/lib/nowUtil.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/now/lib/proxy.js
+------------------------------------------
+Library: node-proxy
+Methods Called:
+   - create
+
+------------------------------------------
+node_modules/now/lib/scopeTable.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/now/lib/server.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/now/lib/support.js
+------------------------------------------
+Library: net
+Methods Called:
+   - createConnection
+
+------------------------------------------
+node_modules/now/lib/user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/now/node_modules/node-proxy/examples/autoload-namespace/autoload-namespace.js
+------------------------------------------
+Library: node-proxy
+Methods Called:
+   - isProxy
+   - createFunction
+   - create
+
+------------------------------------------
+node_modules/now/node_modules/node-proxy/examples/autoload-namespace/autoload-test.js
+------------------------------------------
+Library: sys
+Methods Called:
+   - puts
+
+------------------------------------------
+node_modules/now/node_modules/node-proxy/examples/autoload-namespace/org/w3c/DOM/Document.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/now/node_modules/node-proxy/examples/autoload-namespace/org/w3c/DOM/Document/String/Test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/now/node_modules/node-proxy/lib/node-proxy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/now/node_modules/node-proxy/test/test.js
+------------------------------------------
+Library: util
+Methods Called:
+   - puts
+   - print
+
+------------------------------------------
+node_modules/qs/benchmark.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/qs/examples.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/qs/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/qs/lib/head.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected end of input
+------------------------------------------
+node_modules/qs/lib/querystring.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/qs/lib/tail.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token }
+------------------------------------------
+node_modules/qs/querystring.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/qs/test/browser/expect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/qs/test/browser/jquery.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/qs/test/browser/mocha.js
+------------------------------------------
+Library: ./runnable
+Methods Called:
+   - call
+   - main_method*
+   - prototype
+
+------------------------------------------
+node_modules/qs/test/browser/qs.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/qs/test/parse.js
+------------------------------------------
+Library: querystring
+Methods Called:
+   - parse
+
+------------------------------------------
+node_modules/qs/test/stringify.js
+------------------------------------------
+Library: querystring
+Methods Called:
+   - stringify
+
+------------------------------------------
+node_modules/should/examples/runner.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/should/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/should/lib/eql.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/should/lib/should.js
+------------------------------------------
+Library: util
+Methods Called:
+   - inspect
+
+------------------------------------------
+node_modules/should/test/exist.test.js
+------------------------------------------
+Library: util
+Methods Called:
+   - inspect
+
+------------------------------------------
+node_modules/should/test/should.test.js
+------------------------------------------
+Library: ../
+Methods Called:
+   - fail
+   - equal
+   - version
+
+------------------------------------------
+node_modules/socket.io/benchmarks/decode.bench.js
+------------------------------------------
+Library: benchmark
+Methods Called:
+   - Suite
+
+------------------------------------------
+node_modules/socket.io/benchmarks/encode.bench.js
+------------------------------------------
+Library: benchmark
+Methods Called:
+   - Suite
+
+------------------------------------------
+node_modules/socket.io/benchmarks/runner.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/lib/logger.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/lib/manager.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/lib/namespace.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/lib/parser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/lib/socket.io.js
+------------------------------------------
+Library: socket.io-client
+Methods Called:
+   - version
+
+------------------------------------------
+node_modules/socket.io/lib/socket.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/lib/static.js
+------------------------------------------
+Library: socket.io-client
+Methods Called:
+   - version
+   - builder
+   - dist
+
+------------------------------------------
+node_modules/socket.io/lib/store.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/lib/stores/memory.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/lib/stores/redis.js
+------------------------------------------
+Library: msgpack
+Methods Called:
+   - pack
+   - unpack
+
+------------------------------------------
+node_modules/socket.io/lib/transport.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/lib/transports/flashsocket.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/lib/transports/htmlfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/lib/transports/http-polling.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/lib/transports/http.js
+------------------------------------------
+Library: ../transport
+Methods Called:
+   - call
+   - prototype
+
+------------------------------------------
+node_modules/socket.io/lib/transports/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/lib/transports/jsonp-polling.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/lib/transports/websocket.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/lib/transports/websocket/default.js
+------------------------------------------
+Library: ../../transport
+Methods Called:
+   - call
+   - prototype
+
+------------------------------------------
+node_modules/socket.io/lib/transports/websocket/hybi-07-12.js
+------------------------------------------
+Library: ../../transport
+Methods Called:
+   - call
+   - prototype
+
+------------------------------------------
+node_modules/socket.io/lib/transports/websocket/hybi-16.js
+------------------------------------------
+Library: ../../transport
+Methods Called:
+   - call
+   - prototype
+
+------------------------------------------
+node_modules/socket.io/lib/transports/websocket/hybi-17.js
+------------------------------------------
+Library: ../../transport
+Methods Called:
+   - call
+   - prototype
+
+------------------------------------------
+node_modules/socket.io/lib/transports/websocket/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/lib/transports/xhr-polling.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/lib/util.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/policyfile/examples/basic.fallback.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+node_modules/socket.io/node_modules/policyfile/examples/basic.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/policyfile/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/policyfile/lib/server.js
+------------------------------------------
+Library: net
+Methods Called:
+   - createServer
+
+------------------------------------------
+node_modules/socket.io/node_modules/policyfile/tests/unit.test.js
+------------------------------------------
+Library: ../
+Methods Called:
+   - version
+   - createServer
+   - Server
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/eval_test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/examples/auth.js
+------------------------------------------
+Library: redis
+Methods Called:
+   - createClient
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/examples/backpressure_drain.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/examples/extend.js
+------------------------------------------
+Library: redis
+Methods Called:
+   - createClient
+   - RedisClient
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/examples/file.js
+------------------------------------------
+Library: redis
+Methods Called:
+   - createClient
+   - print
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/examples/mget.js
+------------------------------------------
+Library: redis
+Methods Called:
+   - createClient
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/examples/monitor.js
+------------------------------------------
+Library: ../index
+Methods Called:
+   - createClient
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/examples/multi.js
+------------------------------------------
+Library: redis
+Methods Called:
+   - createClient
+   - print
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/examples/multi2.js
+------------------------------------------
+Library: redis
+Methods Called:
+   - createClient
+   - print
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/examples/psubscribe.js
+------------------------------------------
+Library: redis
+Methods Called:
+   - createClient
+   - debug_mode
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/examples/pub_sub.js
+------------------------------------------
+Library: redis
+Methods Called:
+   - createClient
+   - debug_mode
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/examples/simple.js
+------------------------------------------
+Library: redis
+Methods Called:
+   - createClient
+   - print
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/examples/subqueries.js
+------------------------------------------
+Library: redis
+Methods Called:
+   - createClient
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/examples/subquery.js
+------------------------------------------
+Library: redis
+Methods Called:
+   - createClient
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/examples/unix_socket.js
+------------------------------------------
+Library: redis
+Methods Called:
+   - createClient
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/examples/web_server.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/generate_commands.js
+------------------------------------------
+Library: http
+Methods Called:
+   - get
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/index.js
+------------------------------------------
+Library: net
+Methods Called:
+   - createConnection
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/lib/commands.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/lib/parser/hiredis.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/lib/parser/javascript.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/lib/queue.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/lib/to_array.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/lib/util.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/multi_bench.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/simple_test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/test.js
+------------------------------------------
+Library: ./index
+Methods Called:
+   - createClient
+   - debug_mode
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/tests/buffer_bench.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/tests/reconnect_test.js
+------------------------------------------
+Library: redis
+Methods Called:
+   - createClient
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/tests/stress/codec.js
+------------------------------------------
+Library: node-msgpack
+Methods Called:
+   - pack
+   - unpack
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/tests/stress/pubsub/pub.js
+------------------------------------------
+Library: os
+Methods Called:
+   - freemem
+
+Library: redis
+Methods Called:
+   - createClient
+
+Library: v8-profiler
+Methods Called:
+   - takeSnapshot
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/tests/stress/pubsub/server.js
+------------------------------------------
+Library: os
+Methods Called:
+   - freemem
+
+Library: redis
+Methods Called:
+   - createClient
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/tests/stress/rpushblpop/pub.js
+------------------------------------------
+Library: os
+Methods Called:
+   - freemem
+
+Library: redis
+Methods Called:
+   - createClient
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/tests/stress/rpushblpop/server.js
+------------------------------------------
+Library: os
+Methods Called:
+   - freemem
+
+Library: redis
+Methods Called:
+   - createClient
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/tests/stress/speed/speed.js
+------------------------------------------
+Library: node-msgpack
+Methods Called:
+   - pack
+   - unpack
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/tests/sub_quit_test.js
+------------------------------------------
+Library: redis
+Methods Called:
+   - createClient
+
+------------------------------------------
+node_modules/socket.io/node_modules/redis/tests/test_start_stop.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/bin/builder.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFile
+   - write
+   - openSync
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/dist/socket.io.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/dist/socket.io.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/lib/events.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/lib/io.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/lib/json.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/lib/namespace.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/lib/parser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/lib/socket.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/lib/transport.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/lib/transports/flashsocket.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/lib/transports/htmlfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/lib/transports/jsonp-polling.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/lib/transports/websocket.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/lib/transports/xhr-polling.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/lib/transports/xhr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/lib/util.js
+------------------------------------------
+Library: xmlhttprequest
+Methods Called:
+   - XMLHttpRequest
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/swfobject.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/lib/vendor/web-socket-js/web_socket.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/lib/parse-js.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/lib/process.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/lib/squeeze-more.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/beautify.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/testparser.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/array1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/array2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/array3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/array4.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/assignment.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/concatstring.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/const.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/empty-blocks.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/forstatement.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/if.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/ifreturn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/ifreturn2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue10.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue11.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue13.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue14.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue16.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue17.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue20.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue21.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue25.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue27.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue28.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue29.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue30.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue34.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue4.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue48.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue50.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue53.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue54.1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue68.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue69.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/issue9.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/mangle.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/strict-equals.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/var.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/expected/with.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected end of input
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/array1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/array2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/array3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/array4.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/assignment.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/concatstring.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/const.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/empty-blocks.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/forstatement.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/if.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/ifreturn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/ifreturn2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue10.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue11.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue13.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue14.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue16.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue17.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue20.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue21.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue25.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue27.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue28.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue29.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue30.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue34.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue4.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue48.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue50.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue53.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue54.1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue68.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue69.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/issue9.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/mangle.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/strict-equals.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/var.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/compress/test/with.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/test/unit/scripts.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+   - readdirSync
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/tmp/instrument.js
+------------------------------------------
+Library: uglify-js
+Methods Called:
+   - parser
+   - uglify
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/tmp/instrument2.js
+------------------------------------------
+Library: uglify-js
+Methods Called:
+   - parser
+   - uglify
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/uglify-js/uglify-js.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/websocket-client/examples/client-unix.js
+------------------------------------------
+Library: sys
+Methods Called:
+   - debug
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/websocket-client/examples/client.js
+------------------------------------------
+Library: sys
+Methods Called:
+   - debug
+   - inspect
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/websocket-client/examples/server-unix.js
+------------------------------------------
+Library: sys
+Methods Called:
+   - debug
+
+Library: websocket-server/ws
+Methods Called:
+   - createServer
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/websocket-client/lib/websocket.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - ok
+   - equal
+   - notEqual
+
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: crypto
+Methods Called:
+   - createHash
+
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: http
+Methods Called:
+   - createClient
+
+Library: url
+Methods Called:
+   - parse
+
+Library: sys
+Methods Called:
+   - error
+   - inspect
+   - inherits
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/websocket-client/test/test-basic.js
+------------------------------------------
+Library: websocket-server/ws/server
+Methods Called:
+   - Server
+
+Library: assert
+Methods Called:
+   - equal
+   - deepEqual
+   - ok
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/websocket-client/test/test-client-close.js
+------------------------------------------
+Library: websocket-server/ws/server
+Methods Called:
+   - Server
+
+Library: assert
+Methods Called:
+   - equal
+   - ok
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/websocket-client/test/test-readonly-attrs.js
+------------------------------------------
+Library: websocket-server/ws/server
+Methods Called:
+   - Server
+
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/websocket-client/test/test-ready-state.js
+------------------------------------------
+Library: websocket-server/ws/server
+Methods Called:
+   - Server
+
+Library: assert
+Methods Called:
+   - equal
+   - ok
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/websocket-client/test/test-server-close.js
+------------------------------------------
+Library: websocket-server/ws/server
+Methods Called:
+   - Server
+
+Library: assert
+Methods Called:
+   - deepEqual
+   - equal
+   - ok
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/websocket-client/test/test-unix-send-fd.js
+------------------------------------------
+Library: websocket-server/ws/server
+Methods Called:
+   - Server
+
+Library: assert
+Methods Called:
+   - equal
+   - ok
+
+Library: fs
+Methods Called:
+   - unlinkSync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/websocket-client/test/test-unix-sockets.js
+------------------------------------------
+Library: websocket-server/ws/server
+Methods Called:
+   - Server
+
+Library: assert
+Methods Called:
+   - equal
+   - ok
+
+Library: fs
+Methods Called:
+   - unlinkSync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/XMLHttpRequest.js
+------------------------------------------
+Library: url
+Methods Called:
+   - parse
+
+Library: http
+Methods Called:
+   - request
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/demo.js
+------------------------------------------
+Library: util
+Methods Called:
+   - puts
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/tests/test-constants.js
+------------------------------------------
+Library: util
+Methods Called:
+   - puts
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/tests/test-headers.js
+------------------------------------------
+Library: util
+Methods Called:
+   - puts
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/node_modules/xmlhttprequest/tests/test-request.js
+------------------------------------------
+Library: util
+Methods Called:
+   - puts
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/test/events.test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/test/io.test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/test/node/builder.common.js
+------------------------------------------
+Library: vm
+Methods Called:
+   - createScript
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/test/node/builder.test.js
+------------------------------------------
+Library: ../../bin/builder
+Methods Called:
+   - version
+   - main_method*
+   - transports
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/test/parser.test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/test/socket.test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/test/util.test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/socket.io/node_modules/socket.io-client/test/worker.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/lib/object-ast.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/lib/parse-js.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/lib/process.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/lib/squeeze-more.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/beautify.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/uglify-js/test/testparser.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/array1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/array2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/array3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/array4.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/assignment.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/concatstring.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/const.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/empty-blocks.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/forstatement.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/if.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/ifreturn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/ifreturn2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/issue10.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/issue11.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/issue13.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/issue14.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/issue16.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/issue17.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/issue20.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/issue21.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/issue25.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/issue27.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/issue278.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/issue28.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/issue29.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/issue30.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/issue34.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/issue4.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/issue48.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/issue50.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/issue53.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/issue54.1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/issue68.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/issue69.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/issue9.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/mangle.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/null_string.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/strict-equals.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/var.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/whitespace.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/expected/with.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/array1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/array2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/array3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/array4.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/assignment.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/concatstring.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/const.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/empty-blocks.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/forstatement.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/if.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/ifreturn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/ifreturn2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/issue10.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/issue11.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/issue13.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/issue14.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/issue16.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/issue17.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/issue20.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/issue21.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/issue25.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/issue27.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/issue278.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/issue28.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/issue29.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/issue30.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/issue34.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/issue4.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/issue48.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/issue50.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/issue53.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/issue54.1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/issue68.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/issue69.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/issue9.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/mangle.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/null_string.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/strict-equals.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/var.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/whitespace.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/uglify-js/test/unit/compress/test/with.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/test/unit/scripts.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+   - readdirSync
+
+------------------------------------------
+node_modules/uglify-js/tmp/269.js
+------------------------------------------
+Library: uglify-js
+Methods Called:
+   - parser
+   - uglify
+
+------------------------------------------
+node_modules/uglify-js/tmp/app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/tmp/embed-tokens.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/uglify-js/tmp/goto.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/tmp/goto2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/tmp/hoist.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/tmp/instrument.js
+------------------------------------------
+Library: uglify-js
+Methods Called:
+   - parser
+   - uglify
+
+------------------------------------------
+node_modules/uglify-js/tmp/instrument2.js
+------------------------------------------
+Library: uglify-js
+Methods Called:
+   - parser
+   - uglify
+
+------------------------------------------
+node_modules/uglify-js/tmp/liftvars.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/tmp/test.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/uglify-js/tmp/uglify-hangs.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/tmp/uglify-hangs2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/uglify-js/uglify-js.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/apiPostServer.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: path
+Methods Called:
+   - join
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: http
+Methods Called:
+   - createServer
+   - globalAgent
+   - request
+
+------------------------------------------
+test/autoStatic.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: path
+Methods Called:
+   - join
+
+Library: request
+Methods Called:
+   - end
+   - main_method*
+
+Library: http
+Methods Called:
+   - createServer
+   - globalAgent
+   - request
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+test/autorequire.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: should
+Methods Called:
+   - strictEqual
+
+------------------------------------------
+test/autorouter.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+   - not
+
+Library: path
+Methods Called:
+   - join
+
+Library: http
+Methods Called:
+   - createServer
+   - request
+
+------------------------------------------
+test/config.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+
+------------------------------------------
+test/controller/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/controller/user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/createfolder.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: path
+Methods Called:
+   - join
+
+Library: fs
+Methods Called:
+   - existsSync
+   - mkdirSync
+   - readdirSync
+
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+test/devtest.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+test/ejs.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: request
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - join
+
+Library: http
+Methods Called:
+   - createServer
+   - globalAgent
+
+------------------------------------------
+test/ejs_cache.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: request
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - join
+
+Library: http
+Methods Called:
+   - createServer
+   - globalAgent
+
+------------------------------------------
+test/favicon.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: path
+Methods Called:
+   - join
+
+Library: http
+Methods Called:
+   - createServer
+   - get
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+test/hello.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: path
+Methods Called:
+   - join
+
+Library: http
+Methods Called:
+   - createServer
+   - get
+
+------------------------------------------
+test/https_req.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: path
+Methods Called:
+   - join
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: zlib
+Methods Called:
+   - createUnzip
+
+------------------------------------------
+test/https_req_param.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: request
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - join
+
+Library: fs
+Methods Called:
+   - readFileSync
+   - createReadStream
+
+Library: https
+Methods Called:
+   - createServer
+   - globalAgent
+
+------------------------------------------
+test/https_res.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+test/https_upload.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+   - exist
+
+Library: fs
+Methods Called:
+   - readFileSync
+   - createReadStream
+
+Library: request
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - join
+
+Library: https
+Methods Called:
+   - createServer
+
+------------------------------------------
+test/iptables1.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: path
+Methods Called:
+   - join
+
+Library: http
+Methods Called:
+   - createServer
+   - request
+
+------------------------------------------
+test/iptables2.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: path
+Methods Called:
+   - join
+
+Library: http
+Methods Called:
+   - createServer
+   - request
+
+------------------------------------------
+test/jade.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: request
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - join
+
+Library: http
+Methods Called:
+   - createServer
+   - globalAgent
+
+------------------------------------------
+test/jade_cache.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: request
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - join
+
+Library: http
+Methods Called:
+   - createServer
+   - globalAgent
+
+------------------------------------------
+test/main.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - spawn
+
+Library: fs
+Methods Called:
+   - existsSync
+   - readdirSync
+   - unlinkSync
+   - rmdirSync
+   - statSync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+test/manualrouter.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: request
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - join
+
+Library: http
+Methods Called:
+   - createServer
+   - globalAgent
+
+------------------------------------------
+test/multiListen.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - spawn
+
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: path
+Methods Called:
+   - join
+
+Library: http
+Methods Called:
+   - createServer
+   - globalAgent
+   - request
+
+------------------------------------------
+test/poolmongo.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: request
+Methods Called:
+   - main_method*
+
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+test/req.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: path
+Methods Called:
+   - join
+
+Library: http
+Methods Called:
+   - createServer
+   - request
+
+Library: zlib
+Methods Called:
+   - createUnzip
+
+------------------------------------------
+test/req.param.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: request
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - join
+
+Library: http
+Methods Called:
+   - createServer
+   - globalAgent
+
+Library: fs
+Methods Called:
+   - readFileSync
+   - createReadStream
+
+------------------------------------------
+test/res.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: path
+Methods Called:
+   - join
+
+Library: http
+Methods Called:
+   - createServer
+   - globalAgent
+   - request
+
+------------------------------------------
+test/restlog.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readdirSync
+   - unlinkSync
+   - readFileSync
+
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+test/restlog2.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: path
+Methods Called:
+   - join
+
+Library: fs
+Methods Called:
+   - readdirSync
+   - unlinkSync
+   - readFileSync
+
+------------------------------------------
+test/sep_session.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: path
+Methods Called:
+   - join
+
+Library: http
+Methods Called:
+   - createServer
+   - globalAgent
+   - request
+
+------------------------------------------
+test/session.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+test/session/client.js
+------------------------------------------
+Library: http
+Methods Called:
+   - request
+
+Library: should
+Methods Called:
+   - strictEqual
+
+------------------------------------------
+test/session/dbsession_multi.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+test/session/multisession.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+test/session/sep_session.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: path
+Methods Called:
+   - join
+
+Library: http
+Methods Called:
+   - createServer
+   - globalAgent
+   - request
+
+------------------------------------------
+test/session_db.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+test/static/a.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/static/b.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/static/js1/js2/js3/a.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/testconf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/timeout.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+
+Library: path
+Methods Called:
+   - join
+
+Library: http
+Methods Called:
+   - createServer
+   - request
+
+------------------------------------------
+test/upload.js
+------------------------------------------
+Library: should
+Methods Called:
+   - strictEqual
+   - exist
+
+Library: request
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - join
+
+Library: http
+Methods Called:
+   - createServer
+   - globalAgent
+
+Library: fs
+Methods Called:
+   - readFileSync
+   - createReadStream
+
+
+All of the Methods:
+{
+  "path": {
+    "dirname": true,
+    "join": true,
+    "basename": true,
+    "extname": true,
+    "normalize": true,
+    "relative": true,
+    "resolve": true,
+    "substr": true,
+    "replace": true,
+    "exists": true
+  },
+  "rrestjs": {
+    "config": true
+  },
+  "crypto": {
+    "createHash": true
+  },
+  "http": {
+    "createServer": true,
+    "request": true,
+    "IncomingMessage": true,
+    "STATUS_CODES": true,
+    "Server": true,
+    "get": true,
+    "Agent": true,
+    "createClient": true,
+    "globalAgent": true
+  },
+  "fs": {
+    "readFileSync": true,
+    "readdirSync": true,
+    "readFile": true,
+    "existsSync": true,
+    "mkdirSync": true,
+    "stat": true,
+    "watch": true,
+    "statSync": true,
+    "writeFile": true,
+    "createReadStream": true,
+    "ReadStream": true,
+    "createWriteStream": true,
+    "mkdir": true,
+    "writeFileSync": true,
+    "write": true,
+    "openSync": true,
+    "unlinkSync": true,
+    "rmdirSync": true
+  },
+  "jade": {
+    "compile": true
+  },
+  "generic-pool": {
+    "Pool": true
+  },
+  "formidable": {
+    "IncomingForm": true
+  },
+  "./Outerror": {
+    "main_method*": true
+  },
+  "url": {
+    "parse": true
+  },
+  "./modules/ClusterPlus": {
+    "main_method*": true
+  },
+  "log4js": {
+    "configure": true,
+    "getLogger": true
+  },
+  "now": {
+    "initialize": true,
+    "on": true,
+    "getGroup": true
+  },
+  "./RestUtils": {
+    "errorRes404": true,
+    "forbidden": true,
+    "errorRes": true,
+    "md5": true
+  },
+  "zlib": {
+    "undefined": true,
+    "gzip": true,
+    "createUnzip": true
+  },
+  "./apiReq": {
+    "main_method*": true
+  },
+  "./modules/AsyncProxy": {
+    "main_method*": true
+  },
+  "ejs": {
+    "render": true
+  },
+  "events": {
+    "EventEmitter": true
+  },
+  "cluster": {
+    "isWorker": true,
+    "fork": true,
+    "on": true
+  },
+  "child_process": {
+    "exec": true,
+    "spawn": true
+  },
+  "commander": {
+    "option": true,
+    "dev": true
+  },
+  "mime": {
+    "define": true
+  },
+  "./utils": {
+    "escape": true
+  },
+  "../": {
+    "render": true,
+    "fail": true,
+    "equal": true,
+    "version": true,
+    "createServer": true,
+    "Server": true
+  },
+  "..": {
+    "compile": true,
+    "open": true,
+    "close": true,
+    "render": true,
+    "renderFile": true
+  },
+  "../lib/multipart_parser": {
+    "MultipartParser": true
+  },
+  "./util": {
+    "inherits": true
+  },
+  "buffer": {
+    "Buffer": true
+  },
+  "querystring": {
+    "parse": true,
+    "stringify": true
+  },
+  "gently": {
+    "expect": true,
+    "main_method*": true
+  },
+  "hashish": {
+    "forEach": true,
+    "merge": true
+  },
+  "findit": {
+    "sync": true
+  },
+  "net": {
+    "createConnection": true,
+    "createServer": true
+  },
+  "assert": {
+    "equal": true,
+    "notEqual": true,
+    "throws": true,
+    "ok": true,
+    "deepEqual": true,
+    "lengthOf": true,
+    "isTrue": true,
+    "isNull": true,
+    "isObject": true,
+    "isFunction": true,
+    "isString": true,
+    "isUndefined": true,
+    "strictEqual": true
+  },
+  "utest": {
+    "main_method*": true
+  },
+  "util": {
+    "puts": true,
+    "debug": true,
+    "inherits": true,
+    "i": true,
+    "print": true,
+    "inspect": true
+  },
+  "https": {
+    "createServer": true,
+    "globalAgent": true
+  },
+  "../helpers/store": {
+    "main_method*": true
+  },
+  "connect/lib/middleware/bodyParser": {
+    "main_method*": true
+  },
+  "socket.io": {
+    "listen": true
+  },
+  "wordwrap": {
+    "main_method*": true
+  },
+  "tap": {
+    "test": true
+  },
+  "../common": {
+    "PORT": true,
+    "PROXY_PORT": true
+  },
+  "vows": {
+    "describe": true
+  },
+  "./nodes": {
+    "Block": true,
+    "Text": true,
+    "Case": true,
+    "Code": true,
+    "BlockComment": true,
+    "Comment": true,
+    "Doctype": true,
+    "Filter": true,
+    "Each": true,
+    "Literal": true,
+    "Mixin": true,
+    "Tag": true
+  },
+  "sass": {
+    "render": true
+  },
+  "./parser": {
+    "main_method*": true,
+    "Parser": true
+  },
+  "express": {
+    "createServer": true
+  },
+  "./lib/log4js": {
+    "configure": true,
+    "getLogger": true
+  },
+  "../streams": {
+    "DateRollingFileStream": true
+  },
+  "../layouts": {
+    "basicLayout": true,
+    "layout": true,
+    "messagePassThroughLayout": true
+  },
+  "dgram": {
+    "createSocket": true
+  },
+  "hook.io": {
+    "Hook": true
+  },
+  "../log4js": {
+    "levels": true,
+    "loadAppender": true,
+    "appenderMakers": true
+  },
+  "./date_format": {
+    "asString": true,
+    "ISO8601_FORMAT": true,
+    "ABSOLUTETIME_FORMAT": true,
+    "DATETIME_FORMAT": true
+  },
+  "./levels": {
+    "TRACE": true,
+    "toLevel": true
+  },
+  "sandboxed-module": {
+    "require": true
+  },
+  "../lib/log4js": {
+    "clearAppenders": true,
+    "addAppender": true,
+    "getLogger": true,
+    "configure": true
+  },
+  "mkdirp": {
+    "main_method*": true
+  },
+  "./commands/insert_command": {
+    "InsertCommand": true
+  },
+  "./query_command": {
+    "QueryCommand": true
+  },
+  "./base_command": {
+    "BaseCommand": true
+  },
+  "./connection_utils": {
+    "setIntegerParameter": true,
+    "setBooleanParameter": true,
+    "setStringParameter": true
+  },
+  "./connection": {
+    "Connection": true
+  },
+  "./commands/query_command": {
+    "QueryCommand": true
+  },
+  "stream": {
+    "Stream": true
+  },
+  "bson": {
+    "Binary": true,
+    "Long": true
+  },
+  "./gridstore": {
+    "GridStore": true
+  },
+  "./chunk": {
+    "Chunk": true
+  },
+  "nodeunit": {
+    "testCase": true
+  },
+  "gleak": {
+    "ignore": true
+  },
+  "readline": {
+    "createInterface": true
+  },
+  "socket.io-client": {
+    "connect": true,
+    "version": true,
+    "builder": true,
+    "dist": true
+  },
+  "node-proxy": {
+    "create": true,
+    "isProxy": true,
+    "createFunction": true
+  },
+  "sys": {
+    "puts": true,
+    "debug": true,
+    "inspect": true,
+    "error": true,
+    "inherits": true
+  },
+  "./runnable": {
+    "call": true,
+    "main_method*": true,
+    "prototype": true
+  },
+  "benchmark": {
+    "Suite": true
+  },
+  "msgpack": {
+    "pack": true,
+    "unpack": true
+  },
+  "../transport": {
+    "call": true,
+    "prototype": true
+  },
+  "../../transport": {
+    "call": true,
+    "prototype": true
+  },
+  "redis": {
+    "createClient": true,
+    "RedisClient": true,
+    "print": true,
+    "debug_mode": true
+  },
+  "../index": {
+    "createClient": true
+  },
+  "./index": {
+    "createClient": true,
+    "debug_mode": true
+  },
+  "node-msgpack": {
+    "pack": true,
+    "unpack": true
+  },
+  "os": {
+    "freemem": true
+  },
+  "v8-profiler": {
+    "takeSnapshot": true
+  },
+  "xmlhttprequest": {
+    "XMLHttpRequest": true
+  },
+  "uglify-js": {
+    "parser": true,
+    "uglify": true
+  },
+  "websocket-server/ws": {
+    "createServer": true
+  },
+  "websocket-server/ws/server": {
+    "Server": true
+  },
+  "vm": {
+    "createScript": true
+  },
+  "../../bin/builder": {
+    "version": true,
+    "main_method*": true,
+    "transports": true
+  },
+  "should": {
+    "strictEqual": true,
+    "not": true,
+    "exist": true
+  },
+  "request": {
+    "end": true,
+    "main_method*": true
+  }
+}

@@ -1,0 +1,30 @@
+------------------------------------------
+generators/app/index.js
+------------------------------------------
+Library: yeoman-generator
+Methods Called:
+   - generators
+
+Library: chalk
+Methods Called:
+   - red
+   - yellow
+
+Library: yosay
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "yeoman-generator": {
+    "generators": true
+  },
+  "chalk": {
+    "red": true,
+    "yellow": true
+  },
+  "yosay": {
+    "main_method*": true
+  }
+}

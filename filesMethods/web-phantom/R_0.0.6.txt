@@ -1,0 +1,41 @@
+------------------------------------------
+bridge.js
+------------------------------------------
+Library: system
+Methods Called:
+   - args
+
+------------------------------------------
+examples/start.js
+------------------------------------------
+Library: ./../index
+Methods Called:
+   - main_method*
+
+------------------------------------------
+index.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+Library: socket.io
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "system": {
+    "args": true
+  },
+  "./../index": {
+    "main_method*": true
+  },
+  "http": {
+    "createServer": true
+  },
+  "socket.io": {
+    "main_method*": true
+  }
+}

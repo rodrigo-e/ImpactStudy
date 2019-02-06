@@ -1,0 +1,354 @@
+------------------------------------------
+examples/ny-campaign-finance.conf.js
+------------------------------------------
+Library: sequelize
+Methods Called:
+   - STRING
+   - INTEGER
+   - DATEONLY
+   - FLOAT
+   - DATE
+
+Library: lodash
+Methods Called:
+   - size
+   - each
+   - keys
+
+Library: byline
+Methods Called:
+   - createStream
+
+------------------------------------------
+examples/usa-spending-contracts.conf.js
+------------------------------------------
+Library: sequelize
+Methods Called:
+   - STRING
+   - INTEGER
+   - FLOAT
+   - DATEONLY
+   - TEXT
+   - BIGINT
+
+Library: lodash
+Methods Called:
+   - isString
+   - each
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/auto-parser.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - each
+
+------------------------------------------
+lib/columns-to-model.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - each
+   - map
+   - isArray
+   - isObject
+   - filter
+   - countBy
+   - sortBy
+   - maxBy
+   - size
+   - isString
+   - isInteger
+   - isFinite
+   - isBoolean
+
+Library: moment-timezone
+Methods Called:
+   - main_method*
+
+Library: sequelize
+Methods Called:
+   - INTEGER
+   - TEXT
+   - STRING
+   - BIGINT
+   - kind
+
+------------------------------------------
+lib/db.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - writeFileSync
+
+Library: lodash
+Methods Called:
+   - isObject
+   - each
+   - keys
+   - values
+   - map
+
+Library: sequelize/lib/sql-string
+Methods Called:
+   - escape
+
+Library: mysql
+Methods Called:
+   - format
+
+------------------------------------------
+lib/output.js
+------------------------------------------
+Library: chalk
+Methods Called:
+   - styles
+   - magenta
+   - italic
+   - red
+   - yellow
+
+Library: lodash
+Methods Called:
+   - isUndefined
+   - isBoolean
+   - each
+
+------------------------------------------
+lib/tables.js
+------------------------------------------
+Library: cli-spinner
+Methods Called:
+   - Spinner
+
+Library: d3-queue
+Methods Called:
+   - queue
+
+Library: fs
+Methods Called:
+   - existsSync
+   - readFileSync
+   - createReadStream
+   - statSync
+   - writeFileSync
+
+Library: path
+Methods Called:
+   - join
+
+Library: url
+Methods Called:
+   - parse
+
+Library: stream
+Methods Called:
+   - PassThrough
+
+Library: lodash
+Methods Called:
+   - defaultsDeep
+   - bindAll
+   - bind
+   - keys
+   - isFunction
+   - isArray
+   - each
+   - extend
+   - cloneDeep
+
+Library: progress
+Methods Called:
+   - main_method*
+
+Library: sequelize
+Methods Called:
+   - main_method*
+
+Library: unpipe
+Methods Called:
+   - main_method*
+
+Library: merge2
+Methods Called:
+   - main_method*
+
+Library: tito
+Methods Called:
+   - formats
+
+------------------------------------------
+lib/utils.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - isObject
+   - isArray
+   - isNaN
+   - isString
+   - isNumber
+   - isBoolean
+
+Library: moment-timezone
+Methods Called:
+   - main_method*
+
+------------------------------------------
+tests/command-line.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - exec
+
+Library: assert
+Methods Called:
+   - ok
+   - fail
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+tests/db.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - ok
+
+------------------------------------------
+tests/output.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - deepEqual
+
+Library: test-console
+Methods Called:
+   - stdout
+   - stderr
+
+------------------------------------------
+tests/utils.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - strictEqual
+   - ok
+
+Library: moment-timezone
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "sequelize": {
+    "STRING": true,
+    "INTEGER": true,
+    "DATEONLY": true,
+    "FLOAT": true,
+    "DATE": true,
+    "TEXT": true,
+    "BIGINT": true,
+    "kind": true,
+    "main_method*": true
+  },
+  "lodash": {
+    "size": true,
+    "each": true,
+    "keys": true,
+    "isString": true,
+    "map": true,
+    "isArray": true,
+    "isObject": true,
+    "filter": true,
+    "countBy": true,
+    "sortBy": true,
+    "maxBy": true,
+    "isInteger": true,
+    "isFinite": true,
+    "isBoolean": true,
+    "values": true,
+    "isUndefined": true,
+    "defaultsDeep": true,
+    "bindAll": true,
+    "bind": true,
+    "isFunction": true,
+    "extend": true,
+    "cloneDeep": true,
+    "isNaN": true,
+    "isNumber": true
+  },
+  "byline": {
+    "createStream": true
+  },
+  "moment-timezone": {
+    "main_method*": true
+  },
+  "fs": {
+    "writeFileSync": true,
+    "existsSync": true,
+    "readFileSync": true,
+    "createReadStream": true,
+    "statSync": true
+  },
+  "sequelize/lib/sql-string": {
+    "escape": true
+  },
+  "mysql": {
+    "format": true
+  },
+  "chalk": {
+    "styles": true,
+    "magenta": true,
+    "italic": true,
+    "red": true,
+    "yellow": true
+  },
+  "cli-spinner": {
+    "Spinner": true
+  },
+  "d3-queue": {
+    "queue": true
+  },
+  "path": {
+    "join": true
+  },
+  "url": {
+    "parse": true
+  },
+  "stream": {
+    "PassThrough": true
+  },
+  "progress": {
+    "main_method*": true
+  },
+  "unpipe": {
+    "main_method*": true
+  },
+  "merge2": {
+    "main_method*": true
+  },
+  "tito": {
+    "formats": true
+  },
+  "child_process": {
+    "exec": true
+  },
+  "assert": {
+    "ok": true,
+    "fail": true,
+    "deepEqual": true,
+    "strictEqual": true
+  },
+  "test-console": {
+    "stdout": true,
+    "stderr": true
+  }
+}

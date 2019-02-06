@@ -1,0 +1,58 @@
+------------------------------------------
+hapi-auth-action-token.js
+------------------------------------------
+Library: boom
+Methods Called:
+   - unauthorized
+   - badRequest
+
+Library: hoek
+Methods Called:
+   - assert
+   - clone
+
+Library: jsonwebtoken
+Methods Called:
+   - sign
+   - verify
+
+------------------------------------------
+test/integration.js
+------------------------------------------
+Library: code
+Methods Called:
+   - expect
+
+Library: lab
+Methods Called:
+   - script
+
+Library: hapi
+Methods Called:
+   - Server
+
+
+All of the Methods:
+{
+  "boom": {
+    "unauthorized": true,
+    "badRequest": true
+  },
+  "hoek": {
+    "assert": true,
+    "clone": true
+  },
+  "jsonwebtoken": {
+    "sign": true,
+    "verify": true
+  },
+  "code": {
+    "expect": true
+  },
+  "lab": {
+    "script": true
+  },
+  "hapi": {
+    "Server": true
+  }
+}

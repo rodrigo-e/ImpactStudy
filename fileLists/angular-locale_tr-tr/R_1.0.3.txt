@@ -1,0 +1,4 @@
+2eb112ebe19863473216a8e54f7c323f357e7ed2
+GruntFile.js
+angular-locale_tr-tr.js
+dist/angular-locale_tr-tr.min.js

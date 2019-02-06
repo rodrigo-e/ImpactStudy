@@ -1,0 +1,31 @@
+------------------------------------------
+lib/hapi-elapsed.js
+------------------------------------------
+Library: hoek
+Methods Called:
+   - Bench
+
+------------------------------------------
+test/hapi-elapsed.mocha.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: hapi
+Methods Called:
+   - Server
+
+
+All of the Methods:
+{
+  "hoek": {
+    "Bench": true
+  },
+  "chai": {
+    "expect": true
+  },
+  "hapi": {
+    "Server": true
+  }
+}

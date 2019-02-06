@@ -1,0 +1,4 @@
+724554b8e8fc4c1327799772d1245168b4fde034
+index.js
+riot-i18n.min.js
+test/test.js

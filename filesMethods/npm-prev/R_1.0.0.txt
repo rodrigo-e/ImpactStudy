@@ -1,0 +1,31 @@
+------------------------------------------
+bin/index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - exec
+
+Library: tape
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "child_process": {
+    "exec": true
+  },
+  "tape": {
+    "main_method*": true
+  }
+}

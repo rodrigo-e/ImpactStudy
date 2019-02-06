@@ -1,0 +1,7 @@
+9873e73afc778e05a75cdb71f4cd307535fccf81
+tests/cycles/bar.js
+tests/cycles/foo.js
+tests/error/fullOfErrors/bar.js
+tests/error/fullOfErrors/foo.js
+tests/success/simple/bas.js
+tests/success/simple/foo.js

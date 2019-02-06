@@ -1,0 +1,50 @@
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: http
+Methods Called:
+   - STATUS_CODES
+
+Library: hoek
+Methods Called:
+   - assert
+   - escapeHeaderAttribute
+
+------------------------------------------
+shim/hoek.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+shim/http.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/index.js
+------------------------------------------
+Library: code
+Methods Called:
+   - expect
+
+Library: lab
+Methods Called:
+   - script
+
+
+All of the Methods:
+{
+  "http": {
+    "STATUS_CODES": true
+  },
+  "hoek": {
+    "assert": true,
+    "escapeHeaderAttribute": true
+  },
+  "code": {
+    "expect": true
+  },
+  "lab": {
+    "script": true
+  }
+}

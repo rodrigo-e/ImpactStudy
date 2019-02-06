@@ -1,0 +1,343 @@
+------------------------------------------
+e2e/home.readSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+e2e/home.writeSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+e2e/shared/Homepage.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/api/controllers/SimpleController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/api/models/Simple.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/api/policies/sessionAuth.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/api/responses/badRequest.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/api/responses/forbidden.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/api/responses/notFound.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/api/responses/ok.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/api/responses/serverError.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/assets/js/app/app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/assets/js/app/home/HomeController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/assets/js/dependencies/sails.io.js
+------------------------------------------
+Library: request
+Methods Called:
+   - get
+
+------------------------------------------
+example/assets/js/dependencies/sailsResource.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/config/blueprints.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/config/bootstrap.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/config/connections.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/config/cors.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/config/csrf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/config/env/development.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/config/env/production.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/config/globals.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/config/http.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/config/i18n.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/config/log.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/config/models.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/config/policies.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/config/routes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/config/session.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/config/sockets.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/config/views.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/tasks/config/clean.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/tasks/config/coffee.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/tasks/config/concat.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/tasks/config/copy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/tasks/config/cssmin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/tasks/config/jst.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/tasks/config/less.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/tasks/config/sails-linker.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/tasks/config/sync.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/tasks/config/uglify.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/tasks/config/watch.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/tasks/pipeline.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/tasks/register/build.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/tasks/register/buildProd.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/tasks/register/compileAssets.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/tasks/register/default.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/tasks/register/linkAssets.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/tasks/register/linkAssetsBuild.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/tasks/register/linkAssetsBuildProd.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/tasks/register/prod.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/tasks/register/syncAssets.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - spawn
+
+Library: gulp-protractor
+Methods Called:
+   - protractor
+   - webdriver_update
+
+Library: gulp
+Methods Called:
+   - task
+   - doneCallback
+   - src
+
+Library: fs
+Methods Called:
+   - unlink
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+protractor-ci.conf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+protractor.conf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/sailsResource.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "request": {
+    "get": true
+  },
+  "child_process": {
+    "spawn": true
+  },
+  "gulp-protractor": {
+    "protractor": true,
+    "webdriver_update": true
+  },
+  "gulp": {
+    "task": true,
+    "doneCallback": true,
+    "src": true
+  },
+  "fs": {
+    "unlink": true
+  },
+  "path": {
+    "join": true
+  }
+}

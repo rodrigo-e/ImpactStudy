@@ -1,0 +1,531 @@
+------------------------------------------
+examples/raw-sio/app.js
+------------------------------------------
+Library: sails
+Methods Called:
+   - Sails
+
+Library: socket.io
+Methods Called:
+   - main_method*
+
+------------------------------------------
+examples/using-stub-hook/app.js
+------------------------------------------
+Library: sails
+Methods Called:
+   - Sails
+
+------------------------------------------
+examples/using-stub-hook/hook.js
+------------------------------------------
+Library: socket.io
+Methods Called:
+   - main_method*
+
+------------------------------------------
+examples/using-the-real-hook/app.js
+------------------------------------------
+Library: sails
+Methods Called:
+   - Sails
+
+Library: path
+Methods Called:
+   - resolve
+
+Library: async
+Methods Called:
+   - auto
+
+Library: lodash
+Methods Called:
+   - template
+
+Library: machinepack-fs
+Methods Called:
+   - read
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/blast-admin-message.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/broadcast-admin-message.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/configure.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - isFunction
+   - isUndefined
+
+Library: machinepack-urls
+Methods Called:
+   - parse
+
+------------------------------------------
+lib/connect-sails-client.js
+------------------------------------------
+Library: socket.io-client
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/defaults.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/errors.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/initialize.js
+------------------------------------------
+Library: socket.io
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/load-session-from-socket.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/on-connect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/parse-sdk-metadata.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/prepare-adapter.js
+------------------------------------------
+Library: util
+Methods Called:
+   - inspect
+
+Library: path
+Methods Called:
+   - resolve
+
+Library: lodash
+Methods Called:
+   - cloneDeep
+   - extend
+
+------------------------------------------
+lib/receive-incoming-sails-io-msg.js
+------------------------------------------
+Library: util
+Methods Called:
+   - format
+
+Library: lodash
+Methods Called:
+   - isFunction
+   - isString
+   - isArray
+   - extend
+   - defaults
+
+Library: semver
+Methods Called:
+   - satisfies
+
+------------------------------------------
+lib/sails.sockets/blast-to-all.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/sails.sockets/broadcast-to-room.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/sails.sockets/emit-to-all.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - isArray
+   - map
+   - isObject
+   - reduce
+
+------------------------------------------
+lib/sails.sockets/emit-to-socket.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - isArray
+   - isObject
+
+------------------------------------------
+lib/sails.sockets/get-socket-by-id.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - isString
+   - isNumber
+
+------------------------------------------
+lib/sails.sockets/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/sails.sockets/join-room.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - isArray
+   - each
+
+------------------------------------------
+lib/sails.sockets/leave-room.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - isArray
+   - each
+
+------------------------------------------
+lib/sails.sockets/list-all-rooms.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - keys
+   - remove
+
+------------------------------------------
+lib/sails.sockets/list-room-members.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - keys
+   - each
+
+------------------------------------------
+lib/sails.sockets/list-rooms-joined-by-socket.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - isObject
+   - isFunction
+   - isString
+   - isNumber
+
+------------------------------------------
+lib/sails.sockets/parse-socket-id.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/sails.sockets/parse-socket.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+standalone/create-error-constructor.js
+------------------------------------------
+Library: util
+Methods Called:
+   - format
+   - inherits
+
+------------------------------------------
+standalone/create-error-factory.js
+------------------------------------------
+Library: util
+Methods Called:
+   - inspect
+   - format
+
+Library: lodash
+Methods Called:
+   - each
+   - isString
+   - isNumber
+
+------------------------------------------
+standalone/create-errorpack.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - reduce
+   - extend
+
+------------------------------------------
+test/basic-usage.test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - deepEqual
+
+Library: util
+Methods Called:
+   - inspect
+
+------------------------------------------
+test/helpers/is-probably-session.helper.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - isObject
+
+------------------------------------------
+test/helpers/is-probably-socket.helper.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - isObject
+
+------------------------------------------
+test/helpers/lifecycle.helper.js
+------------------------------------------
+Library: sails
+Methods Called:
+   - Sails
+
+Library: sails.io.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/integration/hook.pubsub.modelEvents.subscribers.test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - main_method*
+
+Library: util
+Methods Called:
+   - inspect
+
+Library: lodash
+Methods Called:
+   - find
+
+------------------------------------------
+test/lifecycle-events.test.js
+------------------------------------------
+Library: util
+Methods Called:
+   - inspect
+
+Library: sails
+Methods Called:
+   - Sails
+
+------------------------------------------
+test/sails.sockets.test.js
+------------------------------------------
+Library: util
+Methods Called:
+   - inspect
+
+Library: assert
+Methods Called:
+   - throws
+   - main_method*
+   - equal
+
+Library: async
+Methods Called:
+   - each
+
+Library: lodash
+Methods Called:
+   - keys
+   - each
+   - isString
+   - isFunction
+   - indexOf
+   - reduce
+   - contains
+   - values
+
+------------------------------------------
+test/serve-client.test.js
+------------------------------------------
+Library: sails
+Methods Called:
+   - Sails
+
+Library: lodash
+Methods Called:
+   - extend
+   - merge
+
+Library: machinepack-http
+Methods Called:
+   - sendHttpRequest
+
+------------------------------------------
+test/setup.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/with-redis.bus.test.js
+------------------------------------------
+Library: sails
+Methods Called:
+   - Sails
+
+Library: util
+Methods Called:
+   - format
+
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: lodash
+Methods Called:
+   - extend
+   - each
+   - find
+
+Library: async
+Methods Called:
+   - each
+   - auto
+
+------------------------------------------
+test/with-redis.test.js
+------------------------------------------
+Library: sails
+Methods Called:
+   - Sails
+
+Library: util
+Methods Called:
+   - format
+
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: lodash
+Methods Called:
+   - extend
+   - each
+
+Library: async
+Methods Called:
+   - each
+
+------------------------------------------
+test/with-session.test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - deepEqual
+
+------------------------------------------
+test/without-http.test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/without-session.test.js
+------------------------------------------
+Library: sails
+Methods Called:
+   - Sails
+
+Library: assert
+Methods Called:
+   - equal
+   - deepEqual
+
+Library: util
+Methods Called:
+   - inspect
+
+
+All of the Methods:
+{
+  "sails": {
+    "Sails": true
+  },
+  "socket.io": {
+    "main_method*": true
+  },
+  "path": {
+    "resolve": true
+  },
+  "async": {
+    "auto": true,
+    "each": true
+  },
+  "lodash": {
+    "template": true,
+    "isFunction": true,
+    "isUndefined": true,
+    "cloneDeep": true,
+    "extend": true,
+    "isString": true,
+    "isArray": true,
+    "defaults": true,
+    "map": true,
+    "isObject": true,
+    "reduce": true,
+    "isNumber": true,
+    "each": true,
+    "keys": true,
+    "remove": true,
+    "find": true,
+    "indexOf": true,
+    "contains": true,
+    "values": true,
+    "merge": true
+  },
+  "machinepack-fs": {
+    "read": true
+  },
+  "machinepack-urls": {
+    "parse": true
+  },
+  "socket.io-client": {
+    "main_method*": true
+  },
+  "util": {
+    "inspect": true,
+    "format": true,
+    "inherits": true
+  },
+  "semver": {
+    "satisfies": true
+  },
+  "assert": {
+    "equal": true,
+    "deepEqual": true,
+    "main_method*": true,
+    "throws": true
+  },
+  "sails.io.js": {
+    "main_method*": true
+  },
+  "machinepack-http": {
+    "sendHttpRequest": true
+  }
+}

@@ -1,0 +1,28 @@
+------------------------------------------
+Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+precompiled-tags.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/precompileTags.js
+------------------------------------------
+Library: riot
+Methods Called:
+   - version
+   - compile
+   - settings
+
+
+All of the Methods:
+{
+  "riot": {
+    "version": true,
+    "compile": true,
+    "settings": true
+  }
+}

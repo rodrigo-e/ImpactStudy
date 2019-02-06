@@ -1,0 +1,3812 @@
+------------------------------------------
+Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/app/account/account.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/app/account/settings/settings.controller.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token =
+------------------------------------------
+client/app/account/signup/signup.controller.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token =
+------------------------------------------
+client/app/admin/admin.module.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/app/admin/admin.router.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/app/app.constant.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/app/app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/app/main/main.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/app/main/main.controller.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/app/main/main.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/admin-api-display/admin-api-display.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/admin-content-list/admin-content-list.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/admin-dialog/admin-dialog.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/admin-dialog/delete-dialog-admin/delete-dialog-admin.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/admin-dialog/history-dialog-admin/history-dialog-admin.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/admin-dialog/save-dialog-admin/save-dialog-admin.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/admin-item/admin-item.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/admin-list/admin-list.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/admin-login/admin-login.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/admin-menu/admin-menu-content/admin-menu-content.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/admin-menu/admin-menu-main/admin-menu-main.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/admin-menu/admin-menu-types/admin-menu-types.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/admin-menu/admin-menu.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/admin-service/admin.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/admin-title/admin-title.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/analytics/analytics.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/analytics/analytics.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/auth/auth.module.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/auth/auth.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/auth/interceptor.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/auth/router.decorator.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/auth/user.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/cmeasy-home-page/cmeasy-home-page.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/formly-meta/cmeasyMetaFormly.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/formly-meta/cmeasyMetaRepeatFormly.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/formly/adminLinkFormly.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/formly/adminRepeatFormly.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/formly/htmlFormly.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/formly/mdCheckboxFormly.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/formly/mdChipsAutocompleteFormly.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/formly/mdInputFormly.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/formly/mdSelectFormly.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/formly/rowFormly.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/formly/wysiwygFormly.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/loading-button/loading-button.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/loading-screen/loading-screen.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/mongoose-error/mongoose-error.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/socket/socket.mock.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/socket/socket.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/svg/svg.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/toast/toast.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/ui-router/ui-router.mock.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/util/util.module.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/components/util/util.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/SHA-1/sha1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-animate/angular-animate.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-animate/angular-animate.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-animate/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-aria/angular-aria.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-aria/angular-aria.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-aria/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-cookies/angular-cookies.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-cookies/angular-cookies.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-cookies/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-formly/dist/formly.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-formly/dist/formly.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/angular-material-mocks.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/angular-material.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/angular-material.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/autocomplete/autocomplete.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/autocomplete/autocomplete.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/backdrop/backdrop.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/backdrop/backdrop.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/bottomSheet/bottomSheet.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/bottomSheet/bottomSheet.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/button/button.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/button/button.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/card/card.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/card/card.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/checkbox/checkbox.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/checkbox/checkbox.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/chips/chips.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/chips/chips.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/content/content.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/content/content.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/core/core.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/core/core.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/core/default-theme.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/datepicker/datepicker.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/datepicker/datepicker.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/dialog/dialog.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/dialog/dialog.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/divider/divider.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/divider/divider.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/fabActions/fabActions.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/fabActions/fabActions.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/fabSpeedDial/fabSpeedDial.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/fabSpeedDial/fabSpeedDial.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/fabToolbar/fabToolbar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/fabToolbar/fabToolbar.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/fabTrigger/fabTrigger.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/fabTrigger/fabTrigger.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/gridList/gridList.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/gridList/gridList.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/icon/icon.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/icon/icon.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/input/input.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/input/input.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/list/list.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/list/list.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/menu/menu.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/menu/menu.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/menuBar/menuBar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/menuBar/menuBar.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/progressCircular/progressCircular.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/progressCircular/progressCircular.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/progressLinear/progressLinear.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/progressLinear/progressLinear.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/radioButton/radioButton.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/radioButton/radioButton.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/select/select.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/select/select.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/showHide/showHide.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/showHide/showHide.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/sidenav/sidenav.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/sidenav/sidenav.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/slider/slider.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/slider/slider.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/sticky/sticky.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/sticky/sticky.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/subheader/subheader.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/subheader/subheader.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/swipe/swipe.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/swipe/swipe.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/switch/switch.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/switch/switch.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/tabs/tabs.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/tabs/tabs.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/textField/textField.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/toast/toast.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/toast/toast.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/toolbar/toolbar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/toolbar/toolbar.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/tooltip/tooltip.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/tooltip/tooltip.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/virtualRepeat/virtualRepeat.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/virtualRepeat/virtualRepeat.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/whiteframe/whiteframe.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/closure/whiteframe/whiteframe.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/autocomplete/autocomplete.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/autocomplete/autocomplete.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/backdrop/backdrop.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/backdrop/backdrop.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/bottomSheet/bottomSheet.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/bottomSheet/bottomSheet.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/button/button.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/button/button.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/card/card.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/card/card.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/checkbox/checkbox.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/checkbox/checkbox.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/chips/chips.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/chips/chips.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/content/content.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/content/content.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/core/core.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/core/core.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/core/default-theme.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/datepicker/datepicker.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/datepicker/datepicker.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/dialog/dialog.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/dialog/dialog.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/divider/divider.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/divider/divider.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/fabActions/fabActions.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/fabActions/fabActions.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/fabSpeedDial/fabSpeedDial.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/fabSpeedDial/fabSpeedDial.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/fabToolbar/fabToolbar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/fabToolbar/fabToolbar.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/fabTrigger/fabTrigger.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/fabTrigger/fabTrigger.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/gridList/gridList.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/gridList/gridList.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/icon/icon.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/icon/icon.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/input/input.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/input/input.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/list/list.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/list/list.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/menu/menu.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/menu/menu.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/menuBar/menuBar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/menuBar/menuBar.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/progressCircular/progressCircular.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/progressCircular/progressCircular.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/progressLinear/progressLinear.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/progressLinear/progressLinear.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/radioButton/radioButton.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/radioButton/radioButton.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/select/select.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/select/select.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/showHide/showHide.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/showHide/showHide.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/sidenav/sidenav.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/sidenav/sidenav.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/slider/slider.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/slider/slider.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/sticky/sticky.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/sticky/sticky.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/subheader/subheader.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/subheader/subheader.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/swipe/swipe.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/swipe/swipe.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/switch/switch.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/switch/switch.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/tabs/tabs.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/tabs/tabs.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/textField/textField.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/textField/textField.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/toast/toast.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/toast/toast.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/toolbar/toolbar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/toolbar/toolbar.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/tooltip/tooltip.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/tooltip/tooltip.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/virtualRepeat/virtualRepeat.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/virtualRepeat/virtualRepeat.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/whiteframe/whiteframe.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-material/modules/js/whiteframe/whiteframe.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-messages/angular-messages.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-messages/angular-messages.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-messages/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-mocks/angular-mocks.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-mocks/ngAnimateMock.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-mocks/ngMock.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-mocks/ngMockE2E.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-resource/angular-resource.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-resource/angular-resource.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-resource/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-sanitize/angular-sanitize.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-sanitize/angular-sanitize.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-sanitize/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-socket-io/gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+
+------------------------------------------
+dist/client/bower_components/angular-socket-io/karma.conf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-socket-io/mock/socket-io.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-socket-io/socket.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-socket-io/socket.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-socket-io/socket.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-ui-router/release/angular-ui-router.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-ui-router/release/angular-ui-router.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-ui-router/src/common.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-ui-router/src/resolve.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-ui-router/src/state.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-ui-router/src/stateDirectives.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-ui-router/src/stateFilters.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-ui-router/src/templateFactory.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-ui-router/src/urlMatcherFactory.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-ui-router/src/urlRouter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-ui-router/src/view.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-ui-router/src/viewDirective.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-ui-router/src/viewScroll.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-validation-match/dist/angular-validation-match.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-validation-match/dist/angular-validation-match.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-validation-match/files.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-validation-match/gulpfile.js
+------------------------------------------
+Library: gulp-sequence
+Methods Called:
+   - use
+
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+   - watch
+
+Library: gulp-ng-annotate
+Methods Called:
+   - main_method*
+
+Library: gulp-uglifyjs
+Methods Called:
+   - main_method*
+
+Library: gulp-wrap
+Methods Called:
+   - main_method*
+
+Library: gulp-bump
+Methods Called:
+   - main_method*
+
+Library: gulp-karma
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/client/bower_components/angular-validation-match/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-validation-match/karma.conf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular-validation-match/src/angular-validation-match.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular/angular.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular/angular.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angular/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics-google-analytics/dist/angulartics-google-analytics.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics-google-analytics/lib/angulartics-google-analytics.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/dist/angulartics-baidu.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/dist/angulartics-clicky.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/dist/angulartics-cnzz.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/dist/angulartics-debug.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/dist/angulartics-ga-cordova-google-analytics-plugin.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/dist/angulartics-ga-cordova.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/dist/angulartics-gosquared.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/dist/angulartics-gtm-cordova.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/dist/angulartics-gtm.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/dist/angulartics-heap.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/dist/angulartics-hubspot.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/dist/angulartics-inspectlet.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/dist/angulartics-intercom.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/dist/angulartics-loggly.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/dist/angulartics-marketo.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/dist/angulartics-newrelic-insights.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/dist/angulartics-piwik.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/dist/angulartics-sitespect.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/dist/angulartics-splunk.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/dist/angulartics-woopra.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/dist/angulartics.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/dist/index.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/karma.conf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/samples/loggly.tracker.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/src/angulartics-baidu.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/src/angulartics-clicky.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/src/angulartics-cnzz.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/src/angulartics-debug.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/src/angulartics-ga-cordova-google-analytics-plugin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/src/angulartics-ga-cordova.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/src/angulartics-gosquared.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/src/angulartics-gtm-cordova.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/src/angulartics-gtm.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/src/angulartics-heap.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/src/angulartics-hubspot.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/src/angulartics-inspectlet.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/src/angulartics-intercom.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/src/angulartics-loggly.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/src/angulartics-marketo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/src/angulartics-newrelic-insights.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/src/angulartics-piwik.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/src/angulartics-sitespect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/src/angulartics-splunk.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/src/angulartics-woopra.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/src/angulartics.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/src/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/angulartics/test/angularticsSpec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/api-check/dist/api-check.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/api-check/dist/api-check.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/api-check/karma.conf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/lodash/lodash.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/lodash/lodash.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/af.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/ar-ma.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/ar-sa.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/ar-tn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/ar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/az.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/be.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/bg.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/bn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/bo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/br.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/bs.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/ca.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/cs.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/cv.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/cy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/da.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/de-at.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/de.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/el.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/en-au.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/en-ca.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/en-gb.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/eo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/es.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/et.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/eu.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/fa.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/fi.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/fo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/fr-ca.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/fr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/fy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/gl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/he.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/hi.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/hr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/hu.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/hy-am.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/id.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/is.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/it.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/ja.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/jv.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/ka.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/km.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/ko.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/lb.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/lt.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/lv.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/me.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/mk.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/ml.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/mr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/ms-my.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/ms.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/my.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/nb.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/ne.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/nl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/nn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/pl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/pt-br.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/pt.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/ro.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/ru.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/si.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/sk.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/sl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/sq.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/sr-cyrl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/sr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/sv.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/ta.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/th.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/tl-ph.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/tr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/tzl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/tzm-latn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/tzm.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/uk.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/uz.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/vi.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/zh-cn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/locale/zh-tw.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/min/locales.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/min/locales.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/min/moment-with-locales.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/min/moment-with-locales.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/min/moment.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/min/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/moment.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/moment/src/lib/create/check-overflow.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/create/date-from-array.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/create/from-anything.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/create/from-array.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/create/from-object.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/create/from-string-and-array.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/create/from-string-and-format.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/create/from-string.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/create/local.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/create/parsing-flags.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 17: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/create/utc.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/create/valid.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/duration/abs.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/duration/add-subtract.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/duration/as.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/duration/bubble.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/duration/constructor.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/duration/create.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/duration/duration.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/duration/get.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/duration/humanize.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/duration/iso-string.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/duration/prototype.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/format/format.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/locale/calendar.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/locale/constructor.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/locale/en.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/locale/formats.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/locale/invalid.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/locale/lists.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/locale/locale.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/locale/locales.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/locale/ordinal.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/locale/pre-post-format.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/locale/prototype.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/locale/relative.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/locale/set.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/moment/add-subtract.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/moment/calendar.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/moment/clone.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/moment/compare.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/moment/constructor.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/moment/diff.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/moment/format.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/moment/from.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/moment/get-set.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/moment/locale.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/moment/min-max.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/moment/moment.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/moment/prototype.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/moment/start-end-of.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/moment/to-type.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/moment/to.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/moment/valid.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/parse/regex.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/parse/token.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/units/aliases.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/units/constants.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/units/day-of-month.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/units/day-of-week.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/units/day-of-year.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/units/hour.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/units/millisecond.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/units/minute.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/units/month.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/units/offset.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/units/quarter.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/units/second.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/units/timestamp.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/units/timezone.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/units/units.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/units/week-year.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/units/week.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/units/year.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/utils/abs-ceil.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/utils/abs-floor.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/utils/compare-arrays.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/utils/defaults.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 2: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/utils/deprecate.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/utils/extend.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/utils/has-own-prop.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/utils/hooks.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/utils/is-array.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/utils/is-date.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/utils/map.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/utils/to-int.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/lib/utils/zero-fill.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/af.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/ar-ma.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/ar-sa.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/ar-tn.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/ar.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/az.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/be.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/bg.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/bn.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/bo.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/br.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/bs.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/ca.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/cs.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/cv.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/cy.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/da.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/de-at.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/de.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/el.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/en-au.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/en-ca.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/en-gb.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/eo.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/es.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/et.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/eu.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/fa.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/fi.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/fo.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/fr-ca.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/fr.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/fy.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/gl.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/he.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/hi.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/hr.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/hu.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/hy-am.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/id.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/is.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/it.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/ja.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/jv.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/ka.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/km.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/ko.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 9: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/lb.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/lt.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/lv.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/me.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/mk.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/ml.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/mr.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/ms-my.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/ms.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/my.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/nb.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/ne.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/nl.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/nn.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/pl.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/pt-br.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/pt.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/ro.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/ru.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/si.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/sk.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/sl.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/sq.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/sr-cyrl.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/sr.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/sv.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/ta.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/th.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/tl-ph.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/tr.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/tzl.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/tzm-latn.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/tzm.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/uk.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/uz.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/vi.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/zh-cn.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/locale/zh-tw.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/src/moment.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/templates/amd-named.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/templates/amd.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/templates/globals.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+dist/client/bower_components/moment/templates/locale-header.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected end of input
+------------------------------------------
+dist/client/bower_components/moment/templates/test-header.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected end of input
+------------------------------------------
+dist/client/bower_components/ngstorage/ngStorage.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/ngstorage/ngStorage.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/client/bower_components/ngstorage/package.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/server/api/generated/generated.controller.crud.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/api/generated/generated.events.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+dist/server/api/generated/generated.integration.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/api/generated/generated.socket.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/server/api/generated/index.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/api/generated/index.spec.js
+------------------------------------------
+Library: proxyquire
+Methods Called:
+   - noPreserveCache
+
+------------------------------------------
+dist/server/api/user/index.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-wildcard
+Methods Called:
+   - main_method*
+
+Library: express
+Methods Called:
+   - Router
+
+------------------------------------------
+dist/server/api/user/index.spec.js
+------------------------------------------
+Library: proxyquire
+Methods Called:
+   - noPreserveCache
+
+------------------------------------------
+dist/server/api/user/user.controller.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/api/user/user.events.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+dist/server/api/user/user.integration.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/api/user/user.model.js
+------------------------------------------
+Library: bluebird
+Methods Called:
+   - promisifyAll
+
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+Library: mongoose
+Methods Called:
+   - Schema
+
+------------------------------------------
+dist/server/api/user/user.model.spec.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/app.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/auth/auth.service.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/auth/index.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/auth/local/index.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/auth/local/passport.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+Library: passport-local
+Methods Called:
+   - Strategy
+
+------------------------------------------
+dist/server/cmeasy.js
+------------------------------------------
+Library: babel-runtime/helpers/create-class
+Methods Called:
+   - main_method*
+
+Library: babel-runtime/helpers/class-call-check
+Methods Called:
+   - main_method*
+
+Library: babel-runtime/helpers/define-property
+Methods Called:
+   - main_method*
+
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+Library: mongoose
+Methods Called:
+   - Promise
+   - connect
+   - connection
+
+------------------------------------------
+dist/server/components/cmeasy/cmeasy.controller.formly.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/components/cmeasy/cmeasy.controller.model.js
+------------------------------------------
+Library: babel-runtime/helpers/define-property
+Methods Called:
+   - main_method*
+
+Library: babel-runtime/helpers/sliced-to-array
+Methods Called:
+   - main_method*
+
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/components/cmeasy/cmeasy.controller.schema.js
+------------------------------------------
+Library: babel-runtime/helpers/define-property
+Methods Called:
+   - main_method*
+
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/components/cmeasy/cmeasy.flatten.service.js
+------------------------------------------
+Library: babel-runtime/helpers/define-property
+Methods Called:
+   - main_method*
+
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/components/cmeasy/cmeasy.flatten.service.spec.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/components/cmeasy/cmeasy.model.integration.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/components/cmeasy/cmeasy.model.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/components/cmeasy/cmeasy.schema.integration.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/components/cmeasy/cmeasy.schema.js
+------------------------------------------
+Library: babel-runtime/helpers/define-property
+Methods Called:
+   - main_method*
+
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/components/errors/errors.integration.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/components/errors/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/server/components/render-index/index.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/components/render-index/render-index.integration.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/components/render-index/render-index.js
+------------------------------------------
+Library: babel-runtime/helpers/sliced-to-array
+Methods Called:
+   - main_method*
+
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+Library: html-minifier
+Methods Called:
+   - minify
+
+------------------------------------------
+dist/server/config/environment/development.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/server/config/environment/index.js
+------------------------------------------
+Library: path
+Methods Called:
+   - normalize
+
+Library: lodash
+Methods Called:
+   - merge
+
+------------------------------------------
+dist/server/config/environment/production.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/server/config/environment/shared.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/server/config/environment/test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/server/config/express.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/config/local.env.sample.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/server/config/seed.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/config/socketio.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/server/options.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/routes-cmeasy.js
+------------------------------------------
+Library: babel-runtime/helpers/sliced-to-array
+Methods Called:
+   - main_method*
+
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+dist/server/routes.js
+------------------------------------------
+Library: babel-runtime/helpers/interop-require-default
+Methods Called:
+   - main_method*
+
+------------------------------------------
+e2e/account/login/login.po.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+e2e/account/login/login.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+e2e/account/logout/logout.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+e2e/account/signup/signup.disabledspec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+e2e/account/signup/signup.po.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+e2e/components/navbar/navbar.po.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+e2e/main/main.po.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+e2e/main/main.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+karma.conf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+mocha.conf.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+   - assert
+   - should
+   - use
+
+------------------------------------------
+protractor.conf.js
+------------------------------------------
+Library: ./server/config/environment
+Methods Called:
+   - params
+   - baseUrl
+
+------------------------------------------
+server/api/generated/generated.controller.crud.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected token
+------------------------------------------
+server/api/generated/generated.events.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+server/api/generated/generated.integration.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+server/api/generated/generated.socket.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected token
+------------------------------------------
+server/api/generated/index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+server/api/generated/index.spec.js
+------------------------------------------
+Library: proxyquire
+Methods Called:
+   - noPreserveCache
+
+------------------------------------------
+server/api/user/index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+server/api/user/index.spec.js
+------------------------------------------
+Library: proxyquire
+Methods Called:
+   - noPreserveCache
+
+------------------------------------------
+server/api/user/user.controller.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+server/api/user/user.events.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+server/api/user/user.integration.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+server/api/user/user.model.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+server/api/user/user.model.spec.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+server/app.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 8: Unexpected token
+------------------------------------------
+server/auth/auth.service.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+server/auth/index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+server/auth/local/index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+server/auth/local/passport.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+server/cmeasy.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+server/components/cmeasy/cmeasy.controller.formly.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+server/components/cmeasy/cmeasy.controller.model.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected token
+------------------------------------------
+server/components/cmeasy/cmeasy.controller.schema.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 12: Unexpected token
+------------------------------------------
+server/components/cmeasy/cmeasy.flatten.service.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+server/components/cmeasy/cmeasy.flatten.service.spec.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+server/components/cmeasy/cmeasy.model.integration.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+server/components/cmeasy/cmeasy.model.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+server/components/cmeasy/cmeasy.schema.integration.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+server/components/cmeasy/cmeasy.schema.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Unexpected token
+------------------------------------------
+server/components/errors/errors.integration.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+server/components/errors/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/components/render-index/index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+server/components/render-index/render-index.integration.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+server/components/render-index/render-index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 6: Unexpected token
+------------------------------------------
+server/config/environment/development.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/config/environment/index.js
+------------------------------------------
+Library: path
+Methods Called:
+   - normalize
+
+Library: lodash
+Methods Called:
+   - merge
+
+------------------------------------------
+server/config/environment/production.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/config/environment/shared.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/config/environment/test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/config/express.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+server/config/local.env.sample.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/config/seed.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 8: Unexpected token
+------------------------------------------
+server/config/socketio.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 10: Unexpected token
+------------------------------------------
+server/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/options.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+server/routes-cmeasy.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+------------------------------------------
+server/routes.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token
+
+All of the Methods:
+{
+  "gulp": {
+    "task": true,
+    "src": true,
+    "dest": true,
+    "watch": true
+  },
+  "gulp-sequence": {
+    "use": true
+  },
+  "gulp-ng-annotate": {
+    "main_method*": true
+  },
+  "gulp-uglifyjs": {
+    "main_method*": true
+  },
+  "gulp-wrap": {
+    "main_method*": true
+  },
+  "gulp-bump": {
+    "main_method*": true
+  },
+  "gulp-karma": {
+    "main_method*": true
+  },
+  "babel-runtime/helpers/interop-require-default": {
+    "main_method*": true
+  },
+  "events": {
+    "EventEmitter": true
+  },
+  "proxyquire": {
+    "noPreserveCache": true
+  },
+  "babel-runtime/helpers/interop-require-wildcard": {
+    "main_method*": true
+  },
+  "express": {
+    "Router": true
+  },
+  "bluebird": {
+    "promisifyAll": true
+  },
+  "mongoose": {
+    "Schema": true,
+    "Promise": true,
+    "connect": true,
+    "connection": true
+  },
+  "passport-local": {
+    "Strategy": true
+  },
+  "babel-runtime/helpers/create-class": {
+    "main_method*": true
+  },
+  "babel-runtime/helpers/class-call-check": {
+    "main_method*": true
+  },
+  "babel-runtime/helpers/define-property": {
+    "main_method*": true
+  },
+  "babel-runtime/helpers/sliced-to-array": {
+    "main_method*": true
+  },
+  "html-minifier": {
+    "minify": true
+  },
+  "path": {
+    "normalize": true
+  },
+  "lodash": {
+    "merge": true
+  },
+  "chai": {
+    "expect": true,
+    "assert": true,
+    "should": true,
+    "use": true
+  },
+  "./server/config/environment": {
+    "params": true,
+    "baseUrl": true
+  }
+}

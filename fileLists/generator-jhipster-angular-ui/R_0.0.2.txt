@@ -1,0 +1,6 @@
+862d2eac066632ed0ce2b4b7a88d8aaf30aa33f0
+generators/app/index.js
+generators/app/templates/src/main/webapp/scripts/app/angular-ui/_angular-ui.controller.js
+generators/app/templates/src/main/webapp/scripts/app/angular-ui/_angular-ui.js
+gulpfile.js
+test/app.js

@@ -1,0 +1,52 @@
+------------------------------------------
+index.js
+------------------------------------------
+Library: through
+Methods Called:
+   - main_method*
+
+Library: riot
+Methods Called:
+   - compile
+
+------------------------------------------
+test/compile.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: concat-stream
+Methods Called:
+   - main_method*
+
+Library: module-deps
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - join
+
+
+All of the Methods:
+{
+  "through": {
+    "main_method*": true
+  },
+  "riot": {
+    "compile": true
+  },
+  "tape": {
+    "main_method*": true
+  },
+  "concat-stream": {
+    "main_method*": true
+  },
+  "module-deps": {
+    "main_method*": true
+  },
+  "path": {
+    "join": true
+  }
+}

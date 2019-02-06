@@ -1,0 +1,182 @@
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/conversions/ldap.js
+------------------------------------------
+Library: moment
+Methods Called:
+   - unix
+
+------------------------------------------
+lib/conversions/periods.js
+------------------------------------------
+Library: moment
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/general/checks.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/general/compare.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - filter
+
+------------------------------------------
+lib/general/log.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - values
+
+Library: moment
+Methods Called:
+   - main_method*
+
+Library: util
+Methods Called:
+   - format
+
+------------------------------------------
+lib/general/request_wrapper.js
+------------------------------------------
+Library: q
+Methods Called:
+   - defer
+
+------------------------------------------
+lib/general/strings.js
+------------------------------------------
+Library: moment
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/general/validate.js
+------------------------------------------
+Library: mongodb
+Methods Called:
+   - ObjectID
+
+Library: util
+Methods Called:
+   - format
+   - inspect
+
+Library: mongoose
+Methods Called:
+   - Document
+
+------------------------------------------
+lib/hapi/errors.js
+------------------------------------------
+Library: hapi
+Methods Called:
+   - error
+
+------------------------------------------
+lib/third/alphaID.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/checks.js
+------------------------------------------
+Library: expect.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/compare.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+------------------------------------------
+test/hapi.js
+------------------------------------------
+Library: expect.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/ldap.js
+------------------------------------------
+Library: expect.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/log.js
+------------------------------------------
+Library: expect.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/periods.js
+------------------------------------------
+Library: expect.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/strings.js
+------------------------------------------
+Library: expect.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/validate.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: mongodb
+Methods Called:
+   - ObjectID
+
+
+All of the Methods:
+{
+  "moment": {
+    "unix": true,
+    "main_method*": true
+  },
+  "lodash": {
+    "filter": true,
+    "values": true
+  },
+  "util": {
+    "format": true,
+    "inspect": true
+  },
+  "q": {
+    "defer": true
+  },
+  "mongodb": {
+    "ObjectID": true
+  },
+  "mongoose": {
+    "Document": true
+  },
+  "hapi": {
+    "error": true
+  },
+  "expect.js": {
+    "main_method*": true
+  },
+  "chai": {
+    "expect": true
+  }
+}

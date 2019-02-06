@@ -1,0 +1,5 @@
+d4989ab48dc074e95198e4dd8afb823f384f948c
+index.js
+test/announce.js
+test/basic.js
+test/reuse-dht.js

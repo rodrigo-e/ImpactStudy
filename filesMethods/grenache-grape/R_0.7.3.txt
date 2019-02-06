@@ -1,0 +1,109 @@
+------------------------------------------
+bin/grape.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+examples/grape.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/Grape.js
+------------------------------------------
+Library: bittorrent-dht
+Methods Called:
+   - main_method*
+
+Library: lru
+Methods Called:
+   - main_method*
+
+Library: lodash
+Methods Called:
+   - defaults
+   - upperFirst
+   - camelCase
+   - isString
+   - union
+   - isArray
+   - isInteger
+   - keys
+
+Library: cbq
+Methods Called:
+   - main_method*
+
+Library: async
+Methods Called:
+   - reduce
+   - series
+
+Library: http
+Methods Called:
+   - createServer
+
+Library: debug
+Methods Called:
+   - main_method*
+
+Library: ed25519-supercop
+Methods Called:
+   - verify
+
+------------------------------------------
+test/Grape.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - assert
+
+------------------------------------------
+test/integration.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "bittorrent-dht": {
+    "main_method*": true
+  },
+  "lru": {
+    "main_method*": true
+  },
+  "lodash": {
+    "defaults": true,
+    "upperFirst": true,
+    "camelCase": true,
+    "isString": true,
+    "union": true,
+    "isArray": true,
+    "isInteger": true,
+    "keys": true
+  },
+  "cbq": {
+    "main_method*": true
+  },
+  "async": {
+    "reduce": true,
+    "series": true
+  },
+  "http": {
+    "createServer": true
+  },
+  "debug": {
+    "main_method*": true
+  },
+  "ed25519-supercop": {
+    "verify": true
+  },
+  "chai": {
+    "assert": true
+  }
+}

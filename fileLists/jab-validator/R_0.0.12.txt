@@ -1,0 +1,7 @@
+0012b919bfda608ebce70c0e033f362e22c229af
+gulpfile.js
+index.js
+test/validation-test.js
+test/validator-test.js
+validation.js
+validator.js

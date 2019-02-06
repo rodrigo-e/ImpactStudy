@@ -1,0 +1,88 @@
+------------------------------------------
+index.js
+------------------------------------------
+Library: dns-discovery
+Methods Called:
+   - main_method*
+
+Library: bittorrent-dht
+Methods Called:
+   - main_method*
+
+Library: thunky
+Methods Called:
+   - main_method*
+
+Library: crypto
+Methods Called:
+   - createHash
+
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: util
+Methods Called:
+   - inherits
+
+Library: debug
+Methods Called:
+   - main_method*
+
+Library: pretty-hash
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test-announce.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test-lookup.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: crypto
+Methods Called:
+   - randomBytes
+
+
+All of the Methods:
+{
+  "dns-discovery": {
+    "main_method*": true
+  },
+  "bittorrent-dht": {
+    "main_method*": true
+  },
+  "thunky": {
+    "main_method*": true
+  },
+  "crypto": {
+    "createHash": true,
+    "randomBytes": true
+  },
+  "events": {
+    "EventEmitter": true
+  },
+  "util": {
+    "inherits": true
+  },
+  "debug": {
+    "main_method*": true
+  },
+  "pretty-hash": {
+    "main_method*": true
+  },
+  "tape": {
+    "main_method*": true
+  }
+}

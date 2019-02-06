@@ -1,0 +1,15 @@
+db5d90b16a13c81386d6d0d3a6b827e78ef7f935
+app/dependencies.js
+app/index.js
+app/templates/index.js
+app/templates/spec/outbound/requires/application-json.js
+app/templates/spec/outbound/requires/application-x-www-form-urlencoded.js
+app/templates/spec/outbound/requires/none.js
+app/templates/spec/outbound/requires/text-xml.js
+app/templates/src/outbound/requires/application-json.js
+app/templates/src/outbound/requires/application-x-www-form-urlencoded.js
+app/templates/src/outbound/requires/none.js
+app/templates/src/outbound/requires/text-plain.js
+app/templates/src/outbound/requires/text-xml.js
+app/vars.js
+test/test-app.js

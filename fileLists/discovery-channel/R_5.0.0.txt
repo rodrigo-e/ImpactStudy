@@ -1,0 +1,5 @@
+c343e019999f369f707626ed43137d65e85ea1f1
+index.js
+test-announce.js
+test-lookup.js
+test.js

@@ -1,0 +1,453 @@
+------------------------------------------
+Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+cli/multipass.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+defaults.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+importers/dump.js
+------------------------------------------
+Library: byline
+Methods Called:
+   - createStream
+
+Library: lodash
+Methods Called:
+   - extend
+
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+importers/generic.js
+------------------------------------------
+Library: byline
+Methods Called:
+   - createStream
+
+------------------------------------------
+importers/json.js
+------------------------------------------
+Library: needle
+Methods Called:
+   - get
+
+Library: q
+Methods Called:
+   - all
+   - main_method*
+   - defer
+
+Library: url
+Methods Called:
+   - parse
+
+Library: async
+Methods Called:
+   - queue
+
+Library: lodash
+Methods Called:
+   - assign
+   - forEach
+   - omit
+
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: parse-torrent
+Methods Called:
+   - main_method*
+
+------------------------------------------
+importers/xml-rss.js
+------------------------------------------
+Library: feedparser
+Methods Called:
+   - main_method*
+
+Library: lodash
+Methods Called:
+   - extend
+
+------------------------------------------
+lib/cfg.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - extend
+   - merge
+
+Library: hat
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - join
+
+Library: crypto
+Methods Called:
+   - createHash
+
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: minimist
+Methods Called:
+   - config
+   - source
+   - log
+   - undefined
+   - path
+   - id
+
+------------------------------------------
+lib/db.js
+------------------------------------------
+Library: binary-search-tree
+Methods Called:
+   - AVLTree
+
+Library: multi-master-merge
+Methods Called:
+   - main_method*
+
+Library: level
+Methods Called:
+   - main_method*
+
+Library: mkdirp
+Methods Called:
+   - sync
+
+Library: es6-map
+Methods Called:
+   - main_method*
+
+Library: async
+Methods Called:
+   - map
+
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+lib/importer.js
+------------------------------------------
+Library: needle
+Methods Called:
+   - get
+
+Library: gunzip-maybe
+Methods Called:
+   - main_method*
+
+Library: url
+Methods Called:
+   - parse
+
+Library: lodash
+Methods Called:
+   - once
+
+------------------------------------------
+lib/indexer.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - extend
+   - omit
+   - pick
+   - once
+   - merge
+   - isArray
+
+Library: async
+Methods Called:
+   - map
+   - each
+
+Library: path
+Methods Called:
+   - basename
+
+Library: name-to-imdb
+Methods Called:
+   - main_method*
+
+Library: video-name-parser
+Methods Called:
+   - main_method*
+
+Library: peer-search/tracker
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/log.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/replication.js
+------------------------------------------
+Library: entry
+Methods Called:
+   - map
+
+Library: bittorrent-dht
+Methods Called:
+   - main_method*
+
+Library: node-ssdp
+Methods Called:
+   - Client
+   - Server
+
+Library: ip
+Methods Called:
+   - address
+
+Library: zlib
+Methods Called:
+   - createGzip
+   - createGunzip
+
+Library: duplexify
+Methods Called:
+   - main_method*
+
+Library: net
+Methods Called:
+   - createServer
+   - connect
+
+------------------------------------------
+lib/retriever.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/utils.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - values
+   - each
+   - uniq
+
+------------------------------------------
+stremio-addon/addon.js
+------------------------------------------
+Library: stremio-addons
+Methods Called:
+   - Client
+   - Server
+
+Library: http
+Methods Called:
+   - createServer
+
+Library: lodash
+Methods Called:
+   - chain
+   - debounce
+   - find
+   - extend
+   - values
+   - object
+   - merge
+   - pick
+   - keys
+   - omit
+   - constant
+
+Library: async
+Methods Called:
+   - whilst
+   - map
+
+Library: sift
+Methods Called:
+   - main_method*
+
+Library: bagpipe
+Methods Called:
+   - main_method*
+
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+test/basic.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: async
+Methods Called:
+   - each
+
+Library: lodash
+Methods Called:
+   - find
+   - pairs
+
+Library: stremio-addons
+Methods Called:
+   - Client
+
+
+All of the Methods:
+{
+  "byline": {
+    "createStream": true
+  },
+  "lodash": {
+    "extend": true,
+    "assign": true,
+    "forEach": true,
+    "omit": true,
+    "merge": true,
+    "once": true,
+    "pick": true,
+    "isArray": true,
+    "values": true,
+    "each": true,
+    "uniq": true,
+    "chain": true,
+    "debounce": true,
+    "find": true,
+    "object": true,
+    "keys": true,
+    "constant": true,
+    "pairs": true
+  },
+  "events": {
+    "EventEmitter": true
+  },
+  "needle": {
+    "get": true
+  },
+  "q": {
+    "all": true,
+    "main_method*": true,
+    "defer": true
+  },
+  "url": {
+    "parse": true
+  },
+  "async": {
+    "queue": true,
+    "map": true,
+    "each": true,
+    "whilst": true
+  },
+  "parse-torrent": {
+    "main_method*": true
+  },
+  "feedparser": {
+    "main_method*": true
+  },
+  "hat": {
+    "main_method*": true
+  },
+  "path": {
+    "join": true,
+    "basename": true
+  },
+  "crypto": {
+    "createHash": true
+  },
+  "minimist": {
+    "config": true,
+    "source": true,
+    "log": true,
+    "undefined": true,
+    "path": true,
+    "id": true
+  },
+  "binary-search-tree": {
+    "AVLTree": true
+  },
+  "multi-master-merge": {
+    "main_method*": true
+  },
+  "level": {
+    "main_method*": true
+  },
+  "mkdirp": {
+    "sync": true
+  },
+  "es6-map": {
+    "main_method*": true
+  },
+  "gunzip-maybe": {
+    "main_method*": true
+  },
+  "name-to-imdb": {
+    "main_method*": true
+  },
+  "video-name-parser": {
+    "main_method*": true
+  },
+  "peer-search/tracker": {
+    "main_method*": true
+  },
+  "entry": {
+    "map": true
+  },
+  "bittorrent-dht": {
+    "main_method*": true
+  },
+  "node-ssdp": {
+    "Client": true,
+    "Server": true
+  },
+  "ip": {
+    "address": true
+  },
+  "zlib": {
+    "createGzip": true,
+    "createGunzip": true
+  },
+  "duplexify": {
+    "main_method*": true
+  },
+  "net": {
+    "createServer": true,
+    "connect": true
+  },
+  "stremio-addons": {
+    "Client": true,
+    "Server": true
+  },
+  "http": {
+    "createServer": true
+  },
+  "sift": {
+    "main_method*": true
+  },
+  "bagpipe": {
+    "main_method*": true
+  },
+  "tape": {
+    "main_method*": true
+  }
+}

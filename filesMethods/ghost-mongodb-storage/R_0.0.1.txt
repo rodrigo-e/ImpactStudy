@@ -1,0 +1,43 @@
+------------------------------------------
+index.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileAsync
+
+Library: path
+Methods Called:
+   - extname
+   - basename
+
+Library: bluebird
+Methods Called:
+   - promisifyAll
+   - main_method*
+   - reject
+
+Library: mongoose
+Methods Called:
+   - createConnection
+   - Schema
+
+
+All of the Methods:
+{
+  "fs": {
+    "readFileAsync": true
+  },
+  "path": {
+    "extname": true,
+    "basename": true
+  },
+  "bluebird": {
+    "promisifyAll": true,
+    "main_method*": true,
+    "reject": true
+  },
+  "mongoose": {
+    "createConnection": true,
+    "Schema": true
+  }
+}

@@ -1,0 +1,5 @@
+09dcb6b368b78f4d9aa1aeb40e00e094eb943851
+bin/cmd.js
+index.js
+lib/fs-storage.js
+test/basic.js

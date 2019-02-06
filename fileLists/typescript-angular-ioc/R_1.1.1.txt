@@ -1,0 +1,16 @@
+1eeac3b70df716e23834856f111f1a32fbadf565
+dist/factory/AngularModuleWrapper.js
+dist/factory/Factory.js
+dist/factory/FactoryBuilder.js
+dist/factory/spec/Factory.spec.js
+dist/index.js
+dist/ioc/Bindable.js
+dist/ioc/Binding.js
+dist/ioc/BindingType.js
+dist/ioc/Inject.js
+dist/ioc/Kernel.js
+dist/ioc/spec/Inject.spec.js
+dist/ioc/spec/IocModule.spec.js
+tasks/create-typings-folder.js
+tasks/dts-bundle.js
+wallaby.js

@@ -1,0 +1,4074 @@
+------------------------------------------
+generators/app/index.js
+------------------------------------------
+Library: swagger-js-codegen
+Methods Called:
+   - CodeGen
+
+Library: yeoman-generator
+Methods Called:
+   - Base
+
+Library: chalk
+Methods Called:
+   - red
+   - yellow
+   - green
+
+Library: semver
+Methods Called:
+   - lt
+
+Library: sync-request
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - resolve
+
+Library: shelljs
+Methods Called:
+   - exec
+
+Library: underscore.string
+Methods Called:
+   - classify
+   - camelize
+   - dasherize
+   - decapitalize
+   - underscored
+
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+
+------------------------------------------
+test/test-app.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: fs-extra
+Methods Called:
+   - copySync
+
+Library: yeoman-test
+Methods Called:
+   - createDummyGenerator
+   - run
+
+------------------------------------------
+travis/samples/app-2.27.2/gulp/handleErrors.js
+------------------------------------------
+Library: yargs
+Methods Called:
+   - argv
+
+Library: gulp-notify
+Methods Called:
+   - onError
+
+------------------------------------------
+travis/samples/app-2.27.2/gulp/jsHintErrorReporter.js
+------------------------------------------
+Library: map-stream
+Methods Called:
+   - main_method*
+
+------------------------------------------
+travis/samples/app-2.27.2/gulp/utils.js
+------------------------------------------
+Library: xml2js
+Methods Called:
+   - parseString
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+travis/samples/app-2.27.2/gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+   - start
+   - watch
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-aria/angular-aria.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-aria/angular-aria.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-aria/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-bootstrap/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-bootstrap/ui-bootstrap-tpls.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-bootstrap/ui-bootstrap-tpls.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-bootstrap/ui-bootstrap.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-bootstrap/ui-bootstrap.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-cache-buster/angular-cache-buster.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-cache-buster/karma.conf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-cookies/angular-cookies.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-cookies/angular-cookies.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-cookies/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-loading-bar/Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-loading-bar/build/loading-bar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-loading-bar/build/loading-bar.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-loading-bar/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-loading-bar/src/loading-bar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-local-storage/demo/demo-app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-local-storage/dist/angular-local-storage.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-local-storage/dist/angular-local-storage.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-mocks/angular-mocks.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-mocks/ngAnimateMock.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-mocks/ngMock.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-mocks/ngMockE2E.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-resource/angular-resource.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-resource/angular-resource.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-resource/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-sanitize/angular-sanitize.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-sanitize/angular-sanitize.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-sanitize/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-scenario/angular-scenario.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-scenario/jstd-scenario-adapter-config.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-scenario/jstd-scenario-adapter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-ui-router/release/angular-ui-router.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-ui-router/release/angular-ui-router.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-ui-router/src/common.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-ui-router/src/resolve.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-ui-router/src/state.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-ui-router/src/stateDirectives.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-ui-router/src/stateFilters.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-ui-router/src/templateFactory.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-ui-router/src/urlMatcherFactory.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-ui-router/src/urlRouter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-ui-router/src/view.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-ui-router/src/viewDirective.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular-ui-router/src/viewScroll.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular/angular.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular/angular.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/angular/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/bootstrap/Gruntfile.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+   - renameSync
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/bootstrap/dist/js/bootstrap.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/bootstrap/dist/js/bootstrap.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/bootstrap/dist/js/npm.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/bootstrap/grunt/bs-commonjs-generator.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - writeFileSync
+
+Library: path
+Methods Called:
+   - dirname
+   - relative
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/bootstrap/grunt/bs-glyphicons-data-generator.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+   - existsSync
+   - mkdirSync
+   - writeFileSync
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/bootstrap/grunt/bs-lessdoc-parser.js
+------------------------------------------
+Library: markdown-it
+Methods Called:
+   - main_method*
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/bootstrap/grunt/bs-raw-files-generator.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+   - writeFileSync
+
+Library: btoa
+Methods Called:
+   - main_method*
+
+Library: glob
+Methods Called:
+   - sync
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/bootstrap/js/affix.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/bootstrap/js/alert.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/bootstrap/js/button.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/bootstrap/js/carousel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/bootstrap/js/collapse.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/bootstrap/js/dropdown.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/bootstrap/js/modal.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/bootstrap/js/popover.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/bootstrap/js/scrollspy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/bootstrap/js/tab.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/bootstrap/js/tooltip.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/bootstrap/js/transition.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/bootstrap/package.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/dist/jquery.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/dist/jquery.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/ajax.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/ajax/jsonp.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/ajax/load.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/ajax/parseJSON.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/ajax/parseXML.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/ajax/script.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/ajax/var/nonce.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/ajax/var/rquery.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/ajax/xhr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/attributes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/attributes/attr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/attributes/classes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/attributes/prop.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/attributes/support.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/attributes/val.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/callbacks.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/core.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/core/access.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/core/init.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/core/parseHTML.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/core/ready.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/core/var/rsingleTag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/css.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/css/addGetHookIf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/css/curCSS.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/css/defaultDisplay.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/css/hiddenVisibleSelectors.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/css/support.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/css/swap.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/css/var/cssExpand.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/css/var/getStyles.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/css/var/isHidden.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/css/var/rmargin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/css/var/rnumnonpx.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/data.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/data/Data.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/data/accepts.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/data/var/data_priv.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/data/var/data_user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/deferred.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/deprecated.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/dimensions.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/effects.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/effects/Tween.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/effects/animatedSelector.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/event.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/event/ajax.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/event/alias.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/event/support.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/exports/amd.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/exports/global.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/intro.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 45: Unexpected end of input
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/jquery.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/manipulation.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/manipulation/_evalUrl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/manipulation/support.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/manipulation/var/rcheckableType.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/offset.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/outro.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token }
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/queue.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/queue/delay.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/selector-native.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/selector-sizzle.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/selector.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/serialize.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/sizzle/dist/sizzle.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/sizzle/dist/sizzle.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/traversing.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/traversing/findFilter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/traversing/var/rneedsContext.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/var/arr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/var/class2type.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/var/concat.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/var/hasOwn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/var/indexOf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/var/pnum.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/var/push.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/var/rnotwhite.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/var/slice.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/var/strundefined.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/var/support.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/var/toString.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/jquery/src/wrap.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/json3/lib/json3.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/json3/lib/json3.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/a/download.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/ambientlight.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/applicationcache.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/audio.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/audio/loop.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/audio/preload.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/audio/webaudio.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/battery.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/battery/lowbattery.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/blob.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/canvas.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/canvas/blending.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/canvas/todataurl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/canvas/winding.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/canvastext.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/contenteditable.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/contextmenu.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/cookies.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/cors.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/crypto.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/crypto/getrandomvalues.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/all.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/animations.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/appearance.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/backdropfilter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/backgroundblendmode.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/backgroundcliptext.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/backgroundposition-shorthand.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/backgroundposition-xy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/backgroundrepeat.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/backgroundsize.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/backgroundsizecover.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/borderimage.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/borderradius.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/boxshadow.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/boxsizing.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/calc.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/checked.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/chunit.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/columns.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/cubicbezierrange.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/displayrunin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/displaytable.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/ellipsis.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/escape.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/exunit.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/filters.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/flexbox.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/flexboxlegacy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/flexboxtweener.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/flexwrap.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/fontface.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/generatedcontent.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/gradients.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/hsla.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/hyphens.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/invalid.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/lastchild.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/mask.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/mediaqueries.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/multiplebgs.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/nthchild.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/objectfit.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/opacity.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/overflow-scrolling.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/pointerevents.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/positionsticky.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/pseudoanimations.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/pseudotransitions.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/reflections.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/regions.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/remunit.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/resize.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/rgba.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/scrollbars.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/shapes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/siblinggeneral.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/subpixelfont.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/supports.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/target.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/textalignlast.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/textshadow.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/transforms.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/transforms3d.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/transformstylepreserve3d.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/transitions.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/userselect.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/valid.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/vhunit.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/vmaxunit.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/vminunit.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/vwunit.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/will-change.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/css/wrapflow.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/custom-protocol-handler.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/customevent.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/dart.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/dataview-api.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/dom/classlist.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/dom/createElement-attrs.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/dom/dataset.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/dom/documentfragment.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/dom/hidden.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/dom/microdata.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/dom/mutationObserver.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/elem/bdi.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/elem/datalist.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/elem/details.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/elem/output.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/elem/picture.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/elem/progress-meter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/elem/ruby.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/elem/template.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/elem/time.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/elem/track.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/elem/unknown.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/emoji.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/es5/array.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/es5/date.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/es5/function.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/es5/object.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/es5/specification.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/es5/strictmode.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/es5/string.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/es5/syntax.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/es5/undefined.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/es6/array.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/es6/contains.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/es6/generators.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/es6/math.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/es6/number.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/es6/object.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/es6/promises.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/es6/string.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/event/deviceorientation-motion.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/event/oninput.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/eventlistener.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/exif-orientation.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/file/api.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/file/filesystem.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/flash.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/forms/capture.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/forms/fileinput.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/forms/fileinputdirectory.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/forms/formattribute.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/forms/inputnumber-l10n.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/forms/placeholder.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/forms/requestautocomplete.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/forms/validation.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/fullscreen-api.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/gamepad.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/geolocation.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/hashchange.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/hiddenscroll.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/history.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/htmlimports.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/ie8compat.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/iframe/sandbox.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/iframe/seamless.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/iframe/srcdoc.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/img/apng.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/img/jpeg2000.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/img/jpegxr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/img/sizes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/img/srcset.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/img/webp-alpha.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/img/webp-animation.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/img/webp-lossless.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/img/webp.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/indexeddb.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/indexeddbblob.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/input.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/input/formaction.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/input/formenctype.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/input/formmethod.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/input/formtarget.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/inputsearchevent.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/inputtypes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/intl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/json.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/lists-reversed.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/mathml.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/network/beacon.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/network/connection.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/network/eventsource.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/network/fetch.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/network/xhr-responsetype-arraybuffer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/network/xhr-responsetype-blob.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/network/xhr-responsetype-document.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/network/xhr-responsetype-json.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/network/xhr-responsetype-text.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/network/xhr-responsetype.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/network/xhr2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/notification.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/pagevisibility-api.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/performance.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/pointerevents.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/pointerlock-api.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/postmessage.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/proximity.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/queryselector.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/quota-management-api.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/requestanimationframe.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/script/async.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/script/defer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/serviceworker.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/speech/speech-recognition.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/speech/speech-synthesis.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/storage/localstorage.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/storage/sessionstorage.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/storage/websqldatabase.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/style/scoped.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/svg.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/svg/asimg.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/svg/clippaths.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/svg/filters.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/svg/foreignobject.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/svg/inline.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/svg/smil.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/templatestrings.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/textarea/maxlength.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/touchevents.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/typed-arrays.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/unicode-range.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/unicode.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/url/bloburls.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/url/data-uri.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/url/parser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/userdata.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/vibration.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/video.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/video/autoplay.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/video/loop.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/video/preload.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/vml.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/web-intents.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/webanimations.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/webgl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/webgl/extensions.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/webrtc/datachannel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/webrtc/getusermedia.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/webrtc/peerconnection.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/websockets.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/websockets/binary.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/window/atob-btoa.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/window/framed.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/window/matchmedia.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/workers/blobworkers.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/workers/dataworkers.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/workers/sharedworkers.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/workers/transferables.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/workers/webworkers.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/feature-detects/xdomainrequest.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/lib/build-query.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/lib/build.js
+------------------------------------------
+Library: requirejs
+Methods Called:
+   - optimize
+   - define
+   - config
+   - main_method*
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/lib/cli.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/lib/generate-banner.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/lib/metadata.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - realpathSync
+   - readFileSync
+
+Library: file
+Methods Called:
+   - walkSync
+
+Library: marked
+Methods Called:
+   - main_method*
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/lib/options.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - realpathSync
+   - readFileSync
+
+Library: lodash
+Methods Called:
+   - chain
+   - some
+   - where
+
+Library: file
+Methods Called:
+   - walkSync
+
+Library: doctrine
+Methods Called:
+   - parse
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/Modernizr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/ModernizrProto.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/addTest.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/atRule.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/classes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/contains.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/createElement.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/cssToDOM.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/cssomPrefixes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/docElement.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/domPrefixes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/domToCSS.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/fnBind.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/generate.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/getBody.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/hasEvent.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/hasOwnProp.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/html5printshiv.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/html5shiv.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/injectElementWithStyles.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/inputElem.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/is.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/isSVG.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/load.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/mStyle.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/modElem.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/mq.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/nativeTestProps.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/omPrefixes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/prefixed.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/prefixedCSS.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/prefixedCSSValue.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/prefixes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/roundedEquals.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/setClasses.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/slice.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/testAllProps.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/testDOMProps.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/testProp.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/testProps.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/testPropsAll.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/testRunner.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/testStyles.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/testXhrType.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/src/toStringFn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/integration/bools.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/integration/caniuse.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/integration/classes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/integration/global.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/integration/iframe.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/integration/prefixed-atRule.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/integration/prefixed-autobind.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/integration/prefixed.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/integration/prefixedCSS.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/integration/svg.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/setup.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/Modernizr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/ModernizrProto.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/addTest.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/atRule.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/classes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/contains.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/createElement.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/cssToDOM.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/cssomPrefixes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/docElement.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/domPrefixes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/domToCSS.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/fnBind.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/generate.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/getBody.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/hasEvent.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/hasOwnProp.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/html5printshiv.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/html5shiv.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/injectElementWithStyles.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/inputElem.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/is.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/load.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/mStyle.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/modElem.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/mq.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/nativeTestProps.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/omPrefixes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/prefixed.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/prefixedCSS.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/prefixedCSSValue.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/prefixes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/roundedEquals.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/setClasses.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/slice.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/testAllProps.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/testDOMProps.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/testProp.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/testProps.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/testPropsAll.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/testRunner.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/testStyles.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/testXhrType.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/tests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/src/toStringFn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/browser/svgUnit.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/cleanup.js
+------------------------------------------
+Library: requirejs
+Methods Called:
+   - s
+   - undef
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/js/lib/sinon.js
+------------------------------------------
+Library: ./sinon/util/core
+Methods Called:
+   - wrapMethod
+   - create
+   - deepEqual
+   - match
+   - functionName
+   - functionToString
+   - getConfig
+   - defaultConfig
+   - timesInWords
+   - calledInOrder
+   - orderByFirstCall
+   - createStubInstance
+   - stub
+   - restore
+   - extend
+   - typeOf
+   - format
+   - spyCall
+   - spy
+   - behavior
+   - expectation
+   - assert
+   - mock
+   - collection
+   - useFakeTimers
+   - clock
+   - timers
+   - Event
+   - ProgressEvent
+   - CustomEvent
+   - EventTarget
+   - log
+   - logError
+   - xdr
+   - FakeXDomainRequest
+   - useFakeXDomainRequest
+   - xhr
+   - useFakeXMLHttpRequest
+   - FakeXMLHttpRequest
+   - fakeServer
+   - fakeServerWithClock
+   - sandbox
+   - config
+   - test
+   - testCase
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/js/lib/uaparser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/mocks/lib/build-query.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/mocks/lib/metadata.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/node/lib/build.js
+------------------------------------------
+Library: find-parent-dir
+Methods Called:
+   - sync
+
+Library: expect.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/node/lib/cli.js
+------------------------------------------
+Library: find-parent-dir
+Methods Called:
+   - sync
+
+Library: expect.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/node/lib/metadata.js
+------------------------------------------
+Library: find-parent-dir
+Methods Called:
+   - sync
+
+Library: proxyquire
+Methods Called:
+   - noPreserveCache
+
+Library: expect.js
+Methods Called:
+   - main_method*
+
+Library: joi
+Methods Called:
+   - object
+   - string
+   - alternatives
+   - boolean
+   - array
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/node/lib/options.js
+------------------------------------------
+Library: find-parent-dir
+Methods Called:
+   - sync
+
+Library: expect.js
+Methods Called:
+   - main_method*
+
+Library: joi
+Methods Called:
+   - array
+   - object
+   - string
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/universal/lib/build-hash.js
+------------------------------------------
+Library: find-parent-dir
+Methods Called:
+   - sync
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/modernizr/test/universal/lib/generate-banner.js
+------------------------------------------
+Library: find-parent-dir
+Methods Called:
+   - sync
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/ng-file-upload/FileAPI.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/ng-file-upload/FileAPI.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/ng-file-upload/ng-file-upload-all.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/ng-file-upload/ng-file-upload-all.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/ng-file-upload/ng-file-upload-shim.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/ng-file-upload/ng-file-upload-shim.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/ng-file-upload/ng-file-upload.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/ng-file-upload/ng-file-upload.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/ngInfiniteScroll/build/ng-infinite-scroll.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/ngInfiniteScroll/build/ng-infinite-scroll.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/dist/lang/en.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/dist/lang/es.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/dist/lang/pt.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/dist/lang/ru.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/dist/lang/tr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/dist/lang/translator.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/dist/lang/zh-cn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/dist/lib/backbone-min.js
+------------------------------------------
+Library: underscore
+Methods Called:
+   - once
+   - keys
+   - isEmpty
+   - s
+   - split
+   - ctx
+   - each
+   - uniqueId
+   - extend
+   - defaults
+   - result
+   - clone
+   - escape
+   - isEqual
+   - has
+   - isObject
+   - t
+   - isArray
+   - isString
+   - bind
+   - invoke
+   - isFunction
+   - pick
+   - isRegExp
+   - map
+   - bindAll
+   - length
+   - any
+   - slice
+   - main_method*
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/dist/lib/handlebars-2.0.0.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/dist/lib/highlight.7.3.pack.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/dist/lib/jquery-1.8.0.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/dist/lib/jquery.ba-bbq.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/dist/lib/jquery.slideto.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/dist/lib/jquery.wiggle.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/dist/lib/marked.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/dist/lib/swagger-oauth.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/dist/lib/underscore-min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/dist/swagger-ui.js
+------------------------------------------
+Library: ./lib/auth
+Methods Called:
+   - ApiKeyAuthorization
+   - PasswordAuthorization
+   - CookieAuthorization
+   - apply
+   - SwaggerAuthorizations
+   - type
+   - name
+   - value
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/dist/swagger-ui.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+   - start
+
+Library: event-stream
+Methods Called:
+   - merge
+
+Library: gulp-clean
+Methods Called:
+   - main_method*
+
+Library: gulp-concat
+Methods Called:
+   - main_method*
+
+Library: gulp-uglify
+Methods Called:
+   - main_method*
+
+Library: gulp-rename
+Methods Called:
+   - main_method*
+
+Library: gulp-less
+Methods Called:
+   - main_method*
+
+Library: gulp-handlebars
+Methods Called:
+   - main_method*
+
+Library: gulp-wrap
+Methods Called:
+   - main_method*
+
+Library: gulp-declare
+Methods Called:
+   - main_method*
+
+Library: gulp-watch
+Methods Called:
+   - main_method*
+
+Library: gulp-connect
+Methods Called:
+   - reload
+   - server
+
+Library: gulp-header
+Methods Called:
+   - main_method*
+
+Library: gulp-order
+Methods Called:
+   - main_method*
+
+Library: gulp-jshint
+Methods Called:
+   - main_method*
+   - reporter
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/index.js
+------------------------------------------
+Library: path
+Methods Called:
+   - resolve
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/lang/en.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/lang/es.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/lang/pt.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/lang/ru.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/lang/tr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/lang/translator.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/lang/zh-cn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/lib/backbone-min.js
+------------------------------------------
+Library: underscore
+Methods Called:
+   - once
+   - keys
+   - isEmpty
+   - s
+   - split
+   - ctx
+   - each
+   - uniqueId
+   - extend
+   - defaults
+   - result
+   - clone
+   - escape
+   - isEqual
+   - has
+   - isObject
+   - t
+   - isArray
+   - isString
+   - bind
+   - invoke
+   - isFunction
+   - pick
+   - isRegExp
+   - map
+   - bindAll
+   - length
+   - any
+   - slice
+   - main_method*
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/lib/handlebars-2.0.0.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/lib/highlight.7.3.pack.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/lib/jquery-1.8.0.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/lib/jquery.ba-bbq.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/lib/jquery.slideto.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/lib/jquery.wiggle.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/lib/marked.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/lib/swagger-oauth.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/lib/underscore-min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/src/main/javascript/SwaggerUi.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/src/main/javascript/doc.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/src/main/javascript/helpers/handlebars.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/src/main/javascript/view/ApiKeyButton.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/src/main/javascript/view/BasicAuthButton.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/src/main/javascript/view/ContentTypeView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/src/main/javascript/view/HeaderView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/src/main/javascript/view/MainView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/src/main/javascript/view/OperationView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/src/main/javascript/view/ParameterContentTypeView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/src/main/javascript/view/ParameterView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/src/main/javascript/view/ResourceView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/src/main/javascript/view/ResponseContentTypeView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/src/main/javascript/view/SignatureView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/bower_components/swagger-ui/src/main/javascript/view/StatusCodeView.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/account/account.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/account/activate/activate.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/account/activate/activate.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/account/login/login.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/account/login/login.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/account/password/password.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/account/password/password.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/account/password/password.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/account/register/register.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/account/register/register.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/account/reset/finish/reset.finish.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/account/reset/finish/reset.finish.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/account/reset/request/reset.request.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/account/reset/request/reset.request.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/account/sessions/sessions.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/account/sessions/sessions.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/account/settings/settings.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/account/settings/settings.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/admin/admin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/admin/audits/audits.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/admin/audits/audits.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/admin/configuration/configuration.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/admin/configuration/configuration.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/admin/docs/docs.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/admin/health/health.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/admin/health/health.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/admin/health/health.modal.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/admin/logs/logs.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/admin/logs/logs.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/admin/metrics/metrics.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/admin/metrics/metrics.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/admin/metrics/metrics.modal.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/admin/user-management/user-management-delete-dialog.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/admin/user-management/user-management-detail.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/admin/user-management/user-management-dialog.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/admin/user-management/user-management.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/admin/user-management/user-management.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/app.constants.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/entities/entity.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/error/error.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/main/main.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/app/main/main.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/admin/audits.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/admin/configuration.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/admin/logs.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/admin/monitoring.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/alert/alert.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/alert/alert.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/auth/auth.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/auth/authority.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/auth/principal.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/auth/provider/auth.session.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/auth/services/account.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/auth/services/activate.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/auth/services/password.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/auth/services/register.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/auth/services/sessions.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/form/form.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/form/maxbytes.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/form/minbytes.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/form/uib-pager.config.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/form/uib-pagination.config.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/interceptor/auth.interceptor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/interceptor/errorhandler.interceptor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/interceptor/notification.interceptor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/navbar/navbar.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/navbar/navbar.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/user/user.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/util/base64.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/util/capitalize.filter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/util/data-util.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/util/date-util.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/util/parse-links.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/util/sort.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/main/webapp/scripts/components/util/truncate.filter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/test/javascript/karma.conf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/test/javascript/spec/app/account/activate/activate.controller.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/test/javascript/spec/app/account/login/login.controller.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/test/javascript/spec/app/account/password/password.controller.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/test/javascript/spec/app/account/password/password.directive.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/test/javascript/spec/app/account/register/register.controller.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/test/javascript/spec/app/account/reset/finish/reset.finish.controller.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/test/javascript/spec/app/account/reset/request/reset.request.controller.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/test/javascript/spec/app/account/sessions/sessions.controller.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/test/javascript/spec/app/account/settings/settings.controller.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/test/javascript/spec/app/admin/health/health.controller.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/test/javascript/spec/components/auth/auth.services.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/test/javascript/spec/helpers/httpBackend.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+travis/samples/app-2.27.2/src/test/javascript/spec/helpers/module.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "swagger-js-codegen": {
+    "CodeGen": true
+  },
+  "yeoman-generator": {
+    "Base": true
+  },
+  "chalk": {
+    "red": true,
+    "yellow": true,
+    "green": true
+  },
+  "semver": {
+    "lt": true
+  },
+  "sync-request": {
+    "main_method*": true
+  },
+  "path": {
+    "resolve": true,
+    "join": true,
+    "dirname": true,
+    "relative": true
+  },
+  "shelljs": {
+    "exec": true
+  },
+  "underscore.string": {
+    "classify": true,
+    "camelize": true,
+    "dasherize": true,
+    "decapitalize": true,
+    "underscored": true
+  },
+  "gulp": {
+    "task": true,
+    "src": true,
+    "dest": true,
+    "start": true,
+    "watch": true
+  },
+  "fs-extra": {
+    "copySync": true
+  },
+  "yeoman-test": {
+    "createDummyGenerator": true,
+    "run": true
+  },
+  "yargs": {
+    "argv": true
+  },
+  "gulp-notify": {
+    "onError": true
+  },
+  "map-stream": {
+    "main_method*": true
+  },
+  "xml2js": {
+    "parseString": true
+  },
+  "fs": {
+    "readFileSync": true,
+    "renameSync": true,
+    "writeFileSync": true,
+    "existsSync": true,
+    "mkdirSync": true,
+    "realpathSync": true
+  },
+  "markdown-it": {
+    "main_method*": true
+  },
+  "btoa": {
+    "main_method*": true
+  },
+  "glob": {
+    "sync": true
+  },
+  "requirejs": {
+    "optimize": true,
+    "define": true,
+    "config": true,
+    "main_method*": true,
+    "s": true,
+    "undef": true
+  },
+  "file": {
+    "walkSync": true
+  },
+  "marked": {
+    "main_method*": true
+  },
+  "lodash": {
+    "chain": true,
+    "some": true,
+    "where": true
+  },
+  "doctrine": {
+    "parse": true
+  },
+  "./sinon/util/core": {
+    "wrapMethod": true,
+    "create": true,
+    "deepEqual": true,
+    "match": true,
+    "functionName": true,
+    "functionToString": true,
+    "getConfig": true,
+    "defaultConfig": true,
+    "timesInWords": true,
+    "calledInOrder": true,
+    "orderByFirstCall": true,
+    "createStubInstance": true,
+    "stub": true,
+    "restore": true,
+    "extend": true,
+    "typeOf": true,
+    "format": true,
+    "spyCall": true,
+    "spy": true,
+    "behavior": true,
+    "expectation": true,
+    "assert": true,
+    "mock": true,
+    "collection": true,
+    "useFakeTimers": true,
+    "clock": true,
+    "timers": true,
+    "Event": true,
+    "ProgressEvent": true,
+    "CustomEvent": true,
+    "EventTarget": true,
+    "log": true,
+    "logError": true,
+    "xdr": true,
+    "FakeXDomainRequest": true,
+    "useFakeXDomainRequest": true,
+    "xhr": true,
+    "useFakeXMLHttpRequest": true,
+    "FakeXMLHttpRequest": true,
+    "fakeServer": true,
+    "fakeServerWithClock": true,
+    "sandbox": true,
+    "config": true,
+    "test": true,
+    "testCase": true
+  },
+  "find-parent-dir": {
+    "sync": true
+  },
+  "expect.js": {
+    "main_method*": true
+  },
+  "proxyquire": {
+    "noPreserveCache": true
+  },
+  "joi": {
+    "object": true,
+    "string": true,
+    "alternatives": true,
+    "boolean": true,
+    "array": true
+  },
+  "underscore": {
+    "once": true,
+    "keys": true,
+    "isEmpty": true,
+    "s": true,
+    "split": true,
+    "ctx": true,
+    "each": true,
+    "uniqueId": true,
+    "extend": true,
+    "defaults": true,
+    "result": true,
+    "clone": true,
+    "escape": true,
+    "isEqual": true,
+    "has": true,
+    "isObject": true,
+    "t": true,
+    "isArray": true,
+    "isString": true,
+    "bind": true,
+    "invoke": true,
+    "isFunction": true,
+    "pick": true,
+    "isRegExp": true,
+    "map": true,
+    "bindAll": true,
+    "length": true,
+    "any": true,
+    "slice": true,
+    "main_method*": true
+  },
+  "./lib/auth": {
+    "ApiKeyAuthorization": true,
+    "PasswordAuthorization": true,
+    "CookieAuthorization": true,
+    "apply": true,
+    "SwaggerAuthorizations": true,
+    "type": true,
+    "name": true,
+    "value": true
+  },
+  "event-stream": {
+    "merge": true
+  },
+  "gulp-clean": {
+    "main_method*": true
+  },
+  "gulp-concat": {
+    "main_method*": true
+  },
+  "gulp-uglify": {
+    "main_method*": true
+  },
+  "gulp-rename": {
+    "main_method*": true
+  },
+  "gulp-less": {
+    "main_method*": true
+  },
+  "gulp-handlebars": {
+    "main_method*": true
+  },
+  "gulp-wrap": {
+    "main_method*": true
+  },
+  "gulp-declare": {
+    "main_method*": true
+  },
+  "gulp-watch": {
+    "main_method*": true
+  },
+  "gulp-connect": {
+    "reload": true,
+    "server": true
+  },
+  "gulp-header": {
+    "main_method*": true
+  },
+  "gulp-order": {
+    "main_method*": true
+  },
+  "gulp-jshint": {
+    "main_method*": true,
+    "reporter": true
+  }
+}

@@ -1,0 +1,5 @@
+afc45fce235cef23f6a9c8b878cbd1793c2cdc5d
+bin/whathappened.js
+index.js
+test/test01/test01.js
+test/test02/test02.js

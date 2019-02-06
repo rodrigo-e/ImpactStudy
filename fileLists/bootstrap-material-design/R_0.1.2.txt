@@ -1,0 +1,14 @@
+073f8302467d3b30e1f331ced572742d42019f52
+Gruntfile.js
+dist/js/material.js
+dist/js/material.min.js
+dist/js/ripples.js
+dist/js/ripples.min.js
+scripts/material.js
+scripts/ripples.js
+template/material/js/material.js
+template/material/js/material.min.js
+template/material/js/ripples.js
+template/material/js/ripples.min.js
+test/materialSpec.js
+test/ripplesSpec.js

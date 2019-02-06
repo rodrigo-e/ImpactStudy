@@ -1,0 +1,1511 @@
+------------------------------------------
+agent/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+agent/lib/agent.js
+------------------------------------------
+Library: dgram
+Methods Called:
+   - createSocket
+
+------------------------------------------
+agent/lib/packet-queue.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+agent/lib/scoped-agent.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+agent/test/agent.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+agent/test/packet-queue.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+agent/test/scoped-agent.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+backend-pg/bin/setup.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+backend-pg/index.js
+------------------------------------------
+Library: pg
+Methods Called:
+   - Client
+
+------------------------------------------
+daemon/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+daemon/lib/aggregator/calibrate-interval.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+daemon/lib/aggregator/delta-list.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+daemon/lib/aggregator/index.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+daemon/lib/aggregator/interval-list.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+daemon/lib/aggregator/metrics/counter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+daemon/lib/aggregator/metrics/histogram.js
+------------------------------------------
+Library: metrics
+Methods Called:
+   - Histogram
+
+------------------------------------------
+daemon/lib/aggregator/metrics/llq.js
+------------------------------------------
+Library: llquantize
+Methods Called:
+   - main_method*
+
+------------------------------------------
+daemon/lib/daemon.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+daemon/lib/monitor/index.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+daemon/lib/monitor/rule-builder.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+daemon/lib/monitor/rule-tester.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+daemon/lib/monitor/rule.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+daemon/lib/monitor/running-mean.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+daemon/lib/monitor/warning.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+daemon/lib/ring/http_client.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+daemon/lib/ring/index.js
+------------------------------------------
+Library: http
+Methods Called:
+   - crypto
+   - http
+   - querystring
+
+------------------------------------------
+daemon/lib/server/http.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+   - get
+
+------------------------------------------
+daemon/lib/server/metrics-stream.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+daemon/lib/server/ring.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+daemon/lib/server/udp.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+daemon/test/aggregator/calibrate-interval.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+daemon/test/aggregator/delta-list.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+daemon/test/aggregator/index.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+daemon/test/aggregator/interval-list.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+daemon/test/aggregator/metrics/counter.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+daemon/test/aggregator/metrics/histogram.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+daemon/test/aggregator/metrics/llq.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+daemon/test/monitor/rule-builder.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+daemon/test/monitor/rule-tester.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+daemon/test/monitor/rule.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+daemon/test/monitor/running-mean.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+daemon/test/server/http.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+daemon/test/server/metrics-stream.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+daemon/test/server/ring.mock.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+daemon/test/server/udp.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/app/index.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+web/app/metrics/downsample/counter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/app/metrics/downsample/histogram.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/app/metrics/downsample/llquantize.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/app/metrics/downsample/sample.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/app/metrics/flatten-llq.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/app/metrics/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/app/metrics/interval.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/app/models/channel/channel.js
+------------------------------------------
+Library: querystring
+Methods Called:
+   - stringify
+
+------------------------------------------
+web/app/models/channel/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/app/models/channel/request.js
+------------------------------------------
+Library: http
+Methods Called:
+   - get
+
+------------------------------------------
+web/app/models/dashboard.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/app/models/key-tree.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/app/models/mkeys.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/app/models/monitor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/app/models/tag-type.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/app/routes.js
+------------------------------------------
+Library: zlib
+Methods Called:
+   - gzip
+
+------------------------------------------
+web/bin/admin.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+web/client/admin/dashboard.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/admin/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/admin/keys.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/admin/monitor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/admin/tag-type.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/admin/tag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/admin/util.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/api.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/api.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/history.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/models/channel/cached-channel.js
+------------------------------------------
+Library: ./channel
+Methods Called:
+   - call
+   - prototype
+
+------------------------------------------
+web/client/js/models/channel/channel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/models/channel/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/models/chart/chart.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/models/chart/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/models/chart/point-chart.js
+------------------------------------------
+Library: ./chart
+Methods Called:
+   - call
+   - prototype
+
+------------------------------------------
+web/client/js/models/chart/set.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/models/chart/util.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/models/dashboard-tree.js
+------------------------------------------
+Library: ../api
+Methods Called:
+   - listDashboards
+   - replaceDashboard
+   - getDashboard
+   - patchDashboard
+   - deleteDashboard
+
+------------------------------------------
+web/client/js/models/dashboard.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/models/implicit-tree.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/models/interval-loader.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/models/key-tree/dedup-key-api.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+web/client/js/models/key-tree/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/models/metrics-function.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/models/plot-settings.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/models/point-emitter.js
+------------------------------------------
+Library: ./channel
+Methods Called:
+   - main_method*
+
+------------------------------------------
+web/client/js/models/point-loader.js
+------------------------------------------
+Library: ./interval-loader
+Methods Called:
+   - main_method*
+
+------------------------------------------
+web/client/js/models/rate-limit.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/models/router.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+web/client/js/models/tag-type.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/models/tag.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/sail.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/chart-view-set.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/chart-view.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/chart2/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/chart2/layers/axis.js
+------------------------------------------
+Library: ./plot
+Methods Called:
+   - transform
+   - translate
+
+------------------------------------------
+web/client/js/ui/chart2/layers/drag-zoom.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/chart2/layers/heat.js
+------------------------------------------
+Library: ./plot
+Methods Called:
+   - call
+
+------------------------------------------
+web/client/js/ui/chart2/layers/hover-label.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/chart2/layers/hover-line.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/chart2/layers/line.js
+------------------------------------------
+Library: ./plot
+Methods Called:
+   - call
+
+------------------------------------------
+web/client/js/ui/chart2/layers/plot.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/chart2/layers/stack.js
+------------------------------------------
+Library: ./plot
+Methods Called:
+   - call
+
+------------------------------------------
+web/client/js/ui/chart2/layers/tags.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/chart2/models/bounded-points.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/chart2/models/capped-interval.js
+------------------------------------------
+Library: ./versioned-interval
+Methods Called:
+   - call
+
+------------------------------------------
+web/client/js/ui/chart2/models/interval.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+web/client/js/ui/chart2/models/layer-set.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/chart2/models/point-set/heat.js
+------------------------------------------
+Library: ./point-set
+Methods Called:
+   - call
+
+------------------------------------------
+web/client/js/ui/chart2/models/point-set/llq.js
+------------------------------------------
+Library: ./heat
+Methods Called:
+   - call
+   - prototype
+
+------------------------------------------
+web/client/js/ui/chart2/models/point-set/point-set.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/chart2/models/point-set/stack.js
+------------------------------------------
+Library: ./xy
+Methods Called:
+   - call
+   - prototype
+
+------------------------------------------
+web/client/js/ui/chart2/models/point-set/xy.js
+------------------------------------------
+Library: ./point-set
+Methods Called:
+   - call
+
+------------------------------------------
+web/client/js/ui/chart2/models/scaling-interval.js
+------------------------------------------
+Library: ./versioned-interval
+Methods Called:
+   - call
+   - prototype
+
+------------------------------------------
+web/client/js/ui/chart2/models/stack-layers.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/chart2/models/versioned-interval.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/chart2/utils/format-si.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/chart2/utils/format-time.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/chart2/utils/raf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/chart2/view.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/dashboard-chart-view.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/dashboard-tree-view.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/keybindings.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/metrics-tree-view.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/settings.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+web/client/js/ui/sidebar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/tags.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/utils/gravity.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/utils/keymap.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/utils/new-tab.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/utils/scan.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/utils/text-input.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/utils/tree.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+web/client/js/ui/view/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/view/lib/shims/dom.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/view/lib/shims/node.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+web/client/js/ui/view/test/index.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/client/js/ui/views/chart-header.js
+------------------------------------------
+Library: ../view
+Methods Called:
+   - call
+
+------------------------------------------
+web/client/js/ui/views/dashboard-chart-dialog.js
+------------------------------------------
+Library: ./dialog
+Methods Called:
+   - call
+
+------------------------------------------
+web/client/js/ui/views/dashboard-dialog.js
+------------------------------------------
+Library: ./dialog
+Methods Called:
+   - call
+
+------------------------------------------
+web/client/js/ui/views/dashboard-save-bar.js
+------------------------------------------
+Library: ../view
+Methods Called:
+   - call
+
+------------------------------------------
+web/client/js/ui/views/dialog.js
+------------------------------------------
+Library: ../view
+Methods Called:
+   - call
+
+------------------------------------------
+web/client/js/ui/views/input-hint.js
+------------------------------------------
+Library: ../view
+Methods Called:
+   - call
+
+------------------------------------------
+web/client/js/ui/views/input-suggester.js
+------------------------------------------
+Library: ../view
+Methods Called:
+   - call
+
+------------------------------------------
+web/client/js/ui/views/keybindings-dialog.js
+------------------------------------------
+Library: ./dialog
+Methods Called:
+   - call
+
+------------------------------------------
+web/client/js/ui/views/link-dialog.js
+------------------------------------------
+Library: ./dialog
+Methods Called:
+   - call
+
+------------------------------------------
+web/client/js/ui/views/menu-tree.js
+------------------------------------------
+Library: ../view
+Methods Called:
+   - call
+
+------------------------------------------
+web/client/js/ui/views/menu.js
+------------------------------------------
+Library: ./menu-tree
+Methods Called:
+   - call
+
+------------------------------------------
+web/client/js/ui/views/progress-bar.js
+------------------------------------------
+Library: ../view
+Methods Called:
+   - call
+
+------------------------------------------
+web/client/js/ui/views/settings/dashboard-tree-menu.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/views/settings/delta-picker-popup.js
+------------------------------------------
+Library: ./settings-popup
+Methods Called:
+   - call
+   - itemsHTML
+
+------------------------------------------
+web/client/js/ui/views/settings/function-popup.js
+------------------------------------------
+Library: ./settings-popup
+Methods Called:
+   - call
+
+------------------------------------------
+web/client/js/ui/views/settings/main-menu-popup.js
+------------------------------------------
+Library: ../link-dialog
+Methods Called:
+   - main_method*
+
+------------------------------------------
+web/client/js/ui/views/settings/plot-type-popup/dashboard.js
+------------------------------------------
+Library: ../../menu
+Methods Called:
+   - call
+
+------------------------------------------
+web/client/js/ui/views/settings/plot-type-popup/histogram.js
+------------------------------------------
+Library: ../settings-popup
+Methods Called:
+   - subkeyToLabel
+   - call
+
+------------------------------------------
+web/client/js/ui/views/settings/plot-type-popup/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/client/js/ui/views/settings/plot-type-popup/many.js
+------------------------------------------
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+web/client/js/ui/views/settings/range-picker-popup.js
+------------------------------------------
+Library: ./settings-popup
+Methods Called:
+   - call
+   - makeGraphLink
+
+------------------------------------------
+web/client/js/ui/views/settings/settings-popup.js
+------------------------------------------
+Library: ../../view
+Methods Called:
+   - call
+
+------------------------------------------
+web/client/js/ui/views/spinner.js
+------------------------------------------
+Library: ../view
+Methods Called:
+   - call
+
+------------------------------------------
+web/client/js/ui/views/tag-dialog.js
+------------------------------------------
+Library: ../../../../lib/date-utils
+Methods Called:
+   - dateToString
+
+------------------------------------------
+web/client/js/ui/views/time-picker.js
+------------------------------------------
+Library: ../view
+Methods Called:
+   - call
+
+------------------------------------------
+web/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/lib/date-utils.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/lib/event-source.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/lib/heat.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/lib/mkey.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/lib/request.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/lib/sort.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/lib/subtract-set.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/test/api.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/app/metrics/downsample/counter.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/app/metrics/downsample/histogram.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/app/metrics/downsample/llquantize.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/app/metrics/flatten-llq.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/app/metrics/helpers.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/test/app/metrics/index.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/app/metrics/interval.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/app/models/channel/channel.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/app/models/dashboard.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/app/models/key-tree.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/app/models/mkeys.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/app/models/tag-type.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/chart/bounded-points.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/chart/capped-interval.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/chart/interval.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/chart/layer-set.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/chart/point-set/heat.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/chart/point-set/llq.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/chart/point-set/point-set.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/chart/point-set/stack.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/chart/point-set/xy.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/chart/scaling-interval.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/chart/stack-layers.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/chart/versioned-interval.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/models/channel/cached-channel.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/models/channel/channel-api.mock.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/test/browser/models/channel/channel.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/models/channel/event-source.mock.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+web/test/browser/models/chart/chart.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/models/chart/point-chart.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/models/chart/set.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/models/chart/util.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/models/dashboard-tree.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/models/dashboard.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/models/implicit-tree.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/models/interval-loader.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/models/key-tree/api.mock.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+web/test/browser/models/key-tree/dedup-key-api.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/models/key-tree/index.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/models/metrics-function.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/models/plot-settings.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/models/point-emitter.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/models/rate-limit.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/models/router.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/browser/models/tag.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/index.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/lib/date-utils.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/lib/heat.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/lib/mkey.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/lib/sort.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+web/test/lib/subtract-set.test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+
+All of the Methods:
+{
+  "dgram": {
+    "createSocket": true
+  },
+  "tap": {
+    "test": true
+  },
+  "pg": {
+    "Client": true
+  },
+  "events": {
+    "EventEmitter": true
+  },
+  "metrics": {
+    "Histogram": true
+  },
+  "llquantize": {
+    "main_method*": true
+  },
+  "http": {
+    "crypto": true,
+    "http": true,
+    "querystring": true,
+    "createServer": true,
+    "get": true
+  },
+  "querystring": {
+    "stringify": true
+  },
+  "zlib": {
+    "gzip": true
+  },
+  "./channel": {
+    "call": true,
+    "prototype": true,
+    "main_method*": true
+  },
+  "./chart": {
+    "call": true,
+    "prototype": true
+  },
+  "../api": {
+    "listDashboards": true,
+    "replaceDashboard": true,
+    "getDashboard": true,
+    "patchDashboard": true,
+    "deleteDashboard": true
+  },
+  "./interval-loader": {
+    "main_method*": true
+  },
+  "./plot": {
+    "transform": true,
+    "translate": true,
+    "call": true
+  },
+  "./versioned-interval": {
+    "call": true,
+    "prototype": true
+  },
+  "./point-set": {
+    "call": true
+  },
+  "./heat": {
+    "call": true,
+    "prototype": true
+  },
+  "./xy": {
+    "call": true,
+    "prototype": true
+  },
+  "../view": {
+    "call": true
+  },
+  "./dialog": {
+    "call": true
+  },
+  "./menu-tree": {
+    "call": true
+  },
+  "./settings-popup": {
+    "call": true,
+    "itemsHTML": true,
+    "makeGraphLink": true
+  },
+  "../link-dialog": {
+    "main_method*": true
+  },
+  "../../menu": {
+    "call": true
+  },
+  "../settings-popup": {
+    "subkeyToLabel": true,
+    "call": true
+  },
+  "util": {
+    "inherits": true
+  },
+  "../../view": {
+    "call": true
+  },
+  "../../../../lib/date-utils": {
+    "dateToString": true
+  }
+}

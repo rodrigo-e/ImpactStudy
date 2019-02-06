@@ -1,0 +1,51 @@
+------------------------------------------
+example/controller.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - escape
+
+------------------------------------------
+example/model.js
+------------------------------------------
+Library: joi
+Methods Called:
+   - string
+
+------------------------------------------
+example/server.js
+------------------------------------------
+Library: hapi
+Methods Called:
+   - Server
+
+Library: assert
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/server.test.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "validator": {
+    "escape": true
+  },
+  "joi": {
+    "string": true
+  },
+  "hapi": {
+    "Server": true
+  },
+  "assert": {
+    "main_method*": true
+  },
+  "tape": {
+    "main_method*": true
+  }
+}

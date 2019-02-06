@@ -1,0 +1,16 @@
+950f248d914231d0c64489987fc082f183c035f3
+gulpfile.js
+src/main.js
+vendor/js/Backgrid.ColumnManager.js
+vendor/js/backbone.js
+vendor/js/backbone.paginator.js
+vendor/js/backgrid-filter.js
+vendor/js/backgrid-grouped-columns.js
+vendor/js/backgrid-orderable-columns.js
+vendor/js/backgrid-paginator.js
+vendor/js/backgrid-patch.js
+vendor/js/backgrid-sizeable-columns.js
+vendor/js/backgrid.js
+vendor/js/bootstrap.js
+vendor/js/jquery.js
+vendor/js/underscore.js

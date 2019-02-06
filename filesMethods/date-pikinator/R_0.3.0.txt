@@ -1,0 +1,47 @@
+------------------------------------------
+demo-bundle.js
+------------------------------------------
+Library: react
+Methods Called:
+   - DOM
+   - createClass
+   - renderComponent
+   - addons
+   - version
+   - PropTypes
+
+------------------------------------------
+demo.js
+------------------------------------------
+Library: react
+Methods Called:
+   - DOM
+   - createClass
+   - renderComponent
+
+------------------------------------------
+index.js
+------------------------------------------
+Library: react/addons
+Methods Called:
+   - DOM
+   - createClass
+   - addons
+
+
+All of the Methods:
+{
+  "react": {
+    "DOM": true,
+    "createClass": true,
+    "renderComponent": true,
+    "addons": true,
+    "version": true,
+    "PropTypes": true
+  },
+  "react/addons": {
+    "DOM": true,
+    "createClass": true,
+    "addons": true
+  }
+}

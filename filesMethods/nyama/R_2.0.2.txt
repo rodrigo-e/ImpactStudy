@@ -1,0 +1,153 @@
+------------------------------------------
+Application.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+Nyama.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+components/ContentComponent.js
+------------------------------------------
+Library: request
+Methods Called:
+   - main_method*
+
+------------------------------------------
+components/DbComponent.js
+------------------------------------------
+Library: sequelize
+Methods Called:
+   - main_method*
+
+------------------------------------------
+components/MailComponent.js
+------------------------------------------
+Library: nodemailer
+Methods Called:
+   - createTransport
+
+Library: nodemailer-smtp-transport
+Methods Called:
+   - main_method*
+
+------------------------------------------
+components/ProxyComponent.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/database/app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/database/commands/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/database/config/dev.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/database/models/Pogoda.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/email/app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/email/commands/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/email/config/dev.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/simple/app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/simple/commands/pogoda.js
+------------------------------------------
+Library: q
+Methods Called:
+   - async
+
+------------------------------------------
+examples/simple/config/dev.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+helpers/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+helpers/io.js
+------------------------------------------
+Library: glob
+Methods Called:
+   - main_method*
+
+------------------------------------------
+helpers/number.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+helpers/q.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+helpers/request.js
+------------------------------------------
+Library: request
+Methods Called:
+   - main_method*
+
+------------------------------------------
+helpers/str.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+helpers/url.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "request": {
+    "main_method*": true
+  },
+  "sequelize": {
+    "main_method*": true
+  },
+  "nodemailer": {
+    "createTransport": true
+  },
+  "nodemailer-smtp-transport": {
+    "main_method*": true
+  },
+  "q": {
+    "async": true
+  },
+  "glob": {
+    "main_method*": true
+  }
+}

@@ -1,0 +1,13 @@
+84040e4d619331cd51807261097cbe1c496c2652
+index.js
+lib/attributes.js
+lib/hooks.js
+lib/instance-methods.js
+lib/permissions.js
+lib/permitter.js
+test/associations/heirs.js
+test/index.js
+test/methods/authorized-permit.js
+test/methods/find-permitted.js
+test/methods/is-permitted-to.js
+test/teams/index.js

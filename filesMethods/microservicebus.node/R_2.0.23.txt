@@ -1,0 +1,256 @@
+------------------------------------------
+Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+global.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+globalRestore.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+lib/Settings.js
+------------------------------------------
+Library: extend
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - existsSync
+   - readFileSync
+   - writeFile
+
+------------------------------------------
+lib/Utils.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - writeFile
+   - mkdirParent
+   - stat
+   - lstatSync
+
+Library: npm
+Methods Called:
+   - load
+   - commands
+   - on
+   - dir
+
+Library: path
+Methods Called:
+   - resolve
+
+Library: crypto
+Methods Called:
+   - createCipher
+   - createDecipher
+
+Library: util
+Methods Called:
+   - puts
+
+------------------------------------------
+lib/microServiceBusHost.js
+------------------------------------------
+Library: colors
+Methods Called:
+   - strip
+
+Library: extend
+Methods Called:
+   - main_method*
+
+Library: os
+Methods Called:
+   - hostname
+   - totalmem
+   - freemem
+   - cpus
+
+Library: fs
+Methods Called:
+   - writeFileSync
+   - createWriteStream
+
+Library: uuid
+Methods Called:
+   - v1
+
+Library: intercept-stdout
+Methods Called:
+   - main_method*
+
+Library: network
+Methods Called:
+   - get_active_interface
+
+------------------------------------------
+lib/service.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+   - writeFile
+   - createWriteStream
+
+Library: os-service
+Methods Called:
+   - add
+   - remove
+   - run
+   - stop
+
+Library: ./Utils.js
+Methods Called:
+   - addNpmPackage
+
+------------------------------------------
+lib/signalR.js
+------------------------------------------
+Library: url
+Methods Called:
+   - parse
+
+------------------------------------------
+restore.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 63: Illegal return statement
+------------------------------------------
+server.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - writeFileSync
+
+------------------------------------------
+start.js
+------------------------------------------
+Library: package-json
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - existsSync
+   - readFileSync
+
+Library: cluster
+Methods Called:
+   - isMaster
+   - fork
+   - on
+   - settings
+   - setupMaster
+   - workers
+   - isWorker
+
+------------------------------------------
+test/testData.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/unittests.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: supertest
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - statSync
+
+
+All of the Methods:
+{
+  "extend": {
+    "main_method*": true
+  },
+  "fs": {
+    "existsSync": true,
+    "readFileSync": true,
+    "writeFile": true,
+    "mkdirParent": true,
+    "stat": true,
+    "lstatSync": true,
+    "writeFileSync": true,
+    "createWriteStream": true,
+    "statSync": true
+  },
+  "npm": {
+    "load": true,
+    "commands": true,
+    "on": true,
+    "dir": true
+  },
+  "path": {
+    "resolve": true
+  },
+  "crypto": {
+    "createCipher": true,
+    "createDecipher": true
+  },
+  "util": {
+    "puts": true
+  },
+  "colors": {
+    "strip": true
+  },
+  "os": {
+    "hostname": true,
+    "totalmem": true,
+    "freemem": true,
+    "cpus": true
+  },
+  "uuid": {
+    "v1": true
+  },
+  "intercept-stdout": {
+    "main_method*": true
+  },
+  "network": {
+    "get_active_interface": true
+  },
+  "os-service": {
+    "add": true,
+    "remove": true,
+    "run": true,
+    "stop": true
+  },
+  "./Utils.js": {
+    "addNpmPackage": true
+  },
+  "url": {
+    "parse": true
+  },
+  "package-json": {
+    "main_method*": true
+  },
+  "cluster": {
+    "isMaster": true,
+    "fork": true,
+    "on": true,
+    "settings": true,
+    "setupMaster": true,
+    "workers": true,
+    "isWorker": true
+  },
+  "chai": {
+    "expect": true
+  },
+  "supertest": {
+    "main_method*": true
+  }
+}

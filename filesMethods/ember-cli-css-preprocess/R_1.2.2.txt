@@ -1,0 +1,216 @@
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+
+Library: gulp-eslint
+Methods Called:
+   - main_method*
+   - format
+   - failAfterError
+
+Library: gulp-mocha
+Methods Called:
+   - main_method*
+
+------------------------------------------
+index.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: broccoli-merge-trees
+Methods Called:
+   - main_method*
+
+Library: ember-cli-version-checker
+Methods Called:
+   - main_method*
+
+------------------------------------------
+load-processor.js
+------------------------------------------
+Library: semver
+Methods Called:
+   - satisfies
+
+Library: find-package-json
+Methods Called:
+   - main_method*
+
+------------------------------------------
+processors/less.js
+------------------------------------------
+Library: deepmerge
+Methods Called:
+   - main_method*
+
+------------------------------------------
+processors/node-sass.js
+------------------------------------------
+Library: deepmerge
+Methods Called:
+   - main_method*
+
+------------------------------------------
+processors/postcss.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+style-processor.js
+------------------------------------------
+Library: broccoli-caching-writer
+Methods Called:
+   - prototype
+   - call
+
+Library: mkdirp-promise
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - dirname
+   - relative
+   - join
+
+Library: fs-promise
+Methods Called:
+   - readFile
+   - writeFile
+
+Library: co
+Methods Called:
+   - wrap
+
+Library: is-glob
+Methods Called:
+   - main_method*
+
+Library: minimatch
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/.setup.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - spawn
+
+Library: co-mocha
+Methods Called:
+   - main_method*
+
+Library: chai
+Methods Called:
+   - expect
+
+Library: common-tags
+Methods Called:
+   - TemplateTag
+   - stripIndentTransformer
+   - trimResultTransformer
+   - replaceResultTransformer
+
+------------------------------------------
+test/load-processor-test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/processor-less-test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/processor-node-sass-test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/processor-postcss-test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/style-processor-test.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "gulp": {
+    "task": true,
+    "src": true
+  },
+  "gulp-eslint": {
+    "main_method*": true,
+    "format": true,
+    "failAfterError": true
+  },
+  "gulp-mocha": {
+    "main_method*": true
+  },
+  "path": {
+    "join": true,
+    "dirname": true,
+    "relative": true
+  },
+  "broccoli-merge-trees": {
+    "main_method*": true
+  },
+  "ember-cli-version-checker": {
+    "main_method*": true
+  },
+  "semver": {
+    "satisfies": true
+  },
+  "find-package-json": {
+    "main_method*": true
+  },
+  "deepmerge": {
+    "main_method*": true
+  },
+  "broccoli-caching-writer": {
+    "prototype": true,
+    "call": true
+  },
+  "mkdirp-promise": {
+    "main_method*": true
+  },
+  "fs-promise": {
+    "readFile": true,
+    "writeFile": true
+  },
+  "co": {
+    "wrap": true
+  },
+  "is-glob": {
+    "main_method*": true
+  },
+  "minimatch": {
+    "main_method*": true
+  },
+  "child_process": {
+    "spawn": true
+  },
+  "co-mocha": {
+    "main_method*": true
+  },
+  "chai": {
+    "expect": true
+  },
+  "common-tags": {
+    "TemplateTag": true,
+    "stripIndentTransformer": true,
+    "trimResultTransformer": true,
+    "replaceResultTransformer": true
+  }
+}

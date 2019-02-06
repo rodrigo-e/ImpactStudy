@@ -1,0 +1,397 @@
+------------------------------------------
+Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/coverage/Gruntfile.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+examples/injectHTML/Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/injectHTML/test/inputs.unittests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/references/Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/references/js/math.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/references/test/math.unittests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/requirejs/Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/requirejs/js/require.config.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/requirejs/js/trig.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/requirejs/test/test-bootstrapper.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/requirejs/test/trig.unittests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/simple/Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/simple/test/arrays.unittests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/simple/test/browser.unittest.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/simple/test/empty.unittests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/simple/test/errors.unittests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/simple/test/useless.unittests.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/js-test.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: mocha
+Methods Called:
+   - reporters
+
+Library: lodash
+Methods Called:
+   - extend
+
+Library: path
+Methods Called:
+   - resolve
+   - join
+
+Library: ./lib/phantomjs
+Methods Called:
+   - phantomjsEventManager
+   - spawn
+
+------------------------------------------
+tasks/lib/coverage-reporters/istanbul.js
+------------------------------------------
+Library: minimatch
+Methods Called:
+   - Minimatch
+
+Library: fs
+Methods Called:
+   - readFile
+
+Library: path
+Methods Called:
+   - join
+   - extname
+
+Library: express
+Methods Called:
+   - main_method*
+
+Library: istanbul
+Methods Called:
+   - Instrumenter
+   - Collector
+   - Reporter
+
+------------------------------------------
+tasks/lib/coverage-reporters/jscover.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - exec
+
+Library: fs
+Methods Called:
+   - writeFile
+
+Library: path
+Methods Called:
+   - join
+
+Library: http
+Methods Called:
+   - createServer
+
+Library: request
+Methods Called:
+   - defaults
+
+Library: lodash
+Methods Called:
+   - merge
+
+------------------------------------------
+tasks/lib/findTests.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+   - basename
+   - dirname
+
+------------------------------------------
+tasks/lib/mocha-helpers.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/lib/normalize.js
+------------------------------------------
+Library: path
+Methods Called:
+   - normalize
+
+------------------------------------------
+tasks/lib/phantomjs-main.js
+------------------------------------------
+Library: webpage
+Methods Called:
+   - create
+
+Library: fs
+Methods Called:
+   - write
+
+Library: lodash
+Methods Called:
+   - merge
+
+------------------------------------------
+tasks/lib/phantomjs.js
+------------------------------------------
+Library: grunt-lib-phantomjs
+Methods Called:
+   - init
+
+Library: lodash
+Methods Called:
+   - map
+
+------------------------------------------
+tasks/lib/save.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/lib/server.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - mkdirSync
+   - readFileSync
+
+Library: path
+Methods Called:
+   - join
+   - dirname
+   - relative
+
+Library: lodash
+Methods Called:
+   - filter
+   - map
+
+Library: express
+Methods Called:
+   - main_method*
+   - static
+
+Library: body-parser
+Methods Called:
+   - text
+
+Library: request
+Methods Called:
+   - main_method*
+
+------------------------------------------
+tasks/lib/staticServer.js
+------------------------------------------
+Library: express
+Methods Called:
+   - main_method*
+   - static
+
+------------------------------------------
+tasks/lib/utils.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+   - mkdirSync
+   - readFileSync
+
+Library: path
+Methods Called:
+   - join
+   - dirname
+   - extname
+   - relative
+
+Library: moment
+Methods Called:
+   - main_method*
+
+------------------------------------------
+tests/referenceTags.unittests.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+views/deps/coverage.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+views/deps/iframes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+views/deps/jquery.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+views/deps/jscoverage.head.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+views/deps/jscoverage.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+views/deps/shared.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "path": {
+    "join": true,
+    "resolve": true,
+    "extname": true,
+    "basename": true,
+    "dirname": true,
+    "normalize": true,
+    "relative": true
+  },
+  "events": {
+    "EventEmitter": true
+  },
+  "mocha": {
+    "reporters": true
+  },
+  "lodash": {
+    "extend": true,
+    "merge": true,
+    "map": true,
+    "filter": true
+  },
+  "./lib/phantomjs": {
+    "phantomjsEventManager": true,
+    "spawn": true
+  },
+  "minimatch": {
+    "Minimatch": true
+  },
+  "fs": {
+    "readFile": true,
+    "writeFile": true,
+    "write": true,
+    "mkdirSync": true,
+    "readFileSync": true,
+    "existsSync": true
+  },
+  "express": {
+    "main_method*": true,
+    "static": true
+  },
+  "istanbul": {
+    "Instrumenter": true,
+    "Collector": true,
+    "Reporter": true
+  },
+  "child_process": {
+    "exec": true
+  },
+  "http": {
+    "createServer": true
+  },
+  "request": {
+    "defaults": true,
+    "main_method*": true
+  },
+  "webpage": {
+    "create": true
+  },
+  "grunt-lib-phantomjs": {
+    "init": true
+  },
+  "body-parser": {
+    "text": true
+  },
+  "moment": {
+    "main_method*": true
+  },
+  "assert": {
+    "main_method*": true
+  }
+}

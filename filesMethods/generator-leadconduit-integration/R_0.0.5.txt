@@ -1,0 +1,199 @@
+------------------------------------------
+app/dependencies.js
+------------------------------------------
+Library: npm
+Methods Called:
+   - commands
+   - load
+
+Library: async
+Methods Called:
+   - map
+
+------------------------------------------
+app/index.js
+------------------------------------------
+Library: underscore
+Methods Called:
+   - findWhere
+   - uniq
+   - flatten
+   - template
+
+Library: path
+Methods Called:
+   - join
+
+Library: underscore.string
+Methods Called:
+   - capitalize
+   - underscored
+
+Library: yeoman-generator
+Methods Called:
+   - generators
+
+Library: yosay
+Methods Called:
+   - main_method*
+
+Library: async
+Methods Called:
+   - each
+
+Library: faker
+Methods Called:
+   - internet
+
+Library: rimraf
+Methods Called:
+   - main_method*
+
+Library: shelljs
+Methods Called:
+   - exec
+
+------------------------------------------
+app/templates/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/templates/spec/inbound/requires/application-json.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/templates/spec/inbound/requires/application-x-www-form-urlencoded.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/templates/spec/outbound/requires/application-json.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/templates/spec/outbound/requires/application-x-www-form-urlencoded.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/templates/spec/outbound/requires/none.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/templates/spec/outbound/requires/text-xml.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/templates/src/inbound/requires/application-json.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/templates/src/inbound/requires/application-x-www-form-urlencoded.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/templates/src/outbound/requires/application-json.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/templates/src/outbound/requires/application-x-www-form-urlencoded.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/templates/src/outbound/requires/none.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/templates/src/outbound/requires/text-plain.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/templates/src/outbound/requires/text-xml.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/util.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+app/vars.js
+------------------------------------------
+Library: faker
+Methods Called:
+   - name
+   - internet
+   - phone
+   - address
+   - lorem
+
+------------------------------------------
+test/test-app.js
+------------------------------------------
+Library: yeoman-generator
+Methods Called:
+   - assert
+   - test
+
+Library: path
+Methods Called:
+   - join
+
+
+All of the Methods:
+{
+  "npm": {
+    "commands": true,
+    "load": true
+  },
+  "async": {
+    "map": true,
+    "each": true
+  },
+  "underscore": {
+    "findWhere": true,
+    "uniq": true,
+    "flatten": true,
+    "template": true
+  },
+  "path": {
+    "join": true
+  },
+  "underscore.string": {
+    "capitalize": true,
+    "underscored": true
+  },
+  "yeoman-generator": {
+    "generators": true,
+    "assert": true,
+    "test": true
+  },
+  "yosay": {
+    "main_method*": true
+  },
+  "faker": {
+    "internet": true,
+    "name": true,
+    "phone": true,
+    "address": true,
+    "lorem": true
+  },
+  "rimraf": {
+    "main_method*": true
+  },
+  "shelljs": {
+    "exec": true
+  }
+}

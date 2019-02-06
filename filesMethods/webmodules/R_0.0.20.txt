@@ -1,0 +1,5859 @@
+------------------------------------------
+bin/wpm.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+browser/index.js
+------------------------------------------
+Library: babel-standalone
+Methods Called:
+   - transform
+
+------------------------------------------
+examples/doubling/dist/app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/doubling/src/app.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: jquery
+Methods Called:
+   - main_method*
+
+------------------------------------------
+examples/doubling/webpack.config.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/runtime/lib/index.js
+------------------------------------------
+Library: express
+Methods Called:
+   - main_method*
+   - static
+
+------------------------------------------
+examples/runtime/public/js/app.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: jquery
+Methods Called:
+   - main_method*
+
+Library: react
+Methods Called:
+   - createClass
+   - createElement
+
+Library: react-dom
+Methods Called:
+   - render
+
+Library: babel
+Methods Called:
+   - transform
+
+------------------------------------------
+examples/runtime/public/js/custom.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/runtime/public/js/sub/sub.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+examples/runtime/public/js/test/es2015.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+examples/runtime/public/js/test/react.jsx
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token <
+------------------------------------------
+examples/simple/dist/app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/simple/src/app.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: jquery
+Methods Called:
+   - main_method*
+
+------------------------------------------
+examples/simple/webpack.config.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+
+Library: gulp-rename
+Methods Called:
+   - main_method*
+
+Library: gulp-uglify
+Methods Called:
+   - main_method*
+
+Library: gulp-rimraf
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/commands/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/commands/init.js
+------------------------------------------
+Library: fs-extra
+Methods Called:
+   - existsSync
+   - writeFileSync
+
+Library: path
+Methods Called:
+   - join
+   - parse
+
+Library: inquirer
+Methods Called:
+   - prompt
+
+Library: semver
+Methods Called:
+   - valid
+
+------------------------------------------
+lib/commands/install.js
+------------------------------------------
+Library: fs-extra
+Methods Called:
+   - existsSync
+   - readFileSync
+   - mkdirsSync
+   - writeFileSync
+
+Library: path
+Methods Called:
+   - join
+   - resolve
+
+Library: async
+Methods Called:
+   - eachSeries
+
+Library: semver
+Methods Called:
+   - validRange
+
+------------------------------------------
+lib/commands/uninstall.js
+------------------------------------------
+Library: fs-extra
+Methods Called:
+   - existsSync
+   - readFileSync
+   - removeSync
+   - writeFileSync
+
+Library: path
+Methods Called:
+   - join
+   - resolve
+
+Library: async
+Methods Called:
+   - eachSeries
+
+------------------------------------------
+lib/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/installer/bower.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+   - normalize
+
+Library: fs-extra
+Methods Called:
+   - removeSync
+   - existsSync
+   - mkdirSync
+   - writeFileSync
+   - renameSync
+
+Library: chalk
+Methods Called:
+   - green
+
+------------------------------------------
+lib/installer/jamjs.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/installer/jquery.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/installer/npm.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+   - normalize
+
+Library: fs-extra
+Methods Called:
+   - removeSync
+   - existsSync
+   - mkdirSync
+   - renameSync
+
+Library: npm
+Methods Called:
+   - load
+   - commands
+
+------------------------------------------
+lib/router/index.js
+------------------------------------------
+Library: fs-extra
+Methods Called:
+   - existsSync
+   - readFileSync
+
+Library: path
+Methods Called:
+   - join
+   - normalize
+
+Library: serve-static
+Methods Called:
+   - main_method*
+
+Library: finalhandler
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/babel-standalone/babel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/babel-standalone/babel.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/babel-standalone/gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+
+Library: gulp-rename
+Methods Called:
+   - main_method*
+
+Library: webpack
+Methods Called:
+   - DefinePlugin
+   - optimize
+
+Library: webpack-stream
+Methods Called:
+   - main_method*
+
+Library: gulp-uglify
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/babel-standalone/src/index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+node_modules/babel-standalone/test/babel-test.js
+------------------------------------------
+Library: expect.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/mock/buffer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/mock/console.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/mock/dns.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/mock/empty.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/mock/net.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/mock/process.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/mock/punycode.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/mock/tls.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/mock/tty.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/assert/assert.js
+------------------------------------------
+Library: util/
+Methods Called:
+   - inherits
+   - isUndefined
+   - isNumber
+   - isFunction
+   - isRegExp
+   - isString
+   - isBuffer
+   - isDate
+   - isObject
+   - isNullOrUndefined
+   - isPrimitive
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/assert/test.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/node_modules/pako/Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/node_modules/pako/dist/pako.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/node_modules/pako/dist/pako.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/node_modules/pako/dist/pako_deflate.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/node_modules/pako/dist/pako_deflate.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/node_modules/pako/dist/pako_inflate.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/node_modules/pako/dist/pako_inflate.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/node_modules/pako/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/node_modules/pako/lib/deflate.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/node_modules/pako/lib/inflate.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/node_modules/pako/lib/utils/common.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/node_modules/pako/lib/utils/strings.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/node_modules/pako/lib/zlib/adler32.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/node_modules/pako/lib/zlib/constants.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/node_modules/pako/lib/zlib/crc32.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/node_modules/pako/lib/zlib/deflate.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/node_modules/pako/lib/zlib/gzheader.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/node_modules/pako/lib/zlib/inffast.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/node_modules/pako/lib/zlib/inflate.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/node_modules/pako/lib/zlib/inftrees.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/node_modules/pako/lib/zlib/messages.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/node_modules/pako/lib/zlib/trees.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/node_modules/pako/lib/zlib/zstream.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/src/binding.js
+------------------------------------------
+Library: pako/lib/zlib/messages
+Methods Called:
+   - status
+
+Library: pako/lib/zlib/zstream
+Methods Called:
+   - main_method*
+
+Library: pako/lib/zlib/deflate.js
+Methods Called:
+   - deflateInit2
+   - deflate
+   - deflateEnd
+   - deflateReset
+
+Library: pako/lib/zlib/inflate.js
+Methods Called:
+   - inflateInit2
+   - inflate
+   - inflateEnd
+   - inflateReset
+
+Library: pako/lib/zlib/constants
+Methods Called:
+   - key
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/src/index.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - ok
+
+Library: _stream_transform
+Methods Called:
+   - call
+
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/test/ignored/test-zlib-dictionary-fail.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: zlib
+Methods Called:
+   - createInflate
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/test/ignored/test-zlib-dictionary.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+Library: zlib
+Methods Called:
+   - createDeflate
+   - createInflate
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/test/ignored/test-zlib-params.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - deepEqual
+
+Library: zlib
+Methods Called:
+   - Z_DEFAULT_STRATEGY
+   - createDeflate
+
+Library: path
+Methods Called:
+   - resolve
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/test/test-zlib-close-after-write.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/test/test-zlib-convenience-methods.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/test/test-zlib-from-string.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/test/test-zlib-invalid-input.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/test/test-zlib-random-byte-pipes.js
+------------------------------------------
+Library: crypto
+Methods Called:
+   - createHash
+
+Library: stream
+Methods Called:
+   - Stream
+
+Library: util
+Methods Called:
+   - inherits
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/test/test-zlib-write-after-flush.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/test/test-zlib-zero-byte.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/browserify-zlib/test/test-zlib.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: util
+Methods Called:
+   - inherits
+
+Library: stream
+Methods Called:
+   - Stream
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/bin/download-node-tests.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/bin/test.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/index.js
+------------------------------------------
+Library: base64-js
+Methods Called:
+   - fromByteArray
+   - toByteArray
+
+Library: ieee754
+Methods Called:
+   - read
+   - write
+
+Library: isarray
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/node_modules/base64-js/base64js.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/node_modules/base64-js/lib/b64.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/node_modules/base64-js/test/big-data.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/node_modules/base64-js/test/convert.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/node_modules/base64-js/test/url-safe.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/node_modules/ieee754/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/node_modules/ieee754/test/basic.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/node_modules/isarray/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/node_modules/isarray/test.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/test/_polyfill.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/test/base64.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/test/basic.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/test/compare.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/test/constructor.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/test/from-string.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/test/is-buffer.js
+------------------------------------------
+Library: is-buffer
+Methods Called:
+   - main_method*
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/test/methods.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/test/node-es6/test-buffer-arraybuffer.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - ok
+   - equal
+   - throws
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/test/node-es6/test-buffer-iterator.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - deepEqual
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/test/node/test-buffer-ascii.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/test/node/test-buffer-bytelength.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/test/node/test-buffer-concat.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+   - throws
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/test/node/test-buffer-indexof.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - throws
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/test/node/test-buffer-inspect.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - strictEqual
+   - doesNotThrow
+
+Library: util
+Methods Called:
+   - inspect
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/test/node/test-buffer.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - strictEqual
+   - throws
+   - equal
+   - deepEqual
+   - main_method*
+   - ok
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/test/slice.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/test/static.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/test/to-string.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/test/write.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: is-nan
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/buffer/test/write_infinity.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/console-browserify/index.js
+------------------------------------------
+Library: util
+Methods Called:
+   - format
+   - inspect
+
+Library: assert
+Methods Called:
+   - ok
+
+Library: date-now
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/console-browserify/node_modules/date-now/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/console-browserify/node_modules/date-now/seed.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/console-browserify/node_modules/date-now/test/index.js
+------------------------------------------
+Library: timers
+Methods Called:
+   - setTimeout
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/console-browserify/test/index.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/console-browserify/test/static/test-adapter.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/constants-browserify/test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - deepEqual
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/example/bundle.js
+------------------------------------------
+Library: crypto
+Methods Called:
+   - createHash
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/example/test.js
+------------------------------------------
+Library: crypto
+Methods Called:
+   - createHash
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/index.js
+------------------------------------------
+Library: pbkdf2
+Methods Called:
+   - pbkdf2
+   - pbkdf2Sync
+
+Library: browserify-cipher
+Methods Called:
+   - key
+
+Library: diffie-hellman
+Methods Called:
+   - key
+
+Library: browserify-sign
+Methods Called:
+   - key
+
+Library: public-encrypt
+Methods Called:
+   - key
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/browser.js
+------------------------------------------
+Library: evp_bytestokey
+Methods Called:
+   - main_method*
+
+Library: browserify-aes/browser
+Methods Called:
+   - createCipheriv
+   - createDecipheriv
+   - getCiphers
+
+Library: browserify-des
+Methods Called:
+   - main_method*
+
+Library: browserify-des/modes
+Methods Called:
+   - suite
+
+Library: browserify-aes/modes
+Methods Called:
+   - suite
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/index.js
+------------------------------------------
+Library: crypto
+Methods Called:
+   - createCipher
+   - createCipheriv
+   - createDecipher
+   - createDecipheriv
+   - getCiphers
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-aes/aes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-aes/authCipher.js
+------------------------------------------
+Library: cipher-base
+Methods Called:
+   - call
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+Library: buffer-xor
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-aes/browser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-aes/decrypter.js
+------------------------------------------
+Library: cipher-base
+Methods Called:
+   - call
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+Library: evp_bytestokey
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-aes/encrypter.js
+------------------------------------------
+Library: cipher-base
+Methods Called:
+   - call
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+Library: evp_bytestokey
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-aes/ghash.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-aes/index.js
+------------------------------------------
+Library: crypto
+Methods Called:
+   - createCipher
+   - createCipheriv
+   - createDecipher
+   - createDecipheriv
+   - getCiphers
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-aes/modes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-aes/modes/cbc.js
+------------------------------------------
+Library: buffer-xor
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-aes/modes/cfb.js
+------------------------------------------
+Library: buffer-xor
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-aes/modes/cfb1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-aes/modes/cfb8.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-aes/modes/ctr.js
+------------------------------------------
+Library: buffer-xor
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-aes/modes/ecb.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-aes/modes/ofb.js
+------------------------------------------
+Library: buffer-xor
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-aes/node_modules/buffer-xor/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-aes/node_modules/buffer-xor/inline.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-aes/node_modules/buffer-xor/inplace.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-aes/node_modules/buffer-xor/test/index.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-aes/node_modules/cipher-base/index.js
+------------------------------------------
+Library: stream
+Methods Called:
+   - Transform
+
+Library: string_decoder
+Methods Called:
+   - StringDecoder
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-aes/node_modules/cipher-base/test.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-aes/populateFixtures.js
+------------------------------------------
+Library: crypto
+Methods Called:
+   - createCipher
+   - createCipheriv
+
+Library: fs
+Methods Called:
+   - writeFileSync
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-aes/streamCipher.js
+------------------------------------------
+Library: cipher-base
+Methods Called:
+   - call
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-des/index.js
+------------------------------------------
+Library: cipher-base
+Methods Called:
+   - call
+
+Library: des.js
+Methods Called:
+   - CBC
+   - EDE
+   - DES
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-des/modes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-des/node_modules/cipher-base/index.js
+------------------------------------------
+Library: stream
+Methods Called:
+   - Transform
+
+Library: string_decoder
+Methods Called:
+   - StringDecoder
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-des/node_modules/cipher-base/test.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-des/node_modules/des.js/lib/des.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-des/node_modules/des.js/lib/des/cbc.js
+------------------------------------------
+Library: minimalistic-assert
+Methods Called:
+   - equal
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-des/node_modules/des.js/lib/des/cipher.js
+------------------------------------------
+Library: minimalistic-assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-des/node_modules/des.js/lib/des/des.js
+------------------------------------------
+Library: minimalistic-assert
+Methods Called:
+   - equal
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-des/node_modules/des.js/lib/des/ede.js
+------------------------------------------
+Library: minimalistic-assert
+Methods Called:
+   - equal
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-des/node_modules/des.js/lib/des/utils.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-des/node_modules/des.js/node_modules/minimalistic-assert/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-des/node_modules/des.js/test/cbc-test.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: assert
+Methods Called:
+   - deepEqual
+
+Library: crypto
+Methods Called:
+   - createCipheriv
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-des/node_modules/des.js/test/des-test.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: assert
+Methods Called:
+   - deepEqual
+
+Library: crypto
+Methods Called:
+   - createCipheriv
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-des/node_modules/des.js/test/ede-test.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: assert
+Methods Called:
+   - deepEqual
+
+Library: crypto
+Methods Called:
+   - createCipheriv
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-des/node_modules/des.js/test/fixtures.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-des/node_modules/des.js/test/utils-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - deepEqual
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/browserify-des/test.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: crypto
+Methods Called:
+   - randomBytes
+   - createCipheriv
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/evp_bytestokey/index.js
+------------------------------------------
+Library: create-hash/md5
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/node_modules/evp_bytestokey/test.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: crypto
+Methods Called:
+   - createCipher
+   - createCipheriv
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-cipher/test.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: crypto
+Methods Called:
+   - randomBytes
+   - createCipheriv
+
+Library: browserify-des/modes
+Methods Called:
+   - modeName
+
+Library: browserify-aes/modes
+Methods Called:
+   - modeName
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/algos.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/browser.js
+------------------------------------------
+Library: create-hash
+Methods Called:
+   - main_method*
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+Library: stream
+Methods Called:
+   - Writable
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/curves.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/index.js
+------------------------------------------
+Library: crypto
+Methods Called:
+   - createSign
+   - Sign
+   - createVerify
+   - Verify
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/bn.js/lib/bn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/bn.js/test/arithmetic-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - throws
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/bn.js/test/binary-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/bn.js/test/constructor-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - throws
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/bn.js/test/fixtures.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/bn.js/test/pummel/dh-group-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/bn.js/test/red-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - main_method*
+   - doesNotThrow
+   - throws
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/bn.js/test/utils-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - deepEqual
+   - throws
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/bn.js/util/genCombMulTo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/bn.js/util/genCombMulTo10.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/browserify-rsa/index.js
+------------------------------------------
+Library: bn.js
+Methods Called:
+   - mont
+   - main_method*
+
+Library: randombytes
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/browserify-rsa/test.js
+------------------------------------------
+Library: parse-asn1
+Methods Called:
+   - main_method*
+
+Library: crypto
+Methods Called:
+   - randomBytes
+   - privateDecrypt
+
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: constants
+Methods Called:
+   - RSA_NO_PADDING
+
+Library: bn.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/lib/elliptic.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/lib/elliptic/curve/base.js
+------------------------------------------
+Library: bn.js
+Methods Called:
+   - main_method*
+   - red
+   - mont
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/lib/elliptic/curve/edwards.js
+------------------------------------------
+Library: bn.js
+Methods Called:
+   - main_method*
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/lib/elliptic/curve/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/lib/elliptic/curve/mont.js
+------------------------------------------
+Library: bn.js
+Methods Called:
+   - main_method*
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/lib/elliptic/curve/short.js
+------------------------------------------
+Library: bn.js
+Methods Called:
+   - main_method*
+   - mont
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/lib/elliptic/curves.js
+------------------------------------------
+Library: hash.js
+Methods Called:
+   - sha256
+   - sha384
+   - sha512
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/lib/elliptic/ec/index.js
+------------------------------------------
+Library: bn.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/lib/elliptic/ec/key.js
+------------------------------------------
+Library: bn.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/lib/elliptic/ec/signature.js
+------------------------------------------
+Library: bn.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/lib/elliptic/eddsa/index.js
+------------------------------------------
+Library: hash.js
+Methods Called:
+   - sha512
+   - update
+   - digest
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/lib/elliptic/eddsa/key.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/lib/elliptic/eddsa/signature.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/lib/elliptic/hmac-drbg.js
+------------------------------------------
+Library: hash.js
+Methods Called:
+   - hmac
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/lib/elliptic/precomputed/secp256k1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/lib/elliptic/utils.js
+------------------------------------------
+Library: bn.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/node_modules/brorand/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/node_modules/brorand/test/api-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/node_modules/hash.js/lib/hash.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/node_modules/hash.js/lib/hash/common.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/node_modules/hash.js/lib/hash/hmac.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/node_modules/hash.js/lib/hash/ripemd.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/node_modules/hash.js/lib/hash/sha.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/node_modules/hash.js/lib/hash/utils.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/node_modules/hash.js/test/hash-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/elliptic/node_modules/hash.js/test/hmac-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/asn1.js
+------------------------------------------
+Library: asn1.js
+Methods Called:
+   - define
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/fixProc.js
+------------------------------------------
+Library: evp_bytestokey
+Methods Called:
+   - main_method*
+
+Library: browserify-aes
+Methods Called:
+   - createDecipheriv
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/index.js
+------------------------------------------
+Library: browserify-aes
+Methods Called:
+   - createDecipheriv
+
+Library: pbkdf2
+Methods Called:
+   - pbkdf2Sync
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/api.js
+------------------------------------------
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/base/buffer.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/base/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/base/node.js
+------------------------------------------
+Library: minimalistic-assert
+Methods Called:
+   - main_method*
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/base/reporter.js
+------------------------------------------
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/constants/der.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/constants/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/decoders/der.js
+------------------------------------------
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/decoders/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/decoders/pem.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/encoders/der.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/encoders/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/encoders/pem.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/node_modules/minimalistic-assert/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/rfc/2560/index.js
+------------------------------------------
+Library: asn1.js
+Methods Called:
+   - define
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/rfc/2560/test/basic-test.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/rfc/5280/index.js
+------------------------------------------
+Library: asn1.js
+Methods Called:
+   - define
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/rfc/5280/test/basic-test.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: assert
+Methods Called:
+   - equal
+   - deepEqual
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/test/der-decode-test.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: assert
+Methods Called:
+   - equal
+   - deepEqual
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/test/der-encode-test.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: assert
+Methods Called:
+   - equal
+   - deepEqual
+
+Library: bn.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/test/error-test.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: assert
+Methods Called:
+   - throws
+   - main_method*
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/test/fixtures.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - deepEqual
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/test/pem-test.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: assert
+Methods Called:
+   - equal
+
+Library: bn.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/test/ping-pong-test.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/test/use-test.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/browserify-aes/aes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/browserify-aes/authCipher.js
+------------------------------------------
+Library: cipher-base
+Methods Called:
+   - call
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+Library: buffer-xor
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/browserify-aes/browser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/browserify-aes/decrypter.js
+------------------------------------------
+Library: cipher-base
+Methods Called:
+   - call
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+Library: evp_bytestokey
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/browserify-aes/encrypter.js
+------------------------------------------
+Library: cipher-base
+Methods Called:
+   - call
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+Library: evp_bytestokey
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/browserify-aes/ghash.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/browserify-aes/index.js
+------------------------------------------
+Library: crypto
+Methods Called:
+   - createCipher
+   - createCipheriv
+   - createDecipher
+   - createDecipheriv
+   - getCiphers
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/browserify-aes/modes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/browserify-aes/modes/cbc.js
+------------------------------------------
+Library: buffer-xor
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/browserify-aes/modes/cfb.js
+------------------------------------------
+Library: buffer-xor
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/browserify-aes/modes/cfb1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/browserify-aes/modes/cfb8.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/browserify-aes/modes/ctr.js
+------------------------------------------
+Library: buffer-xor
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/browserify-aes/modes/ecb.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/browserify-aes/modes/ofb.js
+------------------------------------------
+Library: buffer-xor
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/browserify-aes/node_modules/buffer-xor/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/browserify-aes/node_modules/buffer-xor/inline.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/browserify-aes/node_modules/buffer-xor/inplace.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/browserify-aes/node_modules/buffer-xor/test/index.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/browserify-aes/node_modules/cipher-base/index.js
+------------------------------------------
+Library: stream
+Methods Called:
+   - Transform
+
+Library: string_decoder
+Methods Called:
+   - StringDecoder
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/browserify-aes/node_modules/cipher-base/test.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/browserify-aes/populateFixtures.js
+------------------------------------------
+Library: crypto
+Methods Called:
+   - createCipher
+   - createCipheriv
+
+Library: fs
+Methods Called:
+   - writeFileSync
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/browserify-aes/streamCipher.js
+------------------------------------------
+Library: cipher-base
+Methods Called:
+   - call
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/evp_bytestokey/index.js
+------------------------------------------
+Library: create-hash/md5
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/evp_bytestokey/test.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: crypto
+Methods Called:
+   - createCipher
+   - createCipheriv
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/test/index.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/test/vector.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/sign.js
+------------------------------------------
+Library: create-hmac
+Methods Called:
+   - main_method*
+
+Library: browserify-rsa
+Methods Called:
+   - main_method*
+
+Library: elliptic
+Methods Called:
+   - ec
+
+Library: parse-asn1
+Methods Called:
+   - main_method*
+
+Library: bn.js
+Methods Called:
+   - main_method*
+   - mont
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/browserify-sign/verify.js
+------------------------------------------
+Library: elliptic
+Methods Called:
+   - ec
+
+Library: parse-asn1
+Methods Called:
+   - main_method*
+   - signature
+
+Library: bn.js
+Methods Called:
+   - mont
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/browser.js
+------------------------------------------
+Library: elliptic
+Methods Called:
+   - ec
+
+Library: bn.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/index.js
+------------------------------------------
+Library: crypto
+Methods Called:
+   - createECDH
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/bn.js/lib/bn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/bn.js/test/arithmetic-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - throws
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/bn.js/test/binary-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/bn.js/test/constructor-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - throws
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/bn.js/test/fixtures.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/bn.js/test/pummel/dh-group-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/bn.js/test/red-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - main_method*
+   - doesNotThrow
+   - throws
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/bn.js/test/utils-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - deepEqual
+   - throws
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/bn.js/util/genCombMulTo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/bn.js/util/genCombMulTo10.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/lib/elliptic.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/lib/elliptic/curve/base.js
+------------------------------------------
+Library: bn.js
+Methods Called:
+   - main_method*
+   - red
+   - mont
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/lib/elliptic/curve/edwards.js
+------------------------------------------
+Library: bn.js
+Methods Called:
+   - main_method*
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/lib/elliptic/curve/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/lib/elliptic/curve/mont.js
+------------------------------------------
+Library: bn.js
+Methods Called:
+   - main_method*
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/lib/elliptic/curve/short.js
+------------------------------------------
+Library: bn.js
+Methods Called:
+   - main_method*
+   - mont
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/lib/elliptic/curves.js
+------------------------------------------
+Library: hash.js
+Methods Called:
+   - sha256
+   - sha384
+   - sha512
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/lib/elliptic/ec/index.js
+------------------------------------------
+Library: bn.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/lib/elliptic/ec/key.js
+------------------------------------------
+Library: bn.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/lib/elliptic/ec/signature.js
+------------------------------------------
+Library: bn.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/lib/elliptic/eddsa/index.js
+------------------------------------------
+Library: hash.js
+Methods Called:
+   - sha512
+   - update
+   - digest
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/lib/elliptic/eddsa/key.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/lib/elliptic/eddsa/signature.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/lib/elliptic/hmac-drbg.js
+------------------------------------------
+Library: hash.js
+Methods Called:
+   - hmac
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/lib/elliptic/precomputed/secp256k1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/lib/elliptic/utils.js
+------------------------------------------
+Library: bn.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/node_modules/brorand/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/node_modules/brorand/test/api-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/node_modules/hash.js/lib/hash.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/node_modules/hash.js/lib/hash/common.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/node_modules/hash.js/lib/hash/hmac.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/node_modules/hash.js/lib/hash/ripemd.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/node_modules/hash.js/lib/hash/sha.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/node_modules/hash.js/lib/hash/utils.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/node_modules/hash.js/test/hash-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-ecdh/node_modules/elliptic/node_modules/hash.js/test/hmac-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-hash/browser.js
+------------------------------------------
+Library: inherits
+Methods Called:
+   - main_method*
+
+Library: sha.js
+Methods Called:
+   - main_method*
+
+Library: cipher-base
+Methods Called:
+   - call
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-hash/helpers.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-hash/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-hash/md5.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-hash/node_modules/cipher-base/index.js
+------------------------------------------
+Library: stream
+Methods Called:
+   - Transform
+
+Library: string_decoder
+Methods Called:
+   - StringDecoder
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-hash/node_modules/cipher-base/test.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-hash/node_modules/ripemd160/lib/ripemd160.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-hash/node_modules/sha.js/bin.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-hash/node_modules/sha.js/hash.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-hash/node_modules/sha.js/hexpp.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-hash/node_modules/sha.js/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-hash/node_modules/sha.js/sha.js
+------------------------------------------
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-hash/node_modules/sha.js/sha1.js
+------------------------------------------
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-hash/node_modules/sha.js/sha224.js
+------------------------------------------
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-hash/node_modules/sha.js/sha256.js
+------------------------------------------
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-hash/node_modules/sha.js/sha384.js
+------------------------------------------
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-hash/node_modules/sha.js/sha512.js
+------------------------------------------
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-hash/node_modules/sha.js/test/hash.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-hash/node_modules/sha.js/test/test.js
+------------------------------------------
+Library: crypto
+Methods Called:
+   - createHash
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-hash/node_modules/sha.js/test/vectors.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: hash-test-vectors
+Methods Called:
+   - i
+   - forEach
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-hash/test.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: hash-test-vectors
+Methods Called:
+   - forEach
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-hmac/browser.js
+------------------------------------------
+Library: stream
+Methods Called:
+   - Transform
+
+Library: create-hash/browser
+Methods Called:
+   - main_method*
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-hmac/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/create-hmac/test.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: hash-test-vectors/hmac
+Methods Called:
+   - forEach
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/diffie-hellman/browser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/diffie-hellman/index.js
+------------------------------------------
+Library: crypto
+Methods Called:
+   - DiffieHellmanGroup
+   - createDiffieHellmanGroup
+   - getDiffieHellman
+   - createDiffieHellman
+   - DiffieHellman
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/diffie-hellman/lib/dh.js
+------------------------------------------
+Library: bn.js
+Methods Called:
+   - main_method*
+   - mont
+
+Library: miller-rabin
+Methods Called:
+   - main_method*
+
+Library: randombytes
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/diffie-hellman/lib/generatePrime.js
+------------------------------------------
+Library: randombytes
+Methods Called:
+   - main_method*
+
+Library: bn.js
+Methods Called:
+   - main_method*
+   - mont
+
+Library: miller-rabin
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/diffie-hellman/node_modules/bn.js/lib/bn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/diffie-hellman/node_modules/bn.js/test/arithmetic-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - throws
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/diffie-hellman/node_modules/bn.js/test/binary-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/diffie-hellman/node_modules/bn.js/test/constructor-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - throws
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/diffie-hellman/node_modules/bn.js/test/fixtures.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/diffie-hellman/node_modules/bn.js/test/pummel/dh-group-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/diffie-hellman/node_modules/bn.js/test/red-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - main_method*
+   - doesNotThrow
+   - throws
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/diffie-hellman/node_modules/bn.js/test/utils-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - deepEqual
+   - throws
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/diffie-hellman/node_modules/bn.js/util/genCombMulTo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/diffie-hellman/node_modules/bn.js/util/genCombMulTo10.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/diffie-hellman/node_modules/miller-rabin/lib/mr.js
+------------------------------------------
+Library: bn.js
+Methods Called:
+   - main_method*
+   - mont
+
+Library: brorand
+Methods Called:
+   - Rand
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/diffie-hellman/node_modules/miller-rabin/node_modules/brorand/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/diffie-hellman/node_modules/miller-rabin/node_modules/brorand/test/api-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/diffie-hellman/node_modules/miller-rabin/test/api-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: bn.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/inherits/inherits.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/inherits/inherits_browser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/inherits/test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/pbkdf2/async-shim.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/pbkdf2/browser.js
+------------------------------------------
+Library: create-hmac
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/pbkdf2/index.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - fork
+
+Library: crypto
+Methods Called:
+   - pbkdf2Sync
+   - pbkdf2
+
+Library: path
+Methods Called:
+   - resolve
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/pbkdf2/test/index.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - throws
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/browser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/index.js
+------------------------------------------
+Library: crypto
+Methods Called:
+   - publicEncrypt
+   - privateDecrypt
+   - privateEncrypt
+   - publicDecrypt
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/mgf.js
+------------------------------------------
+Library: create-hash
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/bn.js/lib/bn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/bn.js/test/arithmetic-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - throws
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/bn.js/test/binary-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/bn.js/test/constructor-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - throws
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/bn.js/test/fixtures.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/bn.js/test/pummel/dh-group-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/bn.js/test/red-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - main_method*
+   - doesNotThrow
+   - throws
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/bn.js/test/utils-test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - deepEqual
+   - throws
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/bn.js/util/genCombMulTo.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/bn.js/util/genCombMulTo10.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/browserify-rsa/index.js
+------------------------------------------
+Library: bn.js
+Methods Called:
+   - mont
+   - main_method*
+
+Library: randombytes
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/browserify-rsa/test.js
+------------------------------------------
+Library: parse-asn1
+Methods Called:
+   - main_method*
+
+Library: crypto
+Methods Called:
+   - randomBytes
+   - privateDecrypt
+
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: constants
+Methods Called:
+   - RSA_NO_PADDING
+
+Library: bn.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/asn1.js
+------------------------------------------
+Library: asn1.js
+Methods Called:
+   - define
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/fixProc.js
+------------------------------------------
+Library: evp_bytestokey
+Methods Called:
+   - main_method*
+
+Library: browserify-aes
+Methods Called:
+   - createDecipheriv
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/index.js
+------------------------------------------
+Library: browserify-aes
+Methods Called:
+   - createDecipheriv
+
+Library: pbkdf2
+Methods Called:
+   - pbkdf2Sync
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/api.js
+------------------------------------------
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/base/buffer.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/base/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/base/node.js
+------------------------------------------
+Library: minimalistic-assert
+Methods Called:
+   - main_method*
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/base/reporter.js
+------------------------------------------
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/constants/der.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/constants/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/decoders/der.js
+------------------------------------------
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/decoders/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/decoders/pem.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/encoders/der.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/encoders/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/encoders/pem.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/node_modules/minimalistic-assert/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/rfc/2560/index.js
+------------------------------------------
+Library: asn1.js
+Methods Called:
+   - define
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/rfc/2560/test/basic-test.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/rfc/5280/index.js
+------------------------------------------
+Library: asn1.js
+Methods Called:
+   - define
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/rfc/5280/test/basic-test.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: assert
+Methods Called:
+   - equal
+   - deepEqual
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/test/der-decode-test.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: assert
+Methods Called:
+   - equal
+   - deepEqual
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/test/der-encode-test.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: assert
+Methods Called:
+   - equal
+   - deepEqual
+
+Library: bn.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/test/error-test.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: assert
+Methods Called:
+   - throws
+   - main_method*
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/test/fixtures.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - deepEqual
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/test/pem-test.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: assert
+Methods Called:
+   - equal
+
+Library: bn.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/test/ping-pong-test.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/test/use-test.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/browserify-aes/aes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/browserify-aes/authCipher.js
+------------------------------------------
+Library: cipher-base
+Methods Called:
+   - call
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+Library: buffer-xor
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/browserify-aes/browser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/browserify-aes/decrypter.js
+------------------------------------------
+Library: cipher-base
+Methods Called:
+   - call
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+Library: evp_bytestokey
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/browserify-aes/encrypter.js
+------------------------------------------
+Library: cipher-base
+Methods Called:
+   - call
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+Library: evp_bytestokey
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/browserify-aes/ghash.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/browserify-aes/index.js
+------------------------------------------
+Library: crypto
+Methods Called:
+   - createCipher
+   - createCipheriv
+   - createDecipher
+   - createDecipheriv
+   - getCiphers
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/browserify-aes/modes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/browserify-aes/modes/cbc.js
+------------------------------------------
+Library: buffer-xor
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/browserify-aes/modes/cfb.js
+------------------------------------------
+Library: buffer-xor
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/browserify-aes/modes/cfb1.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/browserify-aes/modes/cfb8.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/browserify-aes/modes/ctr.js
+------------------------------------------
+Library: buffer-xor
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/browserify-aes/modes/ecb.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/browserify-aes/modes/ofb.js
+------------------------------------------
+Library: buffer-xor
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/browserify-aes/node_modules/buffer-xor/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/browserify-aes/node_modules/buffer-xor/inline.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/browserify-aes/node_modules/buffer-xor/inplace.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/browserify-aes/node_modules/buffer-xor/test/index.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/browserify-aes/node_modules/cipher-base/index.js
+------------------------------------------
+Library: stream
+Methods Called:
+   - Transform
+
+Library: string_decoder
+Methods Called:
+   - StringDecoder
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/browserify-aes/node_modules/cipher-base/test.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/browserify-aes/populateFixtures.js
+------------------------------------------
+Library: crypto
+Methods Called:
+   - createCipher
+   - createCipheriv
+
+Library: fs
+Methods Called:
+   - writeFileSync
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/browserify-aes/streamCipher.js
+------------------------------------------
+Library: cipher-base
+Methods Called:
+   - call
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/evp_bytestokey/index.js
+------------------------------------------
+Library: create-hash/md5
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/evp_bytestokey/test.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: crypto
+Methods Called:
+   - createCipher
+   - createCipheriv
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/test/index.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/test/vector.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/privateDecrypt.js
+------------------------------------------
+Library: parse-asn1
+Methods Called:
+   - main_method*
+
+Library: bn.js
+Methods Called:
+   - main_method*
+
+Library: browserify-rsa
+Methods Called:
+   - main_method*
+
+Library: create-hash
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/publicEncrypt.js
+------------------------------------------
+Library: parse-asn1
+Methods Called:
+   - main_method*
+
+Library: randombytes
+Methods Called:
+   - main_method*
+
+Library: create-hash
+Methods Called:
+   - main_method*
+
+Library: bn.js
+Methods Called:
+   - main_method*
+
+Library: browserify-rsa
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/test/index.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: parse-asn1
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/test/nodeTests.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/withPublic.js
+------------------------------------------
+Library: bn.js
+Methods Called:
+   - mont
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/public-encrypt/xor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/randombytes/browser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/randombytes/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/randombytes/test.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/test/aes.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: browserify-cipher/browser
+Methods Called:
+   - listCiphers
+   - createCipher
+   - createDecipher
+   - getCiphers
+
+Library: pseudorandombytes
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/test/create-hash.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: hash-test-vectors
+Methods Called:
+   - length
+   - i
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/test/create-hmac.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: hash-test-vectors/hmac
+Methods Called:
+   - length
+   - i
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/test/dh.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: diffie-hellman/browser
+Methods Called:
+   - getDiffieHellman
+   - createDiffieHellman
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/test/ecdh.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: create-ecdh/browser
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/test/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/test/node/dh.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: crypto
+Methods Called:
+   - getDiffieHellman
+   - createDiffieHellman
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/test/pbkdf2.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: pbkdf2/browser
+Methods Called:
+   - pbkdf2Sync
+
+Library: hash-test-vectors/pbkdf2
+Methods Called:
+   - forEach
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/test/public-encrypt.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: public-encrypt/browser
+Methods Called:
+   - privateDecrypt
+   - publicEncrypt
+   - privateEncrypt
+   - publicDecrypt
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/test/random-bytes.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: randombytes
+Methods Called:
+   - randomBytesName
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/crypto-browserify/test/sign.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: browserify-sign/browser
+Methods Called:
+   - createSign
+   - createVerify
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/domain-browser/.eslintrc.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/domain-browser/index.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/domain-browser/test.js
+------------------------------------------
+Library: assert-helpers
+Methods Called:
+   - equal
+
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: joe
+Methods Called:
+   - describe
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/events/events.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/events/tests/add-listeners.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - deepEqual
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/events/tests/check-listener-leaks.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - ok
+   - strictEqual
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/events/tests/common.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/events/tests/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/events/tests/legacy-compat.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/events/tests/listener-count.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - strictEqual
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/events/tests/listeners-side-effects.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+   - deepEqual
+   - fail
+   - ok
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/events/tests/listeners.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - deepEqual
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/events/tests/max-listeners.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - throws
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/events/tests/modify-in-emit.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - deepEqual
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/events/tests/num-args.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - deepEqual
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/events/tests/once.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - fail
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/events/tests/remove-all-listeners.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - deepEqual
+   - notEqual
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/events/tests/remove-listeners.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+   - equal
+   - deepEqual
+   - fail
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/events/tests/set-max-listeners-side-effects.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - deepEqual
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/events/tests/subclass.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - throws
+   - main_method*
+   - deepEqual
+
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/http-browserify/example/get/main.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/http-browserify/example/get/server.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+Library: ecstatic
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/http-browserify/example/headers/main.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/http-browserify/example/headers/server.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+Library: ecstatic
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/http-browserify/example/post/main.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/http-browserify/example/post/server.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+Library: ecstatic
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/http-browserify/example/streaming/main.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/http-browserify/example/streaming/server.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+Library: ecstatic
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/http-browserify/index.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: url
+Methods Called:
+   - parse
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/http-browserify/lib/request.js
+------------------------------------------
+Library: Base64
+Methods Called:
+   - btoa
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/http-browserify/lib/response.js
+------------------------------------------
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/http-browserify/node_modules/Base64/base64.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/http-browserify/node_modules/Base64/base64.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/http-browserify/node_modules/inherits/inherits.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/http-browserify/node_modules/inherits/inherits_browser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/http-browserify/node_modules/inherits/test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/http-browserify/test/request_url.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - test
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/https-browserify/index.js
+------------------------------------------
+Library: http
+Methods Called:
+   - hasOwnProperty
+   - key
+   - request
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/os-browserify/browser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/os-browserify/main.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/path-browserify/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/process/browser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/process/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/process/test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/punycode/punycode.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/querystring-es3/decode.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/querystring-es3/encode.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/querystring-es3/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/querystring-es3/test/common-index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/querystring-es3/test/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/querystring-es3/test/tap-index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/duplex.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/lib/_stream_duplex.js
+------------------------------------------
+Library: process-nextick-args
+Methods Called:
+   - main_method*
+
+Library: core-util-is
+Methods Called:
+   - inherits
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/lib/_stream_passthrough.js
+------------------------------------------
+Library: core-util-is
+Methods Called:
+   - inherits
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/lib/_stream_readable.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: process-nextick-args
+Methods Called:
+   - main_method*
+
+Library: isarray
+Methods Called:
+   - main_method*
+
+Library: core-util-is
+Methods Called:
+   - inherits
+
+Library: util
+Methods Called:
+   - debuglog
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/lib/_stream_transform.js
+------------------------------------------
+Library: core-util-is
+Methods Called:
+   - inherits
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/lib/_stream_writable.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: process-nextick-args
+Methods Called:
+   - main_method*
+
+Library: core-util-is
+Methods Called:
+   - inherits
+
+Library: util-deprecate
+Methods Called:
+   - deprecate
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/core-util-is/lib/util.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/core-util-is/test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inherits/inherits.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inherits/inherits_browser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inherits/test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/index.js
+------------------------------------------
+Library: through2
+Methods Called:
+   - main_method*
+
+Library: falafel
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/example/array.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/example/keyword.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/example/prompt.js
+------------------------------------------
+Library: vm
+Methods Called:
+   - runInNewContext
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/index.js
+------------------------------------------
+Library: acorn
+Methods Called:
+   - parse
+
+Library: isarray
+Methods Called:
+   - main_method*
+
+Library: object-keys
+Methods Called:
+   - main_method*
+
+Library: foreach
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/bin/build-acorn.js
+------------------------------------------
+Library: babelify
+Methods Called:
+   - configure
+
+Library: fs
+Methods Called:
+   - createWriteStream
+
+Library: stream
+Methods Called:
+   - Transform
+
+Library: browserify
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/bin/generate-identifier-regex.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/dist/acorn.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/dist/acorn_csp.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/dist/acorn_loose.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/dist/walk.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/src/expression.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 19: Unexpected token
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/src/identifier.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 51: Unexpected token
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/src/index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 22: Unexpected token
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/src/location.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/src/loose/acorn_loose.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/src/loose/expression.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/src/loose/index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 32: Unexpected token
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/src/loose/parseutil.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/src/loose/state.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/src/loose/statement.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/src/loose/tokenize.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/src/lval.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/src/node.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/src/options.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/src/parseutil.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/src/state.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/src/statement.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/src/tokencontext.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/src/tokenize.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/src/tokentype.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 19: Unexpected token
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/src/util.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/src/walk/index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 19: Unexpected token
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/acorn/src/whitespace.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 4: Unexpected token
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/foreach/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/foreach/test.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/isarray/build/build.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/isarray/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/object-keys/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/object-keys/isArguments.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/node_modules/object-keys/test/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/test/array.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/test/async.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/test/bin/run.js
+------------------------------------------
+Library: path
+Methods Called:
+   - resolve
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/test/custom-parser.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/test/es6.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/test/for.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/test/inspect.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/test/opts.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/falafel/test/parent.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/through2/node_modules/readable-stream/duplex.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/through2/node_modules/readable-stream/lib/_stream_duplex.js
+------------------------------------------
+Library: core-util-is
+Methods Called:
+   - inherits
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/through2/node_modules/readable-stream/lib/_stream_passthrough.js
+------------------------------------------
+Library: core-util-is
+Methods Called:
+   - inherits
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/through2/node_modules/readable-stream/lib/_stream_readable.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: isarray
+Methods Called:
+   - main_method*
+
+Library: stream
+Methods Called:
+   - call
+   - prototype
+
+Library: core-util-is
+Methods Called:
+   - inherits
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/through2/node_modules/readable-stream/lib/_stream_transform.js
+------------------------------------------
+Library: core-util-is
+Methods Called:
+   - inherits
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/through2/node_modules/readable-stream/lib/_stream_writable.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: core-util-is
+Methods Called:
+   - inherits
+
+Library: stream
+Methods Called:
+   - call
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/through2/node_modules/readable-stream/node_modules/isarray/build/build.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/through2/node_modules/readable-stream/node_modules/isarray/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/through2/node_modules/readable-stream/passthrough.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/through2/node_modules/readable-stream/readable.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/through2/node_modules/readable-stream/transform.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/through2/node_modules/readable-stream/writable.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/through2/node_modules/xtend/immutable.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/through2/node_modules/xtend/mutable.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/through2/node_modules/xtend/test.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/inline-process-browser/node_modules/through2/through2.js
+------------------------------------------
+Library: readable-stream/transform
+Methods Called:
+   - call
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/isarray/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/isarray/test.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/process-nextick-args/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/process-nextick-args/test.js
+------------------------------------------
+Library: tap
+Methods Called:
+   - test
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/index.js
+------------------------------------------
+Library: recast
+Methods Called:
+   - parse
+   - print
+
+Library: stream
+Methods Called:
+   - Transform
+   - PassThrough
+
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/esmangle-evaluator/common.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/esmangle-evaluator/evaluator.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/lib/comments.js
+------------------------------------------
+Library: private
+Methods Called:
+   - makeUniqueKey
+
+Library: assert
+Methods Called:
+   - strictEqual
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/lib/fast-path.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - ok
+   - strictEqual
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/lib/lines.js
+------------------------------------------
+Library: private
+Methods Called:
+   - makeUniqueKey
+
+Library: assert
+Methods Called:
+   - ok
+   - strictEqual
+   - notStrictEqual
+
+Library: source-map
+Methods Called:
+   - SourceMapGenerator
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/lib/mapping.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - ok
+   - strictEqual
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/lib/options.js
+------------------------------------------
+Library: esprima
+Methods Called:
+   - hasOwnProperty
+   - key
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/lib/parser.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - ok
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/lib/patcher.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - ok
+   - deepEqual
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/lib/printer.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - ok
+   - notStrictEqual
+   - strictEqual
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/lib/types.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/lib/util.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - strictEqual
+   - ok
+
+Library: source-map
+Methods Called:
+   - SourceMapConsumer
+   - SourceMapGenerator
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/main.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/ast-types/def/babel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/ast-types/def/core.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/ast-types/def/e4x.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/ast-types/def/es6.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/ast-types/def/es7.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/ast-types/def/esprima.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/ast-types/def/flow.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/ast-types/def/jsx.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/ast-types/def/mozilla.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/ast-types/lib/equiv.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/ast-types/lib/node-path.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/ast-types/lib/path-visitor.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/ast-types/lib/path.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/ast-types/lib/scope.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/ast-types/lib/shared.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/ast-types/lib/types.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/ast-types/main.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/esprima/bin/esparse.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/esprima/bin/esvalidate.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/esprima/esprima.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/private/private.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/private/test/run.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - deepEqual
+   - strictEqual
+   - ok
+   - notStrictEqual
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/source-map/dist/source-map.debug.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/source-map/dist/source-map.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/source-map/dist/source-map.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/source-map/lib/array-set.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/source-map/lib/base64-vlq.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/source-map/lib/base64.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/source-map/lib/binary-search.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/source-map/lib/mapping-list.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/source-map/lib/quick-sort.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/source-map/lib/source-map-consumer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/source-map/lib/source-map-generator.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/source-map/lib/source-node.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/source-map/lib/util.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/node_modules/recast/node_modules/source-map/source-map.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/unreachable-branch-transform/unreachableBranchTransformer.js
+------------------------------------------
+Library: esmangle-evaluator
+Methods Called:
+   - booleanCondition
+   - hasSideEffect
+
+Library: recast
+Methods Called:
+   - types
+   - visit
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/util-deprecate/browser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/node_modules/util-deprecate/node.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/passthrough.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/readable.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/transform.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/readable-stream/writable.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/stream-browserify/index.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/stream-browserify/node_modules/inherits/inherits.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/stream-browserify/node_modules/inherits/inherits_browser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/stream-browserify/node_modules/inherits/test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/stream-browserify/test/buf.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/string_decoder/index.js
+------------------------------------------
+Library: buffer
+Methods Called:
+   - Buffer
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/timers-browserify/example/enroll/js/browserify.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/timers-browserify/example/enroll/js/main.js
+------------------------------------------
+Library: timers
+Methods Called:
+   - enroll
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/timers-browserify/example/enroll/server.js
+------------------------------------------
+Library: connect
+Methods Called:
+   - createServer
+   - static
+
+Library: browserify
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/timers-browserify/main.js
+------------------------------------------
+Library: process/browser.js
+Methods Called:
+   - nextTick
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/tty-browserify/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/url/node_modules/punycode/punycode.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/url/node_modules/querystring/decode.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/url/node_modules/querystring/encode.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/url/node_modules/querystring/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/url/node_modules/querystring/test/common-index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/url/node_modules/querystring/test/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/url/node_modules/querystring/test/tap-index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/url/test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - deepEqual
+   - equal
+   - throws
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/url/url.js
+------------------------------------------
+Library: punycode
+Methods Called:
+   - toASCII
+
+Library: querystring
+Methods Called:
+   - parse
+   - stringify
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/url/util.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/util/node_modules/inherits/inherits.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/util/node_modules/inherits/inherits_browser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/util/node_modules/inherits/test.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/util/support/isBuffer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/util/support/isBufferBrowser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/util/test/browser/inspect.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/util/test/browser/is.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+   - deepEqual
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/util/test/node/debug.js
+------------------------------------------
+Library: child_process
+Methods Called:
+   - spawn
+
+Library: assert
+Methods Called:
+   - main_method*
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/util/test/node/format.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/util/test/node/inspect.js
+------------------------------------------
+Library: vm
+Methods Called:
+   - runInNewContext
+
+Library: assert
+Methods Called:
+   - equal
+   - ok
+   - doesNotThrow
+   - main_method*
+   - strictEqual
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/util/test/node/log.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - ok
+   - equal
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/util/test/node/util.js
+------------------------------------------
+Library: vm
+Methods Called:
+   - runInNewContext
+
+Library: assert
+Methods Called:
+   - equal
+   - ok
+   - deepEqual
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/util/util.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/vm-browserify/example/run/bundle.js
+------------------------------------------
+Library: vm
+Methods Called:
+   - runInNewContext
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/vm-browserify/example/run/entry.js
+------------------------------------------
+Library: vm
+Methods Called:
+   - runInNewContext
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/vm-browserify/example/run/server.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/vm-browserify/index.js
+------------------------------------------
+Library: indexof
+Methods Called:
+   - main_method*
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/vm-browserify/node_modules/indexof/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node_modules/node-libs-browser/node_modules/vm-browserify/test/vm.js
+------------------------------------------
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+runtime.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+runtime.min.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "babel-standalone": {
+    "transform": true
+  },
+  "path": {
+    "join": true,
+    "parse": true,
+    "resolve": true,
+    "normalize": true
+  },
+  "jquery": {
+    "main_method*": true
+  },
+  "express": {
+    "main_method*": true,
+    "static": true
+  },
+  "react": {
+    "createClass": true,
+    "createElement": true
+  },
+  "react-dom": {
+    "render": true
+  },
+  "babel": {
+    "transform": true
+  },
+  "gulp": {
+    "task": true,
+    "src": true,
+    "dest": true
+  },
+  "gulp-rename": {
+    "main_method*": true
+  },
+  "gulp-uglify": {
+    "main_method*": true
+  },
+  "gulp-rimraf": {
+    "main_method*": true
+  },
+  "fs-extra": {
+    "existsSync": true,
+    "writeFileSync": true,
+    "readFileSync": true,
+    "mkdirsSync": true,
+    "removeSync": true,
+    "mkdirSync": true,
+    "renameSync": true
+  },
+  "inquirer": {
+    "prompt": true
+  },
+  "semver": {
+    "valid": true,
+    "validRange": true
+  },
+  "async": {
+    "eachSeries": true
+  },
+  "chalk": {
+    "green": true
+  },
+  "npm": {
+    "load": true,
+    "commands": true
+  },
+  "serve-static": {
+    "main_method*": true
+  },
+  "finalhandler": {
+    "main_method*": true
+  },
+  "webpack": {
+    "DefinePlugin": true,
+    "optimize": true
+  },
+  "webpack-stream": {
+    "main_method*": true
+  },
+  "expect.js": {
+    "main_method*": true
+  },
+  "util/": {
+    "inherits": true,
+    "isUndefined": true,
+    "isNumber": true,
+    "isFunction": true,
+    "isRegExp": true,
+    "isString": true,
+    "isBuffer": true,
+    "isDate": true,
+    "isObject": true,
+    "isNullOrUndefined": true,
+    "isPrimitive": true
+  },
+  "pako/lib/zlib/messages": {
+    "status": true
+  },
+  "pako/lib/zlib/zstream": {
+    "main_method*": true
+  },
+  "pako/lib/zlib/deflate.js": {
+    "deflateInit2": true,
+    "deflate": true,
+    "deflateEnd": true,
+    "deflateReset": true
+  },
+  "pako/lib/zlib/inflate.js": {
+    "inflateInit2": true,
+    "inflate": true,
+    "inflateEnd": true,
+    "inflateReset": true
+  },
+  "pako/lib/zlib/constants": {
+    "key": true
+  },
+  "assert": {
+    "ok": true,
+    "main_method*": true,
+    "equal": true,
+    "deepEqual": true,
+    "throws": true,
+    "strictEqual": true,
+    "doesNotThrow": true,
+    "fail": true,
+    "notEqual": true,
+    "notStrictEqual": true
+  },
+  "_stream_transform": {
+    "call": true
+  },
+  "util": {
+    "inherits": true,
+    "inspect": true,
+    "format": true,
+    "debuglog": true
+  },
+  "zlib": {
+    "createInflate": true,
+    "createDeflate": true,
+    "Z_DEFAULT_STRATEGY": true
+  },
+  "fs": {
+    "readFileSync": true,
+    "writeFileSync": true,
+    "createWriteStream": true
+  },
+  "tape": {
+    "main_method*": true,
+    "test": true
+  },
+  "crypto": {
+    "createHash": true,
+    "createCipher": true,
+    "createCipheriv": true,
+    "createDecipher": true,
+    "createDecipheriv": true,
+    "getCiphers": true,
+    "randomBytes": true,
+    "createSign": true,
+    "Sign": true,
+    "createVerify": true,
+    "Verify": true,
+    "privateDecrypt": true,
+    "createECDH": true,
+    "DiffieHellmanGroup": true,
+    "createDiffieHellmanGroup": true,
+    "getDiffieHellman": true,
+    "createDiffieHellman": true,
+    "DiffieHellman": true,
+    "pbkdf2Sync": true,
+    "pbkdf2": true,
+    "publicEncrypt": true,
+    "privateEncrypt": true,
+    "publicDecrypt": true
+  },
+  "stream": {
+    "Stream": true,
+    "Transform": true,
+    "Writable": true,
+    "call": true,
+    "prototype": true,
+    "PassThrough": true
+  },
+  "base64-js": {
+    "fromByteArray": true,
+    "toByteArray": true
+  },
+  "ieee754": {
+    "read": true,
+    "write": true
+  },
+  "isarray": {
+    "main_method*": true
+  },
+  "is-buffer": {
+    "main_method*": true
+  },
+  "is-nan": {
+    "main_method*": true
+  },
+  "date-now": {
+    "main_method*": true
+  },
+  "timers": {
+    "setTimeout": true,
+    "enroll": true
+  },
+  "pbkdf2": {
+    "pbkdf2": true,
+    "pbkdf2Sync": true
+  },
+  "browserify-cipher": {
+    "key": true
+  },
+  "diffie-hellman": {
+    "key": true
+  },
+  "browserify-sign": {
+    "key": true
+  },
+  "public-encrypt": {
+    "key": true
+  },
+  "evp_bytestokey": {
+    "main_method*": true
+  },
+  "browserify-aes/browser": {
+    "createCipheriv": true,
+    "createDecipheriv": true,
+    "getCiphers": true
+  },
+  "browserify-des": {
+    "main_method*": true
+  },
+  "browserify-des/modes": {
+    "suite": true,
+    "modeName": true
+  },
+  "browserify-aes/modes": {
+    "suite": true,
+    "modeName": true
+  },
+  "cipher-base": {
+    "call": true
+  },
+  "inherits": {
+    "main_method*": true
+  },
+  "buffer-xor": {
+    "main_method*": true
+  },
+  "string_decoder": {
+    "StringDecoder": true
+  },
+  "des.js": {
+    "CBC": true,
+    "EDE": true,
+    "DES": true
+  },
+  "minimalistic-assert": {
+    "equal": true,
+    "main_method*": true
+  },
+  "buffer": {
+    "Buffer": true
+  },
+  "create-hash/md5": {
+    "main_method*": true
+  },
+  "create-hash": {
+    "main_method*": true
+  },
+  "bn.js": {
+    "mont": true,
+    "main_method*": true,
+    "red": true
+  },
+  "randombytes": {
+    "main_method*": true,
+    "randomBytesName": true
+  },
+  "parse-asn1": {
+    "main_method*": true,
+    "signature": true
+  },
+  "constants": {
+    "RSA_NO_PADDING": true
+  },
+  "hash.js": {
+    "sha256": true,
+    "sha384": true,
+    "sha512": true,
+    "update": true,
+    "digest": true,
+    "hmac": true
+  },
+  "asn1.js": {
+    "define": true
+  },
+  "browserify-aes": {
+    "createDecipheriv": true
+  },
+  "create-hmac": {
+    "main_method*": true
+  },
+  "browserify-rsa": {
+    "main_method*": true
+  },
+  "elliptic": {
+    "ec": true
+  },
+  "sha.js": {
+    "main_method*": true
+  },
+  "hash-test-vectors": {
+    "i": true,
+    "forEach": true,
+    "length": true
+  },
+  "create-hash/browser": {
+    "main_method*": true
+  },
+  "hash-test-vectors/hmac": {
+    "forEach": true,
+    "length": true,
+    "i": true
+  },
+  "miller-rabin": {
+    "main_method*": true
+  },
+  "brorand": {
+    "Rand": true
+  },
+  "child_process": {
+    "fork": true,
+    "spawn": true
+  },
+  "browserify-cipher/browser": {
+    "listCiphers": true,
+    "createCipher": true,
+    "createDecipher": true,
+    "getCiphers": true
+  },
+  "pseudorandombytes": {
+    "main_method*": true
+  },
+  "diffie-hellman/browser": {
+    "getDiffieHellman": true,
+    "createDiffieHellman": true
+  },
+  "create-ecdh/browser": {
+    "main_method*": true
+  },
+  "pbkdf2/browser": {
+    "pbkdf2Sync": true
+  },
+  "hash-test-vectors/pbkdf2": {
+    "forEach": true
+  },
+  "public-encrypt/browser": {
+    "privateDecrypt": true,
+    "publicEncrypt": true,
+    "privateEncrypt": true,
+    "publicDecrypt": true
+  },
+  "browserify-sign/browser": {
+    "createSign": true,
+    "createVerify": true
+  },
+  "events": {
+    "EventEmitter": true
+  },
+  "assert-helpers": {
+    "equal": true
+  },
+  "joe": {
+    "describe": true
+  },
+  "http": {
+    "createServer": true,
+    "hasOwnProperty": true,
+    "key": true,
+    "request": true
+  },
+  "ecstatic": {
+    "main_method*": true
+  },
+  "url": {
+    "parse": true
+  },
+  "Base64": {
+    "btoa": true
+  },
+  "process-nextick-args": {
+    "main_method*": true
+  },
+  "core-util-is": {
+    "inherits": true
+  },
+  "util-deprecate": {
+    "deprecate": true
+  },
+  "tap": {
+    "equal": true,
+    "test": true
+  },
+  "through2": {
+    "main_method*": true
+  },
+  "falafel": {
+    "main_method*": true
+  },
+  "vm": {
+    "runInNewContext": true
+  },
+  "acorn": {
+    "parse": true
+  },
+  "object-keys": {
+    "main_method*": true
+  },
+  "foreach": {
+    "main_method*": true
+  },
+  "babelify": {
+    "configure": true
+  },
+  "browserify": {
+    "main_method*": true
+  },
+  "readable-stream/transform": {
+    "call": true
+  },
+  "recast": {
+    "parse": true,
+    "print": true,
+    "types": true,
+    "visit": true
+  },
+  "private": {
+    "makeUniqueKey": true
+  },
+  "source-map": {
+    "SourceMapGenerator": true,
+    "SourceMapConsumer": true
+  },
+  "esprima": {
+    "hasOwnProperty": true,
+    "key": true
+  },
+  "esmangle-evaluator": {
+    "booleanCondition": true,
+    "hasSideEffect": true
+  },
+  "connect": {
+    "createServer": true,
+    "static": true
+  },
+  "process/browser.js": {
+    "nextTick": true
+  },
+  "punycode": {
+    "toASCII": true
+  },
+  "querystring": {
+    "parse": true,
+    "stringify": true
+  },
+  "indexof": {
+    "main_method*": true
+  }
+}

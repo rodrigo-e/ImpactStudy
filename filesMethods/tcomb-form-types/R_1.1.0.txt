@@ -1,0 +1,576 @@
+------------------------------------------
+build/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+build/number/decimal.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isDecimal
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - Number
+
+------------------------------------------
+build/number/float.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isFloat
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - Number
+
+------------------------------------------
+build/number/hexadecimal.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isHexadecimal
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - Number
+
+------------------------------------------
+build/number/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+build/number/integer.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isInt
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - Number
+
+------------------------------------------
+build/string/alpha-numeric.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isAlphanumeric
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+build/string/alpha.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isAlpha
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+build/string/base64.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isBase64
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+build/string/credit-card.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isCreditCard
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+build/string/domain.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isFQDN
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+build/string/email.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isEmail
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+build/string/hex-color.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isHexColor
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+build/string/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+build/string/ip.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isIP
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+build/string/isbn.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isISBN
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+build/string/json.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isJSON
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+build/string/lower-case.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isLowercase
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+build/string/mac-address.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isMACAddress
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+build/string/mobile-phone.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isMobilePhone
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+build/string/mongo-id.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isMongoId
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+build/string/upper-case.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isUppercase
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+build/string/url.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isURL
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+build/string/uuid.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isUUID
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+gulpfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/number/decimal.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isDecimal
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - Number
+
+------------------------------------------
+src/number/float.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isFloat
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - Number
+
+------------------------------------------
+src/number/hexadecimal.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isHexadecimal
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - Number
+
+------------------------------------------
+src/number/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/number/integer.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isInt
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - Number
+
+------------------------------------------
+src/string/alpha-numeric.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isAlphanumeric
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+src/string/alpha.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isAlpha
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+src/string/base64.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isBase64
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+src/string/credit-card.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isCreditCard
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+src/string/domain.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isFQDN
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+src/string/email.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isEmail
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+src/string/hex-color.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isHexColor
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+src/string/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/string/ip.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isIP
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+src/string/isbn.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isISBN
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+src/string/json.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isJSON
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+src/string/lower-case.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isLowercase
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+src/string/mac-address.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isMACAddress
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+src/string/mobile-phone.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isMobilePhone
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+src/string/mongo-id.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isMongoId
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+src/string/upper-case.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isUppercase
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+src/string/url.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isURL
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+------------------------------------------
+src/string/uuid.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isUUID
+
+Library: tcomb-form
+Methods Called:
+   - refinement
+   - String
+
+
+All of the Methods:
+{
+  "validator": {
+    "isDecimal": true,
+    "isFloat": true,
+    "isHexadecimal": true,
+    "isInt": true,
+    "isAlphanumeric": true,
+    "isAlpha": true,
+    "isBase64": true,
+    "isCreditCard": true,
+    "isFQDN": true,
+    "isEmail": true,
+    "isHexColor": true,
+    "isIP": true,
+    "isISBN": true,
+    "isJSON": true,
+    "isLowercase": true,
+    "isMACAddress": true,
+    "isMobilePhone": true,
+    "isMongoId": true,
+    "isUppercase": true,
+    "isURL": true,
+    "isUUID": true
+  },
+  "tcomb-form": {
+    "refinement": true,
+    "Number": true,
+    "String": true
+  }
+}

@@ -1,0 +1,47 @@
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - defaultsDeep
+   - isFunction
+   - isArray
+   - forOwn
+
+------------------------------------------
+test/basic.js
+------------------------------------------
+Library: sails
+Methods Called:
+   - Sails
+
+
+All of the Methods:
+{
+  "gulp": {
+    "task": true,
+    "src": true
+  },
+  "lodash": {
+    "defaultsDeep": true,
+    "isFunction": true,
+    "isArray": true,
+    "forOwn": true
+  },
+  "sails": {
+    "Sails": true
+  }
+}

@@ -1,0 +1,338 @@
+------------------------------------------
+.eslintrc.js
+------------------------------------------
+Library: pa11y-lint-config/eslint/es6
+Methods Called:
+   - rules
+
+------------------------------------------
+app.js
+------------------------------------------
+Library: mongodb
+Methods Called:
+   - MongoClient
+
+Library: async
+Methods Called:
+   - series
+
+Library: hapi
+Methods Called:
+   - Server
+
+------------------------------------------
+config.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+
+------------------------------------------
+data/fixture/.eslintrc.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+data/fixture/development/results.js
+------------------------------------------
+Library: mongodb
+Methods Called:
+   - ObjectID
+
+------------------------------------------
+data/fixture/development/tasks.js
+------------------------------------------
+Library: mongodb
+Methods Called:
+   - ObjectID
+
+------------------------------------------
+data/fixture/load.js
+------------------------------------------
+Library: async
+Methods Called:
+   - series
+   - parallel
+
+------------------------------------------
+data/fixture/test/results.js
+------------------------------------------
+Library: mongodb
+Methods Called:
+   - ObjectID
+
+------------------------------------------
+data/fixture/test/tasks.js
+------------------------------------------
+Library: mongodb
+Methods Called:
+   - ObjectID
+
+------------------------------------------
+index.js
+------------------------------------------
+Library: chalk
+Methods Called:
+   - underline
+   - grey
+   - red
+
+------------------------------------------
+model/result.js
+------------------------------------------
+Library: mongodb
+Methods Called:
+   - ObjectID
+
+------------------------------------------
+model/task.js
+------------------------------------------
+Library: mongodb
+Methods Called:
+   - ObjectID
+
+Library: async
+Methods Called:
+   - waterfall
+
+Library: chalk
+Methods Called:
+   - grey
+
+Library: pa11y
+Methods Called:
+   - main_method*
+
+------------------------------------------
+route/task.js
+------------------------------------------
+Library: pa11y
+Methods Called:
+   - validateAction
+
+Library: chalk
+Methods Called:
+   - grey
+   - red
+   - green
+
+Library: joi
+Methods Called:
+   - boolean
+   - string
+   - number
+   - array
+   - object
+
+------------------------------------------
+route/tasks.js
+------------------------------------------
+Library: pa11y
+Methods Called:
+   - validateAction
+
+Library: underscore
+Methods Called:
+   - groupBy
+
+Library: joi
+Methods Called:
+   - boolean
+   - string
+   - number
+   - array
+   - object
+
+------------------------------------------
+script/fixtures.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+task/pa11y.js
+------------------------------------------
+Library: cron
+Methods Called:
+   - CronJob
+
+Library: async
+Methods Called:
+   - waterfall
+   - queue
+
+Library: chalk
+Methods Called:
+   - grey
+   - red
+   - green
+
+------------------------------------------
+test/.eslintrc.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/integration/create-task.js
+------------------------------------------
+Library: mongodb
+Methods Called:
+   - ObjectID
+
+Library: proclaim
+Methods Called:
+   - isDefined
+   - strictEqual
+   - deepEqual
+
+------------------------------------------
+test/integration/delete-task-by-id.js
+------------------------------------------
+Library: proclaim
+Methods Called:
+   - isNull
+   - strictEqual
+
+------------------------------------------
+test/integration/edit-task-by-id.js
+------------------------------------------
+Library: proclaim
+Methods Called:
+   - strictEqual
+   - deepEqual
+   - isArray
+   - isObject
+   - isNumber
+   - notStrictEqual
+   - notDeepEqual
+
+------------------------------------------
+test/integration/get-all-results.js
+------------------------------------------
+Library: proclaim
+Methods Called:
+   - strictEqual
+   - isArray
+   - isUndefined
+   - deepEqual
+
+------------------------------------------
+test/integration/get-all-tasks.js
+------------------------------------------
+Library: proclaim
+Methods Called:
+   - strictEqual
+   - isArray
+   - deepEqual
+   - isObject
+
+------------------------------------------
+test/integration/get-result-by-id.js
+------------------------------------------
+Library: proclaim
+Methods Called:
+   - strictEqual
+   - isObject
+   - deepEqual
+
+------------------------------------------
+test/integration/get-results-by-task-id.js
+------------------------------------------
+Library: proclaim
+Methods Called:
+   - strictEqual
+   - isArray
+   - isUndefined
+   - deepEqual
+
+------------------------------------------
+test/integration/get-task-by-id.js
+------------------------------------------
+Library: proclaim
+Methods Called:
+   - strictEqual
+   - isObject
+   - deepEqual
+   - isArray
+
+------------------------------------------
+test/integration/helper/navigate.js
+------------------------------------------
+Library: request
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/integration/run-task-by-id.js
+------------------------------------------
+Library: proclaim
+Methods Called:
+   - strictEqual
+
+------------------------------------------
+test/integration/setup.js
+------------------------------------------
+Library: request
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "pa11y-lint-config/eslint/es6": {
+    "rules": true
+  },
+  "mongodb": {
+    "MongoClient": true,
+    "ObjectID": true
+  },
+  "async": {
+    "series": true,
+    "parallel": true,
+    "waterfall": true,
+    "queue": true
+  },
+  "hapi": {
+    "Server": true
+  },
+  "fs": {
+    "existsSync": true
+  },
+  "chalk": {
+    "underline": true,
+    "grey": true,
+    "red": true,
+    "green": true
+  },
+  "pa11y": {
+    "main_method*": true,
+    "validateAction": true
+  },
+  "joi": {
+    "boolean": true,
+    "string": true,
+    "number": true,
+    "array": true,
+    "object": true
+  },
+  "underscore": {
+    "groupBy": true
+  },
+  "cron": {
+    "CronJob": true
+  },
+  "proclaim": {
+    "isDefined": true,
+    "strictEqual": true,
+    "deepEqual": true,
+    "isNull": true,
+    "isArray": true,
+    "isObject": true,
+    "isNumber": true,
+    "notStrictEqual": true,
+    "notDeepEqual": true,
+    "isUndefined": true
+  },
+  "request": {
+    "main_method*": true
+  }
+}

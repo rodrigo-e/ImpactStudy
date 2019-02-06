@@ -1,0 +1,258 @@
+------------------------------------------
+lib/acceptrequests.js
+------------------------------------------
+Library: steamid
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/checktoken.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+   - writeFileSync
+
+------------------------------------------
+lib/enablemobile.js
+------------------------------------------
+Library: readline
+Methods Called:
+   - createInterface
+
+------------------------------------------
+lib/keepalive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/launch.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - existsSync
+   - writeFileSync
+   - readFileSync
+
+------------------------------------------
+lib/launchteamspeak.js
+------------------------------------------
+Library: async
+Methods Called:
+   - waterfall
+
+------------------------------------------
+lib/listenchat.js
+------------------------------------------
+Library: ./sendtoken.js
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/queryusers.js
+------------------------------------------
+Library: async
+Methods Called:
+   - waterfall
+
+------------------------------------------
+lib/reconnectteamspeak.js
+------------------------------------------
+Library: node-teamspeak
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/sendtoken.js
+------------------------------------------
+Library: async
+Methods Called:
+   - waterfall
+
+------------------------------------------
+lib/updatetwofactorcode.js
+------------------------------------------
+Library: steam-totp
+Methods Called:
+   - generateAuthCode
+
+------------------------------------------
+webserver/app.js
+------------------------------------------
+Library: express
+Methods Called:
+   - main_method*
+   - static
+
+Library: path
+Methods Called:
+   - join
+
+Library: morgan
+Methods Called:
+   - main_method*
+
+Library: cookie-parser
+Methods Called:
+   - main_method*
+
+Library: body-parser
+Methods Called:
+   - json
+   - urlencoded
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: express-session
+Methods Called:
+   - main_method*
+
+Library: session-file-store
+Methods Called:
+   - main_method*
+
+------------------------------------------
+webserver/lib/socketio.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+   - writeFileSync
+
+------------------------------------------
+webserver/public/javascripts/bootstrap.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+webserver/public/javascripts/bootstrap.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+webserver/public/javascripts/html5shiv.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+webserver/public/javascripts/ie10-viewport-bug-workaround.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+webserver/public/javascripts/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+webserver/public/javascripts/jquery.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+webserver/public/javascripts/login.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+webserver/public/javascripts/npm.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+webserver/public/javascripts/respond.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+webserver/public/javascripts/socket.io-1.4.5.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+webserver/public/javascripts/toastr.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+webserver/routes/index.js
+------------------------------------------
+Library: express
+Methods Called:
+   - Router
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+webserver/routes/login.js
+------------------------------------------
+Library: express
+Methods Called:
+   - Router
+
+------------------------------------------
+webserver/routes/logout.js
+------------------------------------------
+Library: express
+Methods Called:
+   - Router
+
+
+All of the Methods:
+{
+  "steamid": {
+    "main_method*": true
+  },
+  "fs": {
+    "readFileSync": true,
+    "writeFileSync": true,
+    "existsSync": true
+  },
+  "readline": {
+    "createInterface": true
+  },
+  "async": {
+    "waterfall": true
+  },
+  "./sendtoken.js": {
+    "main_method*": true
+  },
+  "node-teamspeak": {
+    "main_method*": true
+  },
+  "steam-totp": {
+    "generateAuthCode": true
+  },
+  "express": {
+    "main_method*": true,
+    "static": true,
+    "Router": true
+  },
+  "path": {
+    "join": true
+  },
+  "morgan": {
+    "main_method*": true
+  },
+  "cookie-parser": {
+    "main_method*": true
+  },
+  "body-parser": {
+    "json": true,
+    "urlencoded": true
+  },
+  "express-session": {
+    "main_method*": true
+  },
+  "session-file-store": {
+    "main_method*": true
+  }
+}

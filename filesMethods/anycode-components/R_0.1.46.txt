@@ -1,0 +1,38 @@
+------------------------------------------
+anycode-components.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+anycode-components.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+iconic/computedStyleHelper.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+karma.conf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+scripts/pack.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Illegal return statement
+------------------------------------------
+test/anycode-components.spec.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{}

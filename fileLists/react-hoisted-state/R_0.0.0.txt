@@ -1,0 +1,6 @@
+010ffc05042f108c2e641fc251cbe5930105357f
+gulpfile.js
+spec/jscs.js
+spec/test.js
+src/index.js
+test.js

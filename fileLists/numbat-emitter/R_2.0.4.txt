@@ -1,0 +1,8 @@
+d7fa7d78603f6a757dead4b7810cd3836a6a2980
+examples/socket-emitter.js
+examples/tcp-emitter.js
+examples/udp-emitter.js
+index.js
+lib/emitter.js
+lib/udp-stream.js
+test.js

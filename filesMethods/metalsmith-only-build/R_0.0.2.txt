@@ -1,0 +1,72 @@
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: debug
+Methods Called:
+   - main_method*
+
+Library: minimatch
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - relative
+   - resolve
+
+------------------------------------------
+test/index.js
+------------------------------------------
+Library: glob
+Methods Called:
+   - sync
+
+Library: rimraf
+Methods Called:
+   - sync
+
+Library: assert
+Methods Called:
+   - deepEqual
+
+Library: assert-dir-equal
+Methods Called:
+   - main_method*
+
+Library: metalsmith
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - resolve
+
+
+All of the Methods:
+{
+  "debug": {
+    "main_method*": true
+  },
+  "minimatch": {
+    "main_method*": true
+  },
+  "path": {
+    "relative": true,
+    "resolve": true
+  },
+  "glob": {
+    "sync": true
+  },
+  "rimraf": {
+    "sync": true
+  },
+  "assert": {
+    "deepEqual": true
+  },
+  "assert-dir-equal": {
+    "main_method*": true
+  },
+  "metalsmith": {
+    "main_method*": true
+  }
+}

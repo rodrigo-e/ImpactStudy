@@ -1,0 +1,55 @@
+------------------------------------------
+dev/app/app.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+dist/ngjs-color-picker.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+source/ngjs-color-picker.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/directive.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/karma.conf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+webpack.config.js
+------------------------------------------
+Library: webpack
+Methods Called:
+   - NoErrorsPlugin
+   - optimize
+
+Library: html-webpack-plugin
+Methods Called:
+   - main_method*
+
+Library: copy-webpack-plugin
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "webpack": {
+    "NoErrorsPlugin": true,
+    "optimize": true
+  },
+  "html-webpack-plugin": {
+    "main_method*": true
+  },
+  "copy-webpack-plugin": {
+    "main_method*": true
+  }
+}

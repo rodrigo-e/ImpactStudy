@@ -1,0 +1,6 @@
+18f11286046ce2ddb537a5e7736094179919e5b7
+config.js
+index.js
+test/definitions/page.js
+test/index.js
+test/jshint.spec.js

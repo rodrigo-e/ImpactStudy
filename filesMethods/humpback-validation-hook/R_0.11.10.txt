@@ -1,0 +1,194 @@
+------------------------------------------
+Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/controllers/AuthenticationController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/models/Authentication.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/models/User.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+index.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+lib/WLValidationError.js
+------------------------------------------
+Library: waterline/lib/waterline/error/WLValidationError
+Methods Called:
+   - prototype
+
+------------------------------------------
+lib/create.js
+------------------------------------------
+Library: waterline/lib/waterline/query/deferred
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/createEach.js
+------------------------------------------
+Library: waterline/lib/waterline/query/deferred
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/findOrCreate.js
+------------------------------------------
+Library: waterline/lib/waterline/query/deferred
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/findOrCreateEach.js
+------------------------------------------
+Library: waterline/lib/waterline/query/deferred
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/update.js
+------------------------------------------
+Library: waterline/lib/waterline/query/deferred
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/validate.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/validateCustom.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/bootstrap.spec.js
+------------------------------------------
+Library: sails
+Methods Called:
+   - lift
+   - lower
+
+------------------------------------------
+test/validation.spec.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: faker
+Methods Called:
+   - internet
+   - date
+
+------------------------------------------
+test/validation.zcreate.spec.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: faker
+Methods Called:
+   - internet
+   - date
+
+------------------------------------------
+test/validation.zcreateEach.spec.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: faker
+Methods Called:
+   - internet
+   - date
+
+------------------------------------------
+test/validation.zfindOrCreate.spec.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: faker
+Methods Called:
+   - internet
+   - date
+
+------------------------------------------
+test/validation.zi18n.spec.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: path
+Methods Called:
+   - join
+
+Library: supertest
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/validation.zupdate.spec.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+Library: faker
+Methods Called:
+   - internet
+   - date
+
+
+All of the Methods:
+{
+  "path": {
+    "join": true
+  },
+  "waterline/lib/waterline/error/WLValidationError": {
+    "prototype": true
+  },
+  "waterline/lib/waterline/query/deferred": {
+    "main_method*": true
+  },
+  "sails": {
+    "lift": true,
+    "lower": true
+  },
+  "chai": {
+    "expect": true
+  },
+  "faker": {
+    "internet": true,
+    "date": true
+  },
+  "supertest": {
+    "main_method*": true
+  }
+}

@@ -1,0 +1,7 @@
+95db63e3f3c283bb10849de9d0f96ded04739c7a
+index.js
+test/dir1/a.js
+test/dir1/b.js
+test/dir1/dir3/c.js
+test/dir1/dir3/d.js
+test/test.js

@@ -1,0 +1,30 @@
+------------------------------------------
+Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+index.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - drop
+   - each
+
+Library: path
+Methods Called:
+   - sep
+   - resolve
+
+
+All of the Methods:
+{
+  "lodash": {
+    "drop": true,
+    "each": true
+  },
+  "path": {
+    "sep": true,
+    "resolve": true
+  }
+}

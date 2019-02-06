@@ -1,0 +1,179 @@
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: buffer
+Methods Called:
+   - Buffer
+
+Library: path
+Methods Called:
+   - resolve
+   - sep
+   - basename
+
+Library: powerwalk
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/pager.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - ok
+
+Library: graceful-fs
+Methods Called:
+   - readFile
+
+Library: hogan.js
+Methods Called:
+   - compile
+
+Library: path
+Methods Called:
+   - join
+   - sep
+   - relative
+   - dirname
+   - extname
+
+------------------------------------------
+test/fixtures/blog/public/application.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/support/reader.js
+------------------------------------------
+Library: path
+Methods Called:
+   - normalize
+   - join
+
+------------------------------------------
+test/test-feature-content-types.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+test/test-feature-drafts.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - ok
+   - equal
+
+Library: ../
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/test-feature-ignore.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+test/test-feature-template-data.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+test/test-haiku-context.js
+------------------------------------------
+Library: ../
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/test-haiku-opt.js
+------------------------------------------
+Library: ../
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/test-http.js
+------------------------------------------
+Library: ../
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - resolve
+
+------------------------------------------
+test/test-page-context.js
+------------------------------------------
+Library: ../
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/test-page-destination.js
+------------------------------------------
+Library: ../
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/test-page-name.js
+------------------------------------------
+Library: ../
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/test-page-render.js
+------------------------------------------
+Library: ../
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "events": {
+    "EventEmitter": true
+  },
+  "buffer": {
+    "Buffer": true
+  },
+  "path": {
+    "resolve": true,
+    "sep": true,
+    "basename": true,
+    "join": true,
+    "relative": true,
+    "dirname": true,
+    "extname": true,
+    "normalize": true
+  },
+  "powerwalk": {
+    "main_method*": true
+  },
+  "assert": {
+    "ok": true,
+    "equal": true
+  },
+  "graceful-fs": {
+    "readFile": true
+  },
+  "hogan.js": {
+    "compile": true
+  },
+  "../": {
+    "main_method*": true
+  }
+}

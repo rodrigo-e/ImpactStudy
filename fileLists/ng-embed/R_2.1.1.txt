@@ -1,0 +1,5 @@
+34be7303f30dddb70813df27ab4f5920ba139f73
+GruntFile.js
+demo/js/app.js
+dist/ng-embed.min.js
+src/ng-embed.js

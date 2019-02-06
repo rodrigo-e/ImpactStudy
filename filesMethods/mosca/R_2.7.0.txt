@@ -1,0 +1,771 @@
+------------------------------------------
+examples/Server_With_All_Interfaces-Settings.js
+------------------------------------------
+Library: mosca
+Methods Called:
+   - persistence
+   - Server
+
+------------------------------------------
+examples/kafka/server.js
+------------------------------------------
+Library: crypto
+Methods Called:
+   - createHash
+
+Library: fs
+Methods Called:
+   - readFile
+
+------------------------------------------
+examples/mongodb/config.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/mongodb/start.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/mosca-tree/firstConfig.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/mosca-tree/secondConfig.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/mosca-tree/thirdConfig.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/redis/firstConfig.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/redis/secondConfig.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/rule_engine/broker.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/secure/secureClient.js
+------------------------------------------
+Library: mqtt
+Methods Called:
+   - createSecureClient
+
+------------------------------------------
+examples/secure/secureEmbedded.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+examples/secure/secureServer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/authorizer.js
+------------------------------------------
+Library: pbkdf2-password
+Methods Called:
+   - main_method*
+
+Library: minimatch
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/cli.js
+------------------------------------------
+Library: commander
+Methods Called:
+   - Command
+
+Library: path
+Methods Called:
+   - resolve
+
+Library: fs
+Methods Called:
+   - readFile
+   - writeFile
+
+Library: steed
+Methods Called:
+   - series
+
+------------------------------------------
+lib/client.js
+------------------------------------------
+Library: steed
+Methods Called:
+   - map
+
+Library: uuid
+Methods Called:
+   - v4
+
+Library: retimer
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/interfaces.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: mqtt-connection
+Methods Called:
+   - main_method*
+
+Library: http
+Methods Called:
+   - createServer
+
+Library: https
+Methods Called:
+   - createServer
+
+Library: net
+Methods Called:
+   - createServer
+
+Library: tls
+Methods Called:
+   - createServer
+
+Library: st
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/options.js
+------------------------------------------
+Library: pino
+Methods Called:
+   - stdSerializers
+
+Library: extend
+Methods Called:
+   - main_method*
+
+Library: clone
+Methods Called:
+   - main_method*
+
+Library: jsonschema
+Methods Called:
+   - Validator
+
+------------------------------------------
+lib/persistence/abstract.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: steed
+Methods Called:
+   - each
+
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+lib/persistence/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/persistence/levelup.js
+------------------------------------------
+Library: levelup
+Methods Called:
+   - main_method*
+
+Library: array-from
+Methods Called:
+   - main_method*
+
+Library: level-sublevel
+Methods Called:
+   - main_method*
+
+Library: util
+Methods Called:
+   - inherits
+   - format
+
+Library: msgpack5
+Methods Called:
+   - encode
+   - decode
+
+Library: steed
+Methods Called:
+   - map
+
+Library: extend
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/persistence/matcher.js
+------------------------------------------
+Library: qlobber
+Methods Called:
+   - QlobberDedup
+
+Library: util
+Methods Called:
+   - inherits
+
+------------------------------------------
+lib/persistence/memory.js
+------------------------------------------
+Library: util
+Methods Called:
+   - inherits
+
+Library: memdown
+Methods Called:
+   - main_method*
+   - clearGlobalStore
+
+------------------------------------------
+lib/persistence/mongo.js
+------------------------------------------
+Library: mongodb
+Methods Called:
+   - MongoClient
+
+Library: util
+Methods Called:
+   - inherits
+
+Library: steed
+Methods Called:
+   - parallel
+   - series
+   - each
+
+Library: extend
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/persistence/redis.js
+------------------------------------------
+Library: array-from
+Methods Called:
+   - main_method*
+
+Library: ioredis
+Methods Called:
+   - main_method*
+
+Library: util
+Methods Called:
+   - inherits
+
+Library: steed
+Methods Called:
+   - each
+   - parallel
+
+Library: extend
+Methods Called:
+   - main_method*
+
+Library: nanoid
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/persistence/utils.js
+------------------------------------------
+Library: lru-cache
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/serializers.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/server.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: mqtt-connection
+Methods Called:
+   - main_method*
+
+Library: websocket-stream
+Methods Called:
+   - createServer
+
+Library: steed
+Methods Called:
+   - series
+   - eachSeries
+   - each
+
+Library: ascoltatori
+Methods Called:
+   - build
+
+Library: pino
+Methods Called:
+   - main_method*
+
+Library: extend
+Methods Called:
+   - main_method*
+
+Library: nanoid
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/stats.js
+------------------------------------------
+Library: moving-average
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/abstract_server.js
+------------------------------------------
+Library: steed
+Methods Called:
+   - each
+   - series
+   - waterfall
+
+------------------------------------------
+test/authorizer.js
+------------------------------------------
+Library: pbkdf2-password
+Methods Called:
+   - main_method*
+
+Library: steed
+Methods Called:
+   - waterfall
+
+------------------------------------------
+test/cli.js
+------------------------------------------
+Library: steed
+Methods Called:
+   - each
+   - waterfall
+
+Library: tmp
+Methods Called:
+   - file
+   - dir
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: mqtt
+Methods Called:
+   - connect
+
+Library: os
+Methods Called:
+   - platform
+
+------------------------------------------
+test/common.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/helpers/createConnection.js
+------------------------------------------
+Library: mqtt-connection
+Methods Called:
+   - main_method*
+
+Library: net
+Methods Called:
+   - createConnection
+
+------------------------------------------
+test/helpers/createSecureConnection.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: tls
+Methods Called:
+   - connect
+
+Library: mqtt-connection
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/helpers/createSecureWebsocketConnection.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: websocket-stream
+Methods Called:
+   - main_method*
+
+Library: mqtt-connection
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/helpers/createWebsocketConnection.js
+------------------------------------------
+Library: mqtt-connection
+Methods Called:
+   - main_method*
+
+Library: websocket-stream
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/options.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/persistence/abstract.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: steed
+Methods Called:
+   - series
+   - parallel
+
+Library: pino
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/persistence/levelup_spec.js
+------------------------------------------
+Library: osenv
+Methods Called:
+   - tmpdir
+
+Library: pino
+Methods Called:
+   - main_method*
+
+Library: path
+Methods Called:
+   - join
+
+Library: rimraf
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/persistence/memory_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/persistence/mongo_spec.js
+------------------------------------------
+Library: mongodb
+Methods Called:
+   - MongoClient
+
+Library: mongo-clean
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/persistence/redis_spec.js
+------------------------------------------
+Library: ioredis
+Methods Called:
+   - createClient
+
+------------------------------------------
+test/persistence/utils_spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/sample_config.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/server.js
+------------------------------------------
+Library: steed
+Methods Called:
+   - parallel
+   - series
+   - waterfall
+
+Library: net
+Methods Called:
+   - connect
+
+Library: 
+Methods Called:
+   - on
+   - close
+   - persistence
+
+------------------------------------------
+test/server_mongo.js
+------------------------------------------
+Library: mongodb
+Methods Called:
+   - MongoClient
+
+Library: mongo-clean
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/server_redis.js
+------------------------------------------
+Library: ioredis
+Methods Called:
+   - createClient
+
+------------------------------------------
+test/server_secure.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/server_websocket.js
+------------------------------------------
+Library: supertest
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/server_websocket_attach.js
+------------------------------------------
+Library: mqtt
+Methods Called:
+   - connect
+
+Library: ws
+Methods Called:
+   - Server
+   - main_method*
+
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+test/server_websocket_secure.js
+------------------------------------------
+Library: supertest
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/stats.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+
+All of the Methods:
+{
+  "mosca": {
+    "persistence": true,
+    "Server": true
+  },
+  "crypto": {
+    "createHash": true
+  },
+  "fs": {
+    "readFile": true,
+    "writeFile": true,
+    "readFileSync": true
+  },
+  "mqtt": {
+    "createSecureClient": true,
+    "connect": true
+  },
+  "pbkdf2-password": {
+    "main_method*": true
+  },
+  "minimatch": {
+    "main_method*": true
+  },
+  "commander": {
+    "Command": true
+  },
+  "path": {
+    "resolve": true,
+    "join": true
+  },
+  "steed": {
+    "series": true,
+    "map": true,
+    "each": true,
+    "parallel": true,
+    "eachSeries": true,
+    "waterfall": true
+  },
+  "uuid": {
+    "v4": true
+  },
+  "retimer": {
+    "main_method*": true
+  },
+  "mqtt-connection": {
+    "main_method*": true
+  },
+  "http": {
+    "createServer": true
+  },
+  "https": {
+    "createServer": true
+  },
+  "net": {
+    "createServer": true,
+    "createConnection": true,
+    "connect": true
+  },
+  "tls": {
+    "createServer": true,
+    "connect": true
+  },
+  "st": {
+    "main_method*": true
+  },
+  "pino": {
+    "stdSerializers": true,
+    "main_method*": true
+  },
+  "extend": {
+    "main_method*": true
+  },
+  "clone": {
+    "main_method*": true
+  },
+  "jsonschema": {
+    "Validator": true
+  },
+  "events": {
+    "EventEmitter": true
+  },
+  "util": {
+    "inherits": true,
+    "format": true
+  },
+  "levelup": {
+    "main_method*": true
+  },
+  "array-from": {
+    "main_method*": true
+  },
+  "level-sublevel": {
+    "main_method*": true
+  },
+  "msgpack5": {
+    "encode": true,
+    "decode": true
+  },
+  "qlobber": {
+    "QlobberDedup": true
+  },
+  "memdown": {
+    "main_method*": true,
+    "clearGlobalStore": true
+  },
+  "mongodb": {
+    "MongoClient": true
+  },
+  "ioredis": {
+    "main_method*": true,
+    "createClient": true
+  },
+  "nanoid": {
+    "main_method*": true
+  },
+  "lru-cache": {
+    "main_method*": true
+  },
+  "websocket-stream": {
+    "createServer": true,
+    "main_method*": true
+  },
+  "ascoltatori": {
+    "build": true
+  },
+  "moving-average": {
+    "main_method*": true
+  },
+  "tmp": {
+    "file": true,
+    "dir": true
+  },
+  "os": {
+    "platform": true
+  },
+  "osenv": {
+    "tmpdir": true
+  },
+  "rimraf": {
+    "main_method*": true
+  },
+  "mongo-clean": {
+    "main_method*": true
+  },
+  "": {
+    "on": true,
+    "close": true,
+    "persistence": true
+  },
+  "supertest": {
+    "main_method*": true
+  },
+  "ws": {
+    "Server": true,
+    "main_method*": true
+  }
+}

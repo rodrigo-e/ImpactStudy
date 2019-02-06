@@ -1,0 +1,8 @@
+57b86705c4a807a4f32a3d04ae09301a0734721a
+lib/cli-parser.js
+lib/cli.js
+lib/config.js
+lib/spots.js
+lib/subscribe.js
+test/cli-parser.spec.js
+test/subscribe.spec.js

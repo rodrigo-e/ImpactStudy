@@ -1,0 +1,129 @@
+------------------------------------------
+index.js
+------------------------------------------
+Library: coffee-script
+Methods Called:
+   - register
+
+------------------------------------------
+template/base/Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+template/base/app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+template/base/tasks/config/clean.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+template/base/tasks/config/coffee.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+template/base/tasks/config/concat.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+template/base/tasks/config/copy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+template/base/tasks/config/cssmin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+template/base/tasks/config/less.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+template/base/tasks/config/sails-linker.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+template/base/tasks/config/sync.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+template/base/tasks/config/translate_compile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+template/base/tasks/config/uglify.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+template/base/tasks/config/watch.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+template/base/tasks/pipeline.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+template/base/tasks/register/build.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+template/base/tasks/register/buildProd.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+template/base/tasks/register/compileAssets.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+template/base/tasks/register/default.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+template/base/tasks/register/linkAssets.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+template/base/tasks/register/linkAssetsBuild.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+template/base/tasks/register/linkAssetsBuildProd.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+template/base/tasks/register/prod.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+template/base/tasks/register/syncAssets.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "coffee-script": {
+    "register": true
+  }
+}

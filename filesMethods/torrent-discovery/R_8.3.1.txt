@@ -1,0 +1,110 @@
+------------------------------------------
+index.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: debug
+Methods Called:
+   - main_method*
+
+Library: bittorrent-dht/client
+Methods Called:
+   - main_method*
+
+Library: xtend
+Methods Called:
+   - main_method*
+
+Library: inherits
+Methods Called:
+   - main_method*
+
+Library: run-parallel
+Methods Called:
+   - main_method*
+
+Library: bittorrent-tracker/client
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/announce.js
+------------------------------------------
+Library: bittorrent-dht
+Methods Called:
+   - main_method*
+
+Library: randombytes
+Methods Called:
+   - main_method*
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/basic.js
+------------------------------------------
+Library: bittorrent-dht
+Methods Called:
+   - main_method*
+
+Library: randombytes
+Methods Called:
+   - main_method*
+
+Library: tape
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/reuse-dht.js
+------------------------------------------
+Library: bittorrent-dht
+Methods Called:
+   - main_method*
+
+Library: randombytes
+Methods Called:
+   - main_method*
+
+Library: tape
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "events": {
+    "EventEmitter": true
+  },
+  "debug": {
+    "main_method*": true
+  },
+  "bittorrent-dht/client": {
+    "main_method*": true
+  },
+  "xtend": {
+    "main_method*": true
+  },
+  "inherits": {
+    "main_method*": true
+  },
+  "run-parallel": {
+    "main_method*": true
+  },
+  "bittorrent-tracker/client": {
+    "main_method*": true
+  },
+  "bittorrent-dht": {
+    "main_method*": true
+  },
+  "randombytes": {
+    "main_method*": true
+  },
+  "tape": {
+    "main_method*": true
+  }
+}

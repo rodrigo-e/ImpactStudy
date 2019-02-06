@@ -1,0 +1,66 @@
+------------------------------------------
+example/index.js
+------------------------------------------
+Library: mongoose
+Methods Called:
+   - connect
+   - models
+
+------------------------------------------
+example/models.js
+------------------------------------------
+Library: mongoose
+Methods Called:
+   - Schema
+   - model
+
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: mongoose
+Methods Called:
+   - model
+   - models
+
+------------------------------------------
+lib/utils.js
+------------------------------------------
+Library: mongoose
+Methods Called:
+   - models
+
+------------------------------------------
+src/index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+src/utils.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/models.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 5: Unexpected token
+------------------------------------------
+test/update-self-schema.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+------------------------------------------
+test/update-source.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token
+
+All of the Methods:
+{
+  "mongoose": {
+    "connect": true,
+    "models": true,
+    "Schema": true,
+    "model": true
+  }
+}

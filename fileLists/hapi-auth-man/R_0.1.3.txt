@@ -1,0 +1,3 @@
+b632c58c4ae04b9546afba3811774c80f765077b
+hapi-auth-man.js
+test/index.js

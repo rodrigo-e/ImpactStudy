@@ -1,0 +1,61 @@
+------------------------------------------
+from/dc.js
+------------------------------------------
+Library: y-emitter
+Methods Called:
+   - main_method*
+   - Hybrid
+   - chain
+
+------------------------------------------
+from/ws.js
+------------------------------------------
+Library: y-emitter
+Methods Called:
+   - main_method*
+   - Hybrid
+   - chain
+
+------------------------------------------
+from/wsc.js
+------------------------------------------
+Library: y-emitter
+Methods Called:
+   - main_method*
+   - Hybrid
+   - chain
+
+------------------------------------------
+main.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+ws.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+ws/browser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+ws/node.js
+------------------------------------------
+Library: ws
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "y-emitter": {
+    "main_method*": true,
+    "Hybrid": true,
+    "chain": true
+  },
+  "ws": {
+    "main_method*": true
+  }
+}

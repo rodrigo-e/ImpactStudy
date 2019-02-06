@@ -1,0 +1,11 @@
+9e6609a8c854c1a32a060b4db4344d5ff2960213
+lib/acceptrequests.js
+lib/checktoken.js
+lib/enablemobile.js
+lib/keepalive.js
+lib/launch.js
+lib/launchteamspeak.js
+lib/listenchat.js
+lib/reconnectteamspeak.js
+lib/sendtoken.js
+lib/updatetwofactorcode.js

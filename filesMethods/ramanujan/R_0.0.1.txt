@@ -1,0 +1,26 @@
+------------------------------------------
+api/api.js
+------------------------------------------
+Library: hapi
+Methods Called:
+   - Server
+
+------------------------------------------
+base/base.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+front/front.js
+------------------------------------------
+Library: hapi
+Methods Called:
+   - Server
+
+
+All of the Methods:
+{
+  "hapi": {
+    "Server": true
+  }
+}

@@ -1,0 +1,49 @@
+------------------------------------------
+index.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+Library: st
+Methods Called:
+   - main_method*
+
+Library: routes-router
+Methods Called:
+   - main_method*
+
+Library: ls-stream
+Methods Called:
+   - main_method*
+
+Library: send-data/html
+Methods Called:
+   - main_method*
+
+Library: mime
+Methods Called:
+   - lookup
+
+
+All of the Methods:
+{
+  "http": {
+    "createServer": true
+  },
+  "st": {
+    "main_method*": true
+  },
+  "routes-router": {
+    "main_method*": true
+  },
+  "ls-stream": {
+    "main_method*": true
+  },
+  "send-data/html": {
+    "main_method*": true
+  },
+  "mime": {
+    "lookup": true
+  }
+}

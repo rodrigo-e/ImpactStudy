@@ -1,0 +1,206 @@
+------------------------------------------
+api/models/group.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/models/organization.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/models/profile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/models/role.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/models/user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/initialize.js
+------------------------------------------
+Library: async
+Methods Called:
+   - auto
+   - map
+
+------------------------------------------
+lib/response.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/responses/flatten.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - each
+   - mapKeys
+   - isArray
+   - keys
+   - pick
+   - omit
+   - isString
+   - isObject
+   - pluck
+   - find
+   - merge
+
+------------------------------------------
+lib/utils/build-associations.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - each
+   - keys
+   - pick
+   - findKey
+
+------------------------------------------
+lib/utils/build-models.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - each
+   - defaults
+   - extend
+   - pick
+   - functions
+   - omit
+
+------------------------------------------
+lib/utils/log.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/utils/map-datatypes.js
+------------------------------------------
+Library: sequelize
+Methods Called:
+   - STRING
+   - TEXT
+   - INTEGER
+   - FLOAT
+   - DATE
+   - BOOLEAN
+   - ARRAY
+   - JSON
+   - ENUM
+
+------------------------------------------
+test/bootstrap.test.js
+------------------------------------------
+Library: sails
+Methods Called:
+   - Sails
+
+Library: barrels
+Methods Called:
+   - populate
+
+------------------------------------------
+test/fixtures/group.js
+------------------------------------------
+Library: faker
+Methods Called:
+   - company
+
+------------------------------------------
+test/fixtures/organization.js
+------------------------------------------
+Library: faker
+Methods Called:
+   - company
+
+------------------------------------------
+test/fixtures/role.js
+------------------------------------------
+Library: faker
+Methods Called:
+   - name
+
+------------------------------------------
+test/fixtures/user.js
+------------------------------------------
+Library: faker
+Methods Called:
+   - name
+   - internet
+
+------------------------------------------
+test/unit/hook.test.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+------------------------------------------
+test/unit/response.test.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - expect
+
+
+All of the Methods:
+{
+  "async": {
+    "auto": true,
+    "map": true
+  },
+  "lodash": {
+    "each": true,
+    "mapKeys": true,
+    "isArray": true,
+    "keys": true,
+    "pick": true,
+    "omit": true,
+    "isString": true,
+    "isObject": true,
+    "pluck": true,
+    "find": true,
+    "merge": true,
+    "findKey": true,
+    "defaults": true,
+    "extend": true,
+    "functions": true
+  },
+  "sequelize": {
+    "STRING": true,
+    "TEXT": true,
+    "INTEGER": true,
+    "FLOAT": true,
+    "DATE": true,
+    "BOOLEAN": true,
+    "ARRAY": true,
+    "JSON": true,
+    "ENUM": true
+  },
+  "sails": {
+    "Sails": true
+  },
+  "barrels": {
+    "populate": true
+  },
+  "faker": {
+    "company": true,
+    "name": true,
+    "internet": true
+  },
+  "chai": {
+    "expect": true
+  }
+}

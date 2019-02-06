@@ -1,0 +1,80 @@
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/attributes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/hooks.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/instance-methods.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/permissions.js
+------------------------------------------
+Library: generate-js
+Methods Called:
+   - generate
+
+------------------------------------------
+lib/permitter.js
+------------------------------------------
+Library: generate-js
+Methods Called:
+   - generate
+
+------------------------------------------
+test/associations/heirs.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/index.js
+------------------------------------------
+Library: generate-js
+Methods Called:
+   - generate
+
+Library: sequelize
+Methods Called:
+   - create
+
+------------------------------------------
+test/methods/authorized-permit.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/methods/find-permitted.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/methods/is-permitted-to.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/teams/index.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "generate-js": {
+    "generate": true
+  },
+  "sequelize": {
+    "create": true
+  }
+}

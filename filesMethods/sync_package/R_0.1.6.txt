@@ -1,0 +1,53 @@
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/sync_package.js
+------------------------------------------
+Library: request
+Methods Called:
+   - get
+   - main_method*
+   - put
+
+Library: eventproxy
+Methods Called:
+   - main_method*
+
+Library: npm
+Methods Called:
+   - load
+   - config
+
+Library: colors
+Methods Called:
+   - mode
+
+Library: npm-fullfat-registry
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "request": {
+    "get": true,
+    "main_method*": true,
+    "put": true
+  },
+  "eventproxy": {
+    "main_method*": true
+  },
+  "npm": {
+    "load": true,
+    "config": true
+  },
+  "colors": {
+    "mode": true
+  },
+  "npm-fullfat-registry": {
+    "main_method*": true
+  }
+}

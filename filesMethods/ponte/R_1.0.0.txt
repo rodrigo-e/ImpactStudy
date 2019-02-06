@@ -1,0 +1,280 @@
+------------------------------------------
+examples/basic.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/cli.js
+------------------------------------------
+Library: commander
+Methods Called:
+   - Command
+
+Library: path
+Methods Called:
+   - resolve
+
+------------------------------------------
+lib/coap.js
+------------------------------------------
+Library: coap
+Methods Called:
+   - createServer
+
+Library: callback-stream
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/http.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+Library: callback-stream
+Methods Called:
+   - main_method*
+
+Library: bunyan
+Methods Called:
+   - stdSerializers
+
+Library: st
+Methods Called:
+   - main_method*
+
+Library: corsify
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/persistence.js
+------------------------------------------
+Library: mosca
+Methods Called:
+   - persistence
+
+------------------------------------------
+lib/ponte.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+Library: async
+Methods Called:
+   - eachSeries
+
+Library: util
+Methods Called:
+   - inherits
+
+Library: xtend
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/servers.js
+------------------------------------------
+Library: mosca
+Methods Called:
+   - Server
+
+Library: ascoltatori
+Methods Called:
+   - build
+
+Library: bunyan
+Methods Called:
+   - createLogger
+
+Library: xtend
+Methods Called:
+   - main_method*
+
+------------------------------------------
+public/mqttws31.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/cli.js
+------------------------------------------
+Library: async
+Methods Called:
+   - parallel
+
+Library: tmp
+Methods Called:
+   - dir
+
+Library: mosca
+Methods Called:
+   - persistence
+
+------------------------------------------
+test/coap.js
+------------------------------------------
+Library: mqtt
+Methods Called:
+   - connect
+
+Library: coap
+Methods Called:
+   - request
+
+Library: callback-stream
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/common.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/http_spec.js
+------------------------------------------
+Library: supertest
+Methods Called:
+   - main_method*
+
+Library: mqtt
+Methods Called:
+   - connect
+
+------------------------------------------
+test/libraries_inside_hidden_dir.js
+------------------------------------------
+Library: supertest
+Methods Called:
+   - main_method*
+
+Library: async
+Methods Called:
+   - map
+
+Library: fs
+Methods Called:
+   - unlinkSync
+   - rmdirSync
+   - createWriteStream
+   - createReadStream
+   - mkdirSync
+   - readFileSync
+
+------------------------------------------
+test/mqtt.js
+------------------------------------------
+Library: supertest
+Methods Called:
+   - main_method*
+
+Library: mqtt
+Methods Called:
+   - connect
+
+------------------------------------------
+test/mqtt_over_websocket.js
+------------------------------------------
+Library: supertest
+Methods Called:
+   - main_method*
+
+Library: mqtt
+Methods Called:
+   - connect
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+test/sample_config.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/sample_config_mongodb.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/sample_config_mqtt_redis.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/sample_config_redis.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "commander": {
+    "Command": true
+  },
+  "path": {
+    "resolve": true
+  },
+  "coap": {
+    "createServer": true,
+    "request": true
+  },
+  "callback-stream": {
+    "main_method*": true
+  },
+  "http": {
+    "createServer": true
+  },
+  "bunyan": {
+    "stdSerializers": true,
+    "createLogger": true
+  },
+  "st": {
+    "main_method*": true
+  },
+  "corsify": {
+    "main_method*": true
+  },
+  "mosca": {
+    "persistence": true,
+    "Server": true
+  },
+  "events": {
+    "EventEmitter": true
+  },
+  "async": {
+    "eachSeries": true,
+    "parallel": true,
+    "map": true
+  },
+  "util": {
+    "inherits": true
+  },
+  "xtend": {
+    "main_method*": true
+  },
+  "ascoltatori": {
+    "build": true
+  },
+  "tmp": {
+    "dir": true
+  },
+  "mqtt": {
+    "connect": true
+  },
+  "supertest": {
+    "main_method*": true
+  },
+  "fs": {
+    "unlinkSync": true,
+    "rmdirSync": true,
+    "createWriteStream": true,
+    "createReadStream": true,
+    "mkdirSync": true,
+    "readFileSync": true
+  }
+}

@@ -1,0 +1,129 @@
+------------------------------------------
+generators/app/index.js
+------------------------------------------
+Library: yeoman-generator
+Methods Called:
+   - generators
+
+Library: chalk
+Methods Called:
+   - red
+   - yellow
+
+Library: yosay
+Methods Called:
+   - main_method*
+
+------------------------------------------
+generators/app/templates/src/main/webapp/scripts/app/angular-ui/_angular-ui.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+generators/app/templates/src/main/webapp/scripts/app/angular-ui/_angular-ui.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: path
+Methods Called:
+   - resolve
+
+Library: gulp
+Methods Called:
+   - task
+   - src
+
+Library: gulp-eslint
+Methods Called:
+   - main_method*
+   - format
+   - failAfterError
+
+Library: gulp-exclude-gitignore
+Methods Called:
+   - main_method*
+
+Library: gulp-mocha
+Methods Called:
+   - main_method*
+
+Library: gulp-istanbul
+Methods Called:
+   - main_method*
+   - hookRequire
+   - writeReports
+
+Library: gulp-nsp
+Methods Called:
+   - main_method*
+
+Library: gulp-plumber
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/app.js
+------------------------------------------
+Library: yeoman-generator
+Methods Called:
+   - test
+
+Library: path
+Methods Called:
+   - join
+
+Library: yeoman-assert
+Methods Called:
+   - file
+
+
+All of the Methods:
+{
+  "yeoman-generator": {
+    "generators": true,
+    "test": true
+  },
+  "chalk": {
+    "red": true,
+    "yellow": true
+  },
+  "yosay": {
+    "main_method*": true
+  },
+  "path": {
+    "resolve": true,
+    "join": true
+  },
+  "gulp": {
+    "task": true,
+    "src": true
+  },
+  "gulp-eslint": {
+    "main_method*": true,
+    "format": true,
+    "failAfterError": true
+  },
+  "gulp-exclude-gitignore": {
+    "main_method*": true
+  },
+  "gulp-mocha": {
+    "main_method*": true
+  },
+  "gulp-istanbul": {
+    "main_method*": true,
+    "hookRequire": true,
+    "writeReports": true
+  },
+  "gulp-nsp": {
+    "main_method*": true
+  },
+  "gulp-plumber": {
+    "main_method*": true
+  },
+  "yeoman-assert": {
+    "file": true
+  }
+}

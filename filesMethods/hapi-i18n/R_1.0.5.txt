@@ -1,0 +1,77 @@
+------------------------------------------
+index.js
+------------------------------------------
+Library: i18n
+Methods Called:
+   - configure
+   - init
+
+Library: boom
+Methods Called:
+   - notFound
+
+Library: hoek
+Methods Called:
+   - merge
+
+Library: lodash
+Methods Called:
+   - includes
+
+------------------------------------------
+test/test.js
+------------------------------------------
+Library: should
+Methods Called:
+   - not
+   - throws
+
+Library: hapi
+Methods Called:
+   - Server
+
+Library: path
+Methods Called:
+   - join
+
+Library: joi
+Methods Called:
+   - string
+
+Library: fs
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "i18n": {
+    "configure": true,
+    "init": true
+  },
+  "boom": {
+    "notFound": true
+  },
+  "hoek": {
+    "merge": true
+  },
+  "lodash": {
+    "includes": true
+  },
+  "should": {
+    "not": true,
+    "throws": true
+  },
+  "hapi": {
+    "Server": true
+  },
+  "path": {
+    "join": true
+  },
+  "joi": {
+    "string": true
+  },
+  "fs": {
+    "main_method*": true
+  }
+}

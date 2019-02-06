@@ -1,0 +1,12 @@
+a86d7cac3398da7f84bd29548e502a374f5cf898
+examples/sails.config.js
+index.js
+lib/appHelper.js
+lib/httpHelper.js
+lib/sails.io.js
+lib/socketHelper.js
+lib/urlHelper.js
+scripts/build.js
+scripts/buildAndLift.js
+scripts/clean.js
+scripts/lift.js

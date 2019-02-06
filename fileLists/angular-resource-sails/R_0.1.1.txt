@@ -1,0 +1,6 @@
+47d242667d5aa4051d09bdd4f8af19b0b3dc17da
+lib/sails.io.js
+spec/mockSocket.js
+spec/sailsResource.spec.js
+spec/sailsResourceMultiple.spec.js
+src/sailsResource.js

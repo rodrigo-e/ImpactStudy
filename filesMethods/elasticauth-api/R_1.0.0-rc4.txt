@@ -1,0 +1,204 @@
+------------------------------------------
+example/index.js
+------------------------------------------
+Library: hapi
+Methods Called:
+   - Server
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/auth.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - partial
+
+------------------------------------------
+lib/controllers/accountController.js
+------------------------------------------
+Library: joi
+Methods Called:
+   - object
+   - string
+
+------------------------------------------
+lib/controllers/tokenController.js
+------------------------------------------
+Library: joi
+Methods Called:
+   - string
+
+------------------------------------------
+lib/dataManagers/accountManager.js
+------------------------------------------
+Library: ../models/account
+Methods Called:
+   - create
+   - destroy
+   - get
+   - query
+
+------------------------------------------
+lib/dataManagers/credentialManager.js
+------------------------------------------
+Library: ../models/credential
+Methods Called:
+   - create
+   - destroy
+
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: ./pluginDependencies
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/models/account.js
+------------------------------------------
+Library: vogels
+Methods Called:
+   - define
+   - types
+
+------------------------------------------
+lib/models/credential.js
+------------------------------------------
+Library: vogels
+Methods Called:
+   - define
+
+------------------------------------------
+lib/models/token.js
+------------------------------------------
+Library: jsonwebtoken
+Methods Called:
+   - sign
+   - verify
+
+------------------------------------------
+lib/pluginDependencies.js
+------------------------------------------
+Library: bunyan
+Methods Called:
+   - serializers
+   - createLogger
+
+------------------------------------------
+lib/responses.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - merge
+   - isArray
+   - map
+   - template
+   - partial
+
+------------------------------------------
+lib/routes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/accountManager-test.js
+------------------------------------------
+Library: code
+Methods Called:
+   - expect
+
+------------------------------------------
+test/accountsController-test.js
+------------------------------------------
+Library: code
+Methods Called:
+   - expect
+
+------------------------------------------
+test/index-test.js
+------------------------------------------
+Library: code
+Methods Called:
+   - expect
+
+------------------------------------------
+test/responses-test.js
+------------------------------------------
+Library: code
+Methods Called:
+   - expect
+
+------------------------------------------
+test/test-helper.js
+------------------------------------------
+Library: vogels
+Methods Called:
+   - AWS
+   - dynamoDriver
+
+------------------------------------------
+test/token-test.js
+------------------------------------------
+Library: code
+Methods Called:
+   - expect
+
+------------------------------------------
+test/tokenController-test.js
+------------------------------------------
+Library: code
+Methods Called:
+   - expect
+
+
+All of the Methods:
+{
+  "hapi": {
+    "Server": true
+  },
+  "lodash": {
+    "partial": true,
+    "merge": true,
+    "isArray": true,
+    "map": true,
+    "template": true
+  },
+  "joi": {
+    "object": true,
+    "string": true
+  },
+  "../models/account": {
+    "create": true,
+    "destroy": true,
+    "get": true,
+    "query": true
+  },
+  "../models/credential": {
+    "create": true,
+    "destroy": true
+  },
+  "./pluginDependencies": {
+    "main_method*": true
+  },
+  "vogels": {
+    "define": true,
+    "types": true,
+    "AWS": true,
+    "dynamoDriver": true
+  },
+  "jsonwebtoken": {
+    "sign": true,
+    "verify": true
+  },
+  "bunyan": {
+    "serializers": true,
+    "createLogger": true
+  },
+  "code": {
+    "expect": true
+  }
+}

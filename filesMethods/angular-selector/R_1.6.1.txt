@@ -1,0 +1,23 @@
+------------------------------------------
+Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/angular-selector.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/angular-selector.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/angular-selector.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{}

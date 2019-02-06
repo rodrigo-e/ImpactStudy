@@ -1,0 +1,5 @@
+9975838c516963d6a78b260ade141a4a33088ab3
+tests/cycles/bar.js
+tests/cycles/foo.js
+tests/success/simple/bas.js
+tests/success/simple/foo.js

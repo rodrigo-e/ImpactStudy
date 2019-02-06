@@ -1,0 +1,10 @@
+126d4bc019fa6245873e34e025b7be2be99f6a92
+index.js
+lib/httpHelper.js
+lib/sails.io.js
+lib/socketHelper.js
+lib/urlHelper.js
+scripts/build.js
+scripts/buildAndLift.js
+scripts/clean.js
+scripts/lift.js

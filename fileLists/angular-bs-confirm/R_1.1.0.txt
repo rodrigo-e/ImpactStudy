@@ -1,0 +1,2 @@
+230783aa24982432884ac0040632e71ed39d4ceb
+angular-bs-confirm.js

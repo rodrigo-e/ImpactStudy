@@ -1,0 +1,24 @@
+------------------------------------------
+lib/passport-local-sequelize.js
+------------------------------------------
+Library: util
+Methods Called:
+   - format
+
+------------------------------------------
+test/all_spec.js
+------------------------------------------
+Library: sequelize
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "util": {
+    "format": true
+  },
+  "sequelize": {
+    "main_method*": true
+  }
+}

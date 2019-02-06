@@ -1,0 +1,7 @@
+15887d25c45396e2f2128084f5e7b87955c19d07
+generators/app/index.js
+generators/app/templates/src/main/webapp/scripts/app/fortune/_fortune.controller.js
+generators/app/templates/src/main/webapp/scripts/app/fortune/_fortune.js
+generators/app/templates/src/main/webapp/scripts/app/fortune/_fortune.service.js
+gulpfile.js
+test/app.js

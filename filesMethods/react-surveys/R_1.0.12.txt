@@ -1,0 +1,79 @@
+------------------------------------------
+Gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+
+Library: browserify
+Methods Called:
+   - main_method*
+
+Library: vinyl-source-stream
+Methods Called:
+   - main_method*
+
+Library: gulp-babel
+Methods Called:
+   - main_method*
+
+------------------------------------------
+src/OptionEditor.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 20: Unexpected token <
+------------------------------------------
+src/index.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 148: Unexpected token <
+------------------------------------------
+src/types/checkbox.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 115: Unexpected token <
+------------------------------------------
+src/types/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/types/radio.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 106: Unexpected token <
+------------------------------------------
+src/types/select.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 108: Unexpected token <
+------------------------------------------
+src/types/text.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 73: Unexpected token <
+------------------------------------------
+surveys.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 7: Unexpected token <
+
+All of the Methods:
+{
+  "gulp": {
+    "task": true,
+    "src": true,
+    "dest": true
+  },
+  "browserify": {
+    "main_method*": true
+  },
+  "vinyl-source-stream": {
+    "main_method*": true
+  },
+  "gulp-babel": {
+    "main_method*": true
+  }
+}

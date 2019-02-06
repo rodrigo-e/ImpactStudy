@@ -1,0 +1,608 @@
+------------------------------------------
+client/bower/angular-mocks/angular-mocks.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/bower/angular-mocks/ngAnimateMock.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/bower/angular-mocks/ngMock.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/bower/angular-mocks/ngMockE2E.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/bower/angular-sails/dist/angular-sails.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/bower/angular-sails/dist/angular-sails.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/bower/angular-sails/files.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/bower/angular-sails/karma.conf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/bower/angular-sails/src/ngSails.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/bower/angular-sails/src/service/angular-sails.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/bower/angular/angular.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/bower/angular/angular.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/bower/angular/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/bower/sails.io.js/checkGitStatus.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/bower/sails.io.js/dist/sails.io.js
+------------------------------------------
+Library: request
+Methods Called:
+   - get
+
+------------------------------------------
+client/bower/sails.io.js/sails.io.js
+------------------------------------------
+Library: request
+Methods Called:
+   - get
+
+------------------------------------------
+client/src/app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/src/controllers/link.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/src/controllers/main.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/src/controllers/populate.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/src/controllers/simple.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/src/models/AddressModel.js
+------------------------------------------
+Library: angular-sails-models
+Methods Called:
+   - main_method*
+
+------------------------------------------
+client/src/models/UserModel.js
+------------------------------------------
+Library: angular-sails-models
+Methods Called:
+   - main_method*
+
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+   - start
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/api/controllers/AddressController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/api/controllers/UserController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/api/models/Address.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/api/models/User.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/api/policies/sessionAuth.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/api/responses/badRequest.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/api/responses/forbidden.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/api/responses/notFound.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/api/responses/ok.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/api/responses/serverError.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/assets/js/dependencies/sails.io.js
+------------------------------------------
+Library: request
+Methods Called:
+   - get
+
+------------------------------------------
+server/config/blueprints.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/config/bootstrap.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/config/connections.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/config/cors.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/config/csrf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/config/env/development.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/config/env/production.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/config/globals.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/config/http.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/config/i18n.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/config/log.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/config/models.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/config/policies.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/config/routes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/config/session.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/config/sockets.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/config/views.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/tasks/config/clean.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/tasks/config/coffee.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/tasks/config/concat.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/tasks/config/copy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/tasks/config/cssmin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/tasks/config/jst.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/tasks/config/less.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/tasks/config/sails-linker.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/tasks/config/sync.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/tasks/config/uglify.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/tasks/config/watch.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/tasks/pipeline.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/tasks/register/build.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/tasks/register/buildProd.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/tasks/register/compileAssets.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/tasks/register/default.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/tasks/register/linkAssets.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/tasks/register/linkAssetsBuild.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/tasks/register/linkAssetsBuildProd.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/tasks/register/prod.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server/tasks/register/syncAssets.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/BaseModel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/actions/create.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/actions/destroy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/actions/post.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/actions/update.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/model_methods/_processingItemAssociation.js
+------------------------------------------
+Library: ../utils
+Methods Called:
+   - checkCriteria
+
+------------------------------------------
+src/model_methods/_processingModelAssociation.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/model_methods/_processingPopulate.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/model_methods/cache.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/model_methods/fetch.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/model_methods/fetchOne.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/model_methods/fetchOneById.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/model_methods/fetchOneByUrl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/model_methods/getAll.js
+------------------------------------------
+Library: ../utils
+Methods Called:
+   - changeCriteriaAll
+
+------------------------------------------
+src/model_methods/getOne.js
+------------------------------------------
+Library: ../utils
+Methods Called:
+   - changeCriteriaOne
+
+------------------------------------------
+src/model_methods/getOneById.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/model_methods/linkItem.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - find
+
+------------------------------------------
+src/model_methods/linkModel.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - find
+
+------------------------------------------
+src/model_methods/populate.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - find
+
+------------------------------------------
+src/model_methods/populateModel.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/sockets/created.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/sockets/destroyed.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - compact
+   - remove
+
+------------------------------------------
+src/sockets/updated.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - assign
+
+------------------------------------------
+src/utils.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/protractor.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/specs/_get.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - use
+   - expect
+
+------------------------------------------
+test/specs/_link.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - use
+   - expect
+
+------------------------------------------
+test/specs/_populate.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - use
+   - expect
+
+------------------------------------------
+test/specs/_simple.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - use
+   - expect
+
+------------------------------------------
+test/test.js
+------------------------------------------
+Library: chai
+Methods Called:
+   - use
+   - expect
+
+
+All of the Methods:
+{
+  "request": {
+    "get": true
+  },
+  "angular-sails-models": {
+    "main_method*": true
+  },
+  "gulp": {
+    "task": true,
+    "src": true,
+    "dest": true,
+    "start": true
+  },
+  "../utils": {
+    "checkCriteria": true,
+    "changeCriteriaAll": true,
+    "changeCriteriaOne": true
+  },
+  "lodash": {
+    "find": true,
+    "compact": true,
+    "remove": true,
+    "assign": true
+  },
+  "chai": {
+    "use": true,
+    "expect": true
+  }
+}

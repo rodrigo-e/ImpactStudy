@@ -1,0 +1,3 @@
+b1bdb2ad0278c6731e0ef3db2b39de3a77aa1c0f
+generators/app/index.js
+generators/entity/index.js

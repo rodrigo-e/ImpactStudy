@@ -1,0 +1,7 @@
+467220cbe65689eeb2245537ad7fe00917ba056a
+bin/start.js
+chrome/background.js
+index.js
+lib/Torrent.js
+lib/TorrentManager.js
+test/basic.js

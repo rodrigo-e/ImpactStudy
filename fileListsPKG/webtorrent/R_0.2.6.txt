@@ -1,0 +1,8 @@
+685e3d011c67a1c41f91b5a58c9fb147fd6e0ee8
+bin/cmd.js
+index.js
+lib/app.js
+lib/storage.js
+lib/torrent-manager.js
+lib/torrent.js
+test/basic.js

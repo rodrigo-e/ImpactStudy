@@ -1,0 +1,533 @@
+------------------------------------------
+Gruntfile.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/controllers/AppController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/controllers/ApplicationController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/controllers/AuthController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/controllers/LegacyController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/controllers/MessageController.js
+------------------------------------------
+Library: sails/lib/hooks/blueprints/actionUtil
+Methods Called:
+   - parseValues
+   - requirePk
+
+------------------------------------------
+api/controllers/SettingsController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/controllers/UserController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/models/Application.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/models/LegacyConnection.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/models/Message.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/models/Passport.js
+------------------------------------------
+Library: bcryptjs
+Methods Called:
+   - hash
+   - compare
+
+------------------------------------------
+api/models/Settings.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/models/User.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/policies/bearerAuth.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/policies/passport.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/policies/sender.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/policies/sessionAuth.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/policies/user.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/responses/badRequest.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/responses/forbidden.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/responses/notFound.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/responses/ok.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/responses/serverError.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/services/legacyIdProvider.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/services/legacyUserStatusService.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/services/locationService.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/services/passport.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/services/protocols/bearer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/services/protocols/cas.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/services/protocols/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/services/protocols/local.js
+------------------------------------------
+Library: validator
+Methods Called:
+   - isEmail
+
+Library: crypto
+Methods Called:
+   - randomBytes
+
+------------------------------------------
+api/services/protocols/oauth.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/services/protocols/oauth2.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/services/protocols/openid.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+api/services/userImageService.js
+------------------------------------------
+Library: path
+Methods Called:
+   - resolve
+
+Library: fs
+Methods Called:
+   - symlink
+
+Library: http-request
+Methods Called:
+   - get
+
+Library: gravatar
+Methods Called:
+   - url
+
+Library: querystring
+Methods Called:
+   - escape
+
+Library: shortid
+Methods Called:
+   - generate
+
+------------------------------------------
+app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+assets/js/app.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+assets/js/controllers/chatController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+assets/js/controllers/messageController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+assets/js/controllers/settingsController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+assets/js/controllers/userController.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+assets/js/dependencies/sails.io.js
+------------------------------------------
+Library: request
+Methods Called:
+   - get
+
+------------------------------------------
+assets/js/directives/autoFocus.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+assets/js/filters/embedLinky.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+assets/js/services/appService.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+assets/js/services/chatService.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+assets/js/services/messageService.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+assets/js/services/notificationService.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+assets/js/services/settingsService.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+assets/js/services/userService.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/blueprints.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/bootstrap.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/connections.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/cors.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/csrf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/env/development.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/env/production.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/globals.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/http.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/i18n.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/log.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/models.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/passport.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/policies.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/routes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/session.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/sockets.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/views.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/config/bower.js
+------------------------------------------
+Library: path
+Methods Called:
+   - dirname
+
+------------------------------------------
+tasks/config/clean.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/config/coffee.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/config/concat.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/config/copy.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/config/cssmin.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/config/jst.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/config/less.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/config/sails-linker.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/config/sync.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/config/uglify.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/config/watch.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/pipeline.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/register/build.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/register/buildProd.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/register/compileAssets.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/register/default.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/register/linkAssets.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/register/linkAssetsBuild.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/register/linkAssetsBuildProd.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/register/prod.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/register/syncAssets.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "sails/lib/hooks/blueprints/actionUtil": {
+    "parseValues": true,
+    "requirePk": true
+  },
+  "bcryptjs": {
+    "hash": true,
+    "compare": true
+  },
+  "validator": {
+    "isEmail": true
+  },
+  "crypto": {
+    "randomBytes": true
+  },
+  "path": {
+    "resolve": true,
+    "dirname": true
+  },
+  "fs": {
+    "symlink": true
+  },
+  "http-request": {
+    "get": true
+  },
+  "gravatar": {
+    "url": true
+  },
+  "querystring": {
+    "escape": true
+  },
+  "shortid": {
+    "generate": true
+  },
+  "request": {
+    "get": true
+  }
+}

@@ -1,0 +1,57 @@
+------------------------------------------
+app.js
+------------------------------------------
+Library: angular
+Methods Called:
+   - module
+
+------------------------------------------
+build/bundle.js
+------------------------------------------
+Library: angular
+Methods Called:
+   - isDefined
+   - isFunction
+   - isString
+   - isObject
+   - isArray
+   - forEach
+   - extend
+   - copy
+   - module
+   - toJson
+   - fromJson
+   - equals
+   - identity
+   - resumeBootstrap
+   - resumeDeferredBootstrap
+   - element
+   - $$minErr
+   - $interpolateMinErr
+   - noop
+
+
+All of the Methods:
+{
+  "angular": {
+    "module": true,
+    "isDefined": true,
+    "isFunction": true,
+    "isString": true,
+    "isObject": true,
+    "isArray": true,
+    "forEach": true,
+    "extend": true,
+    "copy": true,
+    "toJson": true,
+    "fromJson": true,
+    "equals": true,
+    "identity": true,
+    "resumeBootstrap": true,
+    "resumeDeferredBootstrap": true,
+    "element": true,
+    "$$minErr": true,
+    "$interpolateMinErr": true,
+    "noop": true
+  }
+}

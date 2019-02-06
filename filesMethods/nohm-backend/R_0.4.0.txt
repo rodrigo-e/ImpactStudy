@@ -1,0 +1,77 @@
+------------------------------------------
+assets/js/bootstrap.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+assets/js/bootstrap.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+assets/js/html5shiv.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+assets/js/jade.min.js
+------------------------------------------
+Library: ./nodes
+Methods Called:
+   - length
+   - undefined
+   - i
+   - Block
+   - Text
+   - Case
+   - Code
+   - BlockComment
+   - Comment
+   - Doctype
+   - Filter
+   - Each
+   - Literal
+   - Mixin
+   - Tag
+
+------------------------------------------
+assets/js/jquery.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+assets/js/spine.ajax.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+assets/js/spine.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+server.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "./nodes": {
+    "length": true,
+    "undefined": true,
+    "i": true,
+    "Block": true,
+    "Text": true,
+    "Case": true,
+    "Code": true,
+    "BlockComment": true,
+    "Comment": true,
+    "Doctype": true,
+    "Filter": true,
+    "Each": true,
+    "Literal": true,
+    "Mixin": true,
+    "Tag": true
+  }
+}

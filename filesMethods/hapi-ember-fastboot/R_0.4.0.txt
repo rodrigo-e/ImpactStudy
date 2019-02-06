@@ -1,0 +1,81 @@
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: boom
+Methods Called:
+   - badImplementation
+
+Library: fastboot
+Methods Called:
+   - main_method*
+
+Library: hoek
+Methods Called:
+   - assert
+
+Library: joi
+Methods Called:
+   - object
+   - string
+   - func
+   - attempt
+
+------------------------------------------
+test/index.js
+------------------------------------------
+Library: boom
+Methods Called:
+   - badImplementation
+
+Library: code
+Methods Called:
+   - expect
+
+Library: hapi
+Methods Called:
+   - Server
+
+Library: hoek
+Methods Called:
+   - ignore
+
+Library: lab
+Methods Called:
+   - script
+
+Library: path
+Methods Called:
+   - join
+
+
+All of the Methods:
+{
+  "boom": {
+    "badImplementation": true
+  },
+  "fastboot": {
+    "main_method*": true
+  },
+  "hoek": {
+    "assert": true,
+    "ignore": true
+  },
+  "joi": {
+    "object": true,
+    "string": true,
+    "func": true,
+    "attempt": true
+  },
+  "code": {
+    "expect": true
+  },
+  "hapi": {
+    "Server": true
+  },
+  "lab": {
+    "script": true
+  },
+  "path": {
+    "join": true
+  }
+}

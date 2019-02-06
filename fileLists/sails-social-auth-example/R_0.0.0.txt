@@ -1,0 +1,16 @@
+6857a177d7172bce8345e765a9ff1a7eaa7d6074
+.app.js
+api/controllers/AuthController.js
+api/controllers/HomeController.js
+api/models/User.js
+api/policies/authenticated.js
+assets/mixins/sails.io.js
+config/adapters.js
+config/application.js
+config/assets.js
+config/bootstrap.js
+config/local.ex.js
+config/locales/english.js
+config/policies.js
+config/routes.js
+config/views.js

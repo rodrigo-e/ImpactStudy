@@ -1,0 +1,55 @@
+------------------------------------------
+example/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+index.js
+------------------------------------------
+Library: classes
+Methods Called:
+   - main_method*
+
+Library: event
+Methods Called:
+   - bind
+
+Library: query
+Methods Called:
+   - main_method*
+
+Library: tap
+Methods Called:
+   - main_method*
+
+------------------------------------------
+karma.conf.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/spec.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "classes": {
+    "main_method*": true
+  },
+  "event": {
+    "bind": true
+  },
+  "query": {
+    "main_method*": true
+  },
+  "tap": {
+    "main_method*": true
+  },
+  "assert": {
+    "main_method*": true
+  }
+}

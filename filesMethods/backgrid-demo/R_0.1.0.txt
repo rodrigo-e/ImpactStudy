@@ -1,0 +1,147 @@
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+
+------------------------------------------
+src/main.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+vendor/js/Backgrid.ColumnManager.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+vendor/js/backbone.js
+------------------------------------------
+Library: underscore
+Methods Called:
+   - once
+   - keys
+   - isEmpty
+   - each
+   - uniqueId
+   - extend
+   - defaults
+   - result
+   - clone
+   - escape
+   - isEqual
+   - has
+   - isObject
+   - method
+   - isArray
+   - isString
+   - bind
+   - invoke
+   - isFunction
+   - pick
+   - isRegExp
+   - map
+   - bindAll
+   - any
+
+------------------------------------------
+vendor/js/backbone.paginator.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+vendor/js/backgrid-filter.js
+------------------------------------------
+Library: 
+Methods Called:
+   - __super__
+
+------------------------------------------
+vendor/js/backgrid-grouped-columns.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+vendor/js/backgrid-orderable-columns.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+vendor/js/backgrid-paginator.js
+------------------------------------------
+Library: 
+Methods Called:
+   - prototype
+
+------------------------------------------
+vendor/js/backgrid-patch.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+vendor/js/backgrid-sizeable-columns.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+vendor/js/backgrid.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+vendor/js/bootstrap.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+vendor/js/jquery.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+vendor/js/underscore.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "gulp": {
+    "task": true,
+    "src": true,
+    "dest": true
+  },
+  "underscore": {
+    "once": true,
+    "keys": true,
+    "isEmpty": true,
+    "each": true,
+    "uniqueId": true,
+    "extend": true,
+    "defaults": true,
+    "result": true,
+    "clone": true,
+    "escape": true,
+    "isEqual": true,
+    "has": true,
+    "isObject": true,
+    "method": true,
+    "isArray": true,
+    "isString": true,
+    "bind": true,
+    "invoke": true,
+    "isFunction": true,
+    "pick": true,
+    "isRegExp": true,
+    "map": true,
+    "bindAll": true,
+    "any": true
+  },
+  "": {
+    "__super__": true,
+    "prototype": true
+  }
+}

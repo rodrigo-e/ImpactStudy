@@ -1,0 +1,5 @@
+6cc1722ed8593055cef64e982bd2dd8b5f6dd8f3
+generators/app/index.js
+generators/app/templates/src/main/webapp/app/blocks/config/_bootstrap-material.config.js
+gulpfile.js
+test/app.js

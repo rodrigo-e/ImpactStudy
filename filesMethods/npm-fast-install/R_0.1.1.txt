@@ -1,0 +1,85 @@
+------------------------------------------
+index.js
+------------------------------------------
+Library: q
+Methods Called:
+   - Promise
+
+Library: async
+Methods Called:
+   - eachLimit
+   - eachSeries
+
+Library: fs-extra
+Methods Called:
+   - existsSync
+   - mkdirsSync
+   - removeSync
+   - move
+   - readdirSync
+   - copy
+
+Library: npm
+Methods Called:
+   - version
+   - load
+   - commands
+
+Library: path
+Methods Called:
+   - join
+   - resolve
+   - sep
+
+Library: pluralize
+Methods Called:
+   - main_method*
+
+Library: semver
+Methods Called:
+   - valid
+   - maxSatisfying
+
+Library: tmp
+Methods Called:
+   - dirSync
+
+
+All of the Methods:
+{
+  "q": {
+    "Promise": true
+  },
+  "async": {
+    "eachLimit": true,
+    "eachSeries": true
+  },
+  "fs-extra": {
+    "existsSync": true,
+    "mkdirsSync": true,
+    "removeSync": true,
+    "move": true,
+    "readdirSync": true,
+    "copy": true
+  },
+  "npm": {
+    "version": true,
+    "load": true,
+    "commands": true
+  },
+  "path": {
+    "join": true,
+    "resolve": true,
+    "sep": true
+  },
+  "pluralize": {
+    "main_method*": true
+  },
+  "semver": {
+    "valid": true,
+    "maxSatisfying": true
+  },
+  "tmp": {
+    "dirSync": true
+  }
+}

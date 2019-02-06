@@ -1,0 +1,239 @@
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/actions/bulk.delete.document.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/actions/bulk.update.document.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/actions/create.document.js
+------------------------------------------
+Library: faction-service
+Methods Called:
+   - ServiceAction
+
+------------------------------------------
+lib/actions/create.schema.js
+------------------------------------------
+Library: faction-service
+Methods Called:
+   - ServiceAction
+   - ServiceError
+
+Library: json-schema-converter
+Methods Called:
+   - to_mongoose_schema
+
+------------------------------------------
+lib/actions/delete.document.js
+------------------------------------------
+Library: faction-service
+Methods Called:
+   - ServiceAction
+   - ServiceError
+
+------------------------------------------
+lib/actions/list.schema.js
+------------------------------------------
+Library: faction-service
+Methods Called:
+   - ServiceAction
+   - ServiceError
+
+------------------------------------------
+lib/actions/query.documents.js
+------------------------------------------
+Library: faction-service
+Methods Called:
+   - ServiceAction
+
+------------------------------------------
+lib/actions/retrieve.document.js
+------------------------------------------
+Library: faction-service
+Methods Called:
+   - ServiceAction
+   - ServiceError
+
+------------------------------------------
+lib/actions/retrieve.schema.js
+------------------------------------------
+Library: faction-service
+Methods Called:
+   - ServiceAction
+   - ServiceError
+
+------------------------------------------
+lib/actions/update.document.js
+------------------------------------------
+Library: faction-service
+Methods Called:
+   - ServiceAction
+   - ServiceError
+
+------------------------------------------
+lib/actions/update.order.js
+------------------------------------------
+Library: faction-service
+Methods Called:
+   - ServiceAction
+   - ServiceError
+
+------------------------------------------
+lib/connection.js
+------------------------------------------
+Library: config
+Methods Called:
+   - get
+
+Library: mongoose
+Methods Called:
+   - connect
+   - disconnect
+   - connection
+
+------------------------------------------
+lib/document.storage.js
+------------------------------------------
+Library: faction-service
+Methods Called:
+   - Service
+
+Library: ./util/query.builder
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/util/customer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/util/query.builder.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/util/query.parser.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/util/schema.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/util/schema.storage.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/actions/create.document.js
+------------------------------------------
+Library: faction-service
+Methods Called:
+   - ServicePayload
+   - Service
+
+Library: assert
+Methods Called:
+   - notEqual
+   - equal
+
+Library: mockgoose
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/actions/delete.document.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/actions/query.documents.js
+------------------------------------------
+Library: faction-service
+Methods Called:
+   - ServicePayload
+   - Service
+
+Library: assert
+Methods Called:
+   - notEqual
+   - equal
+
+Library: mockgoose
+Methods Called:
+   - main_method*
+   - reset
+
+Library: async
+Methods Called:
+   - waterfall
+
+------------------------------------------
+test/actions/retrieve.document.js
+------------------------------------------
+Library: faction-service
+Methods Called:
+   - ServicePayload
+   - Service
+
+Library: assert
+Methods Called:
+   - notEqual
+   - equal
+
+Library: mockgoose
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/actions/update.document.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "faction-service": {
+    "ServiceAction": true,
+    "ServiceError": true,
+    "Service": true,
+    "ServicePayload": true
+  },
+  "json-schema-converter": {
+    "to_mongoose_schema": true
+  },
+  "config": {
+    "get": true
+  },
+  "mongoose": {
+    "connect": true,
+    "disconnect": true,
+    "connection": true
+  },
+  "./util/query.builder": {
+    "main_method*": true
+  },
+  "assert": {
+    "notEqual": true,
+    "equal": true
+  },
+  "mockgoose": {
+    "main_method*": true,
+    "reset": true
+  },
+  "async": {
+    "waterfall": true
+  }
+}

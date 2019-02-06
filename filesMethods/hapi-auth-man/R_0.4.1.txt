@@ -1,0 +1,75 @@
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/hapi-auth-man.js
+------------------------------------------
+Library: async
+Methods Called:
+   - eachSeries
+
+Library: boom
+Methods Called:
+   - badImplementation
+   - unauthorized
+   - forbidden
+
+Library: hoek
+Methods Called:
+   - assert
+   - clone
+
+Library: lodash
+Methods Called:
+   - extend
+
+------------------------------------------
+test/index.js
+------------------------------------------
+Library: lab
+Methods Called:
+   - expect
+   - before
+   - after
+   - experiment
+   - test
+
+Library: hapi
+Methods Called:
+   - Server
+
+Library: hoek
+Methods Called:
+   - clone
+
+
+All of the Methods:
+{
+  "async": {
+    "eachSeries": true
+  },
+  "boom": {
+    "badImplementation": true,
+    "unauthorized": true,
+    "forbidden": true
+  },
+  "hoek": {
+    "assert": true,
+    "clone": true
+  },
+  "lodash": {
+    "extend": true
+  },
+  "lab": {
+    "expect": true,
+    "before": true,
+    "after": true,
+    "experiment": true,
+    "test": true
+  },
+  "hapi": {
+    "Server": true
+  }
+}

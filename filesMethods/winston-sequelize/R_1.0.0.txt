@@ -1,0 +1,36 @@
+------------------------------------------
+lib/winston-sequelize.js
+------------------------------------------
+Library: sequelize
+Methods Called:
+   - main_method*
+   - STRING
+   - TEXT
+   - DATE
+
+Library: util
+Methods Called:
+   - inherits
+
+Library: winston
+Methods Called:
+   - Transport
+   - transports
+
+
+All of the Methods:
+{
+  "sequelize": {
+    "main_method*": true,
+    "STRING": true,
+    "TEXT": true,
+    "DATE": true
+  },
+  "util": {
+    "inherits": true
+  },
+  "winston": {
+    "Transport": true,
+    "transports": true
+  }
+}

@@ -1,0 +1,2 @@
+e0fbc26d0d2b951ee251da35c9547c2d13a20ffd
+generators/app/index.js

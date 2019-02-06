@@ -1,0 +1,3 @@
+ef5d04a9389a00b56466dc3bcd3ca4e71fdcecf5
+lib/passport-local-sequelize.js
+test/all_spec.js

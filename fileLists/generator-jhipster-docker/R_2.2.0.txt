@@ -1,0 +1,4 @@
+037689a0182a73c6257224677a701b9de8dac2fa
+generators/app/index.js
+gulpfile.js
+test/test-dockercompose.js

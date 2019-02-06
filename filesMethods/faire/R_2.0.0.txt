@@ -1,0 +1,476 @@
+------------------------------------------
+config/config.example.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/database.example.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+config/database.test_travis.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+index.js
+------------------------------------------
+Library: ./lib/models
+Methods Called:
+   - init
+
+------------------------------------------
+lib/auth.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/email/index.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFile
+
+Library: googleapis
+Methods Called:
+   - auth
+   - gmail
+
+------------------------------------------
+lib/home.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: scurvy
+Methods Called:
+   - createInstance
+
+------------------------------------------
+lib/lists.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/models/index.js
+------------------------------------------
+Library: sequelize
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/models/list.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/models/preference.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/models/sharedlists.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/models/task.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/preferences.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readdir
+
+------------------------------------------
+lib/routes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/tasks.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/users.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+scripts/gmail.test.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 3: Illegal return statement
+------------------------------------------
+scripts/google-oauth2-setup.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 55: Illegal return statement
+------------------------------------------
+static/components/angular-route/angular-route.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/components/angular-route/angular-route.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/components/angular/angular.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/components/angular/angular.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/js/faire.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/js/faire.login.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/js/faire.register.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/js/foundation.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/js/foundation/foundation.abide.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/js/foundation/foundation.alerts.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/js/foundation/foundation.clearing.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/js/foundation/foundation.cookie.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/js/foundation/foundation.dropdown.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/js/foundation/foundation.forms.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/js/foundation/foundation.interchange.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/js/foundation/foundation.joyride.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/js/foundation/foundation.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/js/foundation/foundation.magellan.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/js/foundation/foundation.orbit.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/js/foundation/foundation.placeholder.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/js/foundation/foundation.reveal.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/js/foundation/foundation.section.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/js/foundation/foundation.tooltips.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/js/foundation/foundation.topbar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/js/vendor/angular-touch.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/js/vendor/angular.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/js/vendor/custom.modernizr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/js/vendor/jquery.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/js/vendor/zepto.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/faire.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/faire.login.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/faire.register.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/foundation.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/foundation/foundation.abide.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/foundation/foundation.accordion.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/foundation/foundation.alert.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/foundation/foundation.clearing.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/foundation/foundation.dropdown.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/foundation/foundation.equalizer.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/foundation/foundation.interchange.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/foundation/foundation.joyride.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/foundation/foundation.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/foundation/foundation.magellan.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/foundation/foundation.offcanvas.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/foundation/foundation.orbit.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/foundation/foundation.reveal.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/foundation/foundation.slider.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/foundation/foundation.tab.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/foundation/foundation.tooltip.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/foundation/foundation.topbar.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/vendor/angular-touch.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/vendor/angular.min.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/vendor/fastclick.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/vendor/jquery.cookie.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/vendor/jquery.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/vendor/modernizr.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/foundation-5.3.1/js/vendor/placeholder.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/js/faireCtrl.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+static/rachel/js/faireService.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/functional.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/functional/lists.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+   - notStrictEqual
+   - strictEqual
+
+------------------------------------------
+test/functional/preferences.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/functional/tasks.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+------------------------------------------
+test/functional/users.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "./lib/models": {
+    "init": true
+  },
+  "fs": {
+    "readFile": true,
+    "readdir": true
+  },
+  "googleapis": {
+    "auth": true,
+    "gmail": true
+  },
+  "scurvy": {
+    "createInstance": true
+  },
+  "sequelize": {
+    "main_method*": true
+  },
+  "assert": {
+    "main_method*": true,
+    "notStrictEqual": true,
+    "strictEqual": true
+  }
+}

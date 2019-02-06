@@ -1,0 +1,10 @@
+8b1150781c08117b535eb8816a15f1f67a4019a7
+example/index.js
+example/models.js
+lib/index.js
+lib/utils.js
+src/index.js
+src/utils.js
+test/models.js
+test/update-self-schema.js
+test/update-source.js

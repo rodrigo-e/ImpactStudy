@@ -1,0 +1,7 @@
+9c6c0230325884d08ac878cae4911ccedec11801
+Gruntfile.js
+api/policies/AdminPolicy.js
+assets/js/dependencies/sails.io.js
+config/env/testing.js
+index.js
+test/bootstrap.spec.js

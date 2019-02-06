@@ -1,0 +1,4 @@
+7848a2d96bdf55efb4478c797a1e38ac7b8ca493
+Gruntfile.js
+dist/angular-youtube-api-factory.min.js
+src/angular-youtube-api-factory.js

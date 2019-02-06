@@ -1,0 +1,4 @@
+b03f07ecb2e0a312a468edaf5da2c9afcaa42473
+src/webpack.config.js
+tests/success/simple/bas.js
+tests/success/simple/foo.js

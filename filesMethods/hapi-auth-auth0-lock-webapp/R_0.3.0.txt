@@ -1,0 +1,62 @@
+------------------------------------------
+index.js
+------------------------------------------
+Library: origami
+Methods Called:
+   - assign
+
+Library: assert
+Methods Called:
+   - main_method*
+
+Library: joi
+Methods Called:
+   - object
+   - string
+   - any
+   - validate
+
+Library: jsonwebtoken
+Methods Called:
+   - verify
+
+Library: boom
+Methods Called:
+   - unauthorized
+
+Library: when/node
+Methods Called:
+   - call
+
+Library: rest
+Methods Called:
+   - wrap
+
+
+All of the Methods:
+{
+  "origami": {
+    "assign": true
+  },
+  "assert": {
+    "main_method*": true
+  },
+  "joi": {
+    "object": true,
+    "string": true,
+    "any": true,
+    "validate": true
+  },
+  "jsonwebtoken": {
+    "verify": true
+  },
+  "boom": {
+    "unauthorized": true
+  },
+  "when/node": {
+    "call": true
+  },
+  "rest": {
+    "wrap": true
+  }
+}

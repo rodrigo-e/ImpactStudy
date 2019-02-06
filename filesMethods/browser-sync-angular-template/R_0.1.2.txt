@@ -1,0 +1,460 @@
+------------------------------------------
+client/client.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+client/runInjector.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/gulp/build.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+
+Library: gulp-load-plugins
+Methods Called:
+   - minifyHtml
+   - angularTemplatecache
+   - filter
+   - inject
+   - useref
+   - rev
+   - sourcemaps
+   - ngAnnotate
+   - uglify
+   - uglifySaveLicense
+   - replace
+   - minifyCss
+   - revReplace
+   - size
+   - mainBowerFiles
+   - flatten
+   - del
+
+------------------------------------------
+example/gulp/conf.js
+------------------------------------------
+Library: gulp-util
+Methods Called:
+   - log
+   - colors
+
+------------------------------------------
+example/gulp/inject.js
+------------------------------------------
+Library: wiredep
+Methods Called:
+   - stream
+
+Library: path
+Methods Called:
+   - join
+
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+
+Library: gulp-load-plugins
+Methods Called:
+   - angularFilesort
+   - inject
+
+Library: lodash
+Methods Called:
+   - extend
+
+------------------------------------------
+example/gulp/scripts.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: gulp
+Methods Called:
+   - task
+   - src
+
+Library: browser-sync
+Methods Called:
+   - reload
+
+Library: gulp-load-plugins
+Methods Called:
+   - eslint
+   - size
+
+------------------------------------------
+example/gulp/server.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: gulp
+Methods Called:
+   - task
+
+Library: browser-sync
+Methods Called:
+   - instance
+   - init
+   - use
+
+Library: browser-sync-spa
+Methods Called:
+   - main_method*
+
+Library: browser-sync-angular-template
+Methods Called:
+   - main_method*
+
+Library: util
+Methods Called:
+   - isArray
+
+------------------------------------------
+example/gulp/styles.js
+------------------------------------------
+Library: wiredep
+Methods Called:
+   - stream
+
+Library: path
+Methods Called:
+   - join
+
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - dest
+
+Library: browser-sync
+Methods Called:
+   - reload
+
+Library: gulp-load-plugins
+Methods Called:
+   - inject
+   - sourcemaps
+   - sass
+   - autoprefixer
+
+Library: lodash
+Methods Called:
+   - extend
+
+------------------------------------------
+example/gulp/watch.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: gulp
+Methods Called:
+   - task
+   - watch
+   - start
+
+Library: browser-sync
+Methods Called:
+   - reload
+
+------------------------------------------
+example/gulpfile.js
+------------------------------------------
+Library: gulp
+Methods Called:
+   - task
+   - start
+
+Library: wrench
+Methods Called:
+   - readdirSyncRecursive
+
+------------------------------------------
+example/src/app/components/awesomeThing/awesomeThing.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/src/app/components/githubContributor/githubContributor.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/src/app/components/malarkey/malarkey.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/src/app/components/navbar/navbar.directive.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/src/app/components/webDevTec/webDevTec.service.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/src/app/index.config.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/src/app/index.constants.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/src/app/index.module.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/src/app/index.route.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/src/app/index.run.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+example/src/app/main/main.controller.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: gulp
+Methods Called:
+   - task
+   - src
+   - watch
+
+Library: gulp-eslint
+Methods Called:
+   - main_method*
+   - format
+   - failAfterError
+
+Library: gulp-exclude-gitignore
+Methods Called:
+   - main_method*
+
+Library: gulp-mocha
+Methods Called:
+   - main_method*
+
+Library: gulp-istanbul
+Methods Called:
+   - main_method*
+   - hookRequire
+   - writeReports
+
+Library: gulp-nsp
+Methods Called:
+   - main_method*
+
+Library: gulp-plumber
+Methods Called:
+   - main_method*
+
+Library: gulp-coveralls
+Methods Called:
+   - main_method*
+
+Library: gulp-bg
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/angularTemplate.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - each
+   - defaults
+
+------------------------------------------
+lib/fileChanger.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+test/angularTemplate.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+   - existsSync
+
+Library: assert
+Methods Called:
+   - doesNotThrow
+   - equal
+   - main_method*
+   - notEqual
+   - deepEqual
+
+Library: path
+Methods Called:
+   - normalize
+
+------------------------------------------
+test/fileChanger.js
+------------------------------------------
+Library: assert
+Methods Called:
+   - throws
+   - equal
+   - main_method*
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+test/index.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "path": {
+    "join": true,
+    "normalize": true
+  },
+  "gulp": {
+    "task": true,
+    "src": true,
+    "dest": true,
+    "watch": true,
+    "start": true
+  },
+  "gulp-load-plugins": {
+    "minifyHtml": true,
+    "angularTemplatecache": true,
+    "filter": true,
+    "inject": true,
+    "useref": true,
+    "rev": true,
+    "sourcemaps": true,
+    "ngAnnotate": true,
+    "uglify": true,
+    "uglifySaveLicense": true,
+    "replace": true,
+    "minifyCss": true,
+    "revReplace": true,
+    "size": true,
+    "mainBowerFiles": true,
+    "flatten": true,
+    "del": true,
+    "angularFilesort": true,
+    "eslint": true,
+    "sass": true,
+    "autoprefixer": true
+  },
+  "gulp-util": {
+    "log": true,
+    "colors": true
+  },
+  "wiredep": {
+    "stream": true
+  },
+  "lodash": {
+    "extend": true,
+    "each": true,
+    "defaults": true
+  },
+  "browser-sync": {
+    "reload": true,
+    "instance": true,
+    "init": true,
+    "use": true
+  },
+  "browser-sync-spa": {
+    "main_method*": true
+  },
+  "browser-sync-angular-template": {
+    "main_method*": true
+  },
+  "util": {
+    "isArray": true
+  },
+  "wrench": {
+    "readdirSyncRecursive": true
+  },
+  "gulp-eslint": {
+    "main_method*": true,
+    "format": true,
+    "failAfterError": true
+  },
+  "gulp-exclude-gitignore": {
+    "main_method*": true
+  },
+  "gulp-mocha": {
+    "main_method*": true
+  },
+  "gulp-istanbul": {
+    "main_method*": true,
+    "hookRequire": true,
+    "writeReports": true
+  },
+  "gulp-nsp": {
+    "main_method*": true
+  },
+  "gulp-plumber": {
+    "main_method*": true
+  },
+  "gulp-coveralls": {
+    "main_method*": true
+  },
+  "gulp-bg": {
+    "main_method*": true
+  },
+  "fs": {
+    "readFileSync": true,
+    "existsSync": true
+  },
+  "assert": {
+    "doesNotThrow": true,
+    "equal": true,
+    "main_method*": true,
+    "notEqual": true,
+    "deepEqual": true,
+    "throws": true
+  }
+}

@@ -1,0 +1,15 @@
+48ef09bd880a5e029614f30f2f646b75ed837ef8
+examples/basic.js
+lib/cli.js
+lib/coap.js
+lib/http.js
+lib/persistence.js
+lib/ponte.js
+lib/servers.js
+test/cli_spec.js
+test/coap_spec.js
+test/common.js
+test/http_spec.js
+test/mqtt_spec.js
+test/sample_config.js
+test/sample_config_mongodb.js

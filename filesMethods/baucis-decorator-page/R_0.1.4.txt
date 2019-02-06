@@ -1,0 +1,39 @@
+------------------------------------------
+index.js
+------------------------------------------
+Library: baucis-decorators
+Methods Called:
+   - getValues
+
+Library: mongoose
+Methods Called:
+   - model
+
+Library: baucis
+Methods Called:
+   - Error
+
+Library: baucis-decorator-env
+Methods Called:
+   - inDevelopment
+   - prefixDevStr
+   - mergeDevObj
+
+
+All of the Methods:
+{
+  "baucis-decorators": {
+    "getValues": true
+  },
+  "mongoose": {
+    "model": true
+  },
+  "baucis": {
+    "Error": true
+  },
+  "baucis-decorator-env": {
+    "inDevelopment": true,
+    "prefixDevStr": true,
+    "mergeDevObj": true
+  }
+}

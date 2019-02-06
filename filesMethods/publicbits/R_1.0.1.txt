@@ -1,0 +1,156 @@
+------------------------------------------
+cli.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+index.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: fs
+Methods Called:
+   - writeFile
+   - existsSync
+   - readFileSync
+
+Library: rimraf
+Methods Called:
+   - sync
+
+Library: run-parallel
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/download.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - createWriteStream
+   - existsSync
+
+Library: got
+Methods Called:
+   - stream
+
+Library: pump
+Methods Called:
+   - main_method*
+
+Library: debug
+Methods Called:
+   - main_method*
+
+Library: format-data
+Methods Called:
+   - main_method*
+
+Library: npm-execspawn
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/fetch.js
+------------------------------------------
+Library: got
+Methods Called:
+   - main_method*
+
+Library: dat-ping
+Methods Called:
+   - main_method*
+
+------------------------------------------
+menubar.js
+------------------------------------------
+Library: menubar
+Methods Called:
+   - main_method*
+
+Library: ipc
+Methods Called:
+   - on
+
+Library: path
+Methods Called:
+   - join
+
+------------------------------------------
+menubar/index.js
+------------------------------------------
+Library: path
+Methods Called:
+   - join
+
+Library: ractive-toolkit
+Methods Called:
+   - main_method*
+
+Library: page
+Methods Called:
+   - main_method*
+   - start
+
+Library: fs
+Methods Called:
+   - readFileSync
+
+Library: ipc
+Methods Called:
+   - send
+
+
+All of the Methods:
+{
+  "path": {
+    "join": true
+  },
+  "fs": {
+    "writeFile": true,
+    "existsSync": true,
+    "readFileSync": true,
+    "createWriteStream": true
+  },
+  "rimraf": {
+    "sync": true
+  },
+  "run-parallel": {
+    "main_method*": true
+  },
+  "got": {
+    "stream": true,
+    "main_method*": true
+  },
+  "pump": {
+    "main_method*": true
+  },
+  "debug": {
+    "main_method*": true
+  },
+  "format-data": {
+    "main_method*": true
+  },
+  "npm-execspawn": {
+    "main_method*": true
+  },
+  "dat-ping": {
+    "main_method*": true
+  },
+  "menubar": {
+    "main_method*": true
+  },
+  "ipc": {
+    "on": true,
+    "send": true
+  },
+  "ractive-toolkit": {
+    "main_method*": true
+  },
+  "page": {
+    "main_method*": true,
+    "start": true
+  }
+}

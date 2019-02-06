@@ -1,0 +1,51 @@
+------------------------------------------
+dom.env.js
+------------------------------------------
+Library: dom.env
+Methods Called:
+   - assign
+
+------------------------------------------
+env.js
+------------------------------------------
+Library: riot
+Methods Called:
+   - observable
+
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+node.env.js
+------------------------------------------
+Library: node-fullstack/node.env
+Methods Called:
+   - assign
+
+------------------------------------------
+observable.js
+------------------------------------------
+Library: riot
+Methods Called:
+   - observable
+
+------------------------------------------
+tag/tagInit.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "dom.env": {
+    "assign": true
+  },
+  "riot": {
+    "observable": true
+  },
+  "node-fullstack/node.env": {
+    "assign": true
+  }
+}

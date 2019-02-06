@@ -1,0 +1,8 @@
+------------------------------------------
+web-shell.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+
+All of the Methods:
+{}

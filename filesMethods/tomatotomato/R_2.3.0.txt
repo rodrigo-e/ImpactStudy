@@ -1,0 +1,49 @@
+------------------------------------------
+client.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+connect.js
+------------------------------------------
+Library: events
+Methods Called:
+   - EventEmitter
+
+------------------------------------------
+format.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+get-log.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+http.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+------------------------------------------
+public/client.js
+------------------------------------------
+Library: simple-reconnect-ws
+Methods Called:
+   - main_method*
+
+------------------------------------------
+server.js
+------------------------------------------
+!!!!!!!!!!!!!!!!!!! ERROR at parsing
+Error: Line 1: Unexpected token ILLEGAL
+
+All of the Methods:
+{
+  "events": {
+    "EventEmitter": true
+  },
+  "simple-reconnect-ws": {
+    "main_method*": true
+  }
+}

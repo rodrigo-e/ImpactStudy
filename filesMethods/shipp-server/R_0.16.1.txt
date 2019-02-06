@@ -1,0 +1,206 @@
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/bundler.js
+------------------------------------------
+Library: ./utils
+Methods Called:
+   - uniqueExtensions
+   - isProduction
+   - watch
+   - makePathAbsolute
+
+------------------------------------------
+lib/cache.js
+------------------------------------------
+Library: http
+Methods Called:
+   - Agent
+
+Library: lru-cache
+Methods Called:
+   - store
+   - del
+   - unset
+   - has
+   - invalidate
+   - queue
+   - status
+   - warmNext
+   - agent
+
+------------------------------------------
+lib/common.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - lstatSync
+
+Library: body-parser
+Methods Called:
+   - urlencoded
+   - json
+
+------------------------------------------
+lib/compiler.js
+------------------------------------------
+Library: ./bundler
+Methods Called:
+   - fromFile
+
+------------------------------------------
+lib/config.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+lib/data-api.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/data-store.js
+------------------------------------------
+Library: fs
+Methods Called:
+   - readFileSync
+
+------------------------------------------
+lib/defaults.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/errors.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/globals.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: http
+Methods Called:
+   - createServer
+
+------------------------------------------
+lib/lifecycle.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/logging.js
+------------------------------------------
+Library: morgan
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/metadata.js
+------------------------------------------
+Library: ./utils
+Methods Called:
+   - getRegExpMatches
+
+------------------------------------------
+lib/middleware.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/resolver.js
+------------------------------------------
+Library: npmwrap
+Methods Called:
+   - installSync
+
+------------------------------------------
+lib/routes.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+lib/statics.js
+------------------------------------------
+Library: ./utils
+Methods Called:
+   - makePathAbsolute
+   - watch
+
+------------------------------------------
+lib/utils.js
+------------------------------------------
+Library: lodash/isEqual
+Methods Called:
+   - main_method*
+
+------------------------------------------
+lib/websockets.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - isPlainObject
+
+------------------------------------------
+run.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "./utils": {
+    "uniqueExtensions": true,
+    "isProduction": true,
+    "watch": true,
+    "makePathAbsolute": true,
+    "getRegExpMatches": true
+  },
+  "http": {
+    "Agent": true,
+    "createServer": true
+  },
+  "lru-cache": {
+    "store": true,
+    "del": true,
+    "unset": true,
+    "has": true,
+    "invalidate": true,
+    "queue": true,
+    "status": true,
+    "warmNext": true,
+    "agent": true
+  },
+  "fs": {
+    "lstatSync": true,
+    "readFileSync": true
+  },
+  "body-parser": {
+    "urlencoded": true,
+    "json": true
+  },
+  "./bundler": {
+    "fromFile": true
+  },
+  "morgan": {
+    "main_method*": true
+  },
+  "npmwrap": {
+    "installSync": true
+  },
+  "lodash/isEqual": {
+    "main_method*": true
+  },
+  "lodash": {
+    "isPlainObject": true
+  }
+}

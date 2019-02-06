@@ -1,0 +1,39 @@
+------------------------------------------
+server.js
+------------------------------------------
+Library: http
+Methods Called:
+   - request
+   - createServer
+
+Library: https
+Methods Called:
+   - request
+
+Library: url
+Methods Called:
+   - parse
+
+Library: qs
+Methods Called:
+   - parse
+   - stringify
+
+
+All of the Methods:
+{
+  "http": {
+    "request": true,
+    "createServer": true
+  },
+  "https": {
+    "request": true
+  },
+  "url": {
+    "parse": true
+  },
+  "qs": {
+    "parse": true,
+    "stringify": true
+  }
+}

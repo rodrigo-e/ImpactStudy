@@ -1,0 +1,160 @@
+------------------------------------------
+dist/officebot-sdk-min.js
+------------------------------------------
+Library: angular
+Methods Called:
+   - module
+   - noop
+   - extend
+   - forEach
+   - toJson
+
+------------------------------------------
+dist/officebot-sdk.js
+------------------------------------------
+Library: angular
+Methods Called:
+   - module
+   - extend
+   - noop
+   - forEach
+   - toJson
+
+------------------------------------------
+gulpfile.js
+------------------------------------------
+Library: browserify
+Methods Called:
+   - main_method*
+
+Library: gulp
+Methods Called:
+   - task
+   - dest
+
+Library: gulp-minify
+Methods Called:
+   - main_method*
+
+Library: gulp-streamify
+Methods Called:
+   - main_method*
+
+Library: gulp-util
+Methods Called:
+   - log
+
+Library: vinyl-source-stream
+Methods Called:
+   - main_method*
+
+Library: watchify
+Methods Called:
+   - main_method*
+
+------------------------------------------
+index.js
+------------------------------------------
+Library: angular
+Methods Called:
+   - module
+
+------------------------------------------
+sdk-core/api-endpoint-config.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+sdk-core/api-endpoint.js
+------------------------------------------
+Library: angular
+Methods Called:
+   - extend
+   - noop
+
+Library: extend
+Methods Called:
+   - main_method*
+
+------------------------------------------
+sdk-core/api-provider.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+sdk-core/api.js
+------------------------------------------
+Library: angular
+Methods Called:
+   - forEach
+
+------------------------------------------
+sdk-core/cache.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+sdk-core/index.js
+------------------------------------------
+Library: angular
+Methods Called:
+   - module
+
+------------------------------------------
+sdk-core/model.js
+------------------------------------------
+Library: extend
+Methods Called:
+   - main_method*
+
+Library: angular
+Methods Called:
+   - noop
+   - toJson
+
+------------------------------------------
+sdk-core/transport.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+sdk-core/utils.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{
+  "angular": {
+    "module": true,
+    "noop": true,
+    "extend": true,
+    "forEach": true,
+    "toJson": true
+  },
+  "browserify": {
+    "main_method*": true
+  },
+  "gulp": {
+    "task": true,
+    "dest": true
+  },
+  "gulp-minify": {
+    "main_method*": true
+  },
+  "gulp-streamify": {
+    "main_method*": true
+  },
+  "gulp-util": {
+    "log": true
+  },
+  "vinyl-source-stream": {
+    "main_method*": true
+  },
+  "watchify": {
+    "main_method*": true
+  },
+  "extend": {
+    "main_method*": true
+  }
+}

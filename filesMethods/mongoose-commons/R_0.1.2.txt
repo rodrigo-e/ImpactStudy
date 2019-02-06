@@ -1,0 +1,43 @@
+------------------------------------------
+index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+plugins/timestamp.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/cases/timestamp.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/fixtures/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/models/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/models/timestamp.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+test/models/timestampCustom.js
+------------------------------------------
+No functions in this file
+
+
+All of the Methods:
+{}

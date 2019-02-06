@@ -1,0 +1,15 @@
+0ca71f82b069ed508711f8bf94d00d5ba56b0df2
+cli/multipass.js
+defaults.js
+importers/dump.js
+importers/generic.js
+importers/json.js
+importers/xml-rss.js
+lib/cfg.js
+lib/db.js
+lib/importer.js
+lib/indexer.js
+lib/log.js
+lib/retriever.js
+stremio-addon/addon.js
+test/basic.js

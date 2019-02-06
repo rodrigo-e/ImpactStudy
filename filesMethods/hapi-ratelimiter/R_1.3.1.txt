@@ -1,0 +1,78 @@
+------------------------------------------
+lib/index.js
+------------------------------------------
+Library: boom
+Methods Called:
+   - tooManyRequests
+
+Library: ioredis
+Methods Called:
+   - main_method*
+
+Library: ms
+Methods Called:
+   - main_method*
+
+Library: hoek
+Methods Called:
+   - applyToDefaults
+
+Library: ratelimiter
+Methods Called:
+   - main_method*
+
+Library: request-ip
+Methods Called:
+   - getClientIp
+
+------------------------------------------
+test/index.js
+------------------------------------------
+Library: code
+Methods Called:
+   - expect
+
+Library: hapi
+Methods Called:
+   - Server
+
+Library: lab
+Methods Called:
+   - script
+
+Library: boom
+Methods Called:
+   - notImplemented
+
+
+All of the Methods:
+{
+  "boom": {
+    "tooManyRequests": true,
+    "notImplemented": true
+  },
+  "ioredis": {
+    "main_method*": true
+  },
+  "ms": {
+    "main_method*": true
+  },
+  "hoek": {
+    "applyToDefaults": true
+  },
+  "ratelimiter": {
+    "main_method*": true
+  },
+  "request-ip": {
+    "getClientIp": true
+  },
+  "code": {
+    "expect": true
+  },
+  "hapi": {
+    "Server": true
+  },
+  "lab": {
+    "script": true
+  }
+}

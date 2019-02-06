@@ -1,0 +1,16 @@
+2d4f7dd2be0f1aaa68daf9efc0e6620a3ed0bd99
+bin/main.js
+gulpfile.js
+lib/index.js
+lib/npm/index.js
+runtime/commonjs.js
+runtime/node-libs-browser/index.js
+runtime/node-libs-browser/mock/buffer.js
+runtime/node-libs-browser/mock/console.js
+runtime/node-libs-browser/mock/dns.js
+runtime/node-libs-browser/mock/empty.js
+runtime/node-libs-browser/mock/net.js
+runtime/node-libs-browser/mock/process.js
+runtime/node-libs-browser/mock/punycode.js
+runtime/node-libs-browser/mock/tls.js
+runtime/node-libs-browser/mock/tty.js

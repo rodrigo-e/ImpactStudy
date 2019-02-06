@@ -1,0 +1,2 @@
+1138cd44020d70770077a6fd40e0fbd851ac115a
+angular-locale_tr-tr.js

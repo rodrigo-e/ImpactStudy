@@ -1,0 +1,163 @@
+------------------------------------------
+dist/factory/AngularModuleWrapper.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/factory/Factory.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/factory/FactoryBuilder.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - forEach
+
+------------------------------------------
+dist/factory/spec/Factory.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/index.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/ioc/Bindable.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/ioc/Binding.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/ioc/BindingType.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/ioc/Inject.js
+------------------------------------------
+Library: angular
+Methods Called:
+   - isArray
+
+------------------------------------------
+dist/ioc/Kernel.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - find
+   - forEach
+
+------------------------------------------
+dist/ioc/spec/Inject.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+dist/ioc/spec/IocModule.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/factory/AngularModuleWrapper.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/factory/Factory.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/factory/FactoryBuilder.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - forEach
+
+------------------------------------------
+src/factory/spec/Factory.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/ioc/Bindable.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/ioc/Binding.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/ioc/BindingType.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/ioc/Inject.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+src/ioc/Kernel.js
+------------------------------------------
+Library: lodash
+Methods Called:
+   - find
+   - forEach
+
+------------------------------------------
+src/ioc/spec/IocModule.spec.js
+------------------------------------------
+No functions in this file
+
+------------------------------------------
+tasks/create-typings-folder.js
+------------------------------------------
+Library: safe-mkdir
+Methods Called:
+   - mkdir
+
+------------------------------------------
+tasks/dts-bundle.js
+------------------------------------------
+Library: dts-generator
+Methods Called:
+   - generate
+
+------------------------------------------
+wallaby.js
+------------------------------------------
+Library: wallaby-webpack
+Methods Called:
+   - main_method*
+
+
+All of the Methods:
+{
+  "lodash": {
+    "forEach": true,
+    "find": true
+  },
+  "angular": {
+    "isArray": true
+  },
+  "safe-mkdir": {
+    "mkdir": true
+  },
+  "dts-generator": {
+    "generate": true
+  },
+  "wallaby-webpack": {
+    "main_method*": true
+  }
+}
