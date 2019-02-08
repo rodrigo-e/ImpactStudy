@@ -1,3 +1,0 @@
-e7a52b53d227e69db9104a56bdd61bed456dc7d3
-lib/index.js
-test/index.js

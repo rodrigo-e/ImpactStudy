@@ -1,6 +1,0 @@
-f279d88721974b32b2915a9c6640bce07ec7bf9a
-gulpfile.js
-karma.conf.js
-wallaby.js
-webpack/loaders.js
-webpack/webpack.test.js

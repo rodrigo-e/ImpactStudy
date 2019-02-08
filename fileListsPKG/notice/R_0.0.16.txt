@@ -1,5 +1,0 @@
-1103176bf3e7993f8246e5682896d8ba499aabdf
-example/index.js
-index.js
-karma.conf.js
-test/spec.js

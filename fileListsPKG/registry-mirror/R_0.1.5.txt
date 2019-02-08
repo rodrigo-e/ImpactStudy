@@ -1,6 +1,0 @@
-a898c79f93c91b1523b42b5193b2c8ef2c77ae67
-bin.js
-commands/daemon.js
-src/ibs.js
-src/index.js
-test/mirror.js

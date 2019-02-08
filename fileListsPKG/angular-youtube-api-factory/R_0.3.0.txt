@@ -1,3 +1,0 @@
-db1db44bfaa8c83f4b522746bea15ad2fcf89024
-angular-youtube-api-factory.js
-angular-youtube-api-factory.min.js

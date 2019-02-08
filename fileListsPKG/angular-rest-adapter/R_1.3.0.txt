@@ -1,4 +1,0 @@
-97ea1c3270a593d261bee2d86010e32857a1901d
-dist/ngRestAdapter.js
-gulpfile.js
-karma.conf.js

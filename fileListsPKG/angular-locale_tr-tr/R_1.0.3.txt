@@ -1,4 +1,0 @@
-7eb4790dfff9b612f63c8c6bec9868ecd8268979
-GruntFile.js
-angular-locale_tr-tr.js
-angular-locale_tr-tr.min.js

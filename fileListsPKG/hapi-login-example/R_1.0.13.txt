@@ -1,5 +1,0 @@
-937cafada492732c0032492632ad0b7809df997d
-example/controller.js
-example/model.js
-example/server.js
-test/server.test.js

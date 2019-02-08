@@ -1,7 +1,0 @@
-c33de92c6633c85fb701b5d838205a3d43d1e611
-bin/jquery-1.8.3-min.js
-bin/magicsuggest-1.3.1-min.js
-demo/bootstrap/js/bootstrap.js
-demo/bootstrap/js/bootstrap.min.js
-src/jquery-1.8.3-min.js
-src/magicsuggest-1.3.1.js

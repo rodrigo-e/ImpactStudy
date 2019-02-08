@@ -1,6 +1,0 @@
-bc5edae6a5d8239ba482e82f124d7a1188c55310
-index.js
-lib/Client.js
-lib/Program.js
-lib/Shell.js
-lib/Url.js

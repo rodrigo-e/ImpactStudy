@@ -1,5 +1,0 @@
-46f0325dd32a89acdade70f05ffbf40b56f612b0
-bin/whathappened.js
-index.js
-test/test01/test01.js
-test/test02/test02.js

@@ -1,9 +1,0 @@
-772b082f77d9988b72d228af0da93b5f8cd22f84
-bin/jenny.js
-index.js
-lib/cli.js
-lib/commander.js
-lib/index.js
-lib/serial.js
-test/commander.js
-test/serial.js

@@ -1,2 +1,0 @@
-1ff665e3ae360ed3b16c0aebf53bd0feb772670e
-js/ngjs-color-picker.js

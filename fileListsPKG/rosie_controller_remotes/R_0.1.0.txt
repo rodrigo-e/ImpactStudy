@@ -1,5 +1,0 @@
-a2646101d2f723146dfa2c72f146145df4466a73
-index.js
-lib/remote_model.js
-lib/remotes.js
-lib/routes.js

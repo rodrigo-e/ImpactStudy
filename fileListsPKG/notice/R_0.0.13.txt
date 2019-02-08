@@ -1,3 +1,0 @@
-9078dff6a9517d6c7589c5f8ead889e3cafe8b49
-index.js
-test/spec.js

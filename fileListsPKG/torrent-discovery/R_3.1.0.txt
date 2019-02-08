@@ -1,4 +1,0 @@
-0487d9454f9e50a5c73d8fc5edd546fd5982743b
-index.js
-test/basic.js
-test/reuse-dht.js

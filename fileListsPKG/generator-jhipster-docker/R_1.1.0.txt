@@ -1,4 +1,0 @@
-f2fb621ffa17cb22abdbafa19ecb16effd88ba17
-generators/app/index.js
-gulpfile.js
-test/test-dockercompose.js

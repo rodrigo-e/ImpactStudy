@@ -1,5 +1,0 @@
-c3d8e5a8a8c103f0cef015ecc7167f6b26087602
-bin/start.js
-chrome/background.js
-index.js
-test/basic.js

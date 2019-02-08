@@ -1,8 +1,0 @@
-6b413ed27def95bb1238b83aa18fd6de40a6f0b7
-bin/post-build.js
-bin/start.js
-index.js
-lib/app.js
-lib/torrent-manager.js
-lib/torrent.js
-test/basic.js

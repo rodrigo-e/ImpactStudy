@@ -1,7 +1,0 @@
-35a2b37c2d04d8c3ca7c912a6e07cce8cb649ca1
-backends/memory.js
-backends/mongoose.js
-examples/auth.js
-examples/basic.js
-lib/browser.js
-lib/index.js

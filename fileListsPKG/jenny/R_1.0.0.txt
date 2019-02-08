@@ -1,7 +1,0 @@
-6a07126c82aa7c1f1244cdcc0b5acb8eaa501a42
-bin/jenny.js
-index.js
-lib/cli.js
-lib/index.js
-test/cli.js
-test/index.js

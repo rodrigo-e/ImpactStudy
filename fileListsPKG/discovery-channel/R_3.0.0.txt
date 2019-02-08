@@ -1,7 +1,0 @@
-0b3b24ebb116a39d5c3c7dc2c0f07ef97cbce837
-dht.js
-index.js
-mdns.js
-test-announce.js
-test-lookup.js
-test.js

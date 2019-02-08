@@ -1,3 +1,0 @@
-e8553c8ed1d37b2c1d4a26e93bdc316ccd2c355d
-.gulpfile.js
-generators/app/index.js

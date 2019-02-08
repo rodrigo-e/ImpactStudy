@@ -1,4 +1,0 @@
-721470e401c1d8179d110c3081831d6b52ad4260
-generators/app/index.js
-gulpfile.js
-test/test-dockercompose.js

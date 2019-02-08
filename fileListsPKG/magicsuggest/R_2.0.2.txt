@@ -1,3 +1,0 @@
-2acf38751b970c51c57110d4bf38fc9ae268b993
-magicsuggest-min.js
-magicsuggest.js

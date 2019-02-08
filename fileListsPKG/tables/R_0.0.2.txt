@@ -1,9 +1,0 @@
-d7605d2299d6ba59a4183983744fdc0fd8f6a865
-examples/usa-spending-contracts.conf.js
-index.js
-lib/auto-parser.js
-lib/columns-to-model.js
-lib/db.js
-lib/output.js
-lib/tables.js
-lib/utils.js

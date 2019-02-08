@@ -1,7 +1,0 @@
-2a30dfb5b15530e6a932e03e3b2b60b65d07db7b
-bin/cmd.js
-index.js
-lib/fs-storage.js
-lib/server.js
-test/basic.js
-webtorrent.min.js

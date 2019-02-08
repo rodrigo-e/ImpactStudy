@@ -1,5 +1,0 @@
-966edfd6766ca322439be1a2d65d206383488859
-gulpfile.js
-index.js
-lib/index.js
-test/basic.js

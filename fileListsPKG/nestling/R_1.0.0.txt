@@ -1,4 +1,0 @@
-767dbd24eb9e75a1faa32265cef4aef3f9784899
-examples/change-temperature.js
-index.js
-lib/index.js

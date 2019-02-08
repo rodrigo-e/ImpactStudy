@@ -1,4 +1,0 @@
-e03a0398c559a7615f368c7623cf820346ee4947
-index.js
-lib/index.js
-test/index.js

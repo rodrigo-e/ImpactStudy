@@ -1,4 +1,0 @@
-dc17f81a88f0929328a938a694410723e6d4d79c
-client.js
-get-log.js
-server.js

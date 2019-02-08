@@ -1,4 +1,0 @@
-0d688c40f481c4815510eac1fa3123713dbddb5d
-bin/index.js
-index.js
-test.js

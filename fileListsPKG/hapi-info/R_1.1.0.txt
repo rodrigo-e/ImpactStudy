@@ -1,5 +1,0 @@
-19913ca36944e3f37c3ea49ba5fd98985a768b1d
-lib/index.js
-test/index.js
-test/plugins/blah.js
-test/plugins/main.js
